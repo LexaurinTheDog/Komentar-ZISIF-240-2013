@@ -1,0 +1,756 @@
+# INDEX — Komentář k zákonu č. 240/2013 Sb., o investičních společnostech a investičních fondech
+
+Rozcestník podle paragrafů. Konsolidace k 1. 1. 2026. Úvod viz [00-uvod.md](00-uvod.md).
+
+## [Komentář k zákonu č. 240/2013 Sb., o investičních společnostech a investičních fondech](00-uvod.md)
+
+
+## [Část první — Úvodní ustanovení (§§ 1–4)](01-cast1-uvodni-ustanoveni.md)
+
+- **§ 1** — Předmět úpravy
+- **§ 2** — Negativní věcná působnost (výluky ze zákona)
+- **§ 2a** — Negativní věcná působnost (family office a intrakonkernové struktury)
+- **§ 3** — Výluky pro penzijní, sociální a pojišťovací sektor
+- **§ 4** — Negativní osobní působnost (zahraniční obhospodařovatel a administrátor bez vazby na ČR)
+
+## [Část druhá — Obhospodařovatel: vymezení, oprávnění a základní pravidla činnosti (§§ 5–22)](02-cast2-obhospodarovatel-a.md)
+
+- **§ 5** — Obhospodařování
+- **§ 6** — Obhospodařovatel
+- **§ 7** — Investiční společnost
+- **§ 8** — Samosprávný investiční fond (investiční fond s právní osobností)
+- **§ 8a** — Složení správní rady fondu bez samosprávnosti
+- **§ 9** — Investiční fond s individuálním statutárním orgánem — právnická osoba
+- **§ 10** — Zahraniční osoba s povolením České národní banky
+- **§ 11** — Předmět podnikání investiční společnosti a zahraniční osoby s povolením ČNB
+- **§ 12** — Předmět podnikání samosprávného investičního fondu
+- **§ 13** — Den vzniku oprávnění k obhospodařování
+- **§ 14** — Obhospodařování investičního fondu zahraniční osobou
+- **§ 15** — Osoba rizikového kapitálu
+- **§ 15a** — Výmaz osoby rizikového kapitálu ze seznamu
+- **§ 16** — Rozhodný limit
+- **§ 17** — Přesažení rozhodného limitu osobou neoprávněnou jej přesáhnout
+- **§ 18** — Odborná péče
+- **§ 19** — Řádný a obezřetný výkon činnosti
+- **§ 20** — Řídicí a kontrolní systém
+- **§ 20a** — Mechanismus k hlášení porušení (whistleblowing)
+- **§ 21** — Personální zdroje
+- **§ 22** — Pravidla jednání
+
+## [Část druhá — Obhospodařovatel: pověření jiného, kapitálové požadavky, investiční služby, přesahy hlasovacích práv (§§ 23–37)](03-cast2-obhospodarovatel-b.md)
+
+- **§ 23** — Podmínky pověření jiného
+- **§ 24** — Povinnosti obhospodařovatele při pověření a zachování jeho odpovědnosti
+- **§ 25** — Kvalifikační podmínky pro pověřeného
+- **§ 26** — Subdelegace (pověření dalšího pověřenou osobou)
+- **§ 27** — Vztah k právu Evropské unie (obhospodařovatel oprávněný přesáhnout rozhodný limit)
+- **§ 28** — Obhospodařovatel fondů kvalifikovaných investorů a srovnatelných zahraničních investičních fondů neoprávněný přesáhnout rozhodný limit
+- **§ 29** — Požadavky na počáteční kapitál
+- **§ 30** — Minimální výše kapitálu
+- **§ 31** — Zvýšení kapitálu
+- **§ 32** — Umístění kapitálu
+- **§ 33** — Podmínky výkonu investičních služeb pro jiného
+- **§ 34** — Zpřístupnění informací podílníkům, společníkům nebo obmyšleným fondu při překročení podílu 50 % hlasovacích práv
+- **§ 35** — Zpřístupnění informací kontrolované právnické osobě a jejím společníkům
+- **§ 36** — Zpřístupnění informací zaměstnancům kontrolované právnické osoby nebo jejich zástupcům
+- **§ 37** — Zabránění některých dispozic s majetkem kontrolované právnické osoby (anti-asset stripping)
+
+## [Část třetí — Administrátor (§§ 38–59)](04-cast3-administrator.md)
+
+- **§ 38** — Administrace
+- **§ 39** — Požadavek na jiná podnikatelská oprávnění
+- **§ 40** — Administrátor
+- **§ 41** — Hlavní administrátor
+- **§ 42** — Předmět podnikání hlavního administrátora
+- **§ 43** — Podnikatelské oprávnění
+- **§ 44** — Administrace investičního fondu zahraniční osobou
+- **§ 45** — Odborná péče
+- **§ 46** — Řádný a obezřetný výkon činnosti
+- **§ 47** — Řídicí a kontrolní systém
+- **§ 47a** — Mechanismus k hlášení
+- **§ 48** — Personální zdroje
+- **§ 49** — Pravidla jednání
+- **§ 50** — Podmínky pověření
+- **§ 51** — Zachování odpovědnosti, kontrola pověřeného
+- **§ 52** — Kvalifikační požadavky na pověřeného
+- **§ 53** — Pověření dalšího pověřenou osobou
+- **§ 54** — Vedení evidencí
+- **§ 55** — Vztah k právu Evropské unie
+- **§ 56** — Administrátor fondů kvalifikovaných investorů s pod-limitním obhospodařovatelem
+- **§ 57** — Požadavky na počáteční kapitál
+- **§ 58** — Minimální výše kapitálu
+- **§ 59** — Smlouva o administraci
+
+## [Části čtvrtá a pátá — Depozitář; hlavní podpůrce (§§ 60–91)](05-casti4-5-depozitar-hlavni-podpurce.md)
+
+- **§ 60** — Depozitář
+- **§ 61** — Neslučitelnost
+- **§ 62** — Odborná péče a jednání v nejlepším zájmu
+- **§ 63** — Zvláštní pravidlo pro opětovné poskytnutí finančního kolaterálu
+- **§ 64** — Střety zájmů
+- **§ 65** — Oddělení výkonu jiné činnosti od výkonu činnosti depozitáře
+- **§ 66** — Postup při zjištění nedostatků
+- **§ 66a** — Mechanismus k hlášení
+- **§ 67** — Depozitářská smlouva
+- **§ 68** — Povinnost mít jednoho depozitáře
+- **§ 69** — Osoby, které mohou být depozitářem
+- **§ 70** — Některé náležitosti depozitářské smlouvy
+- **§ 71** — Opatrování, úschova a evidence majetku fondu
+- **§ 72** — Povinnosti depozitáře ve vztahu k vedení peněžních prostředků
+- **§ 73** — Kontrolní povinnosti
+- **§ 74** — Povinnosti obhospodařovatele ve vztahu k vedení peněžních prostředků
+- **§ 75** — Povinnosti bývalého depozitáře
+- **§ 76** — Povinnosti obhospodařovatele
+- **§ 77** — Pověření jiného (Hlava: Pověření jiného)
+- **§ 78** — Podmínky způsobilosti pověřeného
+- **§ 79** — Pověření dalšího pověřenou osobou
+- **§ 80** — Náhrada újmy depozitářem (Hlava: Náhrady újmy depozitářem)
+- **§ 81** — Objektivní odpovědnost za ztrátu investičních nástrojů
+- **§ 82** — Zproštění odpovědnosti za ztrátu
+- **§ 83** — Depozitář fondu kvalifikovaných investorů
+- **§ 84** — Notář jako depozitář fondu kvalifikovaných investorů
+- **§ 85** — Hlavní podpůrce
+- **§ 86** — Osoby, které mohou být hlavním podpůrcem
+- **§ 87** — Činnost hlavního podpůrce
+- **§ 88** — Smlouva s hlavním podpůrcem
+- **§ 89** — Povinnosti obhospodařovatele při přístupu depozitáře k informacím
+- **§ 90** — Zvláštní pravidlo pro opětovné poskytnutí finančního kolaterálu
+- **§ 91** — Výkon činnosti depozitáře hlavním podpůrcem
+
+## [Část šestá — Investiční fondy: základní ustanovení, právní formy (podílový fond, svěřenský fond) (§§ 92–152)](06-cast6-investicni-fondy-a.md)
+
+- **§ 92** — Členění investičních fondů
+- **§ 93** — Fondy kolektivního investování
+- **§ 94** — Standardní fondy a speciální fondy
+- **§ 95** — Fondy kvalifikovaných investorů
+- **§ 96** — Kvalifikovaný fond rizikového kapitálu, kvalifikovaný fond sociálního podnikání a evropský fond dlouhodobých investic
+- **§ 97** — Zahraniční investiční fond
+- **§ 98** — Zákaz pokoutného shromažďování
+- **§ 99** — Zákaz podpory pokoutné činnosti
+- **§ 100** — Fondy kolektivního investování
+- **§ 101** — Fondy kvalifikovaných investorů
+- **§ 102** — Povaha podílového fondu a vlastnická práva
+- **§ 103** — Absence právní osobnosti
+- **§ 104** — Označení podílového fondu
+- **§ 105** — Zástupné označení v právním styku
+- **§ 106** — Vytvoření podílového fondu
+- **§ 108** — Vznik a zánik podílového fondu
+- **§ 109** — Seznam podílníků
+- **§ 110** — Domněnka podílnictví
+- **§ 111** — Ochrana osobních údajů a výmaz
+- **§ 113** — Shromáždění podílníků
+- **§ 114** — Účetnictví podílového fondu
+- **§ 115** — Definice podílového listu
+- **§ 116** — Shromažďování prostředků vydáváním podílových listů
+- **§ 117** — Náležitosti podílového listu
+- **§ 118** — Měna jmenovité hodnoty
+- **§ 119** — Účinnost převodu listinného podílového listu
+- **§ 120** — Druhy podílových listů
+- **§ 121** — Zvláštní práva podílových listů a soudní řízení
+- **§ 122** — Oznámení změny
+- **§ 123** — Následky rozhodnutí o změně
+- **§ 124** — Veřejný návrh smlouvy u uzavřeného podílového fondu
+- **§ 125** — Okruh oprávněných osob
+- **§ 126** — Vzdání se práva na odkoupení
+- **§ 127** — Okamžik změny práv
+- **§ 128** — Charakteristické znaky otevřeného podílového fondu
+- **§ 129** — Označení otevřeného podílového fondu
+- **§ 130** — Vydávání podílových listů otevřeného fondu
+- **§ 131** — Odkupování podílových listů otevřeného fondu
+- **§ 132** — Lhůty pro odkup
+- **§ 133** — Odkup za emisní cenu v záběhové fázi
+- **§ 134** — Rozhodnutí o pozastavení vydávání nebo odkupování
+- **§ 135** — Okamžik a trvání pozastavení
+- **§ 136** — Maximální délka pozastavení
+- **§ 137** — Uveřejnění a notifikace
+- **§ 138** — Uveřejnění rozhodnutí ČNB
+- **§ 139** — Postup po obnovení vydávání nebo odkupování
+- **§ 140** — Právo na úrok z prodlení
+- **§ 141** — Den obnovení vydávání nebo odkupování
+- **§ 142** — Charakteristický znak uzavřeného podílového fondu
+- **§ 143** — Označení uzavřeného podílového fondu
+- **§ 144** — Automatická likvidace uzavřeného fondu na dobu určitou
+- **§ 145** — Vydávání podílových listů uzavřeným fondem
+- **§ 146** — Přiznání práva na odkoupení statutem
+- **§ 147** — Právo na odkup při rozhodnutí soudu o druhu podílového listu
+- **§ 148** — Vytvoření, vznik a zánik svěřenského fondu jako investičního fondu
+- **§ 149** — Vztah k OZ — vyloučení § 1452 OZ
+- **§ 150** — Svěřenský správce investičního svěřenského fondu
+- **§ 151** — Investiční společnost jako správce neinvestičního svěřenského fondu
+- **§ 152** — Dohled nad správou investičního svěřenského fondu
+
+## [Část šestá — Investiční fondy: SICAV, SICAF, komanditní společnost na investiční listy a společná ustanovení (§§ 153–204)](07-cast6-investicni-fondy-b.md)
+
+- **§ 153** — Vyloučení § 1465 občanského zákoníku
+- **§ 154** — Definice SICAV
+- **§ 155** — Základní kapitál SICAV
+- **§ 156** — Obsah stanov SICAV
+- **§ 157** — Odchylky od ZOK
+- **§ 158** — Druhy akcií SICAV
+- **§ 159** — Zvláštní pravidla pro zakladatelské akcie
+- **§ 160** — Předkupní právo vlastníků zakladatelských akcií
+- **§ 161** — Přednostní právo úpisu nových zakladatelských akcií
+- **§ 162** — Investiční akcie
+- **§ 163** — Vydávání a odkupování investičních akcií; opatření při dosažení hranic rozpětí
+- **§ 164** — Jmění SICAV nevytvářející podfondy
+- **§ 164a** — Přechod na podfondovou strukturu
+- **§ 165** — Jmění SICAV vytvářející podfondy
+- **§ 166** — Označení podfondu
+- **§ 167** — Investiční akcie vydané k podfondu
+- **§ 168** — Identifikace podfondu v právních jednáních
+- **§ 169** — Statut a sdělení klíčových informací podfondu
+- **§ 169a** — Interpretační pravidlo: podfond = fond
+- **§ 169b** — Definice a aplikace pravidel SICAV
+- **§ 170** — Definice a základní znaky
+- **§ 171** — Druhy podílů a investičních listů
+- **§ 172** — Investiční list jako cenný papír
+- **§ 173** — Zákaz veřejného obchodování
+- **§ 174** — Převoditelnost investičních listů
+- **§ 175** — Neplatnost investičních listů neodevzdaných ve lhůtě
+- **§ 176** — Správa vkladů před vznikem společnosti
+- **§ 177** — Peněžní forma vkladu
+- **§ 178** — Výše vkladu komplementáře
+- **§ 179** — Rozhodování společníků: změna společenské smlouvy
+- **§ 180** — Střet zájmů při hlasování
+- **§ 181** — Vyloučení komplementáře
+- **§ 182** — Zánik účasti komanditisty
+- **§ 182a** — Odevzdání investičního listu při zániku účasti
+- **§ 183** — Rozsah dílu a pravidlo jednoho komplementáře
+- **§ 184** — Přiměřené použití §§ 176–180
+- **§ 185** — Vyloučení komplementáře; obsah společenské smlouvy
+- **§ 186** — Zánik účasti omezeně ručícího společníka
+- **§ 187** — Povinný audit
+- **§ 187a** — Zásada rovného zacházení
+- **§ 188** — Promotér investičního fondu
+- **§ 189** — Statut investičního fondu
+- **§ 190** — Výpočet aktuální hodnoty podílového listu
+- **§ 191** — Výpočet aktuální hodnoty investiční akcie
+- **§ 192** — Aktuální hodnota jiných podílů
+- **§ 193** — Lhůty pro výpočet aktuální hodnoty
+- **§ 193a** — Vydávání účastnických cenných papírů investičního fondu s právní osobností
+- **§ 194** — Základní pravidla oceňování majetku a dluhů
+- **§ 195** — Oceňování obhospodařovatelem
+- **§ 196** — Reálná hodnota podle mezinárodních účetních standardů
+- **§ 197** — Pověření třetí osoby oceňováním
+- **§ 198** — Pověření depozitáře oceňováním
+- **§ 199** — Oceňování u speciálního fondu a FKI s oprávněním přesáhnout rozhodný limit
+- **§ 200** — Vztah k nařízení 231/2013 (AIFMD Level 2)
+- **§ 201** — Lhůty pro oceňování investičních nástrojů
+- **§ 202** — Lhůty pro oceňování ostatního majetku a dluhů
+- **§ 203** — Vztah k jiným předpisům: prioritní akcie, nabídka převzetí, OZ
+- **§ 204** — Vztah k nařízením EU: EuVECA, EuSEF, ELTIF, MMF
+
+## [Část sedmá — Fondy kolektivního investování: základní ustanovení, investování a techniky k obhospodařování, zpřístupňování informací (§§ 205–240)](08-cast7-fondy-kolektivniho-investovani-a.md)
+
+- **§ 205** — Způsob shromažďování prostředků do fondu kolektivního investování
+- **§ 206** — Zákaz opčních listů, omezení vydávání dluhopisů, zákaz tiché společnosti
+- **§ 207** — Ochrana investiční strategie
+- **§ 208** — Fondový kapitál fondu kolektivního investování
+- **§ 209** — Určení úplaty za obhospodařování
+- **§ 210** — Nezahrnované náklady
+- **§ 211** — Odkoupení podílového listu a investiční akcie bez srážky
+- **§ 212** — Změna působnosti při schválení účetní závěrky, rozdělení zisku a úhradě ztráty
+- **§ 213** — Uveřejnění neschválení účetní závěrky
+- **§ 214** — Úhrada ztráty
+- **§ 215** — Pravidla pro skladbu majetku, techniky k obhospodařování a zmocnění vlády
+- **§ 216** — Porušení souladu skladby majetku nezávisle na vůli obhospodařovatele
+- **§ 218** — Osvědčení přiměřenosti limitů pákového efektu u speciálního fondu
+- **§ 219** — Definice statutu
+- **§ 220** — Obsah statutu
+- **§ 221** — Průběžná aktualizace statutu
+- **§ 222** — Uveřejnění statutu a jeho změn
+- **§ 223** — Současné uveřejnění stanov
+- **§ 224** — Poskytnutí statutu investorovi
+- **§ 225** — Forma poskytnutí statutu
+- **§ 226** — Doplňkové informace na žádost investora
+- **§ 227** — Definice sdělení klíčových informací
+- **§ 228** — Aktualizace a uveřejnění sdělení klíčových informací
+- **§ 229** — Obecné požadavky na sdělení klíčových informací
+- **§ 230** — Zvláštní požadavky na sdělení klíčových informací
+- **§ 231** — Poskytnutí sdělení klíčových informací investorovi
+- **§ 232** — Forma sdělení klíčových informací
+- **§ 233** — Výroční zpráva fondu kolektivního investování
+- **§ 234** — Zvláštní náležitosti výroční zprávy
+- **§ 235** — Zpráva auditora
+- **§ 236** — Zvláštní požadavky na zprávu auditora podřízeného fondu
+- **§ 237** — Pololetní zpráva fondu kolektivního investování
+- **§ 238** — Zvláštní náležitosti pololetní zprávy
+- **§ 239** — Údaje uveřejňované k fondu kolektivního investování odkupujícímu jím vydávané cenné papíry
+- **§ 240** — Údaje uveřejňované k fondu kolektivního investování neodkupujícímu jím vydávané cenné papíry
+
+## [Část sedmá — Fondy kolektivního investování: informování investorů speciálního fondu, propagační sdělení, master-feeder, oceňování nemovitostí (§§ 241–271)](09-cast7-fondy-kolektivniho-investovani-b.md)
+
+- **§ 241** — Informování investorů speciálního fondu obhospodařovaného obhospodařovatelem oprávněným přesáhnout rozhodný limit
+- **§ 243** — Propagační sdělení
+- **§ 244** — Propagační sdělení podřízeného fondu
+- **§ 245** — Řídící fond
+- **§ 246** — Podřízený fond
+- **§ 247** — Typy fondů způsobilých pro strukturu master-feeder
+- **§ 248** — Podmínky pro investování jako podřízený fond
+- **§ 249** — Oznámení o zahájení činnosti jako podřízený fond
+- **§ 250** — Práva podílníků nebo akcionářů v souvislosti s oznámením
+- **§ 251** — Základní povinnost uzavřít dohodu
+- **§ 252** — Směna cenných papírů
+- **§ 253** — Peněžitá plnění a zákaz srážek
+- **§ 254** — Rozhodné právo dohody
+- **§ 255** — Náležitosti dohody obhospodařovatelů a administrátorů
+- **§ 256** — Předávání informací depozitáři podřízeného fondu
+- **§ 257** — Základní povinnost depozitářů uzavřít dohodu
+- **§ 258** — Rozhodné právo depozitářské dohody
+- **§ 259** — Náležitosti depozitářské dohody
+- **§ 260** — Informační povinnosti depozitáře řídícího fondu
+- **§ 261** — Základní povinnost auditorů uzavřít dohodu
+- **§ 262** — Rozhodné právo auditorské dohody
+- **§ 263** — Náležitosti auditorské dohody
+- **§ 264** — Informační povinnosti ČNB
+- **§ 266** — Povinné oceňování nemovitostí
+- **§ 267** — Posudek znalce nebo člena výboru odborníků
+- **§ 268** — Výbor odborníků
+- **§ 269** — Působnost výboru odborníků
+- **§ 270** — Postup výboru odborníků
+- **§ 271** — Nezávislost člena výboru odborníků
+
+## [Část osmá — Fondy kvalifikovaných investorů (§§ 272–293)](10-cast8-fondy-kvalifikovanych-investoru.md)
+
+- **§ 272** — Kvalifikovaný investor
+- **§ 273** — Zvláštní unijní fondy a výjimky z § 272
+- **§ 274** — Vklady a investice
+- **§ 275** — Plnění vkladové povinnosti po částech
+- **§ 276** — Odměna člena statutárního orgánu a náhrada výdajů
+- **§ 277** — Změny společenské smlouvy
+- **§ 278** — Právo odmítnout poskytnutí informace
+- **§ 279** — Zákaz konkurence a další zakázaná jednání
+- **§ 280** — Minimální fondový kapitál (obecné pravidlo)
+- **§ 281** — Snížený minimální fondový kapitál pro fondy rizikového kapitálu
+- **§ 282** — Nedodržení minimálního fondového kapitálu
+- **§ 283** — Předkupní právo v případě výkonu rozhodnutí a exekuce
+- **§ 283a** — Přiměřené použití § 212–214
+- **§ 284** — Pravidla investování a techniky obhospodařování
+- **§ 285** — Náprava při porušení pravidel skladby majetku
+- **§ 287** — Přiměřenost limitů pákového efektu
+- **§ 288** — Definice statutu FKI
+- **§ 289** — Průběžná aktualizace statutu
+- **§ 290** — Výroční zpráva FKI s plnou licencí
+- **§ 291** — Zvláštní náležitosti výroční zprávy
+- **§ 292** — Zpráva auditora
+- **§ 293** — Předinvestiční informování
+
+## [Část devátá — Nabízení investic (§§ 294–327)](11-cast9-nabizeni-investic.md)
+
+- **§ 294** — Nabízení investic
+- **§ 295** — Rozhodnutí investora z vlastního podnětu
+- **§ 295a** — Nabízení veřejně a jinak než veřejně
+- **§ 296** — Nabízení investic do fondů kvalifikovaných investorů a do srovnatelných zahraničních investičních fondů
+- **§ 297** — Nabízení investic do zahraničních investičních fondů srovnatelných se speciálním fondem
+- **§ 297a** — Předběžné nabízení investic
+- **§ 297b** — Podmínky výkonu předběžného nabízení investic
+- **§ 297c** — Oznamovací povinnost při zahájení předběžného nabízení
+- **§ 298** — Vztah k právu Evropské unie
+- **§ 299** — Fikce zahraničního fondu třetí země pro účely nabízení
+- **§ 300** — Veřejné nabízení investic do standardního fondu v České republice
+- **§ 301** — Veřejné nabízení investic do standardního fondu v jiném členském státě
+- **§ 302** — Oznamovací povinnost při zahájení nabízení standardního fondu v jiném členském státě
+- **§ 303** — Postup ČNB při předání notifikačního spisu UCITS
+- **§ 304** — Povinnosti při nabízení standardního fondu v hostitelském státě
+- **§ 304a** — Zánik účinků oznámení — de-notifikace standardního fondu v hostitelském státě
+- **§ 305** — Veřejné nabízení investic do zahraničního investičního fondu srovnatelného se standardním fondem v České republice
+- **§ 306** — Facility agent — podpůrné služby pro investory v ČR při nabízení zahraničního UCITS
+- **§ 307** — Dokumenty poskytované investorům v ČR při nabízení zahraničního standardního fondu
+- **§ 308** — Nabízení zahraničního UCITS v jiném členském státě investiční společností
+- **§ 309** — Nabízení alternativního fondu v ČR — obhospodařovatel se sídlem v ČR oprávněný přesáhnout rozhodný limit
+- **§ 310** — Nabízení v ČR — obhospodařovatel neoprávněný přesáhnout rozhodný limit
+- **§ 311** — Nabízení alternativního fondu v jiném členském státě — AIFMD pas
+- **§ 312** — Oznamovací povinnost při AIFMD nabízení v jiném členském státě
+- **§ 313** — Postup ČNB při předání AIFMD notifikačního spisu
+- **§ 314** — Oznamování změn v AIFMD notifikaci
+- **§ 314a** — Zánik účinků oznámení — de-notifikace AIF v hostitelském státě
+- **§ 315** — Nabízení alternativního EU fondu v ČR — obhospodařovatel z jiného členského státu
+- **§ 315a** — Facility services pro investory v ČR při nabízení zahraničního alternativního fondu
+- **§ 316** — Nabízení AIF z EU — non-EU AIFM, nabízení pouze v ČR
+- **§ 317** — Nabízení AIF z EU — různé kombinace sídla obhospodařovatele
+- **§ 318** — Investiční společnost oprávněná přesáhnout rozhodný limit, nabízení pouze v ČR
+- **§ 319** — Obhospodařovatel se sídlem v jiném členském státě oprávněný přesáhnout rozhodný limit, nabízení pouze v ČR
+- **§ 320** — Investiční společnost oprávněná přesáhnout rozhodný limit, nabízení v ČR (bez omezení pouze na ČR)
+- **§ 321** — Investiční společnost oprávněná přesáhnout rozhodný limit, nabízení v jiném členském státě
+- **§ 322** — Obhospodařovatel se sídlem v jiném členském státě oprávněný přesáhnout rozhodný limit, nabízení v ČR
+- **§ 323** — Obhospodařovatel se sídlem v členském státě neoprávněný přesáhnout rozhodný limit, veřejné nabízení v ČR
+- **§ 324** — Non-EU AIFM, non-EU AIF, nabízení pouze v ČR
+- **§ 325** — Non-EU AIFM s EU licencí nebo povolením, non-EU AIF, nabízení v ČR
+- **§ 325a** — Non-EU obhospodařovatel bez AIFMD licence nepřesahující rozhodný limit, veřejné nabízení v ČR
+- **§ 326** — Non-EU AIFM s EU licencí, nabízení v jiném členském státě
+- **§ 327** — Způsobilý depozitář non-EU AIF nabízeného v ČR
+
+## [Část desátá — Přeshraniční obhospodařování (§§ 328–344)](12-cast10-preshranicni-obhospodarovani.md)
+
+- **§ 328** — Oznámení investiční společnosti
+- **§ 329** — Postup České národní banky
+- **§ 330** — Vznik oprávnění
+- **§ 331** — Oznamování změn
+- **§ 332** — Oznámení
+- **§ 333** — Postup České národní banky
+- **§ 334** — Vznik oprávnění
+- **§ 335** — Oznamování změn
+- **§ 336** — Poskytování informací ČNB orgánu dohledu hostitelského státu
+- **§ 337** — Podmínky obhospodařování fondu ze třetí země
+- **§ 338** — Vznik oprávnění prostřednictvím pobočky
+- **§ 339** — Vznik oprávnění bez pobočky
+- **§ 340** — Povinnosti zahraniční osoby při obhospodařování standardního fondu
+- **§ 342** — Vznik oprávnění prostřednictvím pobočky
+- **§ 343** — Vznik oprávnění bez pobočky
+- **§ 344** — Povinnosti zahraniční osoby při obhospodařování speciálního fondu nebo fondu kvalifikovaných investorů
+
+## [Část jedenáctá — Zrušení, přeměny a jiné majetkové dispozice (§§ 345–381)](13-cast11-zruseni-premeny-a.md)
+
+- **§ 345** — Rozhodnutí soudu
+- **§ 346** — Rozhodnutí orgánu investiční společnosti
+- **§ 347** — Uplynutí doby
+- **§ 348** — Odborná péče
+- **§ 349** — Předpoklady pro výkon funkce
+- **§ 350** — Jmenování a odvolání
+- **§ 351** — Zánik funkce
+- **§ 352** — Náhrada hotových výdajů a odměna
+- **§ 353** — Povinnost součinnosti
+- **§ 354** — Zakázané přeměny
+- **§ 355** — Povolení České národní banky
+- **§ 356** — Řízení o žádosti o povolení fúze, rozdělení nebo převodu jmění
+- **§ 357** — Převod, pacht a zastavení obchodního závodu
+- **§ 358** — Obdobné použití ustanovení o investiční společnosti
+- **§ 359** — Změna právní formy hlavního administrátora
+- **§ 360** — Řízení o žádosti o změnu právní formy hlavního administrátora
+- **§ 361** — Obecná pravidla a zvláštní důvody zrušení
+- **§ 362** — Náhradní splnění podílu na likvidačním zůstatku
+- **§ 362a** — Zvláštní ustanovení pro případ úpadku akciové společnosti s proměnným základním kapitálem
+- **§ 362b** — Výměna akcií při převodu jmění
+- **§ 362c** — Změna stanov
+- **§ 362d** — Odměna insolvenčního správce při převodu jmění SICAV
+- **§ 362e** — Zrušení podfondu investičního fondu s právní osobností
+- **§ 363** — Definice přeměny investičního fondu s právní osobností
+- **§ 364** — Zakázané přeměny investičního fondu s právní osobností
+- **§ 365** — Povolení České národní banky
+- **§ 366** — Řízení o žádosti o povolení fúze, rozdělení nebo převodu jmění
+- **§ 367** — Přípustnost přeměny
+- **§ 368** — Změna druhu akcií
+- **§ 369** — Povolení České národní banky
+- **§ 370** — Řízení o žádosti o povolení přeměny
+- **§ 371** — Splynutí a sloučení investičního fondu s právní osobností, který je standardním fondem
+- **§ 372** — Sloučení akciové společnosti s proměnným základním kapitálem a otevřeného podílového fondu
+- **§ 373** — Přeměna podfondu investičního fondu s právní osobností
+- **§ 374** — Zákaz dispozic se závodem investičního fondu s právní osobností
+- **§ 375** — Důvody zrušení podílového fondu s likvidací
+- **§ 376** — Likvidace podílového fondu
+- **§ 377** — Náhradní splnění podílu na likvidačním zůstatku
+- **§ 378** — Záloha na podíl na likvidačním zůstatku
+- **§ 379** — Zvláštní ustanovení pro případ úpadku obhospodařovatele
+- **§ 380** — Povinnosti podřízeného fondu při zrušení jeho řídícího fondu s likvidací
+- **§ 381** — Definice přeměny podílového fondu
+
+## [Část jedenáctá — Přeměny podílových fondů a změna domovského státu (§§ 382–418)](14-cast11-zruseni-premeny-b.md)
+
+- **§ 382** — Přípustné způsoby splynutí
+- **§ 383** — Projekt splynutí
+- **§ 384** — Náležitosti projektu splynutí
+- **§ 385** — Povolení České národní banky
+- **§ 386** — Řízení o žádosti o povolení splynutí
+- **§ 387** — Lhůta pro vydání rozhodnutí
+- **§ 388** — Sdělení o splynutí
+- **§ 389** — Náležitosti sdělení o splynutí
+- **§ 390** — Následky uveřejnění sdělení o splynutí
+- **§ 391** — Postup bez uveřejnění sdělení o splynutí
+- **§ 392** — Dočasná výjimka z investičních limitů
+- **§ 393** — Další pravidla
+- **§ 394** — Rozhodný den splynutí
+- **§ 395** — Výměna cenných papírů nebo zaknihovaných cenných papírů
+- **§ 396** — Peněžní dorovnání pro nepřiměřenost výměnného podílu
+- **§ 397** — Spolupráce České národní banky a orgánu dohledu zahraničního investičního fondu v řízení o žádosti o povolení splynutí
+- **§ 398** — Přípustné způsoby sloučení
+- **§ 399** — Projekt sloučení
+- **§ 400** — Náležitosti projektu sloučení
+- **§ 401** — Povolení České národní banky
+- **§ 402** — Řízení o žádosti o povolení sloučení
+- **§ 403** — Lhůta pro vydání rozhodnutí
+- **§ 404** — Sdělení o sloučení
+- **§ 405** — Náležitosti sdělení o sloučení
+- **§ 406** — Následky uveřejnění sdělení o sloučení
+- **§ 407** — Postup bez uveřejnění sdělení o sloučení
+- **§ 408** — Dočasná výjimka z investičních limitů
+- **§ 409** — Další pravidla
+- **§ 410** — Rozhodný den sloučení
+- **§ 411** — Výměna cenných papírů nebo zaknihovaných cenných papírů
+- **§ 412** — Peněžní dorovnání pro nepřiměřenost výměnného poměru
+- **§ 413** — Spolupráce České národní banky a orgánu dohledu zahraničního investičního fondu v řízení o žádosti o povolení sloučení
+- **§ 414** — Přípustnost přeměny
+- **§ 415** — Projekt přeměny
+- **§ 416** — Náležitosti projektu přeměny
+- **§ 417** — Povolení České národní banky
+- **§ 418** — Řízení o žádosti o povolení přeměny
+
+## [Část jedenáctá — Zrušení, přeměny a jiné majetkové dispozice: dokončení přeměn podílového fondu, změna domovského státu, společná ustanovení (§§ 419–454)](15-cast11-zruseni-premeny-c.md)
+
+- **§ 419** — Upsání zakladatelských akcií
+- **§ 420** — Informování podílníků a právo na odkoupení podílového listu
+- **§ 421** — Den účinnosti přeměny
+- **§ 422** — Výměna podílových listů za akcie
+- **§ 423** — Peněžní dorovnání pro nepřiměřenost výměnného podílu
+- **§ 424** — Obdobné použití jiných částí tohoto zákona
+- **§ 425** — Přípustnost přeměny
+- **§ 426** — Povolení České národní banky
+- **§ 427** — Řízení o žádosti o povolení přeměny
+- **§ 428** — Další pravidla
+- **§ 429** — Přípustnost přeměny
+- **§ 430** — Povolení České národní banky
+- **§ 431** — Řízení o žádosti o povolení přeměny
+- **§ 432** — Další pravidla
+- **§ 432a** — Přípustnost převodu jmění
+- **§ 432b** — Projekt převodu jmění
+- **§ 432c** — Povolení České národní banky
+- **§ 432d** — Řízení o žádosti o vydání povolení k převodu jmění Českou národní bankou
+- **§ 432e** — Povinnost uveřejnění
+- **§ 432f** — Povinnosti po právních účincích převodu jmění
+- **§ 433** — Povinnosti obhospodařovatele podřízeného fondu při zrušení nebo přeměně jeho řídícího fondu
+- **§ 434** — Povinnost sestavit účetní závěrku
+- **§ 435** — Zvláštní ustanovení pro řídící a podřízený fond
+- **§ 436** — Přípustnost přeměny
+- **§ 437** — Zvláštní ustanovení o udělení povolení k činnosti samosprávného investičního fondu
+- **§ 438** — Obdobné použití jiných ustanovení tohoto zákona
+- **§ 439** — Přípustnost přeměny
+- **§ 440** — Povolení České národní banky
+- **§ 441** — Řízení o žádosti o povolení přeměny
+- **§ 442** — Přípustnost přeměny
+- **§ 443** — Den účinnosti přeměny
+- **§ 444** — Obdobné použití jiných ustanovení tohoto zákona
+- **§ 445** — Přípustnost přeměny
+- **§ 446** — Projekt přeměny
+- **§ 447** — Náležitosti projektu přeměny
+- **§ 448** — Povolení České národní banky
+- **§ 449** — Řízení o žádosti o povolení přeměny
+- **§ 450** — Informování investorů a právo na odkoupení podílového listu
+- **§ 451** — Den účinnosti přeměny
+- **§ 452** — Předání a výměna cenných papírů nebo zaknihovaných cenných papírů
+- **§ 453** — Peněžní dorovnání pro nepřiměřenost výměnného podílu
+- **§ 454** — Společná procesní pravidla (elektronická podání)
+
+## [Část dvanáctá — Oznamovací povinnosti (§§ 455–478)](16-cast12-oznamovaci-povinnosti.md)
+
+- **§ 455** — Výroční a pololetní zprávy
+- **§ 456** — Neschválení účetní závěrky
+- **§ 457** — Statut a sdělení klíčových informací
+- **§ 458** — Pozastavení vydávání nebo odkupování podílových listů nebo investičních akcií
+- **§ 459** — Pověření jiného výkonem jednotlivé činnosti
+- **§ 460** — Pověření dalšího pověřenou osobou
+- **§ 461** — Veřejné nabízení investic v České republice nebo v jiném členském státě
+- **§ 462** — Základní údaje ke skladbě majetku
+- **§ 463** — Údaje týkající se obhospodařování investičního fondu a zahraničního investičního fondu
+- **§ 464** — Údaje o využití pákového efektu
+- **§ 465** — Nedosažení fondového kapitálu investičního fondu
+- **§ 466** — Další údaje
+- **§ 467** — Oznamování změn
+- **§ 468** — Údaje o derivátech
+- **§ 469** — Údaje o výboru odborníků a o nemovitostech a účastech v nemovitostních společnostech
+- **§ 470** — Podřízený a řídící fond
+- **§ 471** — Oznamování podílů na hlasovacích právech (odst. 1–4)
+- **§ 472** — Společné oznámení a okamžik splnění povinnosti
+- **§ 473** — Opatření k nápravě a pokuty uložené zahraničním orgánem dohledu
+- **§ 474** — Oznamovací povinnost depozitáře
+- **§ 475** — Oznamování překážek plnění povinností
+- **§ 476** — Oznamovací povinnost osoby s předchozím souhlasem České národní banky k výkonu funkce
+- **§ 477** — Rozšířená působnost
+- **§ 478** — Zmocňovací ustanovení
+
+## [Část třináctá — Řízení o žádostech (§§ 479–533)](17-cast13-rizeni-o-zadostech.md)
+
+- **§ 479** — Investiční společnost
+- **§ 480** — Samosprávný investiční fond
+- **§ 481** — Zahraniční osoba jako obhospodařovatel
+- **§ 482** — Hlavní administrátor
+- **§ 483** — Lhůty pro rozhodnutí
+- **§ 484** — Úplné žádosti
+- **§ 485** — Výrok rozhodnutí (obhospodařovatel)
+- **§ 486** — Výrok rozhodnutí (samosprávný fond)
+- **§ 487** — Výrok rozhodnutí (hlavní administrátor)
+- **§ 488** — Souhlas vedoucí osoby při udělení povolení
+- **§ 489** — Konzultace zahraničního orgánu dohledu
+- **§ 490** — Další přerušení běhu lhůty pro rozhodnutí
+- **§ 491** — Odůvodnění rozporu se stanoviskem ESMA
+- **§ 492** — Povolení výjimky z plnění povinností pro zahraniční osobu
+- **§ 493** — Česká republika jako referenční stát
+- **§ 494** — Mnohost referenčních států
+- **§ 495** — Rozhodování České národní banky
+- **§ 496** — Změna v určení referenčního státu
+- **§ 497** — Posouzení změny referenčního státu
+- **§ 498** — Nové určení referenčního státu
+- **§ 499** — Dobrovolné nové určení referenčního státu
+- **§ 500** — Změna povolení
+- **§ 501** — Zahájení řízení o změně
+- **§ 502** — Změna bez zahájení řízení
+- **§ 503** — Lhůta pro zápis do seznamu
+- **§ 504** — Zápis bez žádosti
+- **§ 505** — Výluka z režimu zápisu bez přezkumu
+- **§ 506** — Výmaz regulovaných osob a depozitářů
+- **§ 506a** — Výmaz investičního fondu
+- **§ 506b** — Procesní pravidla výmazu
+- **§ 507** — Dodatečné povolení k výkonu investičních služeb
+- **§ 508** — Souhlas s jinou podnikatelskou činností
+- **§ 509** — Souhlas s nabytím kvalifikované účasti
+- **§ 510** — Zápis depozitáře
+- **§ 511** — Podmínky zápisu standardního fondu
+- **§ 512** — Schválení depozitáře a statutu; lhůta
+- **§ 512a** — Podmínky zápisu ELTIF
+- **§ 512b** — Souběžné schválení a lhůta
+- **§ 513** — Zápis nekvalifikované právnické osoby
+- **§ 514** — Zápis před zápisem do obchodního rejstříku
+- **§ 515** — Povinnost souhlasu
+- **§ 516** — Předpoklady pro udělení souhlasu
+- **§ 517** — Kritéria posuzování
+- **§ 518** — Zánik souhlasu
+- **§ 519** — Podmínky zápisu
+- **§ 520** — Oznamovací povinnost a povinnost souhlasu
+- **§ 521** — Nutnost předchozího souhlasu
+- **§ 522** — Posuzování žádosti
+- **§ 523** — Procesní pravidla posuzování
+- **§ 524** — Oznámení pozbytí nebo snížení kvalifikované účasti
+- **§ 525** — Povinnost předchozího souhlasu
+- **§ 526** — Podmínky souhlasu
+- **§ 527** — Povinnost předchozího souhlasu
+- **§ 528** — Podmínky souhlasu a domněnka způsobilosti
+- **§ 529** — Podmínky a výjimky
+- **§ 530** — Lhůta a postup schválení
+- **§ 531** — Podmínky zápisu a souběžná schválení
+- **§ 532** — Forma a náležitosti žádostí
+- **§ 533** — Osvědčení splnění předpokladů
+
+## [Část čtrnáctá — Dohled České národní banky (§§ 534–598)](18-cast14-dohled-cnb.md)
+
+- **§ 534** — Osobní rozsah dohledu
+- **§ 535** — Věcný rozsah dohledu
+- **§ 536** — Zaměření dohledu
+- **§ 537** — Soulad s pokyny ESMA
+- **§ 538** — Opatření k nápravě
+- **§ 539** — Katalog dalších opatření
+- **§ 540** — Donucovací pokuta
+- **§ 541** — Nařízení změny obhospodařovatele
+- **§ 542** — Nařízení změny administrátora
+- **§ 543** — Nařízení změny depozitáře
+- **§ 544** — Nařízení změny auditora
+- **§ 545** — Mimořádný audit
+- **§ 546** — Nařízení nezávislého ověření oceňování
+- **§ 547** — Omezení rozsahu povolení
+- **§ 548** — Omezení pákového efektu
+- **§ 549** — Omezení investiční strategie nebo zákaz nabízení
+- **§ 550** — Rozhodnutí o zrušení fondu
+- **§ 551** — Obligatorní odnětí povolení
+- **§ 552** — Fakultativní odnětí povolení
+- **§ 554** — Společná ustanovení pro účely odnětí povolení
+- **§ 555** — Podmínky odnětí souhlasu
+- **§ 556** — Zrušení rozhodnutí o pozastavení odkupu
+- **§ 557** — Opatření obecné povahy
+- **§ 558** — Zavedení nucené správy
+- **§ 559** — Obsah rozhodnutí o zavedení nucené správy
+- **§ 560** — Vykonatelnost rozhodnutí
+- **§ 561** — Účinky zavedení nucené správy
+- **§ 562** — Ukončení nucené správy
+- **§ 563** — Nucený správce — kvalifikační předpoklady a střet zájmů
+- **§ 564** — Povinnosti nuceného správce
+- **§ 565** — Oprávnění nuceného správce
+- **§ 566** — Zánik funkce nuceného správce
+- **§ 567** — Údaje zapisované do obchodního rejstříku
+- **§ 568** — Finanční zajištění a závěrečné vyrovnání
+- **§ 569** — Dohled nad obhospodařovatelem standardního fondu z jiného členského státu
+- **§ 570** — Dohled nad obhospodařovatelem speciálního fondu nebo FKI z jiného členského státu
+- **§ 571** — Porušení práva cizího státu
+- **§ 572** — Dohled nad obhospodařovatelem zahraničního investičního fondu srovnatelného se standardním fondem
+- **§ 573** — Dohled nad obhospodařovatelem zahraničního investičního fondu v dalších případech
+- **§ 574** — Podezření na neoprávněně udělené povolení
+- **§ 575** — Poskytování informací ČNB na žádost nebo na základě oznámení
+- **§ 576** — Spolupráce při výkonu dohledu nebo při kontrole na místě
+- **§ 577** — Odmítnutí žádosti
+- **§ 578** — Rozhodnutí o odejmutí povolení nebo odmítnutí zápisu standardního fondu do seznamu
+- **§ 579** — Řešení sporu mezi orgány dohledu evropským orgánem dohledu
+- **§ 580** — Informace pro Evropskou komisi
+- **§ 581** — Informace o povoleních
+- **§ 582** — Informace o přeshraničním obhospodařování a provádění administrace
+- **§ 583** — Informace o přeshraničním nabízení investic
+- **§ 584** — Informace o zahraniční osobě se sídlem ve státě, který není členským státem
+- **§ 585** — Informování ESMA v případě důvodného podezření
+- **§ 590** — Informace pro ESRB
+- **§ 591** — Informování orgánu dohledu jiného členského státu v případě důvodného podezření
+- **§ 592** — Informační povinnost o opatření k nápravě
+- **§ 596** — Seznamy regulovaných osob
+- **§ 597** — Seznamy investičních fondů
+- **§ 598** — Vedení seznamů
+
+## [Část patnáctá — Přestupky (§§ 599–622a)](19-cast15-prestupky.md)
+
+- **§ 599** — Přestupky obhospodařovatele (základní katalog)
+- **§ 600** — Přestupky obhospodařovatele fondu kolektivního investování
+- **§ 601** — Přestupky obhospodařovatele — speciální fondy, podřízené fondy, nemovitostní fondy
+- **§ 602** — Přestupky obhospodařovatele — FKI, splynutí a sloučení
+- **§ 603** — Přestupky obhospodařovatele — přeměny a sloučení přejímajícím fondem
+- **§ 604** — Přestupky administrátora (základní katalog)
+- **§ 605** — Přestupky administrátora — uveřejňování, propagace
+- **§ 606** — Přestupky administrátora podřízeného fondu a řídícího fondu
+- **§ 607** — Přestupky administrátora — výměna podílových listů a přeměny
+- **§ 608** — Přestupky administrátora — přeměny fondů a hlášení ČNB
+- **§ 609** — Společné přestupky obhospodařovatele a administrátora
+- **§ 610** — Přestupky fondů a investičních společností — kapitál a zakázané obhospodařování
+- **§ 611** — Přestupky investiční společnosti — umístění kapitálu, hlášení ČNB
+- **§ 612** — Přestupky depozitáře investičního fondu
+- **§ 613** — Přestupky depozitáře při sloučení a hlavní podpůrce
+- **§ 614** — Přestupky ostatních právnických a podnikajících fyzických osob — generální katalog
+- **§ 615** — Přestupky oceňovatele, likvidátora, nuceného správce a dalších
+- **§ 616** — Přestupky při nabytí kvalifikované účasti, nucená správa, rozhodný limit
+- **§ 617** — Přestupek porušení mlčenlivosti (podnikající fyzická osoba)
+- **§ 618** — Přestupky fyzických osob — generální katalog
+- **§ 619** — Přestupky fyzické osoby — oceňovatel, člen výboru, likvidátor
+- **§ 620** — Přestupky fyzické osoby — kvalifikovaná účast, nucená správa
+- **§ 621** — Přestupek fyzické osoby — porušení mlčenlivosti
+- **§ 622** — Příslušnost ČNB, destinace pokut, fikce odpovědnosti
+- **§ 622a** — Uveřejnění informace o přestupku — podrobnosti
+
+## [Část šestnáctá — Společná, přechodná a závěrečná ustanovení (§§ 623–677)](20-cast16-spolecna-prechodna-zaverecna.md)
+
+- **§ 623** — Členský stát, domovský stát, hostitelský stát a orgán dohledu
+- **§ 624** — Vedoucí osoba, kvalifikovaná účast, úzké propojení a nepřímý podíl
+- **§ 625** — Vztah k pojmosloví přímo použitelných předpisů EU v oblasti obhospodařování investičních fondů
+- **§ 626** — Srovnatelnost s právem cizího státu
+- **§ 627** — Derivát, finanční derivát a otevřená pozice
+- **§ 628** — Nemovitost
+- **§ 629** — Společenská smlouva
+- **§ 630** — Společník a podílník
+- **§ 631** — Účastnický cenný papír
+- **§ 632** — Újma
+- **§ 633** — Majetek a dluhy investičního fondu ve vztahu k podílovému fondu, svěřenskému fondu a podfondu
+- **§ 634** — Označení
+- **§ 635** — Důvěryhodnost kapitálového trhu a zákaz klamavosti
+- **§ 636** — Zvláštní ochrana některých označení
+- **§ 637** — Používání údajů o dohledu České národní banky
+- **§ 638** — Jazyk
+- **§ 641** — Pravomoc českých soudů a úřadů pro případ sporu mezi investory a investiční společností
+- **§ 642** — Povolení k činnosti investiční společnosti
+- **§ 643** — Povolení k činnosti investičního fondu
+- **§ 644** — Povolení investiční společnosti k poskytování investičních služeb
+- **§ 645** — Výpis o povolení k činnosti
+- **§ 648** — Rozhodný limit v případě fondů kvalifikovaných investorů obhospodařovaných přede dnem 22. července 2013
+- **§ 649** — Výše vkladů a investic do fondu kvalifikovaných investorů podle dosavadních právních předpisů
+- **§ 650** — Podílový fond
+- **§ 651** — Povolení k činnosti investičního fondu s uzavřenou smlouvou o obhospodařování
+- **§ 652** — Poměry v investiční společnosti a investičním fondu
+- **§ 653** — Statut a sdělení klíčových informací
+- **§ 654** — Další podnikatelská činnost
+- **§ 655** — Výroční a konsolidovaná zpráva
+- **§ 656** — Nabízení investic do investičního fondu nebo do zahraničního investičního fondu
+- **§ 657** — Zahraniční depozitář speciálního fondu
+- **§ 660** — Řízení zahájená podle dosavadních právních předpisů
+- **§ 661** — Povolení zahraniční osobě
+- **§ 664** — Ustanovení vztahující se k novému soukromému právu
+- **§ 665** — Přechodné použití starých pravidel pro depozitáře standardních fondů; přechodná vyhláška
+- **§ 666** — Subjekty oprávněné k výkonu funkce depozitáře standardního fondu (přechodně)
+- **§ 667** — Rozhodné právo ve věci výkonu činnosti depozitáře
+- **§ 668** — Obsah depozitářské smlouvy (přechodně)
+- **§ 669** — Základní povinnosti depozitáře standardního fondu (přechodně)
+- **§ 670** — Kontrolní povinnosti depozitáře standardního fondu (přechodně) a zmocnění ČNB
+- **§ 671** — Povinnosti obhospodařovatele ve vztahu k depozitáři standardního fondu (přechodně)
+- **§ 674** — Pověření třetí osoby depozitářem (přechodně)
+- **§ 675** — Odpovědnost depozitáře standardního fondu za újmu (přechodně)
+- **§ 676** — Zrušovací ustanovení
+- **§ 677** — Účinnost
+
