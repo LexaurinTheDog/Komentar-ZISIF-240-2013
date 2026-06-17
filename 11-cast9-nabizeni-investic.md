@@ -42,6 +42,11 @@ Odst. 2 zajišťuje konzistenci regulace i pro subfondové struktury (umbrella f
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 30/2021 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/706271) — 7. 12. 2022
+  > „Je možné souhlasit se žalovanou, že nebýt zvláštního pravidla v § 295 zákona o investičních společnostech, pak by muselo být i v rámci tohoto zákona dovozeno, že činí-li investor rozhodnutí o nabytí cenného papíru kolektivního investování z vlastního podnětu, pak by o nabízení šlo. V opačném případě není žádný racionální důvod, proč by zákonodárce § 295 zákona o investičních společnostech přijímal. […] jde o zvláštní pravidlo zákona o investičních společnostech pouze pro účely tohoto zákona"
+
 #### Výjimka pro reverse solicitation
 
 § 295 transponuje tzv. výjimku pro reverse solicitation (obrácené oslovení) zakotvenou v čl. 4 odst. 1 písm. x) AIFMD a v analogickém konceptu UCITS. Pokud investor sám — bez jakékoli předchozí aktivity obhospodařovatele nebo distributora zaměřené na tento konkrétní fond — požádá o nabytí účasti, nevzniká nabízení investic a s ním spojené povinnosti (zápis do seznamu, oznamovací povinnost vůči ČNB).

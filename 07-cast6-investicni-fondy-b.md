@@ -359,6 +359,11 @@ Ustanovení umožňuje SICAV, která při svém vzniku neměla podfondy, přejí
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 Af 12/2024 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747272) — 7. 11. 2025
+  > „Podfond je účetně a majetkově oddělená část jmění akciové společnosti s proměnným základním kapitálem (§ 165 odst. 1 zákona č. 240/2013 Sb., o investičních společnostech a investičních fondech). Podfond má daňovou subjektivitu, neboť jde o poplatníka daně z příjmů právnických osob [§ 17 písm. d) zákona o daních z příjmů a § 20 odst. 1 daňového řádu]…"
+
 #### Podfond jako oddělená majetková sféra (odst. 1 a 2)
 
 Podfond není samostatnou právnickou osobou, ale účetně a majetkově oddělenou částí jmění SICAV. Každý podfond má vlastní účetnictví umožňující sestavení účetní závěrky — tím je splněna podmínka pro přiřazení výnosů a nákladů konkrétnímu podfondu a pro výpočet aktuální hodnoty investičních akcií vydaných k danému podfondu.
@@ -460,6 +465,11 @@ PRIIPs/UCITS dokument sdělení klíčových informací (KID, dříve KIID) se v
 > *Používá-li tento zákon pojem „investiční fond", „fond kolektivního investování" nebo „fond kvalifikovaných investorů", rozumí se jím v případě investičního fondu, který vytváří podfondy, podfond investičního fondu, ledaže z tohoto zákona plyne něco jiného.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Af 8/2024 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743712) — 20. 6. 2025
+  > „Jedná se o zavedení legislativní zkratky, která slouží k jednotnému výkladu těchto institutů. Její využití je však ze samotného znění ustanovení omezeno pouze na ZISIF, nikoliv na další zákony… [§ 169a ZISIF] nestanoví, že by podfond SICAV byl investičním fondem – jen říká, že pravidla ZISIF dopadající na investiční fondy se mají obdobně použít i na podfond SICAV"
 
 #### Pravidlo substituce pro podfondové struktury
 
@@ -1331,12 +1341,4 @@ V každém z těchto případů platí příslušné unijní nařízení jako le
 ---
 
 *Část sedmá — Fondy kolektivního investování (§§ 205 a násl.) je zpracována v [08-cast7-fondy-kolektivniho-investovani-a.md](08-cast7-fondy-kolektivniho-investovani-a.md).*
-
-
-
-
-
-
-
-
 
