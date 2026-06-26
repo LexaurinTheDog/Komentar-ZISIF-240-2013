@@ -46,6 +46,43 @@ Zákon se vztahuje na **investiční fondy** (české) i **zahraniční investi�
 
 ZISIF je lex specialis vůči **zákonu č. 256/2004 Sb., o podnikání na kapitálovém trhu (ZPKT)**. Podmínky nabízení cenných papírů vydávaných investičními fondy se primárně řídí ZISIF; ZPKT se použije subsidiárně nebo v rozsahu, ve kterém ZISIF odkazuje. Dohled nad dodržováním ZISIF vykonává **Česká národní banka** (ČNB) jako příslušný orgán dohledu ve smyslu AIFMD i UCITS.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lucemburská správcovská společnost ALFA Management S.à r.l. (autorizovaný AIFM) hodlá oslovovat české kvalifikované investory (penzijní fondy, family offices) s nabídkou účasti v alternativním investičním fondu ALFA Private Equity SCSp se sídlem v Lucembursku. Současně začíná v ČR fakticky řídit majetek nového fondu vzniklého podle ZISIF (SICAV) pro českého klienta. Účastníci: ALFA (zahraniční obhospodařovatel), čeští investoři, ČNB (orgán dohledu). Důkazy k obstarání: zakladatelské dokumenty ALFA a fondů, marketingové materiály cílené na ČR, smlouva o obhospodařování českého SICAV, doklad o domovské autorizaci a o případné notifikaci pasu.
+
+**2. Právní otázka.** Vztahuje se na činnost ALFA v ČR ZISIF (podmínky obhospodařování, administrace a nabízení), nebo jde o činnost mimo věcný předmět vymezený v § 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 — předmět úpravy; ZISIF zapracovává AIFMD a UCITS, navazuje na přímo použitelná nařízení EU a upravuje podmínky obhospodařování, administrace a nabízení investic do investičních a zahraničních investičních fondů.
+- *Související ustanovení téhož zákona:* § 4 (negativní osobní působnost — kdy se zákon na zahraniční subjekt nevztahuje); § 5 a násl. (obhospodařování); část čtvrtá (nabízení); § 2 a § 2a (negativní věcná působnost).
+- *Související předpisy:* směrnice 2011/61/EU (AIFMD), směrnice 2009/65/ES (UCITS); nařízení (EU) č. 345/2013 (EuVECA), 346/2013 (EuSEF), 2015/760 (ELTIF), 2017/1131 (MMF); zákon č. 256/2004 Sb. (ZPKT) jako lex generalis pro kapitálový trh.
+- *Judikatura:* k povaze transpozičního ustanovení a eurokonformnímu výkladu — ustálený závěr SDEU, že vnitrostátní právo provádějící směrnici je nutno vykládat v souladu s jejím zněním a účelem (doktrína nepřímého účinku, věc Marleasing); k „nabízení" jako rozhodné aktivitě navazuje výklad pojmu pre-marketing podle AIFMD.
+
+**4. Subsumpce.** § 1 vymezuje předmět skrze tři okruhy činností. Řízení majetku českého SICAV naplňuje znak „obhospodařování investičního fondu" vykonávaného na území ČR; oslovování českých investorů naplňuje znak „nabízení investic do zahraničního investičního fondu". Oba znaky jsou tak v ČR splněny. Skutečnost, že ALFA má sídlo v zahraničí, sama o sobě aplikaci nevylučuje — to řeší až § 4, jehož výluka je zde vyloučena právě existencí obou nexů (obhospodařování i nabízení v ČR).
+
+**5. Řešení.** Na činnost ALFA v ČR ZISIF dopadá. Správce musí mít odpovídající oprávnění/pas a před nabízením v ČR projít notifikačním procesem; obhospodařování českého fondu podléhá dohledu ČNB. Procesní kroky: ověřit domovskou autorizaci, podat notifikaci pasu AIFMD pro nabízení, uzavřít řádnou smlouvu o obhospodařování. Riziko: bez notifikace jde o neoprávněné nabízení; alternativní výklad (čistě „reverse solicitation" bez aktivního marketingu) by mohl některý nexus oslabit, ale řízení českého fondu by aplikaci zákona udrželo tak jako tak.
+
+**6. Varianty.** (a) Kdyby ALFA pouze pasivně přijala neoslovenou žádost jediného českého investora a žádný český fond neřídila, mohla by spadnout do výluky § 4 (žádný nexus). (b) Kdyby ALFA spravovala výhradně sekuritizační SPV, uplatnila by se věcná výluka § 2 písm. c) a předmět § 1 by nebyl naplněn.
+
+#### G. Protiargumenty a rizika
+
+- *„Jde o přímo použitelné nařízení, ZISIF se proto neuplatní."* Protiargument neobstojí: § 1 výslovně „navazuje" na nařízení EU a zajišťuje institucionální a sankční rámec (autorizace, dohled ČNB), který nařízení samy přenechávají národní úpravě. Nařízení a ZISIF se tedy doplňují.
+- *„Předmět úpravy je jen deklaratorní, nezakládá povinnosti."* Sice § 1 sám o sobě konkrétní povinnost neukládá, určuje však věcný a osobní záběr, k němuž se vážou operativní ustanovení; jeho podcenění vede k chybnému závěru o nepoužitelnosti zákona.
+- Slabé místo: konkrétní seznam transponovaných směrnic není v textu § 1, nýbrž v poznámkovém aparátu v e-Sbírce — při argumentaci je nutno odkaz dohledat, aby byl výčet úplný a aktuální (UCITS V apod.).
+
+#### H. Praktický závěr
+
+V praxi § 1 slouží jako vstupní filtr: určuje, zda posuzovaná činnost vůbec spadá pod ZISIF (obhospodařování / administrace / nabízení) a otevírá eurokonformní výklad podle AIFMD a UCITS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o obhospodařování, administraci nebo nabízení investic do (zahraničního) investičního fondu?
+- [ ] Existuje vazba na český trh (sídlo, výkon činnosti, nabízení v ČR)?
+- [ ] Aplikuje se na danou kategorii fondu přímo použitelné nařízení (EuVECA/EuSEF/ELTIF/MMF) — a v jakém rozsahu ZISIF „navazuje"?
+- [ ] Není dán důvod věcné (§ 2, § 2a, § 3) nebo osobní (§ 4) výluky?
+- [ ] Byl proveden eurokonformní výklad podle AIFMD/UCITS a ověřen aktuální výčet směrnic v poznámkách k § 1?
+
+**Typicky rozhodné důkazy / podklady:** zakladatelské dokumenty fondu a správce, doklad o autorizaci/pasu, notifikace ČNB, smlouvy o obhospodařování a administraci, marketingové materiály cílené na ČR.
+
 ---
 
 ### § 2 — Negativní věcná působnost (výluky ze zákona)
@@ -108,6 +145,43 @@ Sekuritizační entity (zejména **ABCP conduits**, tradiční **ABS SPV**) napl
 
 **Výjimka z výjimky — § 98 odst. 3:** všechny tři výluky § 2 jsou podmíněny dovětkem „nestanoví-li tento zákon dále jinak (§ 98 odst. 3)". § 98 odst. 3 umožňuje, aby určité subjekty splňující jinak výlukové podmínky přesto dobrovolně požádaly o zápis do evidence ČNB — tím na sebe dobrovolně přijímají části regulačního rámce ZISIF, zpravidla za účelem získání marketingového statusu nebo přeshraničního pasu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Strojírenská skupina BETA a.s. zřídí dceřinou společnost BETA Finance s.r.o., která vydá dluhopisy externím investorům s deklarovaným účelem „financování modernizace výrobních linek a výzkumu nových materiálů" mateřské skupiny. Část takto získaných prostředků je však BETA Finance dále zápůjčkami rozdělována nesouvisejícím třetím subjektům za úrok. Souběžně průmyslový holding GAMA SE, kotovaný na pražské burze, drží majoritní podíly v deseti dceřiných výrobních firmách a deklaruje ve výroční zprávě dlouhodobý rozvoj. Účastníci: BETA Finance a její investoři, GAMA SE a její akcionáři, ČNB. Důkazy: emisní podmínky dluhopisů, účetnictví o skutečném využití prostředků, výroční zpráva GAMA, doklad o přijetí cenných papírů k obchodování.
+
+**2. Právní otázka.** Spadají činnosti BETA Finance a GAMA pod některou z negativních výluk § 2 (vlastní výroba/obchod — písm. a/; holding pro dlouhodobý rozvoj — písm. b/), nebo jde o regulované kolektivní investování podle ZISIF?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 — zákon se nevztahuje na shromažďování za účelem financování vlastní výroby/obchodu/výzkumu (písm. a/), na holdingy přispívající k dlouhodobému rozvoji za podmínky kotace nebo neziskového exitu (písm. b/) a na sekuritizaci (písm. c/), nestanoví-li § 98 odst. 3 jinak.
+- *Související ustanovení téhož zákona:* § 1 (předmět úpravy), § 2a (family office a koncern), § 98 odst. 3 (dobrovolný zápis), § 596 (seznamy ČNB).
+- *Související předpisy:* čl. 2 a Annex I AIFMD (výčet vyloučených subjektů, vč. sekuritizačních SPV — čl. 2 odst. 3 písm. g/); nařízení o prospektu a MAR pro kotované holdingy; nařízení (EU) 2017/2402 o sekuritizaci.
+- *Judikatura:* k posuzování „hlavního účelu" a zákazu obcházení převažuje materiální (nikoli formální) hodnocení skutečné ekonomické podstaty činnosti; eurokonformní výklad výluk podle AIFMD (úzký výklad výjimek z harmonizované regulace).
+
+**4. Subsumpce.** BETA Finance: znak „hlavní účel financování vlastní výroby/výzkumu" je naplněn jen zdánlivě — část prostředků plyne nesouvisejícím třetím osobám formou úročených zápůjček, což je „vlastní služba finanční povahy" výslovně z výluky vyňatá; výluka písm. a) se tak neuplatní v rozsahu této složky. GAMA SE: drží účasti za účelem dlouhodobého rozvoje (znak písm. b/ věty návětí) a současně je splněna alternativní podmínka bod 1 — kotace účastnických cenných papírů na evropském regulovaném trhu; výluka písm. b) se uplatní.
+
+**5. Řešení.** GAMA SE pod ZISIF nespadá (výluka § 2 písm. b/ bod 1 — kotace). BETA Finance v rozsahu interního financování vlastní výroby výluku požívá, avšak v rozsahu úročeného přefinancování třetích osob jde o regulovanou činnost; hrozí překvalifikace na investiční fond a sankce za neoprávněné obhospodařování. Kroky: oddělit a doložit skutečné využití prostředků; u pochybností zvážit dobrovolný zápis dle § 98 odst. 3, nebo strukturu upravit. Alternativní výklad: pokud by „finanční" složka byla marginální a podpůrná k výrobě, dominoval by hlavní účel a výluka by se udržela.
+
+**6. Varianty.** (a) Kdyby GAMA nebyla kotována, musela by prokazovat neziskový cíl exitu z výroční zprávy (bod 2) — jinak by výluka padla. (b) Kdyby BETA Finance pouze emitovala cenné papíry kryté portfoliem pohledávek skupiny v rámci sekuritizace, dopadla by výluka písm. c).
+
+#### G. Protiargumenty a rizika
+
+- *„Účel je deklarován v emisních podmínkách jako financování výroby, to postačí."* Protiargument neutralizuje § 2 sám: rozhoduje materiální „hlavní účel" a faktické užití prostředků, nikoli nominální deklarace; přefinancování třetích osob je vyňatá finanční služba.
+- *„Holding není fond, protože spravuje dceřiné firmy."* Ne každý holding je vyloučen — výluka písm. b) vyžaduje navíc splnění jedné z alternativních podmínek (kotace nebo neziskový exit); bez nich může i holding být investičním fondem (typicky private equity).
+- Slabé místo: pojem „přispívání k dlouhodobému rozvoji" a hranice „hlavního cíle tvorby zisku zcizováním" jsou neostré; doménová domněnka z výroční zprávy je vyvratitelná, takže důkazní břemeno o skutečném záměru může být sporné.
+
+#### H. Praktický závěr
+
+§ 2 vymezuje negativně, co kolektivním investováním není; výjimky se vykládají úzce a materiálně. Při strukturování je třeba doložit skutečný hospodářský účel a u holdingů splnění alternativní podmínky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je hlavním účelem skutečně financování/provozování vlastní (nefinanční) výroby, obchodu nebo výzkumu — doloženo účetnictvím?
+- [ ] Nejde o vyňatou „vlastní službu finanční povahy" (interní/externí přefinancování za úrok)?
+- [ ] U holdingu: jsou účastnické cenné papíry kotovány na evropském regulovaném trhu, nebo lze z veřejných dokumentů doložit neziskový cíl exitu?
+- [ ] Jde o sekuritizační strukturu ve smyslu písm. c)?
+- [ ] Není namístě (či žádoucí) dobrovolný zápis podle § 98 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** emisní podmínky, účetní doklady o využití prostředků, výroční zpráva a veřejné dokumenty holdingu, doklad o kotaci, sekuritizační dokumentace.
+
 ---
 
 ### § 2a — Negativní věcná působnost (family office a intrakonkernové struktury)
@@ -151,6 +225,43 @@ Výluky § 2a se **neuplatní**, jsou-li splněny tyto podmínky:
 2. **Status obhospodařovatele investičního fondu** — provádí-li osoba splňující jinak podmínky výluky činnost jako obhospodařovatel skutečného investičního fondu (ne jen family office nebo intrakonkernová struktura), aplikuje se plný regulační rámec pro obhospodařovatele (viz [02-cast2-obhospodarovatel-a.md](02-cast2-obhospodarovatel-a.md)).
 
 3. **§ 98 odst. 3** — opět se uplatní klauzule dobrovolného zápisu (stejně jako u § 2).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodina Novákových vytvoří strukturu NOVÁK Family Office s.r.o., která shromažďuje a společně investuje majetek manželů, jejich tří dětí a sourozenců jednoho z manželů. Po dvou letech do struktury vstoupí jako investor také dlouholetý rodinný přítel a obchodní partner, který není s rodinou příbuzný. Paralelně holding DELTA a.s. zřídí DELTA Treasury s.r.o., do níž společně investují výhradně dceřiné společnosti tvořící s DELTA koncern; struktura není zapsána v seznamu ČNB a nepůsobí jako obhospodařovatel fondu. Účastníci: členové rodiny Novákových a nepříbuzný investor, společnosti koncernu DELTA, ČNB. Důkazy: doklady o příbuzenských vztazích, seznam investorů, doklady o koncernovém propojení (§ 74 a násl. ZOK), výpis ze seznamu ČNB podle § 596 písm. e).
+
+**2. Právní otázka.** Uplatní se negativní výluka § 2a (family office — písm. a/; intrakonkernová struktura — písm. b/), jestliže do family office vstoupí nepříbuzný investor, resp. jsou-li v koncernové struktuře investory výlučně členové koncernu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2a — zákon se nevztahuje na family office vehicle (písm. a/) a na intrakonkernové společné investování (písm. b/), ledaže je osoba zapsána v seznamu ČNB podle § 596 písm. e), činnost vykonává jako obhospodařovatel investičního fondu, nebo stanoví-li § 98 odst. 3 jinak.
+- *Související ustanovení téhož zákona:* § 2 (zejména výluka holdingu písm. b/), § 1, § 98 odst. 3, § 596 písm. e); úprava obhospodařovatele (část druhá).
+- *Související předpisy:* § 74 a násl. zákona č. 90/2012 Sb. (ZOK) — vymezení koncernu; čl. 3 odst. 1 AIFMD (výjimka pro správu fondů jen v rámci skupiny / mateřských a dceřiných struktur); rodinné právo (OZ) pro výklad pojmu „člen rodiny".
+- *Judikatura:* k pojmu koncern a jednotnému řízení navazuje výklad § 74 a násl. ZOK; k úzkému výkladu výjimek z harmonizované regulace platí týž eurokonformní princip jako u § 2.
+
+**4. Subsumpce.** Family office Novákových: dokud jsou investory výlučně členové rodiny, je naplněn definiční znak písm. a) a výluka se uplatní. Vstupem nepříbuzného přítele a obchodního partnera (osoby bez rodinné vazby) znak „výlučně členové rodiny" odpadá; výluka se neuplatní a struktura může naplnit znaky investičního fondu. DELTA Treasury: investory jsou výlučně osoby tvořící s ní koncern (znak písm. b/), struktura není zapsána v seznamu ČNB ani nepůsobí jako obhospodařovatel fondu — žádná z podmiňujících okolností není dána, výluka se uplatní.
+
+**5. Řešení.** DELTA Treasury pod ZISIF nespadá (čistě vnitrokoncernové investování, žádný „cizí" investor). Family office Novákových ztrácí výluku okamžikem vstupu nepříbuzného investora — od té chvíle hrozí kvalifikace jako (neoprávněně provozovaný) investiční fond. Kroky: buď nepříbuzného investora ze struktury vyloučit/oddělit do jiné formy, nebo strukturu transformovat na regulovaný fond, popř. využít dobrovolný zápis dle § 98 odst. 3. Riziko: chybějící definice „člena rodiny" činí hraniční případy (sešvagření, vzdálení příbuzní, nesezdaní partneři) výkladově nejistými.
+
+**6. Varianty.** (a) Kdyby „rodinný přítel" byl ve skutečnosti registrovaným partnerem některého z dětí, mohl by být podle účelu výjimky a rodinného práva považován za člena rodiny a výluka by se udržela. (b) Kdyby DELTA Treasury začala přijímat i investory mimo koncern nebo se zapsala do seznamu ČNB, podmiňující klauzule by výluku zrušila.
+
+#### G. Protiargumenty a rizika
+
+- *„Přítel rodiny je fakticky ‚člen rodiny‘, výluka platí dál."* Protiargument neutralizuje znění písm. a) i účel výjimky (absence veřejného/cizího investora): rozhoduje právní rodinná vazba, nikoli blízkost vztahu; obchodní partner ji nesplňuje.
+- *„Intrakonkernová výluka platí vždy, jde-li o skupinu."* Neplatí bezvýhradně — výluka odpadá při zápisu do seznamu ČNB nebo při výkonu činnosti jako obhospodařovatel investičního fondu; navíc musí jít o koncern ve smyslu § 74 a násl. ZOK, ne o volné kapitálové propojení.
+- Slabé místo: pojem „člen rodiny" zákon ani AIFMD nedefinují, takže rozsah výluky písm. a) je v hraničních konstelacích sporný a důkazně náročný; doporučuje se konzervativní výklad.
+
+#### H. Praktický závěr
+
+§ 2a vyjímá rodinné a vnitrokoncernové struktury, u nichž chybí cizí investor; výluka je však podmíněná (zápis ČNB, status obhospodařovatele, § 98 odst. 3) a u family office citlivá na okruh investorů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou investory family office výlučně členové rodiny (právní rodinná vazba), bez jediného cizího investora?
+- [ ] U intrakonkernové struktury: tvoří všichni investoři s provozovatelem koncern podle § 74 a násl. ZOK?
+- [ ] Není provozovatel zapsán v seznamu ČNB podle § 596 písm. e)?
+- [ ] Nevykonává činnost jako obhospodařovatel investičního fondu?
+- [ ] Není namístě (či žádoucí) dobrovolný zápis podle § 98 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** doklady o příbuzenských vztazích, seznam a struktura investorů, doklady o koncernovém propojení, výpis ze seznamu ČNB, zakladatelské a investiční dokumenty struktury.
 
 ---
 
@@ -201,6 +312,42 @@ Pojišťovny a zajišťovny jsou regulovány zákonem č. 277/2009 Sb., o pojiš
 
 Výluka podle § 3 není absolutní — „ledaže to připouští jiný právní předpis". Tím zákon ponechává otevřený prostor pro případy, kdy zvláštní zákon (penzijní, pojišťovací) odkazem nebo jiným způsobem připouští, aby se na určité aspekty použily i ustanovení ZISIF — typicky pro konkrétní druhy investičních produktů, které penzijní nebo pojišťovací entity mohou vytvářet nebo do nichž mohou investovat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Penzijní společnost EPSILON, a.s., obhospodařuje účastnické fondy v rámci doplňkového penzijního spoření podle zákona č. 427/2011 Sb. a investuje jejich majetek do akcií, dluhopisů a nástrojů peněžního trhu. ČNB při dohledové kontrole zvažuje, zda na investiční činnost těchto účastnických fondů dopadají investiční limity a pravidla ZISIF (jako na investiční fond). Souběžně pojišťovna ZÉTA pojišťovna, a.s., investuje technické rezervy podle pravidel Solvency II a zákona o pojišťovnictví. Účastníci: EPSILON, účastníci penzijního spoření, ZÉTA, ČNB. Důkazy: statuty účastnických fondů, doklad o povolení podle penzijního zákona, výkaznictví o skladbě aktiv, doklady o krytí technických rezerv.
+
+**2. Právní otázka.** Použijí se na investiční činnost vykonávanou v rámci doplňkového penzijního spoření a v rámci pojišťovací činnosti ustanovení ZISIF, nebo je vylučuje sektorová výluka § 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 — ustanovení ZISIF se nepoužijí (ledaže to připouští jiný právní předpis) na činnost v rámci penzijního připojištění/doplňkového penzijního spoření/zaměstnaneckého penzijního pojištění a jiného zabezpečení na stáří se spoluúčastí státu (písm. a/), sociálního zabezpečení (písm. b/) a pojišťovací činnosti (písm. c/).
+- *Související ustanovení téhož zákona:* § 1 (předmět), § 2 a § 2a (jiné typy výluk); ZISIF jako lex specialis ke kolektivnímu investování.
+- *Související předpisy:* zákon č. 427/2011 Sb. (doplňkové penzijní spoření), č. 42/1994 Sb., č. 340/2006 Sb. (penzijní sektor); zákon č. 589/1992 Sb. a předpisy sociálního zabezpečení (písm. b/); zákon č. 277/2009 Sb. o pojišťovnictví a směrnice Solvency II 2009/138/ES (písm. c/, § 70 a násl. ZoPoj).
+- *Judikatura:* k zásadě lex specialis a vyloučení souběhu komplexních sektorových režimů; k povaze technických rezerv pojišťoven jako součásti pojišťovací (nikoli investiční) činnosti navazuje výklad práva pojišťovnictví.
+
+**4. Subsumpce.** EPSILON: investiční činnost je vykonávána „v rámci" doplňkového penzijního spoření (znak písm. a/) a řídí se vlastním speciálním zákonem a dohledem ČNB v penzijním sektoru; ustanovení ZISIF se proto nepoužijí, ledaže by to penzijní předpis sám připouštěl. ZÉTA: investice technických rezerv je organickou součástí pojišťovací činnosti (znak písm. c/) regulované Solvency II a § 70 a násl. zákona o pojišťovnictví; výluka § 3 se uplatní.
+
+**5. Řešení.** Na investiční činnost EPSILON i ZÉTA ZISIF zásadně nedopadá — platí jejich sektorové režimy. ČNB posoudí dodržení investičních pravidel podle penzijního, resp. pojišťovacího práva, nikoli podle ZISIF. Kroky: ověřit, zda zvláštní zákon v konkrétním bodě neodkazuje na ZISIF (klauzule „ledaže to připouští jiný právní předpis"). Riziko: u hybridních produktů (např. fond nabízený penzijní/pojišťovací entitou mimo její sektorovou činnost) může část činnosti spadat zpět pod ZISIF.
+
+**6. Varianty.** (a) Kdyby penzijní zákon u konkrétního produktu výslovně odkazoval na pravidla ZISIF, použila by se v daném rozsahu i přes výluku § 3. (b) Kdyby EPSILON vedle penzijního spoření založila a obhospodařovala samostatný investiční fond pro veřejnost, na tuto činnost mimo rámec penzijního spoření by se § 3 nevztahoval a ZISIF by se uplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *„Penzijní/pojišťovací subjekt fakticky kolektivně investuje, má tedy podléhat i ZISIF."* Protiargument neutralizuje § 3: jde o vědomé sektorové oddělení režimů — souběh komplexní regulace investičních fondů s penzijní/pojišťovací regulací je nadbytečný a zákonodárce jej vylučuje.
+- *„Výluka § 3 je absolutní."* Není — uvozuje ji klauzule „ledaže to připouští jiný právní předpis"; v rozsahu, v němž zvláštní zákon odkáže na ZISIF, se ZISIF použije.
+- Slabé místo: hranice „v rámci" sektorové činnosti je u inovativních/hybridních produktů neostrá; chybí jednotná definice, kdy činnost ještě patří do penzijního/pojišťovacího rámce a kdy už jde o samostatné kolektivní investování.
+
+#### H. Praktický závěr
+
+§ 3 odděluje regulatorní sektory: penzijní, sociální a pojišťovací činnost se řídí vlastními předpisy a ZISIF se na ni zásadně nepoužije, nestanoví-li zvláštní zákon jinak.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je posuzovaná činnost vykonávána „v rámci" penzijního (písm. a/), sociálního (písm. b/) nebo pojišťovacího (písm. c/) sektoru?
+- [ ] Který zvláštní zákon (č. 427/2011 Sb., č. 277/2009 Sb., předpisy sociálního zabezpečení) a unijní rámec (Solvency II) na ni dopadá?
+- [ ] Neodkazuje zvláštní předpis na použití ZISIF (klauzule „ledaže to připouští jiný právní předpis")?
+- [ ] Nejde o samostatný produkt/fond mimo sektorovou činnost, který by spadl zpět pod ZISIF?
+
+**Typicky rozhodné důkazy / podklady:** povolení podle sektorového zákona, statuty účastnických/penzijních fondů, doklady o krytí technických rezerv, výkaznictví o skladbě aktiv, znění případného odkazu na ZISIF ve zvláštním předpisu.
+
 ---
 
 ### § 4 — Negativní osobní působnost (zahraniční obhospodařovatel a administrátor bez vazby na ČR)
@@ -242,5 +389,42 @@ Tato struktura odpovídá systému **pasu AIFMD** (čl. 32–37 AIFMD) a **pasu 
 #### Přeshraniční nabízení a notifikace ČNB
 
 Podmínka „nabízení investic" je spojena s notifikačním systémem — zahraniční obhospodařovatel, který chce nabízet investice do svého fondu v ČR, musí zpravidla projít notifikačním procesem u ČNB nebo u svého domovského regulátora (v závislosti na tom, zda jde o fond UCITS nebo AIF, a na tom, zda pochází z EU nebo třetí země). Tento systém je podrobněji upraven v pozdějších částech ZISIF, na které § 4 nepřímo odkazuje logickým kontextem. Viz [02-cast2-obhospodarovatel-a.md](02-cast2-obhospodarovatel-a.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Irský administrátor THETA Fund Services Ltd. provádí administraci alternativního investičního fondu se sídlem v Irsku. Nemá sídlo v ČR a v ČR neprovádí administraci žádného investičního fondu. V jedné variantě nečiní v ČR vůbec nic; v druhé variantě však zveřejní v českém finančním tisku inzerci a osloví české kvalifikované investory s nabídkou účasti v tomto irském fondu. Souběžně lucemburský obhospodařovatel IOTA AIFM převezme řízení majetku investičního fondu vzniklého podle ZISIF (český SICAV). Účastníci: THETA (zahraniční administrátor), IOTA (zahraniční obhospodařovatel), čeští investoři, ČNB. Důkazy: doklady o sídle, smlouvy o administraci/obhospodařování, marketingové a inzertní materiály cílené na ČR, případná notifikace ČNB.
+
+**2. Právní otázka.** Uplatní se na činnost THETA a IOTA negativní osobní výluka § 4 (zákon se nevztahuje na zahraniční subjekt bez sídla, bez výkonu činnosti v ČR a bez nabízení v ČR), nebo aktivita v ČR výluku vylučuje a ZISIF se použije?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 — zákon se nevztahuje na obhospodařovatele (písm. a/) a administrátora (písm. b/) zahraničního investičního fondu, který kumulativně nemá sídlo v ČR, nevykonává v ČR příslušnou činnost a nenabízí v ČR investice do příslušného zahraničního fondu.
+- *Související ustanovení téhož zákona:* § 1 (předmět — nabízení a obhospodařování), § 5 a násl. (obhospodařování), část čtvrtá a notifikační ustanovení (nabízení a přeshraniční pas), § 2 a § 2a (věcné výluky).
+- *Související předpisy:* čl. 32–37 AIFMD (pas pro přeshraniční obhospodařování a nabízení), pas UCITS podle směrnice 2009/65/ES; úprava reverse solicitation a pre-marketingu v AIFMD.
+- *Judikatura:* k zásadě teritoriality dohledu a k tomu, že aktivní oslovování investorů v hostitelském státě zakládá nexus podléhající jeho regulaci; eurokonformní výklad pojmu „nabízení" podle AIFMD.
+
+**4. Subsumpce.** THETA — varianta 1: splněny všechny tři negativní podmínky písm. b) (žádné sídlo, žádná administrace v ČR, žádné nabízení v ČR) → výluka se uplatní, ZISIF nedopadá. THETA — varianta 2: ačkoli nemá sídlo ani neprovádí administraci v ČR, aktivně nabízí investice do administrovaného fondu českým investorům; jediný splněný nexus (nabízení) ruší kumulativnost a výluka se neuplatní. IOTA: obhospodařuje investiční fond vzniklý podle ZISIF na území ČR — naplněn nexus „obhospodařování v ČR"; výluka písm. a) se neuplatní.
+
+**5. Řešení.** Na THETA ve variantě 1 ZISIF nedopadá. Ve variantě 2 dopadá v rozsahu nabízení — administrátor/obhospodařovatel musí splnit notifikační požadavky a podléhá dohledu ČNB. Na IOTA ZISIF dopadá z titulu obhospodařování českého fondu bez ohledu na sídlo. Kroky: posoudit každý ze tří nexů zvlášť; před nabízením v ČR projít notifikací (pas AIFMD/UCITS dle typu fondu a původu z EU/třetí země). Riziko: aktivity na hranici „pre-marketingu" vs. „nabízení" mohou být sporné; nesprávné posouzení vede k neoprávněnému nabízení.
+
+**6. Varianty.** (a) Kdyby čeští investoři kontaktovali THETA sami z vlastní iniciativy (reverse solicitation) a administrátor by aktivně nenabízel, nešlo by o „nabízení v ČR" a výluka by se mohla udržet. (b) Kdyby IOTA pouze ze zahraničí spravovala výhradně zahraniční fond bez nabízení v ČR, byly by všechny tři podmínky písm. a) splněny a výluka by se uplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *„Subjekt nemá sídlo v ČR, takže ZISIF na něj nedopadá."* Protiargument neutralizuje kumulativní povaha § 4: nestačí absence sídla — musí být současně splněny i podmínky neobhospodařování/neadministrace a nenabízení v ČR; jediný nexus výluku ruší.
+- *„Inzerce není ‚nabízení‘, jde jen o informování."* Sporné: aktivní marketingová komunikace cílená na české investory zpravidla naplňuje pojem nabízení podle AIFMD; je třeba odlišit přípustný pre-marketing od nabízení a doložit charakter komunikace.
+- Slabé místo: § 4 sám nestanoví notifikační proceduru a výslovně neupravuje reverse solicitation — odkazuje logickým kontextem na pozdější části ZISIF a na AIFMD; hranice „nexu" je u online a přeshraniční komunikace výkladově nejistá.
+
+#### H. Praktický závěr
+
+§ 4 vyjímá zahraniční obhospodařovatele a administrátory bez jakékoli vazby na ČR; výluka je kumulativní a padá, jakmile vznikne byť jediný nexus (sídlo, výkon činnosti v ČR, nebo nabízení v ČR).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má zahraniční subjekt sídlo v ČR?
+- [ ] Obhospodařuje / provádí administraci investičního fondu na území ČR?
+- [ ] Nabízí v ČR investice do (jím obhospodařovaného / administrovaného) zahraničního investičního fondu — a jde o aktivní nabízení, nebo o reverse solicitation/pre-marketing?
+- [ ] Jsou splněny všechny tři negativní podmínky zároveň (jinak výluka neplatí)?
+- [ ] Byl při existenci nexu proveden notifikační proces (pas AIFMD/UCITS) a podřízení dohledu ČNB?
+
+**Typicky rozhodné důkazy / podklady:** doklad o sídle, smlouvy o obhospodařování/administraci, marketingové a inzertní materiály cílené na ČR, korespondence dokládající iniciativu investora (reverse solicitation), notifikace a doklady o pasu.
 
 ---
