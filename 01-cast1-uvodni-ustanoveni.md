@@ -85,6 +85,52 @@ V praxi § 1 slouží jako vstupní filtr: určuje, zda posuzovaná činnost vů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=23943432a0423ffa4f28 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Tento zákon zapracovává příslušné předpisy Evropské unie1), zároveň navazuje na přímo použitelné předpisy Evropské unie2) a upravuje podmínky pro obhospodařování a administraci investičních fondů a zahraničních investičních fondů a nabízení investic do těchto fondů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=23943432a0423ffa4f28 -->
+
 ### § 2 — Negativní věcná působnost (výluky ze zákona)
 
 > **§ 2**
@@ -184,6 +230,68 @@ Sekuritizační entity (zejména **ABCP conduits**, tradiční **ABS SPV**) napl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a12479620fdbab8c5ee0 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Tento zákon se nevztahuje na činnost spočívající
+>
+> - a) ve shromažďování
+>
+> - 1. peněžních prostředků, jehož hlavním účelem je financování vlastní výroby, obchodu, výzkumu nebo poskytování vlastních služeb, jiných než finančních, a na další správu takto shromážděných peněžních prostředků nebo majetku nabytého za tyto peněžní prostředky, nebo
+>
+> - 2. penězi ocenitelných věcí, jehož hlavním účelem je provozování vlastní výroby, vlastního obchodu, výzkumu nebo poskytování vlastních služeb, jiných než finančních, a na další správu takto shromážděných penězi ocenitelných věcí nebo majetku nabytého za tyto penězi ocenitelné věci,
+>
+> - b) ve shromažďování peněžních prostředků nebo penězi ocenitelných věcí za účelem jejich společného investování, a na další správu takto shromážděných peněžních prostředků nebo penězi ocenitelných věcí nebo majetku nabytého za tyto peněžní prostředky nebo penězi ocenitelné věci, vykonává-li tuto činnost právnická osoba, aby prostřednictvím své účasti v jedné nebo více jiných právnických osobách přispívala k dlouhodobému rozvoji těchto osob, a
+>
+> - 1. její účastnické cenné papíry jsou přijaty k obchodování na evropském regulovaném trhu, nebo
+>
+> - 2. jejím hlavním cílem není tvorba zisku pomocí zcizování účasti v těchto osobách; tato podmínka je splněna zejména tehdy, vyplývá-li z výroční zprávy této osoby nebo z jiných veřejně přístupných dokumentů, že toto není jejím cílem, nebo
+>
+> - c) ve shromažďování peněžních prostředků nebo penězi ocenitelných věcí, je-li prováděna v rámci sekuritizace3) a na další správu takto shromážděných peněžních prostředků nebo penězi ocenitelných věcí nebo majetku nabytého za tyto peněžní prostředky nebo penězi ocenitelné věci,
+>
+> nestanoví-li tento zákon dále jinak (§ 98 odst. 3).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 98
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a12479620fdbab8c5ee0 -->
+
 ### § 2a — Negativní věcná působnost (family office a intrakonkernové struktury)
 
 > **§ 2a**
@@ -264,6 +372,58 @@ Výluky § 2a se **neuplatní**, jsou-li splněny tyto podmínky:
 **Typicky rozhodné důkazy / podklady:** doklady o příbuzenských vztazích, seznam a struktura investorů, doklady o koncernovém propojení, výpis ze seznamu ČNB, zakladatelské a investiční dokumenty struktury.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ec879749335b14a0a7e7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 2a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Tento zákon se nevztahuje také na činnost spočívající
+>
+> - a) ve shromažďování peněžních prostředků nebo penězi ocenitelných věcí od členů rodiny za účelem jejich společného investování a na další správu takto shromážděných peněžních prostředků nebo penězi ocenitelných věcí nebo majetku nabytého za tyto peněžní prostředky nebo penězi ocenitelné věci (family office vehicle), nebo
+>
+> - b) ve shromažďování peněžních prostředků nebo penězi ocenitelných věcí za účelem jejich společného investování, a na další správu takto shromážděných peněžních prostředků nebo penězi ocenitelných věcí nebo majetku nabytého za tyto peněžní prostředky nebo penězi ocenitelné věci, je-li investorem výlučně osoba, která spolu s tím, kdo tuto činnost provádí, tvoří koncern,
+>
+> ledaže ten, kdo tuto činnost provádí, je zapsán v seznamu vedeném Českou národní bankou podle § 596 písm. e), nebo tuto činnost provádí jako obhospodařovatel investičního fondu, jakož i stanoví-li tento zákon dále jinak (§ 98 odst. 3).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 596, § 98
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ec879749335b14a0a7e7 -->
 
 ### § 3 — Výluky pro penzijní, sociální a pojišťovací sektor
 
@@ -350,6 +510,58 @@ Výluka podle § 3 není absolutní — „ledaže to připouští jiný právn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ab5c8f09f5a48f94285e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Ustanovení tohoto zákona se nepoužijí, ledaže to připouští jiný právní předpis, na činnost vykonávanou v rámci
+>
+> - a) penzijního připojištění se státním příspěvkem, doplňkového penzijního spoření, zaměstnaneckého penzijního pojištění nebo jiného zabezpečení na stáří se spoluúčastí státu nebo jiné veřejnoprávní korporace,
+>
+> - b) sociálního zabezpečení a
+>
+> - c) pojišťovací činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ab5c8f09f5a48f94285e -->
+
 ### § 4 — Negativní osobní působnost (zahraniční obhospodařovatel a administrátor bez vazby na ČR)
 
 > **§ 4**
@@ -428,3 +640,52 @@ Podmínka „nabízení investic" je spojena s notifikačním systémem — zahr
 **Typicky rozhodné důkazy / podklady:** doklad o sídle, smlouvy o obhospodařování/administraci, marketingové a inzertní materiály cílené na ČR, korespondence dokládající iniciativu investora (reverse solicitation), notifikace a doklady o pasu.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=584e90199db078a8ec7d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Tento zákon se nevztahuje na činnost vykonávanou
+>
+> - a) obhospodařovatelem zahraničního investičního fondu, který nemá sídlo v České republice, neobhospodařuje v České republice investiční fond a nenabízí zde investice do jím obhospodařovaného zahraničního investičního fondu,
+>
+> - b) administrátorem zahraničního investičního fondu, který nemá sídlo v České republice, neprovádí v České republice administraci investičního fondu a nenabízí investice do zahraničního investičního fondu, jehož administraci provádí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=584e90199db078a8ec7d -->

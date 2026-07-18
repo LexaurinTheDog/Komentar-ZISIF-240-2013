@@ -112,6 +112,88 @@ Povolení podle § 479 lze udělit jen při kumulativním splnění všech před
 
 **Typicky rozhodné důkazy / podklady:** plán obchodní činnosti s propočty; stanovy a doklad o založení a.s.; výpisy z evidence Rejstříku trestů a životopisy vedoucích osob; doklady o původu a umístění kapitálu; popis vnitřních předpisů (compliance, vnitřní audit, řízení rizik); struktura vlastnictví a doklad o kvalifikované účasti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=af5419c5416305b6b03e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 479 — Investiční společnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka udělí povolení k činnosti investiční společnosti na žádost akciové společnosti nebo na žádost zakladatele nebo zakladatelů akciové společnosti přede dnem jejího zápisu do obchodního rejstříku, jestliže
+>
+> - a) sídlo a skutečné sídlo je nebo má být v České republice,
+>
+> - b) společnost je důvěryhodná,
+>
+> - c) nejsou důvodné obavy, že společnost nebude mít v rozsahu, v jakém žádá o povolení k činnosti, ke dni zahájení činnosti věcné, organizační a personální předpoklady pro výkon takové činnosti, umožňující naplnění plánu obchodní činnosti, a především je zřejmé, jakým způsobem bude zajišťováno operativní řízení, plněna investiční strategie, zajišťována compliance a vnitřní audit, řízena rizika, prováděna finanční kontrola a řízeny peněžní toky, upraven systém odměňování osob a nastaveny postupy pro pověřování třetích osob výkonem některé činnosti, kterou zahrnuje obhospodařování nebo administrace investičního fondu, a pro kontrolu činnosti pověřených osob,
+>
+> - d) její plán obchodní činnosti
+>
+>   - 1. vymezuje a pokrývá plánovaný rozsah činnosti,
+>
+>   - 2. je podložený reálnými ekonomickými propočty a
+>
+>   - 3. vymezuje činnosti, jejichž výkonem hodlá pověřit jiného,
+>
+> - e) řádný a obezřetný výkon činnosti společnosti budou řídit alespoň 2 osoby, které splňují předpoklady schvalování vedoucích osob stanovené v § 516 odst. 1,
+>
+> - f) počáteční kapitál společnosti v minimální výši podle [[#§ 29|§ 29]] má průhledný a nezávadný původ, je umístěn v souladu s pravidly pro umístění kapitálu podle [[#§ 32|§ 32]] a společnost má nebo bude mít nejpozději ke dni zahájení činnosti kapitál ve výši podle [[#§ 30|§ 30]] a [[#§ 31|31]], která umožňuje řádné obhospodařování investičních fondů nebo zahraničních investičních fondů, a tento kapitál má průhledný a nezávadný původ,
+>
+> - g) úzké propojení s jinou osobou nebrání výkonu dohledu nad společností; při úzkém propojení s osobou, která má sídlo nebo skutečné sídlo ve státě, který není členským státem, nesmí právo tohoto státu a způsob jeho uplatňování, včetně jeho vymahatelnosti, bránit výkonu dohledu nad investiční společností,
+>
+> - h) u fondů nebo korporací, které obhospodařuje nebo hodlá obhospodařovat, nevznikají důvodné obavy, že nebude zpřístupňovat investorům údaje uvedené v § 241 odst. 1 nebo [[#§ 293|§ 293]],
+>
+> - i) kvalifikovanou účast na společnosti budou mít pouze osoby splňující předpoklady stanovené v § 522 odst. 2,
+>
+> - j) osvědčí splnění předpokladů podle § 507 odst. 1, hodlá-li vykonávat některou z činností podle § 11 odst. 1 písm. c) až f),
+>
+> - k) splňuje předpoklady podle článku 14 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění, hodlá-li obhospodařovat kvalifikované fondy rizikového kapitálu podle článku 3 písm. b) tohoto předpisu nebo srovnatelné zahraniční investiční fondy, a
+>
+> - l) splňuje předpoklady podle článku 15 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění, hodlá-li obhospodařovat kvalifikované fondy sociálního podnikání podle článku 3 písm. b) tohoto předpisu nebo srovnatelné zahraniční investiční fondy.
+>
+> (2) Česká národní banka udělí povolení k činnosti investiční společnosti, hodlá-li obhospodařovat pouze kvalifikované fondy rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění, kvalifikované fondy sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění nebo srovnatelné zahraniční investiční fondy, také na žádost akciové společnosti nebo na žádost zakladatele nebo zakladatelů akciové společnosti přede dnem jejího zápisu do obchodního rejstříku, jestliže její sídlo a skutečné sídlo je nebo má být v České republice, a
+>
+> - a) jsou-li splněny předpoklady podle článku 14 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění, hodlá-li obhospodařovat kvalifikované fondy rizikového kapitálu podle článku 3 písm. b) tohoto předpisu nebo srovnatelné zahraniční investiční fondy, nebo
+>
+> - b) jsou-li splněny předpoklady podle článku 15 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění, hodlá-li obhospodařovat kvalifikované fondy sociálního podnikání podle článku 3 písm. b) tohoto předpisu nebo srovnatelné zahraniční investiční fondy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 516, § 29, § 32, § 30, § 31, § 241, § 293, § 522, § 507, § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af5419c5416305b6b03e -->
+
 ### § 480 — Samosprávný investiční fond
 
 > **§ 480**
@@ -190,6 +272,74 @@ Samosprávný investiční fond přejímá předpoklady investiční společnost
 - [ ] Je správně určen režim fondu (standardní / speciální / FKI / ELTIF / EuVECA / EuSEF) a tomu odpovídající stopa (odst. 1–3)?
 
 **Typicky rozhodné důkazy / podklady:** statut investičního fondu; doklad o založení a právní formě; potvrzení depozitáře; návrh smlouvy o administraci (má-li ji provádět jiný); doklady k předpokladům § 479 odst. 1; u FKI zápis v seznamu dle § 596 písm. e).
+
+
+<!-- LEGAL-REVISION:BEGIN id=416f3f74d00e19494cbc generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 480 — Samosprávný investiční fond
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka udělí povolení k činnosti samosprávného investičního fondu na žádost zakladatele nebo zakladatelů právnické osoby přede dnem jejího zápisu do obchodního rejstříku nebo na žádost investičního fondu uvedeného v § 9 odst. 1, jestliže
+>
+> - a) osvědčí, že právnická osoba byla založena a že má právní formu, kterou připouští tento zákon,
+>
+> - b) jsou splněny předpoklady stanovené v § 479 odst. 1,
+>
+> - c) předloží návrh smlouvy o administraci, má-li administraci provádět jiná osoba,
+>
+> - d) osoba, která bude depozitářem, potvrdí vytvoření předpokladů k plnění povinností depozitáře vyplývajících z tohoto zákona,
+>
+> - e) předloží statut investičního fondu, který má všechny předepsané náležitosti vyplývající z tohoto zákona,
+>
+> - f) jsou splněny předpoklady uvedené v § 248 odst. 1, má-li být podřízeným investičním fondem, nebo
+>
+> - g) jsou splněny předpoklady podle článků 5 a 6 nařízení Evropského parlamentu a Rady (EU) [[2015/760|2015/760]], v platném znění, má-li být evropským fondem dlouhodobých investic.
+>
+> (2) Česká národní banka udělí povolení k činnosti samosprávného investičního fondu podle odstavce 1 též na žádost právnické osoby zapsané v seznamu vedeném Českou národní bankou podle § 596 písm. e), má-li být fondem kvalifikovaných investorů.
+>
+> (3) Česká národní banka udělí povolení k činnosti samosprávného investičního fondu, má-li být kvalifikovaným fondem rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění nebo kvalifikovaným fondem sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění, také na žádost zakladatele nebo zakladatelů právnické osoby přede dnem jejího zápisu do obchodního rejstříku nebo na žádost investičního fondu uvedeného v § 9 odst. 1 nebo na žádost právnické osoby zapsané v seznamu vedeném Českou národní bankou podle § 596 písm. e), jestliže tato právnická osoba splňuje předpoklad stanovený v § 479 odst. 1 písm. a) a
+>
+> - a) jsou-li splněny předpoklady podle článku 14 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění, nebo
+>
+> - b) jsou-li splněny předpoklady podle článku 15 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 479, § 248, § 596
+
+##### Souvisící předpisy
+
+- akt EU 2015/760 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=416f3f74d00e19494cbc -->
 
 ### § 481 — Zahraniční osoba jako obhospodařovatel
 
@@ -282,6 +432,78 @@ Povolení non-EU AIFM podle § 481 vyžaduje současně určení ČR jako refere
 
 **Typicky rozhodné důkazy / podklady:** zdůvodnění referenčního státu a strategie nabízení; potvrzení domovského orgánu dohledu; uzavřené MoU; doklad o povolení domovského orgánu k obhospodařování srovnatelného fondu (písm. d); doklady k FATF a daňové transparentnosti; stanovisko ESMA.
 
+
+<!-- LEGAL-REVISION:BEGIN id=bf97f4a6d82a12d93350 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 481 — Zahraniční osoba jako obhospodařovatel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka udělí povolení k činnosti zahraniční osobě se sídlem ve státě, který není členským státem, která hodlá obhospodařovat speciální fondy, srovnatelné zahraniční investiční fondy, fondy kvalifikovaných investorů nebo srovnatelné zahraniční investiční fondy, nebo nabízet investice do těchto fondů, popřípadě provádět administraci těchto fondů, na její žádost, jestliže
+>
+> - a) je Česká republika jejím referenčním státem,
+>
+> - b) splňuje předpoklady stanovené v § 479 odst. 1 písm. b) až h), přičemž základním kapitálem se rozumí srovnatelná veličina v závislosti na její právní formě,
+>
+> - c) na ní mají kvalifikovanou účast pouze osoby, které jsou důvěryhodné a schopné zajistit řádný a obezřetný výkon činnosti zahraniční osoby,
+>
+> - d) má povolení orgánu dohledu domovského státu k obhospodařování zahraničního investičního fondu srovnatelného s investičním fondem, který hodlá obhospodařovat,
+>
+> - e) činnost podle § 38 odst. 1 písm. d), n) a o) má vykonávat osoba se sídlem, bydlištěm nebo pobočkou na území České republiky,
+>
+> - f) Česká národní banka, orgán dohledu domovského státu zahraniční osoby a, přichází-li to v úvahu, orgán dohledu členského státu, který je domovským státem zahraničního investičního fondu, který hodlá tato zahraniční osoba obhospodařovat, se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle tohoto zákona,
+>
+> - g) stát, ve kterém má zahraniční osoba sídlo nebo skutečné sídlo, není uveden na seznamu nespolupracujících zemí a teritorií vypracovaném Finančním akčním výborem proti praní peněz Organizace pro hospodářskou spolupráci a rozvoj,
+>
+> - h) stát, ve kterém má zahraniční osoba sídlo a skutečné sídlo, uzavřel s Českou republikou dohodu, která je v souladu se zásadami uvedenými v článku 26 Modelové daňové smlouvy Organizace pro hospodářskou spolupráci a rozvoj o příjmech a majetku a která zajišťuje výměnu informací v daňových záležitostech,
+>
+> - i) právo státu, v němž má zahraniční osoba sídlo nebo skutečné sídlo, včetně případných omezení pravomocí orgánů dohledu zahraniční osoby v tomto státě, nebrání účinnému výkonu dohledu nad touto zahraniční osobou podle tohoto zákona,
+>
+> - j) osvědčí splnění předpokladů podle § 507 odst. 2, hodlá-li vykonávat některou z činností podle § 11 odst. 1 písm. c) až f),
+>
+> - k) přichází-li to v úvahu, Česká národní banka jí povolila výjimku z plnění povinností podle § 492 odst. 1, a
+>
+> - l) předloží zdůvodnění, proč je Česká republika referenčním státem a strategii pro nabízení investic do investičních fondů a zahraničních investičních fondů, které obhospodařuje, není-li tato strategie součástí plánu podle § 479 odst. 1 písm. d).
+>
+> (2) Má se za to, že předpoklady podle odstavce 1 písm. b) a c) jsou splněny, předložil-li žadatel potvrzení orgánu dohledu svého domovského státu o jejich splnění a nemá-li Česká národní banka důvodné pochybnosti o tom, že toto potvrzení splnění předpokladů uvedených v odstavci 1 písm. b) a c) osvědčuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 38, § 507, § 11, § 492
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf97f4a6d82a12d93350 -->
+
 ### § 482 — Hlavní administrátor
 
 > **§ 482**
@@ -351,6 +573,74 @@ Povolení hlavního administrátora se uděluje samostatně, vyžaduje zúžený
 
 **Typicky rozhodné důkazy / podklady:** plán obchodní činnosti; doklad o počátečním kapitálu (§ 57) a jeho původu; životopisy a bezúhonnost vedoucích osob; popis dosavadní a plánované jiné podnikatelské činnosti; popis organizačního oddělení administrace a kapacit.
 
+
+<!-- LEGAL-REVISION:BEGIN id=118518cf03820af1a254 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 482 — Hlavní administrátor
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Česká národní banka udělí povolení k činnosti hlavního administrátora na žádost obchodní společnosti nebo na žádost zakladatele nebo zakladatelů obchodní společnosti přede dnem jejího zápisu do obchodního rejstříku, jestliže
+>
+> - a) sídlo a skutečné sídlo je nebo má být v České republice,
+>
+> - b) společnost je důvěryhodná,
+>
+> - c) nejsou důvodné obavy, že hlavní administrátor nebude mít v rozsahu, v jakém žádá o povolení k činnosti, ke dni zahájení činnosti věcné, organizační a personální předpoklady pro výkon činnosti umožňující naplnění plánu obchodní činnosti a především je zřejmé, jakým způsobem bude zajišťováno operativní řízení, zajišťována compliance a vnitřní audit a kontrolována činnost osob, které hodlá pověřit výkonem některé činnosti, kterou zahrnuje administrace investičního fondu nebo zahraničního investičního fondu,
+>
+> - d) její plán obchodní činnosti
+>
+>   - 1. vymezuje a pokrývá plánovaný rozsah činnosti,
+>
+>   - 2. je podložený reálnými ekonomickými propočty,
+>
+>   - 3. vymezuje činnosti, jejichž výkonem hodlá pověřit jiného,
+>
+> - e) řádný a obezřetný výkon činnosti společnosti budou řídit alespoň 2 osoby, které splňují předpoklady schvalování vedoucích osob stanovené v § 516 odst. 1,
+>
+> - f) počáteční kapitál společnosti v minimální výši podle [[#§ 57|§ 57]] má průhledný a nezávadný původ a společnost má nebo bude mít nejpozději ke dni zahájení činnosti kapitál ve výši podle [[#§ 58|§ 58]], která umožňuje řádnou administraci investičních fondů nebo zahraničních investičních fondů, a tento kapitál má průhledný a nezávadný původ,
+>
+> - g) kvalifikovanou účast na společnosti budou mít pouze osoby splňující předpoklady stanovené v § 522 odst. 2 a
+>
+> - h) její další podnikatelská činnost nebrání nebo nebude bránit řádnému provádění administrace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 516, § 57, § 58, § 522
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=118518cf03820af1a254 -->
+
 ### Díl 2 — Řízení
 
 #### Oddíl 1 — Základní ustanovení
@@ -414,6 +704,58 @@ Odstavec 4 normuje výjimku z obecného požadavku předchozího vyčerpání pr
 
 **Typicky rozhodné důkazy / podklady:** doklad o dni podání a úplnosti žádosti; oznámení a odůvodnění prodloužení lhůty; doklad o (ne)konzultaci ESMA; komunikace s CNB; v případě žaloby doklad o marném uplynutí lhůty.
 
+
+<!-- LEGAL-REVISION:BEGIN id=35ca8a9587b6b2e6f882 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 483 — Lhůty pro rozhodnutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka rozhodne o žádosti o povolení podle § 479 až 482 do 3 měsíců ode dne podání žádosti, pokud má předepsané náležitosti a netrpí ani jinými vadami; je-li to z hlediska náležitého posouzení žádosti nezbytné, Česká národní banka prodlouží tuto lhůtu až o 3 měsíce.
+>
+> (2) Jde-li o žádost o povolení podle [[#§ 479|§ 479]] opravňující investiční společnost obhospodařovat standardní fondy nebo srovnatelné zahraniční investiční fondy nebo o žádost o povolení podle [[#§ 480|§ 480]], má-li být samosprávný investiční fond standardním fondem, rozhodne Česká národní banka o této žádosti do 6 měsíců ode dne podání žádosti, která má předepsané náležitosti a ani netrpí jinými vadami.
+>
+> (3) Česká národní banka nemusí rozhodnout o žádosti uvedené v [[#§ 484|§ 484]] dříve než po uplynutí 1 měsíce ode dne, kdy žadatel prokáže splnění předpokladů podle § 479 odst. 1 písm. c) a i), nebo ode dne, kdy stanovisko evropského orgánu dohledu uvedené v [[#§ 489|§ 489]] došlo České národní bance.
+>
+> (4) Nevydá-li rozhodnutí Česká národní banka o žádosti o povolení ve lhůtě podle odstavců 1 až 3, lze se domáhat, aby jí soud uložil povinnost vydat rozhodnutí ve věci samé, i když nebyly bezvýsledně vyčerpány prostředky, které [[správní řád|správní řád]] stanoví k ochraně proti nečinnosti správního orgánu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 480, § 484, § 489
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35ca8a9587b6b2e6f882 -->
+
 ### § 484 — Úplné žádosti
 
 > **§ 484**
@@ -467,6 +809,54 @@ Fikce zkracuje dobu, po níž CNB čeká na doplnění žádosti, a umožňuje z
 - [ ] Odlišuje CNB procesní neúplnost od věcného nesplnění předpokladů?
 
 **Typicky rozhodné důkazy / podklady:** žádost s daty k organizačním, personálním a kapitálovým předpokladům; doklad o skutečném sídle; doklady o důvěryhodnosti; osvědčení dle § 507; u zahraniční osoby doklady dle § 481 odst. 1 písm. d), i), k).
+
+
+<!-- LEGAL-REVISION:BEGIN id=afd8a5293701eda2f32b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 484 — Úplné žádosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Má se za to, že žádost o povolení opravňující investiční společnost nebo samosprávný investiční fond přesáhnout rozhodný limit má předepsané náležitosti ani netrpí jinými vadami, obsahuje-li údaje k prokázání splnění předpokladů podle § 479 odst. 1 písm. c) až e) a i); nebude-li však v průběhu řízení o žádosti prokázáno splnění předpokladů podle § 479 odst. 1 písm. a), b) a j), Česká národní banka žádost zamítne.
+>
+> (2) Má se za to, že žádost o povolení k činnosti zahraniční osobě podle [[#§ 481|§ 481]] má předepsané náležitosti ani netrpí jinými vadami, obsahuje-li údaje k prokázání splnění předpokladů podle § 479 odst. 1 písm. c) až h) a podle § 481 odst. 1 písm. d), i) a k).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afd8a5293701eda2f32b -->
 
 ### § 485 — Výrok rozhodnutí (obhospodařovatel)
 
@@ -531,6 +921,102 @@ Výrok rozhodnutí podle § 485 konstitutivně a taxativně vymezuje rozsah opr�
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení s úplným výrokem; seznam skutečně obhospodařovaných a administrovaných fondů; odůvodnění případného omezení rozsahu; žádost o změnu povolení (§ 500) při rozšíření činnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2e8a1ec8822bf221202e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 485
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ve výroku rozhodnutí o udělení povolení podle [[#§ 479|§ 479]] nebo [[#§ 481|481]] Česká národní banka uvede, zda je obhospodařovatel oprávněn
+>
+>   - a) přesáhnout rozhodný limit,
+>
+>   - b) obhospodařovat
+>
+>     - 1. standardní fondy,
+>
+>     - 2. zahraniční investiční fondy srovnatelné se standardním fondem,
+>
+>     - 3. speciální fondy,
+>
+>     - 4. zahraniční investiční fondy srovnatelné se speciálním fondem,
+>
+>     - 5. fondy kvalifikovaných investorů, s výjimkou kvalifikovaných fondů rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění a kvalifikovaných fondů sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění,
+>
+>     - 6. zahraniční investiční fondy srovnatelné s fondem kvalifikovaných investorů, s výjimkou zahraničních investičních fondů srovnatelných s kvalifikovaným fondem rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění a zahraničních investičních fondů srovnatelných s kvalifikovaným fondem sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění,
+>
+>     - 7. kvalifikované fondy rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění,
+>
+>     - 8. zahraniční investiční fondy srovnatelné s kvalifikovaným fondem rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění,
+>
+>     - 9. kvalifikované fondy sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění, nebo
+>
+>     - 10. zahraniční investiční fondy srovnatelné s kvalifikovaným fondem sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění,
+>
+>   - c) provádět administraci
+>
+>     - 1. standardních fondů,
+>
+>     - 2. zahraničních investičních fondů srovnatelných se standardním fondem,
+>
+>     - 3. speciálních fondů,
+>
+>     - 4. zahraničních investičních fondů srovnatelných se speciálním fondem,
+>
+>     - 5. fondů kvalifikovaných investorů, s výjimkou kvalifikovaných fondů rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění a kvalifikovaných fondů sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění,
+>
+>     - 6. zahraničních investičních fondů srovnatelných s fondem kvalifikovaných investorů, s výjimkou zahraničních investičních fondů srovnatelných s kvalifikovaným fondem rizikového kapitálu podle článku 3 písm. b) přímo použitelného předpisu Evropské unie upravujícího evropské fondy rizikového kapitálu7) a zahraničních investičních fondů srovnatelných s kvalifikovaným fondem sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění,
+>
+>     - 7. kvalifikovaných fondů rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění,
+>
+>     - 8. zahraničních investičních fondů srovnatelných s kvalifikovaným fondem rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění,
+>
+>     - 9. kvalifikovaných fondů sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění, nebo
+>
+>     - 10. zahraničních investičních fondů srovnatelných s kvalifikovaným fondem sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění a
+>
+>   - d) vykonávat činnosti uvedené v § 11 odst. 1 písm. c) až f), žádá-li o povolení k jejich výkonu.
+>
+> (2) Česká národní banka může ve výroku rozhodnutí o udělení povolení podle [[#§ 479|§ 479]] nebo [[#§ 481|481]] omezit rozsah povolované činnosti, zejména jde-li o rozsah investiční strategie investičních fondů nebo zahraničních investičních fondů, které hodlá investiční společnost podle [[#§ 479|§ 479]] nebo zahraniční osoba s povolením podle [[#§ 481|§ 481]] obhospodařovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 481, § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2e8a1ec8822bf221202e -->
+
 ### § 486 — Výrok rozhodnutí (samosprávný fond)
 
 > **§ 486**
@@ -579,6 +1065,60 @@ Výrok podle § 486 odst. 1 konstituuje identitu samosprávného fondu (typ, lim
 
 **Typicky rozhodné důkazy / podklady:** statut fondu se všemi náležitostmi; doklady o depozitáři a jeho potvrzení; doklady k předpokladům § 480; návrh smlouvy o administraci, neprovádí-li ji fond sám.
 
+
+<!-- LEGAL-REVISION:BEGIN id=b1caa1a1587e1385c355 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 486
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ve výroku rozhodnutí o udělení povolení podle [[#§ 480|§ 480]] Česká národní banka uvede, zda je samosprávný investiční fond
+>
+>   - a) oprávněn přesáhnout rozhodný limit,
+>
+>   - b) standardním fondem, speciálním fondem, fondem kvalifikovaných investorů, evropským fondem dlouhodobých investic, kvalifikovaným fondem rizikového kapitálu podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění nebo kvalifikovaným fondem sociálního podnikání podle článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění a
+>
+>   - c) oprávněn provádět svou vlastní administraci.
+>
+> (2) Česká národní banka současně s rozhodnutím o udělení povolení podle [[#§ 480|§ 480]] rozhodne o schválení depozitáře a statutu, má-li být samosprávný investiční fond standardním fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 480
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1caa1a1587e1385c355 -->
+
 ### § 487 — Výrok rozhodnutí (hlavní administrátor)
 
 > **§ 487**
@@ -624,6 +1164,56 @@ Výrok podle § 487 vymezuje rozsah povolení hlavního administrátora podle dv
 - [ ] Je při rozšíření na další kategorii podána žádost o změnu povolení (§ 500)?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení s výrokem; smlouvy o administraci a seznam administrovaných fondů; doklad o typu (speciální / FKI) a srovnatelnosti zahraničních fondů; žádost o změnu povolení při rozšíření.
+
+
+<!-- LEGAL-REVISION:BEGIN id=70c18aaf625520aa229e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 487
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Ve výroku rozhodnutí o udělení povolení podle [[#§ 482|§ 482]] Česká národní banka uvede, zda je hlavní administrátor oprávněn provádět administraci
+>
+>   - a) speciálních fondů a zahraničních investičních fondů srovnatelných se speciálním fondem, nebo
+>
+>   - b) fondů kvalifikovaných investorů a zahraničních investičních fondů srovnatelných s fondem kvalifikovaných investorů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 482
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=70c18aaf625520aa229e -->
 
 ### § 488 — Souhlas vedoucí osoby při udělení povolení
 
@@ -674,6 +1264,54 @@ Souběžné rozhodování o souhlasu vedoucích osob je procesní zásadou hospo
 
 **Typicky rozhodné důkazy / podklady:** životopisy a doklady o odborné způsobilosti a praxi vedoucích osob; výpisy z evidence Rejstříku trestů; popis rozdělení působností ve vedení; návrh na souhlas s výkonem funkce.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3f8c1243c0e7c9e14303 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 488
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka současně s rozhodnutím, kterým se uděluje povolení k činnosti investiční společnosti, samosprávného investičního fondu a hlavního administrátora, rozhodne o udělení souhlasu k výkonu funkce vedoucí osoby nebo osoby podle § 21 odst. 5, jsou-li splněny předpoklady stanovené v § 516 odst. 1.
+>
+> (2) Česká národní banka současně s rozhodnutím, kterým se uděluje povolení k činnosti zahraniční osoby podle [[#§ 481|§ 481]], rozhodne o udělení souhlasu k výkonu funkce vedoucí osoby nebo vedoucích osob, jsou-li splněny předpoklady stanovené v § 516 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 516, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f8c1243c0e7c9e14303 -->
+
 ### § 489 — Konzultace zahraničního orgánu dohledu
 
 > **§ 489**
@@ -722,6 +1360,62 @@ Povinná konzultace s orgánem dohledu jiného členského státu odráží prin
 
 #### Oddíl 2 — Zvláštní ustanovení o posuzování žádosti v případě zahraniční osoby
 
+
+<!-- LEGAL-REVISION:BEGIN id=ea757148d4131f0af4fb generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 489 — Konzultace zahraničního orgánu dohledu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Česká národní banka požádá o stanovisko orgán dohledu jiného členského státu před udělením povolení podle [[#§ 479|§ 479]], [[#§ 480|480]] nebo [[#§ 481|§ 481]], je-li žadatel o povolení ovládán
+>
+>   - a) obhospodařovatelem se sídlem v jiném členském státě, má-li povolení udělené orgánem dohledu jiného členského státu,
+>
+>   - b) zahraniční osobou, má-li povolení k poskytování investičních služeb udělené orgánem dohledu jiného členského státu,
+>
+>   - c) zahraniční bankou, má-li povolení udělené orgánem dohledu jiného členského státu, nebo
+>
+>   - d) zahraniční pojišťovnou nebo zahraniční zajišťovnou, má-li povolení udělené orgánem dohledu jiného členského státu, nebo
+>
+>   - e) stejnou osobou, která ovládá osoby uvedené v písmenech a) až d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 480, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea757148d4131f0af4fb -->
+
 ### § 490 — Další přerušení běhu lhůty pro rozhodnutí
 
 > **§ 490**
@@ -768,6 +1462,56 @@ Zákonná stavení lhůty chrání CNB před situací, kdy by musela rozhodovat 
 
 **Typicky rozhodné důkazy / podklady:** doklad o dni odeslání oznámení ESMA; doklad o dni doručení stanoviska ESMA; spisová dokumentace o určení referenčního státu nebo o výjimce dle § 492.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c0f9a025ce18ce689703 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 490 — Další přerušení běhu lhůty pro rozhodnutí ve věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Lhůta stanovená v § 483 odst. 1 také neběží ode dne, kdy Česká národní banka odeslala evropskému orgánu dohledu oznámení o tom, že
+>
+>   - a) je referenčním státem zahraniční osoby, která požádala o udělení povolení podle [[#§ 481|§ 481]], do dne, kdy stanovisko evropského orgánu dohledu k této žádosti došlo České národní bance, nebo
+>
+>   - b) hodlá zahraniční osobě, která požádala o udělení povolení podle [[#§ 481|§ 481]], povolit výjimku z dodržování povinnosti z důvodu neslučitelnosti podle [[#§ 492|§ 492]] do dne, kdy stanovisko evropského orgánu dohledu k této žádosti došlo České národní bance.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 483, § 481, § 492
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c0f9a025ce18ce689703 -->
+
 ### § 491 — Odůvodnění rozporu se stanoviskem ESMA
 
 > **§ 491**
@@ -813,6 +1557,52 @@ Ačkoliv stanovisko ESMA není právně závazné, zákon ukládá CNB povinnost
 - [ ] Byl informován orgán dohledu jiného členského státu, v němž osoba hodlá obhospodařovat fond nebo nabízet investice?
 
 **Typicky rozhodné důkazy / podklady:** stanovisko ESMA; rozhodnutí CNB s odůvodněním odchylky; doklad o informování ESMA a orgánu dohledu jiného členského státu; podklady o zamýšlené činnosti zahraniční osoby v jiných členských státech.
+
+
+<!-- LEGAL-REVISION:BEGIN id=52c6ff0483f5d5aee9cf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 491
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Rozhodne-li Česká národní banka o udělení povolení k činnosti zahraniční osobě podle [[#§ 481|§ 481]] v rozporu se stanoviskem evropského orgánu dohledu, tento rozpor v rozhodnutí odůvodní a informuje o tom evropský orgán dohledu a orgán dohledu jiného členského státu, v němž tato osoba hodlá obhospodařovat zahraniční investiční fond, který není srovnatelný se standardním fondem nebo v němž hodlá nabízet investice do investičních fondů, které nejsou standardním fondem nebo srovnatelným zahraničním investičním fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52c6ff0483f5d5aee9cf -->
 
 ### § 492 — Povolení výjimky z plnění povinností pro zahraniční osobu
 
@@ -874,6 +1664,62 @@ Institut výjimky z plnění povinností slouží k předcházení tzv. double r
 
 #### Oddíl 3 — Určení referenčního státu
 
+
+<!-- LEGAL-REVISION:BEGIN id=20eb6d0d3bc54f057be5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 492 — Povolení výjimky z plnění povinností pro zahraniční osobu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka povolí výjimku z plnění povinností vyplývajících z tohoto zákona zahraniční osobě, která žádá o povolení podle [[#§ 481|§ 481]], jestliže zahraniční osoba České národní bance doloží, že
+>
+>   - a) tento zákon nebo právní předpis jej provádějící jí ukládá povinnost neslučitelnou s povinností uloženou jí právem cizího státu a
+>
+>   - b) podle práva státu, v němž má sídlo nebo který je domovským státem zahraničního investičního fondu, do něhož nabízí investice v členském státě, dodržuje povinnost, u níž účel jejího plnění a míra ochrany, kterou se jejím plněním dostává investorům, odpovídají účelu plnění a míře ochrany, kterých se dostává investorům dodržováním povinnosti, z jejíhož plnění jí má být povolena výjimka.
+>
+> (2) Česká národní banka informuje bez zbytečného odkladu evropský orgán dohledu, že zahraniční osoba podala žádost o povolení výjimky podle odstavce 1.
+>
+> (3) Součástí informace podle odstavce 2 jsou údaje, které Česká národní banka obdržela v souvislosti se žádostí o povolení výjimky podle odstavce 1.
+>
+> (4) Rozhodne-li Česká národní banka o povolení výjimky podle odstavce 1 v rozporu se stanoviskem evropského orgánu dohledu, tento rozpor v rozhodnutí odůvodní a informuje o tom tento evropský orgán dohledu a dále orgán dohledu jiného členského státu, v němž zahraniční osoba hodlá nabízet investice do investičního fondu, který není standardním fondem, nebo do srovnatelného zahraničního investičního fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20eb6d0d3bc54f057be5 -->
+
 ### § 493 — Česká republika jako referenční stát
 
 > **§ 493**
@@ -928,6 +1774,76 @@ Kritéria jsou kvantitativní (počty fondů, výše spravovaného majetku — p
 
 **Typicky rozhodné důkazy / podklady:** přehled obhospodařovaných investičních fondů (počty, hodnota majetku); doklad o teritoriálním rozsahu nabízení investic; strategie nabízení; podklady pro posouzení kritérií dle § 493 odst. 2.
 
+
+<!-- LEGAL-REVISION:BEGIN id=26dbaa42e88904d585ec generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 493 — Česká republika jako referenční stát
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká republika je referenčním státem zahraniční osoby se sídlem ve státě, který není členským státem, hodlá-li obhospodařovat či obhospodařuje-li investiční fond, který není standardním fondem, nebo srovnatelný zahraniční investiční fond, nebo hodlá-li nabízet či nabízí-li investice do tohoto fondu v členském státě.
+>
+> (2) Česká republika je referenčním státem zahraniční osoby uvedené v odstavci 1, jestliže
+>
+>   - a) počet jí obhospodařovaných investičních fondů, které nejsou standardním fondem, převyšuje počet srovnatelných zahraničních investičních fondů, které hodlá obhospodařovat nebo obhospodařuje v jiném členském státě a současně nehodlá nabízet nebo nenabízí investice do těchto fondů v jiném členském státě,
+>
+>   - b) součet hodnot majetku jí obhospodařovaných investičních fondů, které nejsou standardním fondem, převyšuje součet hodnot majetku srovnatelných zahraničních investičních fondů, které hodlá obhospodařovat nebo obhospodařuje v jiném členském státě a současně nehodlá nabízet nebo nenabízí investice do těchto fondů v jiném členském státě,
+>
+>   - c) tato osoba hodlá nabízet či nabízí investice do investičního fondu, který není standardním fondem, nebo do srovnatelného zahraničního investičního fondu, pouze v České republice,
+>
+>   - d) tato osoba hodlá nabízet či nabízí v členských státech investice pouze do jednoho investičního fondu, který není standardním fondem, a nehodlá-li nabízet nebo nenabízí v členských státech investice do zahraničních investičních fondů,
+>
+>   - e) tato osoba hodlá nabízet či nabízí v členských státech investice pouze do jednoho zahraničního investičního fondu, který není srovnatelný se standardním fondem, a tyto investice nabízí i v České republice,
+>
+>   - f) tato osoba hodlá nabízet či nabízí v členských státech pouze investice do investičních fondů, které nejsou standardním fondem, a nehodlá-li nabízet nebo nenabízí v členských státech investice do zahraničních investičních fondů,
+>
+>   - g) počet investičních fondů, které nejsou standardním fondem, a srovnatelných zahraničních investičních fondů, do nichž mají být nebo jsou investice nabízeny v České republice, převyšuje počet takových fondů, do nichž mají být nebo jsou investice nabízeny v jiném členském státě,
+>
+>   - h) v případě uvedeném v [[#§ 494|§ 494]] tato osoba požádala Českou národní banku o udělení povolení podle [[#§ 481|§ 481]], nepodala-li srovnatelnou žádost orgánu dohledu jiného členského státu uvedenému v § 494 odst. 1, a
+>
+>     - 1. Česká národní banka ani orgán dohledu jiného členského státu nerozhodly o její žádosti podle § 494 odst. 1 nebo žádosti srovnatelné s žádostí podle § 494 odst. 1 do 1 měsíce ode dne, kdy byla tato žádost doručena poslednímu z dotčených orgánů dohledu, nebo
+>
+>     - 2. Česká národní banka ani orgán dohledu jiného členského státu ji neinformovaly o svém rozhodnutí o její žádosti podle § 494 odst. 1 nebo žádosti srovnatelné s žádostí podle § 494 odst. 1 do 7 dní od jejího přijetí, nebo
+>
+>   - i) do 2 let ode dne udělení povolení podle [[#§ 481|§ 481]] nebo dřívějšího povolení podle práva jiného členského státu nedošlo k takové změně ve strategii pro nabízení investic do investičních fondů nebo zahraničních investičních fondů, která by vedla k určení jiného členského státu jako referenčního státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 494, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=26dbaa42e88904d585ec -->
+
 ### § 494 — Mnohost referenčních států
 
 > **§ 494**
@@ -980,6 +1896,58 @@ Kolize referenčních států nastane, pokud více členských států splňuje 
 
 **Typicky rozhodné důkazy / podklady:** žádosti podané dotčeným orgánům a doklad o dni jejich doručení; podklady o rozsahu činnosti v jednotlivých členských státech; záznam o dohodě orgánů dohledu; oznámení výsledku zahraniční osobě.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0ed6f06393734f95154 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 494 — Mnohost referenčních států
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Vyplývá-li z práva jiného členského státu, že je tento stát referenčním státem zahraniční osoby, jejímž referenčním státem je i Česká republika, požádá tato osoba Českou národní banku o určení, zda je Česká republika jejím jediným referenčním státem.
+>
+> (2) O žádosti podle odstavce 1 rozhodne Česká národní banka podle dohody s dotčenými orgány dohledu jiných členských států podle odstavce 1 nejpozději do 1 měsíce ode dne, kdy byla žádost srovnatelná se žádostí podle odstavce 1 doručena poslednímu z dotčených orgánů dohledu.
+>
+> (3) Je-li Česká republika podle dohody s dotčenými orgány dohledu jiných členských států referenčním státem zahraniční osoby, oznámí tuto skutečnost Česká národní banka zahraniční osobě bez zbytečného odkladu.
+>
+> (4) Postup při určení referenčního státu, vyplývá-li z práva jiného členského státu, že referenčním státem zahraniční osoby je více členských států, vymezuje článek 1 prováděcího nařízení Komise (EU) č. [[448/2013|448/2013]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0ed6f06393734f95154 -->
+
 ### § 495 — Rozhodování České národní banky
 
 > **§ 495**
@@ -1027,6 +1995,54 @@ CNB je povinna ESMA o svém záměru informovat a vyžádat si jeho stanovisko j
 - [ ] Bylo zohledněno stavení lhůty dle § 490 písm. a)?
 
 **Typicky rozhodné důkazy / podklady:** zdůvodnění, proč je ČR referenčním státem; údaje o strategii nabízení investic (součást žádosti dle § 481); doklad o odeslání oznámení ESMA a o žádosti o stanovisko.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c55c3f87abe11664e01a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 495 — Rozhodování České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka informuje bez zbytečného odkladu evropský orgán dohledu, že lze důvodně předpokládat, že Česká republika má být referenčním státem zahraniční osoby, která ji požádala o udělení povolení podle [[#§ 481|§ 481]], a požádá jej k tomu o stanovisko.
+>
+> (2) Součástí informace podle odstavce 1 je zdůvodnění, proč lze důvodně předpokládat, že Česká republika má být referenčním státem zahraniční osoby, a údaje o strategii pro nabízení investic do investičních fondů nebo zahraničních investičních fondů, které Česká národní banka obdržela jako součást žádosti o povolení podle [[#§ 481|§ 481]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c55c3f87abe11664e01a -->
 
 ### § 496 — Změna v určení referenčního státu
 
@@ -1078,6 +2094,62 @@ Ustanovení normuje oznamovací povinnost zahraniční osoby při změně refere
 - [ ] Byla současně podána žádost o povolení u orgánu nového referenčního státu (odst. 1)?
 
 **Typicky rozhodné důkazy / podklady:** doklad o změně strategie nabízení investic; odůvodnění změny referenčního státu; údaje o osobě administrátora v novém státě; popis strategií; doklad o podání žádosti u nového orgánu dohledu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=5789e3acc4507ddcee0c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 496 — Změna v určení referenčního státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jestliže do 2 let ode dne udělení povolení zahraniční osobě s povolením podle [[#§ 481|§ 481]] dojde k takové změně ve strategii pro nabízení investic do investičních fondů a zahraničních investičních fondů, které obhospodařuje, která by měla vliv na určení referenčního státu, určí zahraniční osoba svůj referenční stát a oznámí to České národní bance a současně požádá o povolení orgán dohledu jiného členského státu, který určila za svůj referenční stát.
+>
+> (2) V oznámení podle odstavce 1 uvede zahraniční osoba s povolením podle [[#§ 481|§ 481]]
+>
+>   - a) skutečnosti odůvodňující změnu referenčního státu,
+>
+>   - b) členský stát, který bude podle práva tohoto státu jejím referenčním státem, a
+>
+>   - c) údaje nutné k identifikaci osoby, která plní funkci administrátora v tomto členském státě.
+>
+> (3) K oznámení podle odstavce 1 zahraniční osoba s povolením podle [[#§ 481|§ 481]] přiloží popis strategií pro nabízení investic do investičních fondů a zahraničních investičních fondů, které obhospodařuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5789e3acc4507ddcee0c -->
 
 ### § 497 — Posouzení změny referenčního státu
 
@@ -1134,6 +2206,60 @@ Zákon nastavuje třístupňový proces pro schválení změny referenčního st
 
 **Typicky rozhodné důkazy / podklady:** oznámení zahraniční osoby dle § 496 (s náležitostmi odst. 2 a 3); stanovisko ESMA; rozhodnutí CNB o důvodnosti změny s odůvodněním případného rozporu; doklad o předání dokumentace novému orgánu dohledu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=558fa78e03f21f3074bd generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 497
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Při změně v určení referenčního státu Česká národní banka posoudí na základě oznámení podle § 496 odst. 1 určení členského státu, který má být referenčním státem, a svůj závěr oznámí bez zbytečného odkladu evropskému orgánu dohledu a požádá jej o stanovisko.
+>
+> (2) Součástí oznámení podle odstavce 1 jsou informace, které Česká národní banka obdržela podle § 496 odst. 2 a [[#§ 3|3.]]
+>
+> (3) Jakmile Česká národní banka obdrží stanovisko evropského orgánu dohledu, o které požádala podle odstavce 1, rozhodne, zda je změna referenčního státu důvodná. O tomto svém rozhodnutí informuje Česká národní banka zahraniční osobu s povolením podle [[#§ 481|§ 481]], hlavního administrátora a evropský orgán dohledu.
+>
+> (4) Rozhodla-li Česká národní banka podle odstavce 3 v rozporu se stanoviskem evropského orgánu dohledu, tento rozpor v rozhodnutí odůvodní a informuje o tom evropský orgán dohledu a orgán dohledu nového referenčního státu.
+>
+> (5) Rozhodla-li Česká národní banka, že změna referenčního státu je důvodná, informuje o tom orgán dohledu nového referenčního státu a bez zbytečného odkladu mu předá kopii dokumentů souvisejících s udělením povolení zahraniční osobě podle [[#§ 481|§ 481]] a s výkonem dohledu nad touto osobou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 496, § 3, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=558fa78e03f21f3074bd -->
+
 ### § 498 — Nové určení referenčního státu
 
 > **§ 498**
@@ -1181,6 +2307,52 @@ Ustanovení § 498 umožňuje CNB z moci úřední zahájit přezkum určení re
 
 **Typicky rozhodné důkazy / podklady:** doklady o skutečném rozsahu a teritoriu obhospodařování a nabízení investic; srovnání s původně deklarovanou strategií; vyhodnocení kritérií referenčního státu (§ 493); rozhodnutí CNB s poučením dle § 551 odst. 4.
 
+
+<!-- LEGAL-REVISION:BEGIN id=51d069037650727c610a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 498 — Nové určení referenčního státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Jestliže do 2 let ode dne udělení povolení zahraniční osobě s povolením podle [[#§ 481|§ 481]] skutečný vývoj její činnosti nasvědčuje tomu, že Česká republika neměla být referenčním státem, rozhodne Česká národní banka, aby tato zahraniční osoba ve stanovené lhůtě referenční stát znovu určila, oznámila to České národní bance a současně požádala o povolení orgán dohledu jiného členského státu, který určila za svůj referenční stát; současně ji poučí o možnosti odejmutí povolení podle § 551 odst. 4. Pro případ podle věty první se [[#§ 496|§ 496]] a [[#§ 497|497]] použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 551, § 496, § 497
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=51d069037650727c610a -->
+
 ### § 499 — Dobrovolné nové určení referenčního státu
 
 > **§ 499**
@@ -1227,6 +2399,52 @@ Dobrovolná změna referenčního státu je možná až po 2 letech od povolení
 - [ ] Je připravena dokumentace pro koordinační posouzení dle §§ 496 a 497?
 
 **Typicky rozhodné důkazy / podklady:** datum udělení povolení podle § 481; doložení nové distribuční strategie (cílové trhy, objemy nabízení dle států); doklad o synchronním podání u CNB a nového orgánu dohledu; korespondence s ESMA.
+
+
+<!-- LEGAL-REVISION:BEGIN id=fbf9b19611b9d1f2ac38 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 499 — Dobrovolné nové určení referenčního státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Jestliže po 2 letech ode dne udělení povolení zahraniční osobě s povolením podle [[#§ 481|§ 481]] dojde k takové změně ve strategii pro nabízení investic do investičních fondů nebo zahraničních investičních fondů, která by měla vliv na určení referenčního státu, může to zahraniční osoba s povolením podle [[#§ 481|§ 481]] oznámit České národní bance a současně požádat o povolení orgán dohledu jiného členského státu, který bude podle práva tohoto státu jejím referenčním státem. Pro případ podle věty první se [[#§ 496|§ 496]] a [[#§ 497|497]] použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 496, § 497
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fbf9b19611b9d1f2ac38 -->
 
 ## Hlava II — Změna povolení
 
@@ -1284,6 +2502,54 @@ Každá změna rozsahu povolení podle §§ 479–482 (a dodatečné povolení d
 - [ ] Je synchronizováno nabytí právní moci nového povolení a zrušení původního?
 
 **Typicky rozhodné důkazy / podklady:** žádost o změnu povolení; doložení kapitálových, organizačních a personálních předpokladů pro nový rozsah; podklady k vedoucím osobám; stávající povolení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=eb666fdfc6a1733104cd generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 500
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Požádá-li držitel některého z povolení podle § 479 až 482 o změnu povolení, Česká národní banka vydá nové povolení a dosavadní povolení zruší. Ustanovení § 485 až 488 se použijí obdobně.
+>
+> (2) Postup podle odstavce 1 se použije i pro dodatečné povolení podle [[#§ 507|§ 507]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 485, § 507
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb666fdfc6a1733104cd -->
 
 ## Hlava III — Změna v podstatných skutečnostech rozhodných pro udělení povolení
 
@@ -1344,6 +2610,56 @@ Preventivní řízení o změně CNB zahájí jen při nesouhlasu s oznámenou z
 
 **Typicky rozhodné důkazy / podklady:** oznámení změny s datem doručení; popis dotčených rozhodných skutečností; podklady k vedoucím osobám a organizaci; doklad o zahájení řízení a o vydání/nevydání rozhodnutí ve lhůtě.
 
+
+<!-- LEGAL-REVISION:BEGIN id=83ebe76fd3f5dbd297eb generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 501
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zahájí řízení o změně podle § 467 odst. 1 nebo změně ve skutečnostech rozhodných pro udělení povolení, kterou zjistila z registru podle [[zákona upravujícího základní registry|zákona upravujícího základní registry]], jedná-li se o investiční společnost podle [[#§ 479|§ 479]] oprávněnou přesáhnout rozhodný limit, samosprávný investiční fond podle [[#§ 480|§ 480]] opravňující přesáhnout rozhodný limit nebo zahraniční osobu s povolením podle [[#§ 481|§ 481]], jestliže s provedením změny v oznámené podobě nesouhlasí.
+>
+> (2) Zahájí-li Česká národní banka řízení o změně podle odstavce 1, rozhodne o ní do 1 měsíce ode dne, kdy jí oznámení podle odstavce 1 došlo; je-li to z hlediska náležitého posouzení věci nezbytné, prodlužuje se tato lhůta o 1 měsíc.
+>
+> (3) Česká národní banka rozhodne o změně tak, že navrhovanou změnu zakáže nebo určí podmínky, za nichž lze navrhovanou změnu provést. Nevydá-li Česká národní banka rozhodnutí ve lhůtě podle odstavce 2, platí, že změnu lze provést.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 467, § 479, § 480, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=83ebe76fd3f5dbd297eb -->
+
 ### § 502 — Změna bez zahájení řízení
 
 > **§ 502**
@@ -1390,6 +2706,52 @@ Změnu rozhodných skutečností lze provést i bez rozhodnutí CNB, pokud CNB d
 - [ ] Je změna prováděna až po uplynutí lhůty (nikoli předčasně)?
 
 **Typicky rozhodné důkazy / podklady:** oznámení o změně s datem doručení; doklad o úplnosti oznámení; evidence o nezahájení řízení ve lhůtě; interní záznam o provedení změny po uplynutí lhůty.
+
+
+<!-- LEGAL-REVISION:BEGIN id=6a8b878356085717d9a5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 502
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Změnu skutečností, na jejichž základě bylo uděleno povolení investiční společnosti podle [[#§ 479|§ 479]] oprávněné přesáhnout rozhodný limit, samosprávnému investičnímu fondu podle [[#§ 480|§ 480]] opravňující přesáhnout rozhodný limit a zahraniční osobě s povolením podle [[#§ 481|§ 481]], lze také provést, nezahájí-li Česká národní banka řízení podle § 501 odst. 1 do 1 měsíce ode dne, kdy jí oznámení o změně došlo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 480, § 481, § 501
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a8b878356085717d9a5 -->
 
 ## Hlava IV — Zápis do seznamů bez přezkumu
 
@@ -1446,6 +2808,56 @@ Zápis podle § 503 je rychlý, evidenční úkon bez věcného přezkumu pravdi
 
 **Typicky rozhodné důkazy / podklady:** žádost o zápis; doklad o povolení obhospodařovatele k danému fondu; datum doručení žádosti; podklady prokazující identifikaci fondu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=57b23159b1e5d893867b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 503
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka provede zápis do seznamu podle [[#§ 596|§ 596]] nebo [[#§ 597|597]] do 5 pracovních dní ode dne, kdy jí došla žádost o zápis do seznamu, nestanoví-li tento zákon jinak.
+>
+> (2) Žádost o zápis do seznamu podle [[#§ 597|§ 597]] může podat pouze obhospodařovatel, který má povolení opravňující jej obhospodařovat, investiční fond nebo zahraniční investiční fond, o jehož zápis do tohoto seznamu žádá.
+>
+> (3) Žádost podle odstavce 1 nezkoumá Česká národní banka z hlediska pravdivosti nebo přesnosti informací v ní obsažených a nepřezkoumává ani splnění předpokladů pro zápis do tohoto seznamu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 596, § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57b23159b1e5d893867b -->
+
 ### § 504 — Zápis bez žádosti
 
 > **§ 504**
@@ -1495,6 +2907,54 @@ Je-li zápis navázán na pravomocné povolení nebo na oznámení zahraničníh
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení/souhlasu s vyznačením právní moci; oznámení zahraničního orgánu dohledu; identifikace seznamu, do něhož se zapisuje.
 
+
+<!-- LEGAL-REVISION:BEGIN id=727012d98ca3dc1a6925 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 504
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Toho, komu Česká národní banka uděluje povolení k činnosti nebo souhlas podle tohoto zákona, zapíše Česká národní banka do seznamů podle [[#§ 596|§ 596]] nebo [[#§ 597|597]] ke dni nabytí právní moci rozhodnutí, kterým povolení k činnosti nebo souhlas podle tohoto zákona udělila; žádost o zápis do seznamu se v takovém případě nepodává.
+>
+> (2) Česká národní banka provede rovněž zápis do seznamu podle § 596 písm. b) nebo d) a § 597 písm. d) na základě oznámení zahraničního orgánu dohledu jiného členského státu o záměru nabízení investic nebo poskytování služeb v České republice podle části deváté nebo desáté tohoto zákona. Žádost o zápis do seznamu se v takovém případě nepodává.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 596, § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=727012d98ca3dc1a6925 -->
+
 ### § 505 — Výluka z režimu zápisu bez přezkumu
 
 > **§ 505**
@@ -1541,6 +3001,52 @@ Na nejdůležitější licenční a zápisová řízení (§§ 479–482, 510, 5
 - [ ] Je žádost správně kvalifikována (zařazena pod správný paragraf)?
 
 **Typicky rozhodné důkazy / podklady:** žádost s jednoznačnou kvalifikací typu zápisu; doklady o splnění hmotněprávních podmínek příslušného ustanovení; evidence o běhu zvláštní lhůty.
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f1449ede2f36d9e46bb generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 505
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Ustanovení § 503 odst. 1 a [[#§ 3|3]] se nepoužijí pro řízení o žádosti podle [[#§ 479|§ 479]], [[#§ 480|480]], [[#§ 481|481]], [[#§ 482|482]], [[#§ 510|510]], [[#§ 511|511]], [[#§ 512a|512a]] a [[#§ 519|519]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 503, § 3, § 479, § 480, § 481, § 482, § 510, § 511, § 512a, § 519
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f1449ede2f36d9e46bb -->
 
 ## Hlava V — Výmaz ze seznamů
 
@@ -1593,6 +3099,88 @@ Výmaz regulovaných osob a depozitářů je obligatorní při naplnění někte
 
 **Typicky rozhodné důkazy / podklady:** doklad o odnětí/zániku povolení nebo o nečinnosti přesahující zákonnou dobu; přehled (ne)vykonávané činnosti; případná žádost dotčené osoby o výmaz; podklady k určení dne výmazu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=03b9afc9107f17c11a0b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 506
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka rozhodne o výmazu ze seznamu vedeného podle tohoto zákona v případě
+>
+> - a) investiční společnosti, jestliže jí bylo odňato povolení k činnosti investiční společnosti,
+>
+> - b) obhospodařovatele se sídlem v cizím státě, jestliže mu zaniklo oprávnění obhospodařovat investiční fond,
+>
+> - c) hlavního administrátora, jestliže mu bylo odňato povolení k činnosti hlavního administrátora,
+>
+> - d) administrátora se sídlem v cizím státě, jestliže mu zaniklo oprávnění provádět administraci investičního fondu,
+>
+> - e) depozitáře investičního fondu, jestliže
+>
+> - 1. nevykonává činnost depozitáře investičního fondu déle než 24 měsíců,
+>
+> - 2. jestliže nemá vytvořeny předpoklady pro plnění povinností depozitáře investičního fondu, nebo
+>
+> - 3. o to požádal a v době podání žádosti nevykonává činnost depozitáře investičního fondu,
+>
+> - f) osoby uvedené v § 15 odst. 1, jestliže přestala být osobou podle § 15 odst. 1, která je povinna být zapsána v seznamu,
+>
+> - g) osoby, která může být jmenována likvidátorem investiční společnosti, fondu kolektivního investování s právní osobností a hlavního administrátora nebo nuceným správcem investiční společnosti a fondu kolektivního investování s právní osobností, jestliže
+>
+> - 1. bez závažných důvodů odstoupila z funkce likvidátora nebo nuceného správce,
+>
+> - 2. závažně nebo opakovaně porušila svou povinnost plynoucí z funkce likvidátora nebo nuceného správce,
+>
+> - 3. nesplňuje zákonem stanovené předpoklady pro zápis do příslušného seznamu, nebo
+>
+> - 4. o to požádala a v době podání žádosti nevykonává funkci likvidátora nebo nuceného správce.
+>
+> (2) O výmazu podle odstavce 1 Česká národní banka rozhodne
+>
+> - a) ke dni nabytí právní moci rozhodnutí o odnětí povolení k činnosti této osoby,
+>
+> - b) k pozdějšímu dni uvedenému v rozhodnutí o odnětí povolení k činnosti této osoby, nebo
+>
+> - c) k jinému dni, například ke dni, který navrhuje ten, kdo o výmaz požádal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=03b9afc9107f17c11a0b -->
+
 ### § 506a — Výmaz investičního fondu
 
 > **§ 506a**
@@ -1641,6 +3229,90 @@ Fond zapsaný do seznamu se obligatorně vymaže z taxativních důvodů § 506a
 - [ ] Jde-li o dobrovolný výmaz, je vyřízen v plném rozsahu (dopad na rozklad dle § 506b)?
 
 **Typicky rozhodné důkazy / podklady:** datum zápisu do seznamu CNB; doklad o podání návrhu na zápis do OR a o jeho výsledku; doklady o (ne)vykonávání činnosti fondu; případná žádost o výmaz a podklady k určení dne výmazu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=3d0cbc0e1fe9f73b611e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 506a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka také rozhodne o výmazu ze seznamu vedeného podle tohoto zákona v případě investičního fondu nebo zahraničního investičního fondu, jestliže
+>
+> - a) o to požádá obhospodařovatel nebo administrátor tohoto fondu, případně likvidátor, jde-li o investiční fond s právní osobností,
+>
+> - b) nevykonává svou činnost déle než 6 měsíců,
+>
+> - c) nebyl do 90 dnů ode dne, kdy byl zapsán do tohoto seznamu, podán návrh na zápis do obchodního rejstříku, nebo jestliže nebylo tomuto návrhu vyhověno,
+>
+> - d) vyšlo najevo, že zápis do seznamu byl proveden na základě nepravdivých nebo neúplných údajů,
+>
+> - e) nesplňuje podmínky plynoucí z tohoto zákona,
+>
+> - f) mu bylo odňato povolení k činnosti samosprávného investičního fondu, a tento fond se nemá stát investičním fondem uvedeným v [[#§ 9|§ 9]],
+>
+> - g) došlo k přeměně samosprávného investičního fondu podle [[#§ 363|§ 363]],
+>
+> - h) vyšlo najevo, že investiční fond uvedený v [[#§ 9|§ 9]]
+>
+> - 1. nemá individuální statutární orgán a
+>
+> - 2. jeho obhospodařovatel nemá déle než 6 měsíců povolení k obhospodařování tohoto investičního fondu,
+>
+> - i) zanikl,
+>
+> - j) nemá déle než 3 měsíce depozitáře, nebo
+>
+> - k) z dalších důvodů plynoucích z tohoto zákona.
+>
+> (2) O výmazu podle odstavce 1 Česká národní banka rozhodne
+>
+> - a) ke dni zániku investičního fondu s právní osobností, přemístění sídla do zahraničí nebo ke dni změny předmětu podnikání investičního fondu s právní osobností,
+>
+> - b) ke dni přeměny podílového fondu na zahraniční investiční fond nebo ke dni rozdělení likvidačního zůstatku,
+>
+> - c) ke dni skončení správy svěřenského fondu, přeměny svěřenského fondu na zahraniční investiční fond nebo ke dni, od kterého svěřenský správce požádal o skončení správy svěřenského fondu,
+>
+> - d) ke dni změny právní formy investičního fondu, v důsledku které je současně zapisován do jiného seznamu podle § 597 písm. a) až c), nebo
+>
+> - e) k jinému dni, například ke dni, který navrhuje ten, kdo o výmaz požádal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 363, § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d0cbc0e1fe9f73b611e -->
 
 ### § 506b — Procesní pravidla výmazu
 
@@ -1693,6 +3365,56 @@ U akcesorických a deklaratorních výmazů [taxativně § 506b odst. 2] se rozh
 
 **Typicky rozhodné důkazy / podklady:** žádost o výmaz s případným návrhem dne výmazu; doklad o rozsahu vyhovění; doklad o elektronickém vyrozumění žadatele; podklady prokazující odůvodňující skutečnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=521e119b67fbd1eb32d3 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 506b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka rozhodne o výmazu ze seznamu vedeného podle tohoto zákona, byly-li ji prokázány skutečnosti, které provedení výmazu odůvodňují.
+>
+> (2) V případech výmazu podle § 506 odst. 1 písm. a) až d) a f) a § 506a odst. 1 písm. a), c), f), g) a i) se rozhodnutí písemně nevyhotovuje.
+>
+> (3) Vyhoví-li Česká národní banka žádosti obhospodařovatele podle § 506a odst. 1 písm. a) v plném rozsahu, není proti tomuto rozhodnutí přípustný rozklad. O výmazu Česká národní banka neprodleně elektronicky informuje žadatele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 506, § 506a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=521e119b67fbd1eb32d3 -->
+
 ## Hlava VI — Dodatečné povolení k výkonu činností odpovídajícím investičním službám
 
 ### § 507 — Dodatečné povolení k výkonu investičních služeb
@@ -1743,6 +3465,54 @@ K výkonu činností odpovídajících investičním službám (§ 11 odst. 1 p�
 - [ ] Jsou zajištěny související náležitosti (např. souhlasy vedoucích osob)?
 
 **Typicky rozhodné důkazy / podklady:** žádost o dodatečné povolení; doložení organizačních, personálních a kapitálových předpokladů; popis charakteru, rozsahu a složitosti činností; podklady k vedoucím osobám.
+
+
+<!-- LEGAL-REVISION:BEGIN id=adc4365be84b7fdfffee generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 507
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka udělí investiční společnosti povolení k výkonu činností uvedených v § 11 odst. 1 písm. c) až f), osvědčí-li splnění stejných předpokladů jako obchodník s cennými papíry při poskytování investiční služby obhospodařování majetku zákazníka, a to ve vztahu k charakteru, rozsahu a složitosti těchto činností.
+>
+> (2) Česká národní banka udělí zahraniční osobě s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, povolení k výkonu činností uvedených v § 11 odst. 1 písm. c) až f), osvědčí-li splnění předpokladů podle [[§ 28|§ 28]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] při poskytování investiční služby obhospodařování majetku zákazníka, a to ve vztahu k charakteru, rozsahu a složitosti těchto činností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 481, § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=adc4365be84b7fdfffee -->
 
 ## Hlava VII — Souhlas s výkonem jiné podnikatelské činnosti
 
@@ -1797,6 +3567,64 @@ Investiční společnost, hlavní administrátor a zahraniční osoba dle § 481
 
 **Typicky rozhodné důkazy / podklady:** žádost o souhlas; popis zamýšlené vedlejší činnosti; analýza dopadu na řádný a obezřetný výkon a na dohled (vč. řízení střetu zájmů a alokace zdrojů).
 
+
+<!-- LEGAL-REVISION:BEGIN id=c4c752e407958c3b3862 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 508
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Oprávnění k podnikání podle jiných právních předpisů lze investiční společnosti, hlavnímu administrátorovi a zahraniční osobě s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, udělit jen se souhlasem České národní banky.
+>
+> (2) Česká národní banka udělí souhlas podle odstavce 1, jestliže
+>
+> - a) podnikání podle jiných právních předpisů nebude bránit
+>
+> - 1. investiční společnosti, hlavnímu administrátorovi, nebo zahraniční osobě s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, v řádném a obezřetném výkonu činnosti podle tohoto zákona a
+>
+> - 2. účinnému výkonu dohledu nad investiční společností, hlavním administrátorem, nebo zahraniční osobou s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, a
+>
+> - b) jde o činnost, jejíž výkon investiční společnosti, hlavnímu administrátorovi, nebo zahraniční osobě s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, nezakazuje tento zákon nebo jiný právní předpis.
+>
+> (3) Odstavce 1 a [[#§ 2|2]] se nepoužijí, jde-li o podnikání podle jiných právních předpisů, ke kterému uděluje oprávnění Česká národní banka.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c4c752e407958c3b3862 -->
+
 ## Hlava VIII — Kvalifikovaná účast investiční společnosti na jiné právnické osobě
 
 ### § 509 — Souhlas s nabytím kvalifikované účasti
@@ -1849,6 +3677,60 @@ K nabytí/zvýšení kvalifikované účasti na vlastní účet potřebuje inves
 - [ ] Byl souhlas získán před nabytím/zvýšením účasti?
 
 **Typicky rozhodné důkazy / podklady:** žádost o souhlas; popis struktury a výše nabývané účasti; doklad o tom, na čí účet je účast držena; analýza dopadu na obezřetný výkon činnosti; právní forma cílové osoby (ručení).
+
+
+<!-- LEGAL-REVISION:BEGIN id=92296f176e09b3967bef generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 509
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investiční společnost oprávněná obhospodařovat fond kolektivního investování musí mít k nabytí nebo zvýšení kvalifikované účasti na jiné právnické osobě souhlas České národní banky.
+>
+> (2) Česká národní banka souhlas podle odstavce 1 neudělí, jestliže
+>
+> - a) se investiční společnost má stát neomezeně ručícím společníkem obchodní společnosti nebo jiné právnické osoby, nebo
+>
+> - b) v souvislosti s navrhovaným nabytím nebo zvýšením kvalifikované účasti na jiné právnické osobě vznikají důvodné obavy, že by toto nabytí nebo zvýšení bylo v rozporu s požadavkem řádného a obezřetného výkonu činnosti.
+>
+> (3) Odstavce 1 a [[#§ 2|2]] se nepoužijí pro účast drženou na účet investičního fondu nebo zahraničního investičního fondu, který tato investiční společnost obhospodařuje, nebo pro účast na investičním fondu nebo zahraničním investičním fondu s právní osobností drženou nejdéle do 1 roku ode dne udělení povolení k činnosti tohoto fondu nebo zápisu tohoto fondu do seznamu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92296f176e09b3967bef -->
 
 ## Hlava IX — Zápis depozitáře investičního fondu
 
@@ -1903,6 +3785,56 @@ Výkon funkce depozitáře je podmíněn zápisem do seznamu depozitářů; CNB 
 
 **Typicky rozhodné důkazy / podklady:** žádost o zápis; doložení organizačních, technických a personálních předpokladů; popis systémů úschovy a evidence; doklady o řízení střetu zájmů a kapitálovém zázemí.
 
+
+<!-- LEGAL-REVISION:BEGIN id=0dba95c5670979f2f84c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 510
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zapíše do seznamu depozitářů investičního fondu na žádost osobu, jestliže má vytvořeny předpoklady k plnění povinností depozitáře investičního fondu vyplývajících z tohoto zákona a z přímo použitelného předpisu Evropské unie, jímž se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8) nebo přímo použitelného předpisu Evropské unie, jímž se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6).
+>
+> (2) Depozitář investičního fondu musí být zapsán v seznamu depozitářů investičního fondu.
+>
+> (3) Česká národní banka rozhodne o žádosti podle odstavce 1 do 3 měsíců ode dne jejího podání, pokud má předepsané náležitosti a netrpí ani jinými vadami; je-li to z hlediska náležitého posouzení žádosti nezbytné, prodlouží Česká národní banka tuto lhůtu až o 3 měsíce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0dba95c5670979f2f84c -->
+
 ## Hlava X — Zápis standardního fondu a údajů o podfondu standardního fondu
 
 ### § 511 — Podmínky zápisu standardního fondu
@@ -1956,6 +3888,82 @@ Zápis standardního fondu vyžaduje kumulativní splnění podmínek § 511 ods
 
 **Typicky rozhodné důkazy / podklady:** žádost o zápis; doklad o povolení obhospodařovatele k UCITS; potvrzení depozitáře; navržený statut; doložení splnění nařízení o fondech peněžního trhu; u podřízeného fondu doklady dle § 248 odst. 1.
 
+
+<!-- LEGAL-REVISION:BEGIN id=825568fd46537c69b3d4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 511
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zapíše do seznamu investičních fondů podle § 597 písm. a) nebo b) fond kolektivního investování jako standardní fond na žádost jeho obhospodařovatele, jestliže
+>
+> - a) sídlo a skutečné sídlo tohoto fondu je v České republice, jedná-li se o investiční fond s právní osobností, nebo je vytvořen podle českého práva, jedná-li se o investiční fond bez právní osobnosti,
+>
+> - b) obhospodařovatel investičního fondu má povolení k obhospodařování standardních fondů nebo srovnatelných zahraničních investičních fondů,
+>
+> - c) osoba, která bude depozitářem investičního fondu, potvrdila vytvoření předpokladů k plnění povinností depozitáře vyplývajících z tohoto zákona,
+>
+> - d) splňuje předpoklady podle čl. 4 nařízení Evropského parlamentu a Rady (EU) [[2017/1131|2017/1131]], jedná-li se o zápis standardního fondu, který má být fondem peněžního trhu,
+>
+> - e) navržený statut investičního fondu umožňuje nabízení investic do tohoto fondu v České republice a má všechny předepsané náležitosti vyplývající z tohoto zákona a z právního předpisu jej provádějícího a
+>
+> - f) obhospodařovatel investičního fondu osvědčí splnění předpokladů uvedených v § 248 odst. 1, jedná-li se o zápis standardního fondu, který má být podřízeným fondem.
+>
+> (2) Česká národní banka zapíše do seznamu investičních fondů podle § 597 písm. a) údaje o podfondu standardního fondu na žádost jeho obhospodařovatele, jestliže
+>
+> - a) obhospodařovatel investičního fondu, jehož stanovy vytvoření podfondů připustily, má
+>
+> - 1. splacený základní kapitál, jeho počáteční kapitál včetně základního kapitálu má průhledný a nezávadný původ a nevznikají důvodné obavy, že obhospodařovatel nemá vlastní kapitál ve výši, která umožňuje řádné obhospodařování tohoto podfondu,
+>
+> - 2. věcné, organizační a personální předpoklady pro vytváření podfondů a
+>
+> - 3. alespoň 2 vedoucí osoby, které budou řídit řádný a obezřetný výkon činnosti obhospodařovatele a současně tyto osoby splňují předpoklady schvalování vedoucích osob stanovené v § 516 odst. 1,
+>
+> - b) depozitář investičního fondu, jehož stanovy vytvoření podfondů připustily, vykonává činnost pro tento podfond a potvrdil vytvoření předpokladů k plnění povinností depozitáře vyplývajících z tohoto zákona i z hlediska toho, že investiční fond může vytvářet podfondy,
+>
+> - c) navržený statut podfondu nebo statut investičního fondu, jehož stanovy vytvoření podfondů připustily, je-li statut podfondu začleněn do statutu tohoto investičního fondu, umožňuje nabízení investičních akcií do tohoto podfondu v České republice a má všechny předepsané náležitosti vyplývající z tohoto zákona a z právního předpisu jej provádějícího,
+>
+> - d) obhospodařovatel investičního fondu, jehož stanovy vytvoření podfondů připustily, osvědčí splnění předpokladů uvedených v § 248 odst. 1, jedná-li se o zápis údajů o podfondu, který má být podřízeným standardním fondem, a
+>
+> - e) obhospodařovatel investičního fondu, jehož stanovy vytvoření podfondů připustily, osvědčí splnění předpokladů podle čl. 4 nařízení Evropského parlamentu a Rady (EU) [[2017/1131|2017/1131]], jedná-li se o zápis údajů o podfondu, který má být fondem peněžního trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 248, § 516
+
+##### Souvisící předpisy
+
+- akt EU 2017/1131 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=825568fd46537c69b3d4 -->
+
 ### § 512 — Schválení depozitáře a statutu; lhůta
 
 > **§ 512**
@@ -2004,6 +4012,54 @@ Při zápisu standardního fondu CNB současně schvaluje depozitáře a statut 
 - [ ] U ELTIF: je namístě postup dle § 512b (schválení i obhospodařovatele)?
 
 **Typicky rozhodné důkazy / podklady:** úplná žádost o zápis; navržený statut; doklady k depozitáři a jeho potvrzení; doklad o datu podání a bezvadnosti žádosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=191b0ccfd677410f3a6a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 512
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka současně se zápisem fondu kolektivního investování jako standardního fondu do seznamu podle § 597 písm. a) nebo b) rozhodne o schválení depozitáře a statutu tohoto fondu.
+>
+> (2) Česká národní banka provede zápis fondu kolektivního investování jako standardního fondu do seznamu investičních fondů podle § 597 písm. a) nebo b) a zápis údajů o podfondu standardního fondu do 2 měsíců ode dne podání žádosti o provedení zápisu, která má předepsané náležitosti a ani netrpí jinými vadami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=191b0ccfd677410f3a6a -->
 
 ## Hlava XI — Zápis evropského fondu dlouhodobých investic a údajů o podfondu evropského fondu dlouhodobých investic
 
@@ -2056,6 +4112,54 @@ ELTIF se zapisuje, jsou-li splněny předpoklady čl. 5 a 6 nařízení (EU) 201
 
 **Typicky rozhodné důkazy / podklady:** žádost o zápis ELTIF; doložení splnění čl. 5 a 6 nařízení (EU) 2015/760 (investiční pravidla, struktura); navržený statut; podklady k obhospodařovateli a depozitáři (pro navazující § 512b).
 
+
+<!-- LEGAL-REVISION:BEGIN id=b72a0fa502063b693e29 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 512a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zapíše do seznamu investičních fondů podle § 597 písm. a), b) nebo c) evropský fond dlouhodobých investic jako fond kvalifikovaných investorů na žádost jeho obhospodařovatele, jsou-li splněny předpoklady podle článků 5 a 6 nařízení Evropského parlamentu a Rady (EU) [[2015/760|2015/760]], v platném znění.
+>
+> (2) Česká národní banka zapíše do seznamu investičních fondů podle § 597 písm. a) nebo b) údaje o podfondu evropského fondu dlouhodobých investic na žádost jeho obhospodařovatele, jsou-li splněny předpoklady podle článků 5 a 6 nařízení Evropského parlamentu a Rady (EU) [[2015/760|2015/760]], v platném znění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597
+
+##### Souvisící předpisy
+
+- akt EU 2015/760 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b72a0fa502063b693e29 -->
+
 ### § 512b — Souběžné schválení a lhůta
 
 > **§ 512b**
@@ -2104,6 +4208,54 @@ U ELTIF CNB při zápisu schvaluje současně obhospodařovatele, depozitáře a
 - [ ] Je zohledněno, že rychlý režim § 503 se neuplatní (§ 505)?
 
 **Typicky rozhodné důkazy / podklady:** úplná žádost o zápis ELTIF; podklady ke schválení obhospodařovatele; doklady k depozitáři; navržený statut; doklad o datu podání a bezvadnosti žádosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=8d51a06e141a79f4d98d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 512b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka současně se zápisem evropského fondu dlouhodobých investic do seznamu investičních fondů podle § 597 písm. a), b) nebo c) rozhodne o schválení obhospodařovatele, depozitáře a statutu tohoto fondu.
+>
+> (2) Česká národní banka provede zápis evropského fondu dlouhodobých investic do seznamu podle § 597 písm. a), b) nebo c) a zápis údajů o jeho podfondu evropského fondu dlouhodobých investic do 2 měsíců ode dne podání žádosti o provedení zápisu, která má předepsané náležitosti a ani netrpí jinými vadami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8d51a06e141a79f4d98d -->
 
 ## Hlava XII — Zápis investičního fondu, který není samosprávným investičním fondem
 
@@ -2158,6 +4310,66 @@ Nesamosprávný fond se zapisuje na žádost při splnění podmínek § 513 ods
 
 **Typicky rozhodné důkazy / podklady:** žádost o zápis; statut; doklad o správě majetku registrovaným obhospodařovatelem; doklad o předchozí činnosti; doklad o individuálním statutárním orgánu; u odst. 3 věrohodná informace o zahraničním povolení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=89e461c41bde8176ac43 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 513
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zapíše do seznamu investičních fondů podle § 597 písm. a) právnickou osobu zapsanou do obchodního rejstříku na její žádost, jestliže
+>
+> - a) její majetek v době podání žádosti spravuje osoba zapsaná v seznamu vedeném Českou národní bankou podle § 596 písm. e),
+>
+> - b) nemá být samosprávným investičním fondem,
+>
+> - c) předloží statut investičního fondu,
+>
+> - d) neprováděla před podáním této žádosti jinou činnost, než je činnost srovnatelná s činností fondu kvalifikovaných investorů, a
+>
+> - e) doloží, že má individuální statutární orgán, jímž je nebo má být právnická osoba oprávněná obhospodařovat tento investiční fond.
+>
+> (2) Udělí-li Česká národní banka právnické osobě zapsané v seznamu vedeném Českou národní bankou podle § 596 písm. e) povolení k činnosti investiční společnosti podle [[#§ 479|§ 479]] nebo povolení k činnosti zahraniční osoby podle [[#§ 481|§ 481]], zapíše Česká národní banka současně s rozhodnutím o udělení povolení právnické osoby, které jsou srovnatelné s investičním fondem a jejichž majetek tato osoba výdělečně živnostenským nebo obdobným způsobem spravuje, do seznamu investiční fondů podle § 597 písm. a), a svěřenské fondy nebo obdobná zařízení, řídí-li se českým právem, které jsou srovnatelné s investičním fondem, v nichž výdělečně živnostenským nebo obdobným způsobem spravuje majetek, do seznamu investičních fondů podle § 597 písm. b) nebo c).
+>
+> (3) Dozví-li se Česká národní banka věrohodným způsobem, že právnické osobě se sídlem ve státě, který není členským státem, která je zapsaná v seznamu vedeném Českou národní bankou podle § 596 písm. e), udělil orgán dohledu jiného členského státu povolení srovnatelné s povolením podle [[#§ 481|§ 481]], zapíše do 5 pracovních dnů právnické osoby, které jsou srovnatelné s investičním fondem a jejichž majetek tato osoba výdělečně živnostenským nebo obdobným způsobem spravuje, do seznamu investičních fondů podle § 597 písm. a), a svěřenské fondy nebo obdobná zařízení, řídí-li se českým právem, které jsou srovnatelné s investičním fondem, v nichž výdělečně živnostenským nebo obdobným způsobem spravuje majetek, do seznamu investičních fondů podle § 597 písm. b) nebo c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 596, § 479, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=89e461c41bde8176ac43 -->
+
 ### § 514 — Zápis před zápisem do obchodního rejstříku
 
 > **§ 514**
@@ -2204,6 +4416,52 @@ Fond lze zapsat do seznamu CNB ještě před zápisem do obchodního rejstříku
 - [ ] Je naplánováno podání návrhu na zápis do OR do 90 dnů (jinak výmaz dle § 506a odst. 1 písm. c)?
 
 **Typicky rozhodné důkazy / podklady:** žádost o zápis; navržený statut; doklad o individuálním statutárním orgánu (právnická osoba oprávněná obhospodařovat); doklad, že fond nemá být samosprávný; harmonogram podání návrhu na zápis do OR.
+
+
+<!-- LEGAL-REVISION:BEGIN id=c8ff07f8c02f5c686130 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 514
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Česká národní banka zapíše právnickou osobu před jejím zápisem do obchodního rejstříku na její žádost do seznamu investičních fondů podle § 597 písm. a), jestliže splňuje předpoklady stanovené v § 513 odst. 1 písm. b), c) a e).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 513
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c8ff07f8c02f5c686130 -->
 
 ## Hlava XIII — Udělení souhlasu k výkonu funkce vedoucí osoby
 
@@ -2255,6 +4513,52 @@ Každá fyzická osoba reálně řídící regulovaný subjekt (vč. zmocněnce 
 
 **Typicky rozhodné důkazy / podklady:** plná moc / pověření, výpis z OR fondu i právnické osoby-orgánu, organizační schéma, popis pravomocí, doklad o existujícím souhlasu CNB pro danou osobu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=13f57464a55f463efe55 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 515
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Vedoucí osoba investiční společnosti, samosprávného investičního fondu, zahraniční osoby s povolením podle [[#§ 481|§ 481]] a hlavního administrátora a osoba vykonávající funkci podle § 21 odst. 5, jakož i fyzická osoba, která je zmocněna právnickou osobou, jež je individuálním statutárním orgánem investičního fondu, aby ji ve statutárním orgánu tohoto investičního fondu zastupovala, jestliže není členem statutárního orgánu nebo jinou vedoucí osobou této právnické osoby a nemá předchozí souhlas České národní banky podle této hlavy, musí mít k výkonu své funkce předchozí souhlas České národní banky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=13f57464a55f463efe55 -->
+
 ### § 516 — Předpoklady pro udělení souhlasu
 
 > **§ 516**
@@ -2304,6 +4608,70 @@ Vedoucí osoba musí splňovat všech osm kumulativních předpokladů; u fondov
 
 **Typicky rozhodné důkazy / podklady:** životopis a doklad o praxi vázané na danou třídu aktiv, doklady o vzdělání, výpis z rejstříku trestů, reference, čestná prohlášení, organizační schéma s rozdělením pravomocí.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef8b3824aa0b6951e54e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 516
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka udělí souhlas podle [[#§ 515|§ 515]] člověku,
+>
+> - a) který dosáhl věku 18 let,
+>
+> - b) který nemá omezenu svéprávnost,
+>
+> - c) u nějž nenastala skutečnost, která je překážkou provozování živnosti podle [[zákona upravujícího živnostenské podnikání|zákona upravujícího živnostenské podnikání]],
+>
+> - d) který je důvěryhodný,
+>
+> - e) který je odborně způsobilý, přičemž má dostatečné znalosti a zkušenosti pro řádný výkon této funkce,
+>
+> - f) který je vhodný z hlediska řádného a obezřetného výkonu činností investiční společnosti, investičního fondu, zahraniční osoby s povolením podle [[#§ 481|§ 481]] nebo hlavního administrátora, ve kterých může vykonávat funkci vedoucí osoby,
+>
+> - g) kterému v řádném výkonu funkce nebrání jeho profesní, podnikatelská nebo jiná obdobná činnost, například činnost u osoby s obdobným předmětem podnikání, a
+>
+> - h) má-li vykonávat funkci vedoucí osoby obhospodařovatele investičního fondu nebo zahraničního investičního fondu nebo funkci osoby podle § 21 odst. 5, který má dostatečné zkušenosti se správou majetku, na který je zaměřena investiční strategie obhospodařovaného investičního fondu nebo zahraničního investičního fondu.
+>
+> (2) Investiční společnost, samosprávný investiční fond, zahraniční osoba s povolením podle [[#§ 481|§ 481]] a hlavní administrátor musí mít alespoň 2 vedoucí osoby, které splňují požadavky podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 515, § 481, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef8b3824aa0b6951e54e -->
+
 ### § 517 — Kritéria posuzování
 
 > **§ 517**
@@ -2352,6 +4720,54 @@ Při posuzování vedoucích osob se způsobilost a vhodnost hodnotí proporcion
 
 **Typicky rozhodné důkazy / podklady:** organizační schéma koncernu, výpisy z OR, popis a rozsah funkcí osoby, doklad o časovém vytížení, vnitřní rozdělení odpovědností.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e0189dccb88d5f26edb3 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 517
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Při posuzování skutečností uvedených v § 516 odst. 1 písm. e) až h) vezme Česká národní banka v úvahu zejména rozsah pravomocí spojených s výkonem funkce vedoucí osoby, organizační uspořádání a celkové personální vybavení investiční společnosti, samosprávného investičního fondu, zahraniční osoby s povolením podle [[#§ 481|§ 481]] nebo hlavního administrátora.
+>
+> (2) K tomu, že posuzovaná osoba působí jako zaměstnanec nebo volený člen orgánu u jiné osoby v rámci koncernu se při posuzování skutečností uvedených v § 516 odst. 1 písm. g) nepřihlíží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 516, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e0189dccb88d5f26edb3 -->
+
 ### § 518 — Zánik souhlasu
 
 > **§ 518**
@@ -2397,6 +4813,52 @@ Souhlas má omezenou „životnost": musí být využit do 6 měsíců a funkce 
 - [ ] Je při (znovu)nástupu po zániku podána nová žádost o souhlas?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení souhlasu s datem, zápisy z OR o vzniku/zániku funkce, interní personální evidence, doklady o (ne)výkonu funkce v rozhodném období.
+
+
+<!-- LEGAL-REVISION:BEGIN id=ee3ca9767ea116416c5c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 518
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Nezačne-li osoba uvedená v [[#§ 515|§ 515]] vykonávat svou funkci do 6 měsíců ode dne, kdy jí byl předchozí souhlas udělen, nebo nevykonává-li svou funkci nepřetržitě po dobu delší než 6 měsíců, předchozí souhlas zaniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 515
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ee3ca9767ea116416c5c -->
 
 ## Hlava XIV — Zápis likvidátora a nuceného správce
 
@@ -2447,6 +4909,66 @@ Do seznamů likvidátorů/nucených správců lze zapsat jen osobu splňující 
 - [ ] U zahraniční osoby: má oprávnění orgánu jiného členského státu (odst. 2)?
 
 **Typicky rozhodné důkazy / podklady:** výpis z rejstříku trestů, doklady o odborné praxi/způsobilosti, rozhodnutí o předchozím výmazu a jeho důvod, u zahraniční osoby doklad o zahraničním oprávnění.
+
+
+<!-- LEGAL-REVISION:BEGIN id=deacaf865aeace97db45 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 519
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Do seznamu osob, které mohou být likvidátorem investiční společnosti, fondu kolektivního investování s právní osobností a hlavního administrátora, a do seznamu osob, které mohou být nuceným správcem investiční společnosti, která obhospodařuje fond kolektivního investování nebo srovnatelný zahraniční investiční fond, a fondu kolektivního investování s právní osobností, Česká národní banka zapíše na jeho žádost člověka,
+>
+> - a) který dosáhl věku 18 let,
+>
+> - b) který nemá omezenu svéprávnost,
+>
+> - c) u nějž nenastala skutečnost, která je překážkou provozování živnosti podle [[zákona upravujícího živnostenské podnikání|zákona upravujícího živnostenské podnikání]],
+>
+> - d) který je důvěryhodný,
+>
+> - e) který je odborně způsobilý a
+>
+> - f) který nebyl v posledních 5 letech z tohoto nebo podobného seznamu vymazán; to neplatí v případě výmazu na vlastní žádost.
+>
+> (2) Česká národní banka zapíše zahraniční osobu do seznamů podle odstavce 1 pouze za předpokladu, že má oprávnění příslušného orgánu jiného členského státu působit jako likvidátor nebo nucený správce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=deacaf865aeace97db45 -->
 
 ## Hlava XV — Kvalifikovaná účast jiného na investiční společnosti, samosprávném investičním fondu a hlavním administrátorovi
 
@@ -2502,6 +5024,62 @@ Před nabytím/zvýšením kvalifikované účasti (prahy 20/30/50 %) nebo ovlá
 
 **Typicky rozhodné důkazy / podklady:** akcionářská struktura a evidence emise, akcionářské/koordinační dohody, smlouvy o nabytí podílu, výpočet hlasovacích práv, doklady o původu finančních zdrojů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=b42d0ba7121f6b69f0db generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 520
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Osoba nebo osoby jednající ve shodě musejí oznámit svůj záměr a mít souhlas České národní banky
+>
+> - a) k nabytí kvalifikované účasti na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi, nebo
+>
+> - b) ke zvýšení kvalifikované účasti na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi tak, že dosáhne nebo překročí 20 %, 30 % nebo 50 %, nebo
+>
+> - c) k tomu, aby se staly osobami ovládajícími investiční společnost, samosprávný investiční fond nebo hlavního administrátora.
+>
+> (2) Souhlas České národní banky musí mít osoby podle odstavce 1 i v případě, že hlasovací práva spojená s nabytou účastí podle odstavce 1 na investiční společnosti, samosprávném investičním fondu nebo hlavním administrátorovi nevykonávají nebo významný vliv na jejich řízení neuplatňují; nevykonáváním hlasovacích práv nedochází ke změně podílu na hlasovacích právech těchto ani jiných osob, neuplatňováním vlivu nedochází ke změně na možnosti těchto ani jiných osob jej na řízení uplatnit.
+>
+> (3) Pro účely výpočtu účasti podle odstavce 1 se považují za hlasovací práva plynoucí z účasti na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi hlasovací práva uvedená v § 34 odst. 4 písm. a) až h) tohoto zákona; [[§ 122 odst. 10 až 15|§ 122 odst. 10 až 15]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 122
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b42d0ba7121f6b69f0db -->
+
 ### § 521 — Nutnost předchozího souhlasu
 
 > **§ 521**
@@ -2553,6 +5131,56 @@ Souhlas musí předcházet nabytí. Nabytí bez souhlasu je platné, ale hlasova
 - [ ] Nebyla na valné hromadě přijata usnesení suspendovanými hlasy (riziko neplatnosti)?
 
 **Typicky rozhodné důkazy / podklady:** smlouva o převodu účasti, evidence akcionářů, datum oznámení a žádosti CNB, zápisy z valných hromad a způsob hlasování dotčeného akcionáře.
+
+
+<!-- LEGAL-REVISION:BEGIN id=5ff98c53486004fd02ff generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 521 — Nutnost souhlasu s nabytím nebo zvýšením kvalifikované účasti nebo s ovládnutím
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Souhlas podle § 520 odst. 1 musejí osoba nebo osoby jednající ve shodě získat před nabytím nebo zvýšením kvalifikované účasti na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi nebo jejich ovládnutím.
+>
+> (2) Osoba, která bez předchozího souhlasu České národní banky nabude nebo zvýší kvalifikovanou účast na investiční společnosti, samosprávném investičním fondu nebo hlavním administrátorovi, nebo je ovládne, oznámí bez zbytečného odkladu tuto skutečnost České národní bance a bez zbytečného odkladu ji požádá o souhlas podle § 520 odst. 1.
+>
+> (3) Nabytí nebo zvýšení kvalifikované účasti na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi nebo jejich ovládnutí bez předchozího souhlasu České národní banky nemá za následek neplatnost právního jednání, na základě kterého k těmto změnám v účastech došlo, avšak hlasovací práva spojená s takto nabytou účastí nesmějí být vykonávána nebo získaný vliv na jejich řízení nesmí být uplatňován, a to až do doby udělení tohoto souhlasu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 520
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ff98c53486004fd02ff -->
 
 ### § 522 — Posuzování žádosti
 
@@ -2613,6 +5241,78 @@ CNB posuzuje výlučně taxativní kritéria § 522 odst. 2 (důvěryhodnost, ve
 
 **Typicky rozhodné důkazy / podklady:** schéma vlastnické struktury až ke skutečným majitelům, auditované účetní výkazy, doklady o původu finančních prostředků, AML prověření, životopisy a doklady způsobilosti navrhovaných vedoucích osob, stanoviska zahraničních orgánů dohledu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=1eda7ddb35b680648a96 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 522 — Posuzování žádosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka při posuzování žádosti zkoumá pouze splnění předpokladů uvedených v odstavci 2 a nepřihlíží přitom k ekonomickým potřebám trhu. Česká národní banka žádosti nevyhoví, jestliže nejsou splněny podmínky uvedené v odstavci 2 nebo jestliže informace předložené žadatelem nejsou dostatečné pro posouzení žádosti.
+>
+> (2) Česká národní banka žádosti vyhoví, jsou-li z hlediska možného vlivu na výkon činnosti investiční společnosti, samosprávného investičního fondu, nebo hlavního administrátora splněny tyto předpoklady:
+>
+> - a) osoby, které žádají o udělení souhlasu, jsou důvěryhodné,
+>
+> - b) osoby, které jsou v souvislosti s nabytím kvalifikované účasti navrhovány za vedoucí osoby investiční společnosti, samosprávného investičního fondu, nebo hlavního administrátora splňují bez zjevných pochybností předpoklady stanovené tímto zákonem,
+>
+> - c) finanční zdraví žadatele a dostatečný objem, průhlednost původu a nezávadnost jeho finančních zdrojů ve vztahu k vykonávaným nebo plánovaným činnostem investiční společnosti, samosprávného investičního fondu, nebo hlavního administrátora,
+>
+> - d) investiční společnost, samosprávný investiční fond, nebo hlavní administrátor budou i nadále schopni plnit pravidla obezřetného a řádného obhospodařování a administrace investičních fondů a zahraničních investičních fondů,
+>
+> - e) struktura konsolidačního celku, do kterého má být investiční společnost, samosprávný investiční fond, nebo hlavní administrátor zahrnut,
+>
+> - 1. nebrání účinnému dohledu nad investiční společností, samosprávným investičním fondem, nebo hlavním administrátorem,
+>
+> - 2. nebrání účinné výměně informací mezi Českou národní bankou a orgánem dohledu jiného členského státu, nebo
+>
+> - 3. neznesnadňuje výkon působnosti jednotlivých orgánů dohledu nad tímto konsolidačním celkem a nad osobami zahrnutými do tohoto konsolidačního celku,
+>
+> - f) v souvislosti s navrhovaným nabytím nebo zvýšením kvalifikované účasti na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi nebo jejich ovládnutím nevznikají důvodné obavy, že by mohlo dojít k porušení [[zákona upravujícího opatření proti legalizaci výnosů z trestné činnosti a financování terorismu|zákona upravujícího opatření proti legalizaci výnosů z trestné činnosti a financování terorismu]] nebo že už k takovému porušení došlo, a
+>
+> - g) jedná se o případ zvláštního zřetele hodný, jde-li o žádost podle § 521 odst. 2.
+>
+> (3) V rozhodnutí o žádosti o udělení souhlasu podle § 520 odst. 1 může Česká národní banka určit lhůtu pro nabytí účasti na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi podle § 520 odst. 1.
+>
+> (4) V rozhodnutí o žádosti o udělení souhlasu podle § 520 odst. 1 Česká národní banka uvede závěry vyplývající ze stanovisek, která obdržela postupem podle [[#§ 489|§ 489]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 521, § 520, § 489
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1eda7ddb35b680648a96 -->
+
 ### § 523 — Procesní pravidla posuzování
 
 > **§ 523**
@@ -2671,6 +5371,66 @@ Lhůta je 60 pracovních dnů; výzva k doplnění musí být odeslána do 50. p
 
 **Typicky rozhodné důkazy / podklady:** doklad o datu potvrzení přijetí úplné žádosti, evidence běhu a stavění lhůty, datum a obsah výzvy k doplnění, doklad o (ne)vydání rozhodnutí ve lhůtě.
 
+
+<!-- LEGAL-REVISION:BEGIN id=85dfd02da2f8fd05e254 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 523
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka nejpozději do 2 pracovních dní ode dne přijetí úplné žádosti o udělení souhlasu podle § 520 odst. 1 žadateli písemně potvrdí její přijetí; pokud je žádost neúplná, bez zbytečného odkladu vyzve žadatele k odstranění nedostatků žádosti. Česká národní banka zároveň s potvrzením o přijetí úplné žádosti podle věty první uvědomí žadatele o dni, na který připadá konec běhu lhůty pro posouzení žádosti stanovené v odstavci 2.
+>
+> (2) Česká národní banka rozhodne o žádosti o udělení souhlasu podle § 520 odst. 1 nejpozději do 60 pracovních dní ode dne odeslání písemného potvrzení o přijetí úplné žádosti podle odstavce 1.
+>
+> (3) Nevydá-li Česká národní banka rozhodnutí ve lhůtě stanovené v odstavci 2, platí, že souhlas byl udělen; to neplatí v případě žádosti o souhlas podané podle § 521 odst. 2.
+>
+> (4) Je-li to nezbytné pro posouzení žádosti, Česká národní banka bez zbytečného odkladu, nejpozději však 50. pracovní den běhu lhůty stanovené v odstavci 2, písemně vyzve žadatele k předložení dalších informací, přičemž přijetí vyžádaných informací Česká národní banka žadateli písemně potvrdí ve lhůtě uvedené v odstavci 1. Dnem odeslání výzvy se běh lhůty stanovené v odstavci 2 staví, a to nejdéle na dobu 20 pracovních dní.
+>
+> (5) Běh lhůty stanovené v odstavci 2 se postupem podle odstavce 4 staví až na dobu 30 pracovních dní,
+>
+> - a) má-li žadatel bydliště, sídlo nebo místo podnikání ve státě, který není členským státem, nebo
+>
+> - b) nepodléhá-li žadatel dohledu orgánu jiného členského státu.
+>
+> (6) Česká národní banka po přijetí žádosti podle odstavce 1 postupuje obdobně podle [[#§ 489|§ 489]], žádá-li o udělení souhlasu osoba, která má povolení orgánu dohledu jiného členského státu působit jako poskytovatel finančních služeb, nebo je ovládající osobou takovéto osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 520, § 521, § 489
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85dfd02da2f8fd05e254 -->
+
 ### § 524 — Oznámení pozbytí nebo snížení kvalifikované účasti
 
 > **§ 524**
@@ -2718,6 +5478,66 @@ Snížení kvalifikované účasti pod prahy 50/30/20 %, její úplné pozbytí 
 - [ ] Neaktivuje transakce zároveň povinnost souhlasu nabyvatele dle § 520?
 
 **Typicky rozhodné důkazy / podklady:** smlouva o převodu účasti, evidence akcionářů s novou výší podílů, identifikační údaje snižující i nabývající osoby, doklad o datu účinnosti převodu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d04dc6192a211b12072b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 524 — Oznámení pozbytí nebo snížení kvalifikované účasti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Osoba nebo osoby jednající ve shodě bez zbytečného odkladu oznámí České národní bance, že
+>
+> - a) snižují svou kvalifikovanou účast na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi tak, že klesne pod 50 %, 30 % nebo 20 %, nebo ji zcela pozbývají, nebo
+>
+> - b) snižují svou kvalifikovanou účast na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi tak, že je přestávají ovládat.
+>
+> (2) Oznámení podle odstavce 1 obsahuje
+>
+> - a) údaje nutné k identifikaci osoby nebo osob snižujících nebo pozbývajících svou kvalifikovanou účast na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi nebo údaje nutné k identifikaci osoby nebo osob přestávajících je ovládat,
+>
+> - b) údaje nutné k identifikaci investiční společnosti, samosprávného investičního fondu, nebo hlavního administrátora, na kterém je tato účast snížena nebo pozbyta nebo který přestane být ovládán,
+>
+> - c) údaj o celkové výši podílu na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi po jejím snížení, nebo údaj o rozsahu vlivu na řízení investiční společnosti, samosprávného investičního fondu, nebo hlavního administrátora po jeho snížení a
+>
+> - d) údaje nutné k identifikaci osoby nebo osob, které podíl na investiční společnosti, samosprávném investičním fondu, nebo hlavním administrátorovi nabývají nebo zvyšují, nebo údaje nutné k identifikaci osoby nebo osob, které získávají vliv na řízení investiční společnosti, samosprávného investičního fondu, nebo hlavního administrátora.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d04dc6192a211b12072b -->
 
 ## Hlava XVI — Změna obhospodařovatele standardního fondu
 
@@ -2767,6 +5587,52 @@ Změna obhospodařovatele standardního fondu vyžaduje VŽDY předchozí souhla
 
 **Typicky rozhodné důkazy / podklady:** smlouva/dohoda o převzetí obhospodařování, povolení nového obhospodařovatele, statut fondu, harmonogram a doklady o datu účinnosti změny, žádost a rozhodnutí CNB.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ca66611b0593f82ad8e4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 525
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Ke změně obhospodařovatele standardního fondu se vyžaduje předchozí souhlas České národní banky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ca66611b0593f82ad8e4 -->
+
 ### § 526 — Podmínky souhlasu
 
 > **§ 526**
@@ -2812,6 +5678,52 @@ Souhlas se změnou obhospodařovatele standardního fondu se udělí jen tehdy, 
 - [ ] Jsou předpoklady doloženy PŘED udělením souhlasu (ne jako budoucí příslib)?
 
 **Typicky rozhodné důkazy / podklady:** rozsah povolení nového obhospodařovatele, popis vnitřních procesů a systému řízení rizik dle UCITS, doklady o personálním a technickém vybavení, vnitřní předpisy compliance.
+
+
+<!-- LEGAL-REVISION:BEGIN id=e9f95b60ee457bf2f51e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 526
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Česká národní banka udělí souhlas ke změně obhospodařovatele podle [[#§ 525|§ 525]], má-li osoba, která se má stát obhospodařovatelem standardního fondu, vytvořeny předpoklady k plnění povinností obhospodařovatele standardního fondu plynoucí z tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 525
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9f95b60ee457bf2f51e -->
 
 ## Hlava XVII — Změna depozitáře standardního fondu
 
@@ -2861,6 +5773,52 @@ Změna depozitáře standardního fondu vyžaduje VŽDY předchozí souhlas CNB;
 
 **Typicky rozhodné důkazy / podklady:** nová depozitářská smlouva, potvrzení nového depozitáře o předpokladech, doklady o jeho oprávnění, žádost a rozhodnutí CNB, harmonogram výměny.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4cb6f738447b4d07dd06 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 527
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Ke změně depozitáře standardního fondu se vyžaduje předchozí souhlas České národní banky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4cb6f738447b4d07dd06 -->
+
 ### § 528 — Podmínky souhlasu a domněnka způsobilosti
 
 > **§ 528**
@@ -2906,6 +5864,52 @@ U depozitáře standardního fondu platí vyvratitelná domněnka způsobilosti 
 - [ ] Lze místo zamítnutí nedostatky odstranit / souhlas podmínit?
 
 **Typicky rozhodné důkazy / podklady:** potvrzení depozitáře o předpokladech, kontrolní a dohledová zjištění CNB o depozitáři, případná opatření k nápravě v jiných věcech, doklady o systému úschovy a evidence aktiv.
+
+
+<!-- LEGAL-REVISION:BEGIN id=398e5cb08fccff8d9b5b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 528
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Česká národní banka udělí souhlas ke změně depozitáře podle [[#§ 527|§ 527]], potvrdí-li osoba, která se má stát depozitářem tohoto standardního fondu, vytvoření předpokladů k plnění povinností depozitáře standardního fondu plynoucích z tohoto zákona. U depozitáře standardního fondu se má za to, že má předpoklady k plnění povinností depozitáře standardního fondu plynoucí z tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 527
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=398e5cb08fccff8d9b5b -->
 
 ## Hlava XVIII — Změna statutu standardního fondu
 
@@ -2967,6 +5971,66 @@ Změna statutu standardního fondu zásadně vyžaduje souhlas CNB jako podmínk
 
 **Typicky rozhodné důkazy / podklady:** porovnání dosavadního a navrhovaného znění statutu, popis povahy a dopadu jednotlivých změn (na osoby vs. na zájmy podílníků), doklady o distribuci v ČR, žádost a rozhodnutí CNB.
 
+
+<!-- LEGAL-REVISION:BEGIN id=fead6cddbc53dc9bf52b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 529
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ke změně statutu standardního fondu se vyžaduje předchozí souhlas České národní banky, jinak je neúčinná.
+>
+> (2) Česká národní banka udělí souhlas podle odstavce 1, je-li navrhovaná změna statutu v souladu s tímto zákonem a právními předpisy jej provádějícími.
+>
+> (3) Změna statutu standardního fondu, neumožňující nabízet investice do tohoto fondu v České republice, se nepřipouští.
+>
+> (4) Souhlas České národní banky ke změně statutu standardního fondu se nevyžaduje, jde-li o změnu
+>
+> - a) údaje přímo vyplývajícího ze změn týkajících se obhospodařovatele, administrátora, fondu nebo jeho depozitáře,
+>
+> - b) přímo vyvolanou změnou právní úpravy,
+>
+> - c) informace o výkonnosti nebo skutečných nebo předpokládaných výsledcích hospodaření fondu, která vyžaduje pravidelnou aktualizaci, nebo
+>
+> - d) netýkající se postavení nebo zájmů podílníků nebo akcionářů fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fead6cddbc53dc9bf52b -->
+
 ### § 530 — Lhůta a postup schválení
 
 > **§ 530**
@@ -3014,6 +6078,54 @@ O změně statutu standardního fondu rozhodne CNB do 30 pracovních dnů; u bez
 - [ ] Je evidováno datum podání bezvadné žádosti?
 
 **Typicky rozhodné důkazy / podklady:** žádost a nové úplné znění statutu, doklad o datu podání a bezvadnosti, evidence běhu lhůty, případné rozhodnutí CNB.
+
+
+<!-- LEGAL-REVISION:BEGIN id=fe086dc0e61a13d41b73 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 530
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka rozhodne o žádosti podle § 529 odst. 1 do 30 pracovních dní ode dne podání žádosti, která má předepsané náležitosti a ani netrpí jinými vadami. Nevydá-li Česká národní banka rozhodnutí v této lhůtě, platí, že změnu statutu schválila.
+>
+> (2) Schválení změny statutu standardního fondu, nejde-li o případ podle odstavce 1 věty druhé, se provádí schválením jeho nového úplného znění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 529
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fe086dc0e61a13d41b73 -->
 
 ## Hlava XIX — Zápis fondu peněžního trhu, který není standardním fondem
 
@@ -3068,6 +6180,58 @@ Fond peněžního trhu, jenž je speciálním fondem nebo FKI, CNB zapíše do s
 - [ ] Je žádost bezvadná (běh 2měsíční lhůty dle odst. 4)?
 
 **Typicky rozhodné důkazy / podklady:** doklady o splnění čl. 5 nařízení 2017/1131, statut fondu/podfondu, depozitářská smlouva, povolení obhospodařovatele, elektronická žádost dle § 532.
+
+
+<!-- LEGAL-REVISION:BEGIN id=db234c6e0e115400b1d0 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 531
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zapíše do seznamu investičních fondů podle § 597 písm. a) nebo b) fond peněžního trhu jako speciální fond nebo jako fond kvalifikovaných investorů na žádost jeho obhospodařovatele, jsou-li splněny předpoklady podle čl. 5 nařízení Evropského parlamentu a Rady (EU) [[2017/1131|2017/1131]].
+>
+> (2) Česká národní banka zapíše do seznamu investičních fondů podle § 597 písm. a) údaje o podfondu fondu peněžního trhu, který je speciálním fondem nebo fondem kvalifikovaných investorů, na žádost jeho obhospodařovatele, jsou-li splněny předpoklady podle čl. 5 nařízení Evropského parlamentu a Rady (EU) [[2017/1131|2017/1131]].
+>
+> (3) Česká národní banka současně se zápisem podle odstavce 1 nebo [[#§ 2|2]] rozhodne o schválení depozitáře a statutu tohoto fondu.
+>
+> (4) Česká národní banka provede zápis podle odstavce 1 nebo [[#§ 2|2]] do 2 měsíců ode dne podání žádosti o provedení zápisu, která má předepsané náležitosti a ani netrpí jinými vadami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 2
+
+##### Souvisící předpisy
+
+- akt EU 2017/1131 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db234c6e0e115400b1d0 -->
 
 ## Hlava XX — Společná ustanovení
 
@@ -3127,6 +6291,56 @@ Vyjmenované žádosti (vč. povolení, souhlasů a zápisů dle § 532 odst. 1)
 
 **Typicky rozhodné důkazy / podklady:** podaná žádost a doklad o způsobu/datu podání, prováděcí vyhláška CNB k formě a náležitostem, doklady prokazující splnění hmotných podmínek dle příslušného ustanovení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=261c14fa6ede65d57f1e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 532
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Žádost o udělení povolení podle § 479 až 482 a [[#§ 507|§ 507]], udělení souhlasu podle [[#§ 433|§ 433]], [[#§ 508|508]], [[#§ 509|509]], [[#§ 515|515]], [[#§ 520|520]], [[#§ 525|525]], [[#§ 527|527]] a [[#§ 529|529]], odnětí povolení podle § 551 odst. 1 písm. d) a § 646 odst. 1, změnu povolení podle [[#§ 500|§ 500]] a [[#§ 647|647]] a o zápis do seznamů podle [[#§ 596|§ 596]] a [[#§ 597|597]], jakož i žádost o změnu údajů v těchto seznamech zapsaných, lze podat pouze elektronicky.
+>
+> (2) Žádost podle odstavce 1 obsahuje, vedle náležitostí stanovených správním řádem, též údaje a doklady prokazující splnění podmínek stanovených tímto zákonem.
+>
+> (3) Česká národní banka stanoví vyhláškou náležitosti žádosti podle odstavce 1 osvědčující splnění předpokladů stanovených tímto zákonem, její formu a způsob podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 479, § 507, § 433, § 508, § 509, § 515, § 520, § 525, § 527, § 529, § 551, § 646, § 500, § 647, § 596, § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=261c14fa6ede65d57f1e -->
+
 ### § 533 — Osvědčení splnění předpokladů
 
 > **§ 533**
@@ -3184,3 +6398,50 @@ Splnění předpokladů lze osvědčit odkazem na přesně identifikované, dř�
 ---
 
 *Konec části třinácté — Řízení o žádostech (§§ 479–533)*
+
+<!-- LEGAL-REVISION:BEGIN id=fff5e8401dc0c98361e2 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 533
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Osvědčit splnění předpokladů stanovených tímto zákonem pro rozhodnutí o žádosti podle tohoto zákona lze i odvoláním na přesně identifikovaný doklad, který žadatel dříve předložil České národní bance nebo který má Česká národní banka jinak k dispozici, je-li aktuální.
+>
+> (2) Osvědčení splnění předpokladů stanovených tímto zákonem pro rozhodnutí o žádosti o povolení opravňující přesáhnout rozhodný limit, žádá-li o toto povolení právnická osoba podle [[#§ 15|§ 15]], vymezuje článek 1 prováděcího nařízení Komise (EU) č. [[447/2013|447/2013]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fff5e8401dc0c98361e2 -->

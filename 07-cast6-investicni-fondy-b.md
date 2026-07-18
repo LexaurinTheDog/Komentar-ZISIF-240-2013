@@ -58,6 +58,52 @@ V praxi platí, že zakladatel svěřenského fondu, který je investičním fon
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ab3e9e793c8348a4d69f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 153
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Ustanovení [[§ 1465|§ 1465]] [[občanského zákoníku|občanského zákoníku]] se pro investiční fond jako svěřenský fond nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1465
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ab3e9e793c8348a4d69f -->
+
 ## Díl 4 — Akciová společnost s proměnným základním kapitálem (SICAV)
 
 > Úprava akciové společnosti s proměnným základním kapitálem (SICAV) tvoří nejrozsáhlejší díl Části šesté. SICAV je otevřená právní forma investičního fondu s variabilním kapitálem a právní subjektivitou, vhodná jak pro fondy kolektivního investování, tak pro fondy kvalifikovaných investorů.
@@ -122,6 +168,54 @@ SICAV je účelově vyhrazená otevřená forma investičního fondu definovaná
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e68ae53fa8c84e5996bf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 154
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Akciová společnost s proměnným základním kapitálem je akciová společnost, která vydává akcie, s nimiž je spojeno právo akcionáře na jejich odkoupení na účet společnosti, a jejíž obchodní firma obsahuje označení „investiční fond s proměnným základním kapitálem“, které může být nahrazeno zkratkou „SICAV“.
+>
+> (2) Akciovou společností s proměnným základním kapitálem může být pouze investiční fond.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e68ae53fa8c84e5996bf -->
+
 ### § 155 — Základní kapitál SICAV
 
 > **§ 155**
@@ -177,6 +271,54 @@ Do obchodního rejstříku se u SICAV zapisuje pouze zapisovaný základní kapi
 **Typicky rozhodné důkazy / podklady:** stanovy, listina/zápis o úpisu zakladatelských akcií, účetní závěrka s vyčíslením fondového kapitálu, návrh na zápis do obchodního rejstříku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=14a15b073fc8f3b23843 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 155 — Základní kapitál
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Základní kapitál akciové společnosti s proměnným základním kapitálem se rovná jejímu fondovému kapitálu. Do obchodního rejstříku se jako její základní kapitál zapisuje částka vložená úpisem zakladatelských akcií (zapisovaný základní kapitál); zapisovaný základní kapitál se uvede ve stanovách namísto základního kapitálu.
+>
+> (2) Výše zapisovaného základního kapitálu akciové společnosti s proměnným základním kapitálem je alespoň 1 Kč, nebo 1 EUR; ustanovení [[§ 246 odst. 2|§ 246 odst. 2]] [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]] se pro základní kapitál akciové společnosti s proměnným základním kapitálem nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 246
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=14a15b073fc8f3b23843 -->
 
 ### § 156 — Obsah stanov SICAV
 
@@ -260,6 +402,72 @@ Stanovy SICAV musejí nad rámec ZOK obsahovat taxativní náležitosti § 156 o
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=94cda237b3708ead695e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 156 — Obsah stanov
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Stanovy akciové společnosti s proměnným základním kapitálem obsahují také
+>
+>   - a) údaj o tom, zda společnost může vytvářet podfondy,
+>
+>   - b) způsob určení úplaty za její obhospodařování a provádění její administrace jako investičního fondu,
+>
+>   - c) určení druhů nákladů, které mohou vznikat v souvislosti s jejím obhospodařováním a prováděním její administrace jako investičního fondu,
+>
+>   - d) zásady hospodaření s majetkem a pravidla pro výplatu podílů na zisku,
+>
+>   - e) způsob určování aktuální hodnoty investičních akcií a četnost takového určování,
+>
+>   - f) postupy a podmínky pro vydávání a odkupování investičních akcií,
+>
+>   - g) určení dolní a horní hranice rozpětí základního kapitálu, ve kterém společnost vydává a odkupuje investiční akcie, a
+>
+>   - h) způsob, jak se oznámí záměr některého z vlastníků zakladatelských akcií tyto akcie převést (§ 160 odst. 1).
+>
+> (2) Připouštějí-li stanovy možnost vytvářet podfondy, určí také pravidla pro jejich vytváření a pravidla pro úhradu nákladů, které mohou vznikat v souvislosti s jejich obhospodařováním a prováděním jejich administrace.
+>
+> (3) Pro akciovou společnost s proměnným základním kapitálem se nepoužijí ustanovení [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]] o uvádění počtu akcií a celkového počtu hlasů ve společnosti ve stanovách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 160
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94cda237b3708ead695e -->
+
 ### § 157 — Odchylky od ZOK
 
 > **§ 157**
@@ -327,6 +535,56 @@ Pro SICAV se nepoužije řada institutů ZOK (jmenovitá hodnota, vlastní akcie
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b528eb40036b8e9bde82 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 157
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro akciovou společnost s proměnným základním kapitálem se nepoužijí ustanovení [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]], jež se týkají jmenovité hodnoty, a ustanovení o upisování a nabývání vlastních akcií, o finanční asistenci, o emisním kurzu a emisním ážiu a o vydávání opčních listů.
+>
+> (2) Akciová společnost s proměnným základním kapitálem, jejíž valná hromada rozhodla o vyřazení investičních akcií z obchodování na evropském regulovaném trhu, nemusí učinit veřejný návrh smlouvy.
+>
+> (3) Akciová společnost s proměnným základním kapitálem nemusí tvořit rezervní fondy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b528eb40036b8e9bde82 -->
+
 ### Oddíl 2 — Zakladatelské akcie a investiční akcie
 
 ### § 158 — Druhy akcií SICAV
@@ -393,6 +651,58 @@ Druh akcie SICAV (zakladatelská/investiční) se určuje zákonným vymezením 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=54d9cefa4341a01e25f1 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 158
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Akciová společnost s proměnným základním kapitálem vydává kusové akcie jako akcie, které nemají jmenovitou hodnotu.
+>
+> (2) Zakladatelské akcie akciové společnosti s proměnným základním kapitálem jsou akcie, které upsali zakladatelé akciové společnosti; zakladatelskými akciemi zůstávají být i ty zakladatelské akcie, které upsala jiná osoba než vlastník zakladatelských akcií, neboť žádný z těchto vlastníků nevyužil svého předkupního práva podle [[#§ 160|§ 160]], a zakladatelské akcie, které nabyla jiná osoba než vlastník zakladatelských akcií, neboť žádný z těchto vlastníků nevyužil svého přednostního práva na úpis nových zakladatelských akcií podle [[#§ 161|§ 161]].
+>
+> (3) Ostatní akcie akciové společnosti s proměnným základním kapitálem jsou investiční akcie.
+>
+> (4) Zakladatelská akcie obsahuje označení, že jde o zakladatelskou akcii; investiční akcie obsahuje označení, že jde o investiční akcii, a údaj, z něhož plyne, zda je akcií s hlasovacím právem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 160, § 161
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=54d9cefa4341a01e25f1 -->
+
 ### § 159 — Zvláštní pravidla pro zakladatelské akcie
 
 > **§ 159**
@@ -450,6 +760,56 @@ Zakladatelská akcie je pevným prvkem kapitálu SICAV bez práva odkupu, bez zv
 **Typicky rozhodné důkazy / podklady:** stanovy, emisní podmínky zakladatelských akcií, zápis z jednání zakladatelů, seznam akcionářů, rozhodnutí o změně zapisovaného základního kapitálu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4b40255890db997e960e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 159
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Se zakladatelskou akcií nemůže být spojeno právo na její odkoupení na účet společnosti ani jiné zvláštní právo.
+>
+> (2) Zakladatelská akcie nemůže být přijata k obchodování na evropském regulovaném trhu ani na jiném veřejném trhu.
+>
+> (3) Pro akciovou společnost s proměnným základním kapitálem se ustanovení [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]] o změně výše základního kapitálu akciové společnosti a o rozhodování valné hromady ve vztahu ke změně výše základního kapitálu akciové společnosti použijí jen ve vztahu k zapisovanému základnímu kapitálu a zakladatelským akciím.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b40255890db997e960e -->
 
 ### § 160 — Předkupní právo vlastníků zakladatelských akcií
 
@@ -511,6 +871,54 @@ Předkupní právo ostatních vlastníků zakladatelských akcií dopadá i na b
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c77c46cc0fdaa39d9096 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 160
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Hodlá-li některý z vlastníků zakladatelských akcií převést své zakladatelské akcie, mají ostatní vlastníci zakladatelských akcií k těmto akciím po dobu 6 měsíců ode dne, kdy jim tuto skutečnost oznámil, předkupní právo, ledaže vlastník zakladatelských akcií zakladatelské akcie převádí jinému vlastníkovi zakladatelských akcií. Není-li ujednáno ve stanovách, jak předkupní právo vykonají, mají právo vykoupit zakladatelské akcie poměrně podle velikosti svých podílů.
+>
+> (2) Předkupní právo mají vlastníci zakladatelských akcií i v případě, že některý z vlastníků zakladatelských akcií převádí zakladatelské akcie bezúplatně; tehdy mají vlastníci zakladatelských akcií právo zakladatelské akcie vykoupit za obvyklou cenu. To platí i v jiných případech zákonného předkupního práva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c77c46cc0fdaa39d9096 -->
+
 ### § 161 — Přednostní právo úpisu nových zakladatelských akcií
 
 > **§ 161**
@@ -562,6 +970,52 @@ Při vydávání nových zakladatelských akcií mají stávající vlastníci p
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o vydání nových zakladatelských akcií, stanovy, seznam akcionářů s podíly, doklady o nabídce úpisu a lhůtách, listiny o úpisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=721def53fc51bad0f832 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 161
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Každý vlastník zakladatelských akcií má přednostní právo upsat část nových zakladatelských akcií v rozsahu jeho podílu. Neurčí-li stanovy jinak, má každý vlastník zakladatelských akcií přednostní právo na upsání i těch zakladatelských akcií, které v souladu se zákonem neupsal jiný akcionář. V dalším se [[§ 485 až 490|§ 485 až 490]] [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]] použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 485
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=721def53fc51bad0f832 -->
 
 ### § 162 — Investiční akcie
 
@@ -622,6 +1076,54 @@ Investiční akcie je odkupitelná na účet společnosti (či podfondu) a odkup
 **Typicky rozhodné důkazy / podklady:** žádost o odkup, stanovy, evidence investičních akcií podfondu, pozvánka a program valné hromady, doklad o výpočtu aktuální hodnoty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c8ddb690b2069259d1a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 162
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) S investiční akcií je spojeno právo na její odkoupení na žádost jejího vlastníka na účet společnosti, nebo podfondu, k němuž byla vydána. Investiční akcie odkoupením zanikají.
+>
+> (2) S investiční akcií není spojeno hlasovací právo, neurčí-li stanovy jinak. Vlastníkům investičních akcií bez hlasovacího práva není svolavatel valné hromady povinen zaslat pozvánku na valnou hromadu podle [[§ 406 odst. 1 věty první|§ 406 odst. 1 věty první]] zákona [[o obchodních korporacích|o obchodních korporacích]], ledaže zákon upravující právní poměry obchodních společností a družstev vyžaduje hlasování na valné hromadě podle druhu akcií a vlastník investiční akcie bez hlasovacího práva je oprávněn na valné hromadě hlasovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 406
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c8ddb690b2069259d1a -->
 
 ### § 163 — Vydávání a odkupování investičních akcií; opatření při dosažení hranic rozpětí
 
@@ -697,6 +1199,64 @@ Při dosažení hranic rozpětí musí obhospodařovatel bez zbytečného odklad
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=870d4df7f378c978cd38 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 163
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investiční akcie se upisují na základě veřejné výzvy k jejich úpisu.
+>
+> (2) Pro vydávání a odkupování investičních akcií se § 130 až 140 použijí obdobně.
+>
+> (3) Dnem obnovení vydávání nebo odkupování investičních akcií je
+>
+>   - a) den následující po dni, kterým uplynula doba, na kterou bylo vydávání nebo odkupování investičních akcií pozastaveno,
+>
+>   - b) den nabytí právní moci rozhodnutí České národní banky, kterým se zrušuje rozhodnutí o pozastavení vydávání nebo odkupování investičních akcií, nebo
+>
+>   - c) den následující po dni, kterým uplynula doba, na kterou bylo pozastaveno vydávání nebo odkupování cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem.
+>
+> (4) V případě dosažení dolní či horní hranice rozpětí uvedeného v § 156 odst. 1 písm. g) obhospodařovatel investičního fondu, který je akciovou společností s proměnným základním kapitálem, přijme bez zbytečného odkladu účinné opatření ke zjednání nápravy, nebo rozhodne o zrušení fondu. Účinným opatřením může být rozhodnutí o pozastavení vydávání a odkupování investičních akcií s tím, že odstavec 3 a § 131 až 140 se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 130, § 156, § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=870d4df7f378c978cd38 -->
+
 ### § 164 — Jmění SICAV nevytvářející podfondy
 
 > **§ 164**
@@ -759,6 +1319,56 @@ I SICAV bez podfondů odděluje investiční jmění od ostatního; věřitelé 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0ecad21a7e5820df547 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 164
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Akciová společnost s proměnným základním kapitálem, která nevytváří podfondy, účetně a majetkově odděluje majetek a dluhy ze své investiční činnosti od svého ostatního jmění.
+>
+> (2) K uspokojení pohledávky věřitele nebo akcionáře za akciovou společností s proměnným základním kapitálem nevytvářející podfondy, která vznikla v souvislosti s její investiční činností, lze použít pouze majetek z této investiční činnosti. Majetek z investiční činnosti této společnosti nelze použít ke splnění dluhu, který není dluhem z její investiční činnosti.
+>
+> (3) Práva akcionáře podílet se na zisku a na likvidačním zůstatku, jakož i další majetková práva, spojená s investiční akcií akciové společnosti s proměnným základním kapitálem, která nevytváří podfondy, se vztahují jen k majetku a dluhům z investiční činnosti této společnosti. Tím není dotčeno, aby taková společnost vydala různé druhy investičních akcií za podmínek, které stanoví [[zákon upravující právní poměry obchodních společností a družstev|zákon upravující právní poměry obchodních společností a družstev]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0ecad21a7e5820df547 -->
+
 ### § 164a — Přechod na podfondovou strukturu
 
 > **§ 164a**
@@ -808,6 +1418,52 @@ SICAV bez podfondů může přejít na podfondovou strukturu vnitřní reorganiz
 **Typicky rozhodné důkazy / podklady:** stanovy a jejich změna, účetní závěrka a projekt rozčlenění jmění do podfondu, rozhodnutí orgánu společnosti, doklady o zápisu u ČNB a v obchodním rejstříku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=364efe40b7872d367565 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 164a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Akciová společnost s proměnným základním kapitálem, která dosud nevytvářela podfondy, může z majetku a dluhů z její investiční činnosti vytvořit jeden nebo více podfondů, připouštějí-li její stanovy jejich vytváření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=364efe40b7872d367565 -->
 
 ### Oddíl 3 — Podfondy
 
@@ -888,6 +1544,60 @@ Podfond je účetně a majetkově oddělená část jmění SICAV s vlastní str
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=355c4d954ac063c20dd5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 165 — Jmění akciové společnosti vytvářející podfondy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Akciová společnost s proměnným základním kapitálem může vytvářet podfondy, připouští-li to její stanovy. Podfond je účetně a majetkově oddělená část jejího jmění. O majetkových poměrech podfondu, jakož i o dalších skutečnostech, se vede účetnictví tak, aby umožnilo sestavení účetní závěrky za každý jednotlivý podfond.
+>
+> (2) Akciová společnost s proměnným základním kapitálem zahrnuje do podfondu nebo podfondů majetek a dluhy ze své investiční činnosti. Nezahrnuje-li akciová společnost s proměnným základním kapitálem do podfondu nebo podfondů také majetek a dluhy, které nejsou součástí majetku a dluhů této společnosti z investiční činnosti, netvoří tento majetek a dluhy podfond.
+>
+> (3) Podfond má vlastní investiční strategii, neurčí-li stanovy něco jiného.
+>
+> (4) K uspokojení pohledávky věřitele nebo akcionáře za akciovou společností s proměnným základním kapitálem vytvářející podfondy, která vznikla v souvislosti s její investiční činností v rámci určitého podfondu, lze použít pouze majetek v tomto podfondu. Majetek v podfondu nelze použít ke splnění dluhu, který není dluhem téhož podfondu.
+>
+> (5) Do obchodního rejstříku se u akciové společnosti s proměnným základním kapitálem zapisuje také údaj o tom, zda společnost může vytvářet podfondy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=355c4d954ac063c20dd5 -->
+
 ### § 166 — Označení podfondu
 
 > **§ 166**
@@ -937,6 +1647,52 @@ Označení podfondu musí propojovat podfond s mateřskou SICAV (příznačný p
 **Typicky rozhodné důkazy / podklady:** stanovy, statut podfondu, marketingové materiály, výpis identifikace podfondu u ČNB, obchodní firma SICAV.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4c707e7da46a6e527b5e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 166
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Označení podfondu musí obsahovat příznačný prvek obchodní firmy akciové společnosti s proměnným základním kapitálem a slovo „podfond“, popřípadě jinak vyjádřit jeho vlastnost podfondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c707e7da46a6e527b5e -->
 
 ### § 167 — Investiční akcie vydané k podfondu
 
@@ -1002,6 +1758,58 @@ Investiční akcie k podfondu lze vydat až po zápisu identifikačních údajů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e2a895ab56aefffc7d50 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 167 — Investiční akcie v případě podfondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Akciová společnost s proměnným základním kapitálem vydává ke každému podfondu investiční akcie, které představují stejné podíly na fondovém kapitálu toho podfondu. S investičními akciemi vydanými k podfondu je spojeno právo týkající se podílu na zisku jen z hospodaření tohoto podfondu a na likvidačním zůstatku jen při zániku tohoto podfondu s likvidací. Tím není vyloučeno, aby akciová společnost vydala různé druhy investičních akcií k témuž podfondu za podmínek, které stanoví [[zákon upravující právní poměry obchodních společností a družstev|zákon upravující právní poměry obchodních společností a družstev]].
+>
+> (2) Vydat k podfondu investiční akcie nelze, dokud nejsou údaje nutné k identifikaci podfondu zapsány v příslušném seznamu vedeném Českou národní bankou.
+>
+> (3) Investiční akcie uvedená v odstavci 1 obsahuje označení podfondu, k němuž se práva uvedená v odstavci 1 vztahují, popřípadě další zvláštní práva, která jsou s ní spojena.
+>
+> (4) Stanovy mohou určit, že o záležitostech, které se týkají pouze podfondu a nemají významný dopad na jiné podfondy, hlasují pouze vlastníci investičních akcií vydaných k tomuto podfondu, přičemž není rozhodné, zda jsou vlastníky akcií s hlasovacím právem. V takovém případě stanovy současně tyto záležitosti podrobněji vymezí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2a895ab56aefffc7d50 -->
+
 ### § 168 — Identifikace podfondu v právních jednáních
 
 > **§ 168**
@@ -1049,6 +1857,52 @@ V právních jednáních a evidencích se jako nositel práva uvádí SICAV s id
 **Typicky rozhodné důkazy / podklady:** kupní/převodní smlouva, návrh na vklad/zápis, výpis SICAV z obchodního rejstříku, výpis identifikace podfondu u ČNB, evidence majetku podfondu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bf12ec65a8448b7d97a0 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 168
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Vyžaduje-li jiný právní předpis nebo právní jednání údaje o vlastníkovi, uvede se označení podfondu a údaje o investičním fondu, o jehož podfond se jedná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf12ec65a8448b7d97a0 -->
 
 ### § 169 — Statut a sdělení klíčových informací podfondu
 
@@ -1106,6 +1960,54 @@ Každý podfond musí mít statut a samostatné sdělení klíčových informac�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5332d899a8e718ba949a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 169 — Statut a sdělení klíčových informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Každý podfond musí mít statut. Statut podfondu může být začleněn do statutu investičního fondu, nesnižuje-li to srozumitelnost statutu pro investory.
+>
+> (2) Sdělení klíčových informací fondu kolektivního investování, jehož stanovy vytvoření podfondu připustily, se vyhotovuje za každý podfond.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5332d899a8e718ba949a -->
+
 ### § 169a — Interpretační pravidlo: podfond = fond
 
 > **§ 169a**
@@ -1160,6 +2062,52 @@ Toto ustanovení je klíčovým interpretačním pravidlem: kdykoli ZISIF pracuj
 **Typicky rozhodné důkazy / podklady:** statut a evidence podfondů, daňová přiznání a posouzení podle daňových předpisů, rozhodnutí ČNB k úrovni posuzování, judikatura NSS (3 Af 8/2024, 11 Af 12/2024).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9919336aeef0cb4ac9ad generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 169a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Používá-li tento zákon pojem „investiční fond“, „fond kolektivního investování“ nebo „fond kvalifikovaných investorů“, rozumí se jím v případě investičního fondu, který vytváří podfondy, podfond investičního fondu, ledaže z tohoto zákona plyne něco jiného.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9919336aeef0cb4ac9ad -->
 
 ## Díl 5 — Akciová společnost s fixním základním kapitálem (SICAF)
 
@@ -1229,6 +2177,56 @@ SICAF je uzavřená forma investičního fondu-a.s. definovaná negativně (nen�
 **Typicky rozhodné důkazy / podklady:** stanovy a statut SICAF, podnikatelský záměr, výpis předmětu podnikání, dokumentace ke struktuře akcií (absence odkupu), doklady o podfondech a jejich registraci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=50d274ad7ccbbb6155e7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 169b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Akciová společnost s fixním základním kapitálem je investiční fond, který je akciovou společností a není akciovou společností s proměnným základním kapitálem podle [[#§ 154|§ 154]].
+>
+> (2) Obchodní firma akciové společnosti s fixním základním kapitálem může obsahovat označení „investiční fond s fixním základním kapitálem“, které může být nahrazeno zkratkou „SICAF“.
+>
+> (3) Ustanovení § 156 odst. 1 písm. a) až e), § 156 odst. 2 a [[#§ 3|3]], § 157 odst. 2 a [[#§ 3|3]], [[#§ 165|§ 165]], [[#§ 166|166]], [[#§ 168|168]] a [[#§ 169|169]] se pro akciovou společnost s fixním základním kapitálem použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 154, § 156, § 3, § 157, § 165, § 166, § 168, § 169
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=50d274ad7ccbbb6155e7 -->
 
 ## Díl 6 — Komanditní společnost na investiční listy
 
@@ -1309,6 +2307,68 @@ K. s. i. l. je paper-based komanditní fond s jediným komplementářem a s pln�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5125611ef8d638b5c311 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 170
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Komanditní společnost na investiční listy je komanditní společnost, v níž pouze jeden společník ručí za její dluhy neomezeně (dále jen „komplementář“ ) a alespoň jeden společník za její dluhy neručí (dále jen „komanditista“). Podíly komanditistů komanditní společnosti na investiční listy jsou představovány investičními listy.
+>
+> (2) Obchodní firma obsahuje označení „komanditní společnost na investiční listy“, které může být nahrazeno zkratkou „kom. spol. na invest. listy“ nebo „k. s. i. l.“.
+>
+> (3) Komanditní společností na investiční listy může být pouze investiční fond nebo osoba podle § 15 odst. 1.
+>
+> (4) Investiční fond, který je komanditní společností na investiční listy, může vytvářet podfondy.
+>
+> (5) Ustanovení § 165 až 169 se pro komanditní společnost na investiční listy, která vytváří podfondy, použijí obdobně; dovolávají-li se tato ustanovení
+>
+> - a) akcionáře, rozumí se tím společník,
+>
+> - b) investičních akcií, rozumí se tím investiční listy,
+>
+> - c) stanov, rozumí se tím společenská smlouva.
+>
+> (6) Společenská smlouva může určit jakékoli dělení zisku a ztráty mezi společnost a komplementáře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 165
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5125611ef8d638b5c311 -->
+
 ### § 171 — Druhy podílů a investičních listů
 
 > **§ 171**
@@ -1371,6 +2431,60 @@ Zásadní odchylka od obecné publicity obchodního rejstříku: údaje o komand
 **Typicky rozhodné důkazy / podklady:** společenská smlouva s vymezením druhů podílů, listiny o úpisu jednotlivých tříd, výpis z OR a sbírky listin, doklad o oprávněném zájmu žadatele o opis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=134974f9912b2b63b6da generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 171 — Druhy podílů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Společenská smlouva může připustit vznik různých druhů podílů. Investiční listy, které představují podíly, s nimiž jsou spojena stejná práva a povinnosti, tvoří jeden druh. Investiční list, který představuje podíl, s nímž nejsou spojena žádná zvláštní práva a povinnosti, je základní investiční list.
+>
+> (2) Určí-li tak společenská smlouva, může komanditista vlastnit více podílů, a to i různého druhu. Je-li podle společenské smlouvy dovolen vznik více podílů pro jednoho komanditistu, vydá společnost investiční list pro každý podíl, nebo vydá hromadný investiční list; společenská smlouva obsahuje také označení investičního listu, kterým je podíl představován.
+>
+> (3) Různé druhy podílů, zvláštní práva a povinnosti a jejich obsah se určí ve společenské smlouvě.
+>
+> (4) Upravuje-li společenská smlouva různé druhy podílů, do obchodního rejstříku se u komanditní společnosti na investiční listy zapisuje také údaj o druhu podílu a popis práv a povinností s ním spojených, a to alespoň odkazem na společenskou smlouvu uloženou ve sbírce listin obchodního rejstříku. Do obchodního rejstříku se u komanditní společnosti na investiční listy nezapisují údaje o komanditistech. Soud, který vede obchodní rejstřík, znepřístupní veřejnosti i údaje o komanditistech obsažené ve společenské smlouvě komanditní společnosti na investiční listy založené do sbírky listin. Kromě případů stanovených zvláštním právním předpisem může opis společenské smlouvy včetně údajů o komanditistech obdržet jen ten, kdo na tom má oprávněný zájem.
+>
+> (5) Pro případ vzniku pochybnosti o obsahu zvláštního práva nebo obsahu zvláštní povinnosti spojené s investičním listem se [[#§ 121|§ 121]] a [[#§ 147|147]] použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121, § 147
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=134974f9912b2b63b6da -->
 
 ### § 172 — Investiční list jako cenný papír
 
@@ -1440,6 +2554,66 @@ Investiční list je vždy listinný cenný papír na řad; zaknihování je vyl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4351c20a8551e4972812 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 172
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investiční list je cenný papír na řad, který obsahuje alespoň
+>
+> - a) označení „investiční list“,
+>
+> - b) údaje nutné k identifikaci společnosti,
+>
+> - c) údaje nutné k identifikaci komanditisty,
+>
+> - d) výši vkladu připadající na podíl, a splacenou část tohoto vkladu k datu emise investičního listu a
+>
+> - e) označení investičního listu, jeho číslo a podpis komplementáře.
+>
+> (2) Investiční list nelze vydat jako zaknihovaný cenný papír.
+>
+> (3) Při předložení investičního listu na něm komanditní společnost na investiční listy vyznačí aktuální výši splacené části vkladu, liší-li se od údaje podle odstavce 1 písm. d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4351c20a8551e4972812 -->
+
 ### § 173 — Zákaz veřejného obchodování
 
 > **§ 173**
@@ -1487,6 +2661,52 @@ Investiční listy nelze přijmout k obchodování na žádném veřejném trhu,
 **Typicky rozhodné důkazy / podklady:** statut/společenská smlouva, pravidla a charakter cílové obchodní platformy, žádost o přijetí k obchodování, doklady o okruhu osob s přístupem k obchodování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=86b2813fe66015865617 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 173
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Investiční list nemůže být přijat k obchodování na evropském regulovaném trhu ani na jiném veřejném trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86b2813fe66015865617 -->
 
 ### § 174 — Převoditelnost investičních listů
 
@@ -1580,6 +2800,54 @@ Převoditelnost investičních listů lze omezit (souhlas, předkupní právo, k
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=72d4398f1d7fd9934a29 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 174
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Společenská smlouva komanditní společnosti na investiční listy může převoditelnost investičních listů omezit, nikoli však vyloučit.
+>
+> (2) Pro převod investičního listu se použije obdobně také [[§ 210|§ 210]] [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 210
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=72d4398f1d7fd9934a29 -->
+
 ### § 175 — Neplatnost investičních listů neodevzdaných ve lhůtě
 
 > **§ 175**
@@ -1630,6 +2898,54 @@ Neodevzdaný investiční list lze po písemné výzvě a marném uplynutí lhů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=287cf34822fe4cc01235 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 175
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Má-li komanditista nebo jiná osoba povinnost odevzdat investiční list komanditní společnosti na investiční listy, odevzdá jej ve lhůtě určené společenskou smlouvou, jinak ve lhůtě, kterou k tomu v písemné výzvě určil komplementář nebo likvidátor.
+>
+> (2) Investiční listy, které nebyly odevzdány ve lhůtě podle odstavce 1, komplementář nebo likvidátor prohlásí za neplatné. Prohlášení neplatnosti investičních listů se uveřejní na internetových stránkách společnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=287cf34822fe4cc01235 -->
+
 ### § 176 — Správa vkladů před vznikem společnosti
 
 > **§ 176**
@@ -1678,6 +2994,52 @@ Před vznikem k. s. i. l. spravuje splacené (vždy peněžní) vklady budoucí 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f332041027143f9af8c8 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 176
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Před vznikem komanditní společnosti na investiční listy spravuje její splacené vklady ten, kdo se má stát komplementářem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f332041027143f9af8c8 -->
+
 ### § 177 — Peněžní forma vkladu
 
 > **§ 177**
@@ -1725,6 +3087,52 @@ Do k. s. i. l. lze vkládat výhradně peníze; nepeněžité vklady jsou vylou�
 **Typicky rozhodné důkazy / podklady:** společenská smlouva (forma vkladu), doklady o peněžních vkladech, případné kupní smlouvy a znalecké/ocenění aktiv nabývaných fondem, dokumentace ke střetu zájmů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8140951ccb1178df4022 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 177
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Vkladová povinnost společníka komanditní společnosti na investiční listy se plní v penězích.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8140951ccb1178df4022 -->
 
 ### § 178 — Výše vkladu komplementáře
 
@@ -1781,6 +3189,54 @@ Zákonná 2 % vkladu komplementáře jsou pouze dispozitivním výchozím pravid
 **Typicky rozhodné důkazy / podklady:** společenská smlouva (ujednání o vkladu komplementáře), výpočet objemu vkladů zakládajících komanditistů, doklad o splacení vkladu komplementáře, návrh na zápis do OR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4067ba453fb43c168100 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 178
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Vklad komplementáře odpovídá 2 % z celkového objemu vkladů zakládajících komanditistů, ledaže společenská smlouva určí, že výše vkladu je u komplementáře jiná, nebo že vkladovou povinnost nemá.
+>
+> (2) Před podáním návrhu na zápis komanditní společnosti na investiční listy do obchodního rejstříku se splatí celý vklad komplementáře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4067ba453fb43c168100 -->
 
 ### § 179 — Rozhodování společníků: změna společenské smlouvy
 
@@ -1840,6 +3296,54 @@ Změna společenské smlouvy k. s. i. l. vyžaduje vždy souhlas komplementáře
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=327da94c5a261488a1d1 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 179
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) K přijetí rozhodnutí o změně společenské smlouvy, jakož i k rozhodnutí, v jehož důsledku se mění společenská smlouva, se vyžaduje souhlas komplementáře a, neurčí-li společenská smlouva většinu vyšší, souhlas alespoň většiny hlasů všech komanditistů.
+>
+> (2) Společníci si nemohou vyhradit rozhodování věcí, které jinak podle tohoto zákona nebo jiného právního předpisu anebo společenské smlouvy náleží do působnosti jiných orgánů komanditní společnosti na investiční listy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=327da94c5a261488a1d1 -->
+
 ### § 180 — Střet zájmů při hlasování
 
 > **§ 180**
@@ -1887,6 +3391,52 @@ Společník, o jehož vyloučení se rozhoduje, nesmí hlasovat a jeho hlasy se 
 **Typicky rozhodné důkazy / podklady:** společenská smlouva (důvody vyloučení a případné další případy zákazu hlasování), doklady o důvodu vyloučení, pozvánka a zápis z hlasování s výpočtem kvóra a vyznačením nezapočtených hlasů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4838d59436d57d0d2087 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 180
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Komplementář ani komanditista nemůže vykonávat hlasovací práva, rozhodují-li společníci o jeho vyloučení, nebo v dalších případech, stanoví-li tak tento zákon nebo jiný právní předpis anebo určí-li tak společenská smlouva. Při rozhodování společníků se nepřihlíží k hlasovacím právům, která nelze vykonávat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4838d59436d57d0d2087 -->
 
 ### § 181 — Vyloučení komplementáře
 
@@ -1952,6 +3502,58 @@ Komplementáře lze vyloučit jen ze smluvních důvodů, notářským zápisem 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e9e3740ae6429ee0fc42 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 181
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Komanditisté mohou z komanditní společnosti na investiční listy komplementáře vyloučit, jen z důvodů, které jsou uvedeny ve společenské smlouvě.
+>
+> (2) O vyloučení komplementáře musí být pořízen notářský zápis o rozhodnutí orgánu právnické osoby.
+>
+> (3) S vyloučením komplementáře musí souhlasit většina alespoň dvou třetin hlasů komanditistů, neurčí-li společenská smlouva většinu vyšší. Vyloučení komplementáře se považuje za změnu společenské smlouvy.
+>
+> (4) Vyloučení komplementáře je účinné vstupem jiného komplementáře do komanditní společnosti na investiční listy. Nevstoupí-li změnou společenské smlouvy vstupující komplementář do komanditní společnosti na investiční listy ve lhůtě určené v rozhodnutí o vyloučení komplementáře, nejpozději však do 3 měsíců ode dne přijetí tohoto rozhodnutí, vstoupí komanditní společnost na investiční listy uplynutím takové doby do likvidace. Ke vstupu jiného komplementáře se souhlas vyloučeného komplementáře nevyžaduje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9e3740ae6429ee0fc42 -->
+
 ### § 182 — Zánik účasti komanditisty
 
 > **§ 182**
@@ -2016,6 +3618,58 @@ Zánik účasti komanditisty fond neohrožuje; podíl přechází na dědice, ne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4f135da0d68b0a2bd6ef generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 182
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Nevyplývá-li ze společenské smlouvy něco jiného, důvodem pro zrušení komanditní společnosti na investiční listy není zánik účasti komanditisty ve společnosti.
+>
+> (2) Smrtí nebo zánikem komanditisty přechází jeho podíl v komanditní společnosti na investiční listy na dědice nebo právního nástupce. Společenská smlouva může přechod investičního listu zakázat nebo omezit.
+>
+> (3) Komanditista nemůže z komanditní společnosti na investiční listy vystoupit ani svou účast zrušit výpovědí, ledaže společenská smlouva určí jinak.
+>
+> (4) Vystoupení komplementáře je účinné vstupem jiného komplementáře do komanditní společnosti na investiční listy; to platí i pro výpověď komplementáře. Vystoupivší komplementář a komplementář, který zrušil svou účast výpovědí, má k vstupujícímu komplementáři stejné povinnosti, jaké má vyloučený komplementář.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f135da0d68b0a2bd6ef -->
+
 ### § 182a — Odevzdání investičního listu při zániku účasti
 
 > **§ 182a**
@@ -2069,6 +3723,56 @@ Po zániku účasti bez nástupce musí komanditista odevzdat investiční list;
 **Typicky rozhodné důkazy / podklady:** doklad o zániku účasti bez nástupce, investiční list, výzva k odevzdání, potvrzení o odevzdání a záznam o zničení listu, případně doklad o uveřejnění prohlášení neplatnosti, výpočet vypořádacího podílu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=255028def0f731ac1a14 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 182a — Odevzdání investičního listu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Bez zbytečného odkladu po zániku účasti komanditisty ve společnosti bez právního nástupce odevzdá tento komanditista, dědic nebo právní nástupce, popřípadě i insolvenční správce společnosti investiční list.
+>
+> (2) Právo na vyplacení vypořádacího podílu nebo podílu na likvidačním zůstatku vzniká komanditistovi odevzdáním investičního listu komanditní společnosti na investiční listy, jinak uveřejněním prohlášení jeho neplatnosti podle § 175 odst. 2.
+>
+> (3) Odevzdaný investiční list komanditní společnost na investiční listy nebo likvidátor neprodleně zničí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 175
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=255028def0f731ac1a14 -->
 
 ## Díl 7 — Zvláštní ustanovení o komanditní společnosti (jako investičním fondu bez formy k. s. i. l.)
 
@@ -2126,6 +3830,54 @@ Komanditní společnost, která je investičním fondem a není k. s. i. l. (nev
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fa87ed53237e1317223c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 183
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro komanditní společnost na investiční listy se tento díl nepoužije.
+>
+> (2) Komanditní společnost, která je investičním fondem, může mít jen jednoho komplementáře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa87ed53237e1317223c -->
+
 ### § 184 — Přiměřené použití §§ 176–180
 
 > **§ 184**
@@ -2173,6 +3925,52 @@ Na komanditní společnost, která je investičním fondem bez formy k. s. i. l.
 **Typicky rozhodné důkazy / podklady:** společenská smlouva, doklady o peněžních vkladech a o správě vkladů před vznikem, doklad o splacení vkladu komplementáře, zápisy z rozhodování společníků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5fe00aa6c8992e33af26 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 184
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Pro komanditní společnost, která je investičním fondem, se § 176 až 180 použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 176
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5fe00aa6c8992e33af26 -->
 
 ### § 185 — Vyloučení komplementáře; obsah společenské smlouvy
 
@@ -2225,6 +4023,54 @@ Společenská smlouva komanditní společnosti jako investičního fondu musí u
 **Typicky rozhodné důkazy / podklady:** společenská smlouva (údaje o klíčových společnících a důvody vyloučení komplementáře), prohlášení jednotlivých společníků, notářský zápis o vyloučení komplementáře, doklad o vstupu nového komplementáře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cb2d5561b56c5a7600fe generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 185
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro vyloučení komplementáře komanditní společnosti se [[#§ 181|§ 181]] použije obdobně.
+>
+> (2) Společenská smlouva komanditní společnosti, která je investičním fondem, obsahuje u každého omezeně ručícího společníka údaje nutné k identifikaci jiného společníka, kterého omezeně ručící společník označil pro účely svého vystoupení za klíčového (§ 186 odst. 2), nebo údaj o tom, že omezeně ručící společník takto jiného společníka pro účely svého vystoupení neoznačil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 181, § 186
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb2d5561b56c5a7600fe -->
 
 ### § 186 — Zánik účasti omezeně ručícího společníka
 
@@ -2286,6 +4132,58 @@ Omezeně ručící společník zásadně nemůže vystoupit (lock-up), ledaže z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=698e1f83e03cc6460986 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 186
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Omezeně ručící společník nemůže z komanditní společnosti vystoupit, ani zrušit svou účast výpovědí, ledaže společenská smlouva určí jinak.
+>
+> (2) Omezeně ručící společník může také z této společnosti vystoupit, zanikla-li v ní účast společníka, kterého tento společník označil ve společenské smlouvě pro účely svého vystoupení za klíčového. Vystoupit z komanditní společnosti lze do 10 pracovních dní ode dne, kdy účast společníka označeného pro účely vystoupení za klíčového zanikla; k pozdějšímu vystoupení se nepřihlíží.
+>
+> (3) Vystoupení společníka podle odstavce 1 nebo [[#§ 2|2]] se považuje za změnu společenské smlouvy.
+>
+> (4) Pro komplementáře se § 182 odst. 4 použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 182
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=698e1f83e03cc6460986 -->
+
 ## Hlava III — Některé společné otázky (§§ 187–204)
 
 > Hlava III uzavírá Část šestou ZISIF a obsahuje průřezová pravidla platná pro všechny investiční fondy bez ohledu na jejich právní formu: povinný audit, zásadu rovného zacházení, institut promotéra, povinnost mít statut, výpočet aktuální hodnoty podílových listů a investičních akcií, oceňování majetku a dluhů a vztah ZISIF k jiným předpisům. Na navazující Část sedmou (fondy kolektivního investování) odkazuje [08-cast7-fondy-kolektivniho-investovani-a.md](08-cast7-fondy-kolektivniho-investovani-a.md).
@@ -2339,6 +4237,52 @@ Povinnost auditu platí pro všechny investiční fondy bez výjimky (na rozdíl
 **Typicky rozhodné důkazy / podklady:** účetní závěrky fondu a jednotlivých podfondů, smlouva s auditorem a auditorské zprávy, statut fondu, výpočty fondového kapitálu (NAV), výroční zpráva.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=092c07d502bec8b35a99 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 187 — Ověření účetní závěrky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Účetní závěrka investičního fondu a jeho jednotlivých podfondů se ověřuje auditorem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=092c07d502bec8b35a99 -->
 
 ### § 187a — Zásada rovného zacházení
 
@@ -2396,6 +4340,54 @@ Zásada rovného zacházení nezakazuje různé třídy a podmínky, ale zakazuj
 **Typicky rozhodné důkazy / podklady:** text side letteru, statut a vymezení tříd, podílová kniha, reporting jednotlivým investorům, interní compliance záznamy o řízení střetu zájmů, korespondence o sjednání podmínek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=03c34a9aebb1def77eda generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 187a — Zásada rovného zacházení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel a administrátor investičního fondu zacházejí za stejných podmínek se všemi investory stejně.
+>
+> (2) K právnímu jednání, jehož účelem je nedůvodné zvýhodnění jakéhokoliv investora na úkor investičního fondu nebo jiných investorů, se nepřihlíží, ledaže tento zákon stanoví jinak nebo by to bylo na újmu třetím osobám, které na takové právní jednání v dobré víře spoléhaly.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=03c34a9aebb1def77eda -->
 
 ### § 188 — Promotér investičního fondu
 
@@ -2462,6 +4454,58 @@ Promotér je faktický „pán fondu" v otázce výběru klíčových osob; u pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7a8b59645424addd532b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 188 — Promotér investičního fondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Promotérem investičního fondu je osoba, které náleží právo rozhodovat o tom, kdo bude obhospodařovatelem, administrátorem a depozitářem tohoto investičního fondu, jakož i rozhodovat o změně v osobě promotéra, obhospodařovatele, administrátora nebo depozitáře.
+>
+> (2) Je-li promotérem investičního fondu právnická osoba, pak je příslušným orgánem pro toto rozhodování statutární orgán této právnické osoby; jiný orgán této právnické osoby, který je jinak podle tohoto zákona nebo jiného právního předpisu příslušný k rozhodování, v tomto případě nerozhoduje.
+>
+> (3) Náleží-li právo rozhodovat podle odstavce 1 orgánu investičního fondu s právní osobností, uvede se tato skutečnost ve statutu tohoto investičního fondu.
+>
+> (4) Je-li promotérů investičního fondu více, přijímají rozhodnutí podle odstavce 1 po vzájemné dohodě, neurčí-li statut investičního fondu, že rozhoduje jen jeden z nich nebo že se rozhodnutí přijímá jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a8b59645424addd532b -->
+
 ### § 189 — Statut investičního fondu
 
 > **§ 189**
@@ -2514,6 +4558,52 @@ Statut je povinný informační „ústavní" dokument fondu; u podfondové stru
 **Typicky rozhodné důkazy / podklady:** znění statutu a jeho příloh, zakladatelské dokumenty fondu a podfondů, evidence vydaných cenných papírů, sdělení klíčových informací, doklad o předání dokumentů investorovi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0c1abaeba8ff3b2c8daf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 189 — Statut investičního fondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Každý investiční fond musí mít statut. Vytváří-li investiční fond podfondy, postačí, má-li statut pro každý z těchto podfondů. Statut investičního fondu vydává a aktualizuje jeho obhospodařovatel.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c1abaeba8ff3b2c8daf -->
 
 ### § 190 — Výpočet aktuální hodnoty podílového listu
 
@@ -2584,6 +4674,60 @@ Aktuální hodnota podílového listu musí vycházet z fondového kapitálu oč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e05156e7d30eee3a2b55 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 190
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Aktuální hodnota podílového listu je podíl fondového kapitálu podílového fondu připadající na 1 podílový list.
+>
+> (2) Základnou pro výpočet aktuální hodnoty podílového listu je fondový kapitál podílového fondu ke dni výpočtu aktuální hodnoty. Ve fondovém kapitálu se zohlední časové rozlišení běžných nákladů, zejména poplatky uvedené ve statutu, například úplata za obhospodařování, administraci, výkon činnosti depozitáře, audit a očekávaná daňová povinnost ke dni výpočtu aktuální hodnoty.
+>
+> (3) Jde-li o podílový list bez jmenovité hodnoty nebo mají-li všechny podílové listy stejnou jmenovitou hodnotu, určí se aktuální hodnota podílového listu jako hodnota fondového kapitálu tohoto fondu dělená počtem vydaných podílový listů; jinak se aktuální hodnota podílového listu určí jako hodnota fondového kapitálu tohoto fondu ke dni výpočtu aktuální hodnoty, dělená součtem všech jmenovitých hodnot jím vydaných podílových listů v oběhu, vynásobená příslušnou jmenovitou hodnotou podílového listu, se zaokrouhlením na počet desetinných míst uvedených v jeho statutu.
+>
+> (4) Jsou-li s podílovým listem spojena zvláštní práva, určí se aktuální hodnota podílového listu na základě fondového kapitálu připadajícího na jednotlivé druhy podílových listů podle poměru určeného výpočtem uvedeným v jeho statutu.
+>
+> (5) Aktuální hodnota podílového listu se vypočte bez sestavení účetní závěrky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e05156e7d30eee3a2b55 -->
+
 ### § 191 — Výpočet aktuální hodnoty investiční akcie
 
 > **§ 191**
@@ -2649,6 +4793,62 @@ U podfondové SICAV se aktuální hodnota investiční akcie počítá výhradn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ea2a105716edc04682f4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 191
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Základnou pro výpočet aktuální hodnoty investiční akcie je fondový kapitál z investiční činnosti ve smyslu § 164 odst. 1 ke dni výpočtu aktuální hodnoty. Ustanovení § 190 odst. 2 věty druhé se použije obdobně.
+>
+> (2) Aktuální hodnota investiční akcie se určí jako hodnota fondového kapitálu z investiční činnosti ve smyslu § 164 odst. 1 tohoto fondu dělená počtem vydaných akcií.
+>
+> (3) Vytvořil-li investiční fond, který je akciovou společností s proměnným základním kapitálem podfond, určí se aktuální hodnota investiční akcie na základě fondového kapitálu podfondu.
+>
+> (4) Jsou-li s investičními akciemi vydávanými investičním fondem spojena zvláštní práva, určí se aktuální hodnota investiční akcie na základě fondového kapitálu tohoto fondu, nebo jeho podfondu, připadajícího na jednotlivé druhy investičních akcií podle poměru určeného výpočtem uvedeným v jeho statutu.
+>
+> (5) Pro investiční akcii se § 190 odst. 5 použije obdobně.
+>
+> (6) Fondovým kapitálem podfondu se pro účely tohoto zákona rozumí hodnota majetku v podfondu snížená o hodnotu dluhů v podfondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 164, § 190
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea2a105716edc04682f4 -->
+
 ### § 192 — Aktuální hodnota jiných podílů
 
 > **§ 192**
@@ -2697,6 +4897,52 @@ U fondů s „jiným podílem" je rozhodující statut; chybí-li v něm vzorec,
 **Typicky rozhodné důkazy / podklady:** statut a společenská smlouva fondu, evidence podílů/investičních listů, oceňovací podklady majetku a dluhů, znalecké/ocenitelské výstupy, ujednání o výstupu investora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=220b7d4c667c8a225402 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 192
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Jak se určí aktuální hodnota podílu na investičním fondu, který není představován podílovým listem ani investiční akcií, určí statut tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=220b7d4c667c8a225402 -->
 
 ### § 193 — Lhůty pro výpočet aktuální hodnoty
 
@@ -2794,6 +5040,76 @@ Chyba ve výpočtu NAV nezakládá odpovědnost jen v mezích de minimis toleran
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3fb25d6ffb01b6a4a531 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 193
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Aktuální hodnota podílového listu, investiční akcie nebo jiného podílu na investičním fondu se vypočítává ve lhůtě uvedené ve statutu.
+>
+> (2) Tato lhůta nesmí být delší než
+>
+> - a) 2 týdny, jde-li o standardní fond,
+>
+> - b) 1 měsíc, jde-li o speciální fond, který neinvestuje do nemovitostí nebo účastí v nemovitostní společnosti,
+>
+> - c) 1 rok, jde-li o fond kvalifikovaných investorů, který není uveden v písmeni d), nebo jde-li o speciální fond, který investuje do nemovitostí nebo účastí v nemovitostní společnosti, a
+>
+> - d) 2 roky, jde-li o fond kvalifikovaných investorů, který investuje do nemovitostí nebo účastí v nemovitostní společnosti a jehož obhospodařovatel není oprávněn přesáhnout rozhodný limit.
+>
+> (3) Administrátor není povinen nahradit škodu způsobenou nesprávným výpočtem aktuální hodnoty, pokud
+>
+> - a) výše škody je zanedbatelná a účelně vynaložené náklady související s její náhradou by zjevně převýšily výši náhrady, nebo
+>
+> - b) odchylka od správného výpočtu aktuální hodnoty nepřesahuje
+>
+> - 1. 0,25 % hodnoty fondového kapitálu u investičního fondu, který investuje jako fond peněžního trhu,
+>
+> - 2. 0,5 % hodnoty fondového kapitálu u ostatních investičních fondů.
+>
+> (4) Škodu způsobenou nesprávně provedeným výpočtem aktuální hodnoty může administrátor, který není samosprávným investičním fondem, nahradit z majetku investičního fondu, pokud se v důsledku chybného stanovení aktuální hodnoty investiční fond obohatil, a pouze do výše takového obohacení.
+>
+> (5) Ve lhůtě podle § 130 odst. 2 a [[#§ 133|§ 133]] se aktuální hodnota nevypočítává.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 130, § 133
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3fb25d6ffb01b6a4a531 -->
+
 ### § 193a — Vydávání účastnických cenných papírů investičního fondu s právní osobností
 
 > **§ 193a**
@@ -2842,6 +5158,52 @@ Emise účastnických cenných papírů fondu s právní osobností podléhá ob
 **Typicky rozhodné důkazy / podklady:** statut a emisní podmínky, propočet úplaty a vazba na aktuální hodnotu, doklady o úhradě a okamžiku vydání akcií, evidence emisí, interní postupy administrátora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e750532f78fe3358f384 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 193a — Vydávání účastnických cenných papírů investičního fondu s právní osobností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Pro vydávání účastnických cenných papírů investičním fondem s právní osobností se § 130 odst. 1 až 4 použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 130
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e750532f78fe3358f384 -->
 
 ### § 194 — Základní pravidla oceňování majetku a dluhů
 
@@ -2900,6 +5262,56 @@ Každé oceňování majetku fondu musí současně splnit dvě podmínky: metod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b75ff045f76f8fab2fb7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 194
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Kdo oceňuje majetek a dluhy investičního fondu,
+>
+> - a) používá postupy pro oceňování majetku a dluhů, jejichž součástí jsou vždy způsoby oceňování s ohledem na investiční strategii daného investičního fondu, a
+>
+> - b) musí být nestranný a nezávislý na tom, pro koho se oceňuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b75ff045f76f8fab2fb7 -->
+
 ### § 195 — Oceňování obhospodařovatelem
 
 > **§ 195**
@@ -2948,6 +5360,52 @@ Obhospodařovatel smí oceňovat sám jen tehdy, oddělí-li oceňovací funkci 
 **Typicky rozhodné důkazy / podklady:** organizační řád a popis funkcí, doklady o oddělení oceňování a PM, compliance dokumentace ke střetu zájmů, oceňovací politika, případně smlouva s nezávislým oceňovatelem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a5384eb125369080231c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 195
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Obhospodařovatel investičního fondu může oceňovat majetek a dluhy tohoto fondu, má-li vytvořeny organizační předpoklady nestrannosti a nezávislosti podle § 194 písm. b), zahrnující řízení střetů zájmů včetně jejich zjišťování a zamezování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 194
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a5384eb125369080231c -->
 
 ### § 196 — Reálná hodnota podle mezinárodních účetních standardů
 
@@ -3011,6 +5469,58 @@ Majetek z investiční činnosti se oceňuje reálnou hodnotou dle IFRS k okamž
 **Typicky rozhodné důkazy / podklady:** zdroje a časová razítka kotací (bid/ask), kurzovní listy regulovaného trhu, oceňovací politika a metodika, podklady k modelovému ocenění neobchodovaných aktiv, vyhláška ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9c6284b0dc6a8fd6e9c4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 196
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Majetek a dluhy investičního fondu z investiční činnosti se oceňují reálnou hodnotou podle mezinárodních účetních standardů upravených právem Evropské unie10) s tím, že
+>
+> - a) pro určení reálné hodnoty dluhopisu nebo obdobného cenného papíru nebo zaknihovaného cenného papíru představujícího právo na splacení dlužné částky je možné použít průměrnou cenu mezi nejlepší závaznou nabídkou a poptávkou (středová cena) a
+>
+> - b) pro určení reálné hodnoty akcie nebo obdobného cenného papíru nebo zaknihovaného cenného papíru představujícího podíl na obchodní společnosti nebo jiné právnické osobě je možné použít hodnotu, která je vyhlášena na evropském regulovaném trhu nebo na zahraničním trhu obdobném regulovanému trhu a která je vyhlášena k okamžiku ne pozdějšímu, než je okamžik ocenění a nejvíce se blížícímu okamžiku ocenění.
+>
+> (2) Česká národní banka stanoví vyhláškou postupy pro určení reálné hodnoty majetku a dluhů investičního fondu v rozsahu stanoveném odstavcem 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c6284b0dc6a8fd6e9c4 -->
 
 ### § 197 — Pověření třetí osoby oceňováním
 
@@ -3091,6 +5601,72 @@ Oceňováním lze pověřit jen osobu nezávislou na administrátorovi, obhospod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=017646f58bb753c3792b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 197
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor investičního fondu může oceňováním majetku a dluhů tohoto fondu pověřit jiného jen,
+>
+> - a) je-li pověřovaný nezávislý na
+>
+> - 1. tomto administrátorovi,
+>
+> - 2. obhospodařovateli investičního fondu, jehož majetek a dluhy má oceňovat,
+>
+> - 3. investičním fondu, jehož majetek a dluhy má oceňovat, a
+>
+> - 4. jiné osobě s úzkým propojením k osobám uvedeným v bodech 1 až 3 a
+>
+> - b) poskytuje-li dostatečné odborné záruky toho, že je schopen oceňovat majetek a dluhy investičního fondu v souladu s příslušnými jinými právními předpisy upravujícími oceňování majetku a dluhů a statutem investičního fondu.
+>
+> (2) Kdo byl pověřen administrátorem investičního fondu oceňováním majetku a dluhů tohoto fondu, nesmí pověřit výkonem této činnosti ani výkonem některého úkonu nebo některých úkonů z této činnosti dalšího; stane-li se tak, nepřihlíží se k tomu.
+>
+> (3) Má se za to, že ten, koho administrátor investičního fondu hodlá pověřit nebo pověřil oceňováním majetku a dluhů tohoto fondu, je ve smyslu odstavce 1 písm. a) nezávislý, není-li
+>
+> - a) vedoucí osobou nebo pracovníkem této osoby, ani
+>
+> - b) podílníkem, obmyšleným, zakladatelem, společníkem nebo tichým společníkem investičního fondu, jehož majetek a dluhy má oceňovat, a v případě svěřenského fondu, také tím, kdo zvýšil majetek investičního fondu, jehož majetek a dluhy má oceňovat, smlouvou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=017646f58bb753c3792b -->
+
 ### § 198 — Pověření depozitáře oceňováním
 
 > **§ 198**
@@ -3148,6 +5724,58 @@ Depozitář může být pověřen oceňováním jen tehdy, oddělí-li organiza�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2341debf858b89edc84d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 198
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor investičního fondu může pověřit oceňováním majetku a dluhů tohoto fondu depozitáře tohoto fondu jen, má-li depozitář vytvořeny organizační předpoklady
+>
+> - a) pro řádnou, samostatnou a nezávislou kontrolu těchto činností v rámci výkonu činnosti depozitáře a
+>
+> - b) nestrannosti a nezávislosti podle § 194 písm. b), zahrnující řízení střetů zájmů včetně jejich zjišťování a zamezování.
+>
+> (2) Ustanovení [[#§ 197|§ 197]] není odstavcem 1 dotčeno, § 197 odst. 1 písm. a) a § 197 odst. 3 se nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 194, § 197
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2341debf858b89edc84d -->
+
 ### § 199 — Oceňování u speciálního fondu a FKI s oprávněním přesáhnout rozhodný limit
 
 > **§ 199**
@@ -3198,6 +5826,52 @@ U speciálních fondů a FKI s plně regulovaným (nad-limitním) obhospodařova
 **Typicky rozhodné důkazy / podklady:** doklad o statusu obhospodařovatele dle § 16, smluvní uspořádání administrátora a obhospodařovatele, návrh/smlouva o pověření oceňováním, oceňovací politika souladná s nařízením 231/2013.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6df5a61ac21243f28f4c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 199
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Administrátor speciálního fondu nebo fondu kvalifikovaných investorů, jehož obhospodařovatel je oprávněn přesáhnout rozhodný limit, může pověřit oceňováním majetku a dluhů tohoto fondu jiného jen, je-li současně obhospodařovatelem tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6df5a61ac21243f28f4c -->
 
 ### § 200 — Vztah k nařízení 231/2013 (AIFMD Level 2)
 
@@ -3256,6 +5930,54 @@ U nad-limitních fondů platí pro oceňování přímo čl. 67–74 nařízení
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9707b94a83b15a4caa25 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 200
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) V dalším oceňování majetku a dluhů investičního fondu, jehož obhospodařovatel je oprávněn přesáhnout rozhodný limit, vymezují články 67 až 74 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]].
+>
+> (2) Ustanovení § 50 až 52 nejsou § 197 až 199 dotčena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 50, § 197
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9707b94a83b15a4caa25 -->
+
 ### § 201 — Lhůty pro oceňování investičních nástrojů
 
 > **§ 201**
@@ -3309,6 +6031,54 @@ Investiční nástroje se oceňují vždy ke dni výpočtu aktuální hodnoty; s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cea578a8a2ed8697cb72 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 201
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investiční nástroje v majetku investičního fondu se oceňují ve lhůtě uvedené ve statutu. Ustanovení § 193 odst. 2 a [[#§ 3|3]] se použije obdobně.
+>
+> (2) Ocenění investičních nástrojů podle odstavce 1 se provede ke dni, k němuž se vypočte aktuální hodnota podílového listu, investiční akcie nebo jiného podílu na investičním fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 193, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cea578a8a2ed8697cb72 -->
+
 ### § 202 — Lhůty pro oceňování ostatního majetku a dluhů
 
 > **§ 202**
@@ -3359,6 +6129,54 @@ Ostatní majetek a dluhy fondu (mimo investiční nástroje) se musí oceňovat 
 **Typicky rozhodné důkazy / podklady:** statut (lhůty oceňování ostatního majetku), znalecké/ocenitelské posudky a jejich data, evidence ocenění a přecenění pohledávek, výpočetní listy NAV ke dnům výpočtu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7efda27f1c39c2c05458 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 202
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Majetek a dluhy investičního fondu neuvedené v § 201 odst. 1 se oceňují ve lhůtách uvedených ve statutu; tyto lhůty nesmí být delší než 1 rok.
+>
+> (2) Pro ocenění majetku a dluhů investičního fondu neuvedených v § 201 odst. 1 se § 201 odst. 2 použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 201
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7efda27f1c39c2c05458 -->
 
 ### § 203 — Vztah k jiným předpisům: prioritní akcie, nabídka převzetí, OZ
 
@@ -3422,6 +6240,56 @@ U investičních fondů se nepoužijí prioritní akcie ani nucený přechod akc
 **Typicky rozhodné důkazy / podklady:** evidence/podílová kniha akcií fondu, statut, doklad o převodu podílu a struktuře hlasovacích práv, doklad o povaze subjektu jako investičního fondu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=22f7b4976854f519659b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 203
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro investiční fond se nepoužijí ustanovení [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]] o prioritních akciích a o nuceném přechodu účastnických cenných papírů.
+>
+> (2) Tomu, kdo získá podíl na hlasovacích právech investičního fondu, nevzniká povinnost učinit nabídku převzetí podle [[zákona upravujícího nabídky převzetí|zákona upravujícího nabídky převzetí]]. V této souvislosti ani nevznikají této nebo jiné osobě povinnosti, které jim jinak při nabídce převzetí ukládá [[zákon upravující nabídky převzetí|zákon upravující nabídky převzetí]].
+>
+> (3) Stanoví-li tento zákon nebo právní předpis jej provádějící něco jiného než vyplývá z ustanovení [[občanského zákoníku|občanského zákoníku]] upravujících správu cizího majetku, použije se tento zákon nebo právní předpis jej provádějící.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22f7b4976854f519659b -->
 
 ### § 204 — Vztah k nařízením EU: EuVECA, EuSEF, ELTIF, MMF
 
@@ -3487,3 +6355,52 @@ U EuVECA, EuSEF, ELTIF a MMF mají přednost přímo použitelná nařízení EU
 
 *Část sedmá — Fondy kolektivního investování (§§ 205 a násl.) je zpracována v [08-cast7-fondy-kolektivniho-investovani-a.md](08-cast7-fondy-kolektivniho-investovani-a.md).*
 
+
+<!-- LEGAL-REVISION:BEGIN id=cac7614e8d79405a6667 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 204
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro investiční fond, který je kvalifikovaným fondem rizikového kapitálu uvedeným v článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění nebo kvalifikovaným fondem sociálního podnikání uvedeným v článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění, a pro právnickou osobu, která se má stát kvalifikovaným fondem rizikového kapitálu nebo kvalifikovaným fondem sociálního podnikání, se ustanovení tohoto zákona nebo jiného právního předpisu použijí v rozsahu, v jakém to připouští přímo použitelný předpis Evropské unie upravující evropské fondy rizikového kapitálu7) a přímo použitelný předpis Evropské unie upravující evropské fondy sociálního podnikání9).
+>
+> (2) Pro investiční fond, který je evropským fondem dlouhodobých investic, a pro právnickou osobu, která se má stát evropským fondem dlouhodobých investic, se ustanovení tohoto zákona nebo jiného právního předpisu použijí v rozsahu, v jakém to připouští přímo použitelný předpis Evropské unie upravující evropské fondy dlouhodobých investic18).
+>
+> (3) Pro investiční fond, který je fondem peněžního trhu, a pro právnickou osobu, která se má stát fondem peněžního trhu, se ustanovení tohoto zákona nebo jiného právního předpisu použijí v rozsahu, v jakém to připouští přímo použitelný předpis Evropské unie upravující fondy peněžního trhu19).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cac7614e8d79405a6667 -->

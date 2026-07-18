@@ -63,6 +63,54 @@ Do FKI lze peníze shromažďovat výhradně způsobem podle § 93 (podílové l
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4b0cd34b1aa8d99b67ff generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 205
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jinak než způsobem uvedeným v [[#§ 93|§ 93]] nelze do fondu kolektivního investování peněžní prostředky shromažďovat.
+>
+> (2) Shromažďovat od veřejnosti do fondu kolektivního investování penězi ocenitelné věci se zakazuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 93
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b0cd34b1aa8d99b67ff -->
+
 ### § 206 — Zákaz opčních listů, omezení vydávání dluhopisů, zákaz tiché společnosti
 
 > **§ 206**
@@ -124,6 +172,56 @@ Fond nesmí emisí dluhopisů obcházet úvěrové limity (na dluhopis se hledí
 **Typicky rozhodné důkazy / podklady:** statut (úvěrové limity), emisní podmínky dluhopisů, výpočet aktuálního zadlužení k fondovému kapitálu, návrhy smluv, stanovisko depozitáře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e6f7ffc3a22a0208216c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 206
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Fond kolektivního investování nesmí vydat opční listy. Tyto cenné papíry a zaknihované cenné papíry nelze vydat ani na účet fondu kolektivního investování.
+>
+> (2) Fond kolektivního investování může vydat dluhopis nebo cenný papír anebo zaknihovaný cenný papír, s nímž je spojeno právo na splacení dlužné částky, jen za podmínek, za nichž lze přijmout na účet tohoto fondu úvěr. To platí i v případě, jsou-li tyto cenné papíry nebo zaknihované cenné papíry vydány na účet fondu kolektivního investování.
+>
+> (3) Fond kolektivního investování nesmí být stranou smlouvy o tiché společnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e6f7ffc3a22a0208216c -->
 
 ### § 207 — Ochrana investiční strategie
 
@@ -201,6 +299,62 @@ Investiční strategii v rozsahu § 93 odst. 3 písm. a)–i) nelze měnit mimo 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d3e4e6fb80bcb1200197 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 207
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investiční strategii fondu kolektivního investování v rozsahu stanoveném v § 93 odst. 3 písm. a) až i) není přípustné měnit, ledaže se jedná o změnu
+>
+> - a) přímo vyvolanou změnou právní úpravy,
+>
+> - b) v důsledku změny statutu fondu kolektivního investování, nedojde-li touto změnou k výrazně odlišnému způsobu investování tohoto fondu,
+>
+> - c) v důsledku změny statutu fondu kolektivního investování, která mu umožňuje investovat jako podřízený fond, nebo
+>
+> - d) v důsledku pravomocného rozhodnutí České národní banky o omezení rozsahu investiční strategie (§ 549 odst. 1 a [[#§ 2|2]]).
+>
+> (2) Byl-li změněn statut fondu kolektivního investování podle odstavce 1 písm. b), uveřejní administrátor tohoto fondu informace o změně investiční strategie a o právu na odkoupení bez srážky. Pro změnu statutu podle věty první se [[#§ 211|§ 211]] použije obdobně. Informace podle věty první poskytne administrátor tohoto fondu současně s jejich uveřejněním i podílníkům nebo akcionářům tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 93, § 549, § 2, § 211
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3e4e6fb80bcb1200197 -->
+
 ### § 208 — Fondový kapitál fondu kolektivního investování
 
 > **§ 208**
@@ -263,6 +417,56 @@ FKI musí do 6 měsíců od vzniku dosáhnout fondového kapitálu alespoň 1 25
 **Typicky rozhodné důkazy / podklady:** doklad o vzniku fondu, časová řada hodnot fondového kapitálu, výpočet šestiměsíčního průměru, kurzovní přepočet, evidence nápravných opatření, návrh ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6c7a5770eef24b7b1b0d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 208 — Fondový kapitál fondu kolektivního investování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Fondový kapitál fondu kolektivního investování musí do 6 měsíců ode dne vzniku investičního fondu dosáhnout alespoň částky odpovídající 1 250 000 EUR.
+>
+> (2) Nedosahuje-li průměrná výše fondového kapitálu fondu kolektivního investování za posledních 6 měsíců částky uvedené v odstavci 1, jeho obhospodařovatel přijme bez zbytečného odkladu účinné opatření ke zjednání nápravy, nebo rozhodne o zrušení fondu kolektivního investování.
+>
+> (3) Soud na návrh České národní banky nebo toho, kdo na tom má oprávněný zájem, zruší fond kolektivního investování, který má právní formu akciové společnosti, a nařídí jeho likvidaci, nedosahuje-li jeho fondový kapitál alespoň částky uvedené v odstavci 1. Před rozhodnutím poskytne soud tomuto fondu kolektivního investování přiměřenou lhůtu ke zjednání nápravy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6c7a5770eef24b7b1b0d -->
 
 ### § 209 — Určení úplaty za obhospodařování
 
@@ -329,6 +533,62 @@ Písmeno a) — procentní podíl z průměrné čisté hodnoty aktiv (AUM fee) 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fdc2fe691655ca71261b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 209 — Určení úplaty za obhospodařování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Úplata za obhospodařování fondu kolektivního investování se určí zejména
+>
+> - a) podílem z průměrné hodnoty fondového kapitálu investičního fondu nebo jeho části za období určené ve statutu,
+>
+> - b) v závislosti na výkonnosti investičního fondu nad určený ukazatel (benchmark), s nímž je výkonnost srovnávána,
+>
+> - c) v závislosti na meziročním růstu hodnoty fondového kapitálu tohoto fondu připadajícího na 1 podílový list, 1 investiční akcii nebo jiný podíl na investičním fondu,
+>
+> - d) podílem z výsledku hospodaření investičního fondu nebo jeho části před zdaněním, nebo
+>
+> - e) kombinací způsobů podle písmen a) až d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fdc2fe691655ca71261b -->
+
 ### § 210 — Nezahrnované náklady
 
 > **§ 210**
@@ -391,6 +651,58 @@ Do nákladů fondu nelze zahrnout pokuty a sankce uložené obhospodařovateli/s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8550f0d97492868be5db generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 210 — Nezahrnované náklady
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Do nákladů fondu kolektivního investování nelze zahrnout
+>
+> - a) pokuty nebo jiné majetkové sankce uložené jeho obhospodařovateli, administrátorovi, depozitáři, hlavnímu podpůrci, auditorovi nebo jiné osobě, která pro tento fond poskytuje služby,
+>
+> - b) náklady na vyhotovení propagačního sdělení a náklady na nabízení investic do tohoto fondu, ani
+>
+> - c) administrativní náklady a náklady na právní a poradenské služby spojené s přeměnou nebo jinou majetkovou dispozicí týkající se tohoto fondu (část jedenáctá).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8550f0d97492868be5db -->
+
 ### § 211 — Odkoupení podílového listu a investiční akcie bez srážky
 
 > **§ 211**
@@ -450,6 +762,54 @@ Zvýšení úplaty nebo výstupního poplatku nad statut zakládá právo invest
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=743ac21678904ed023d3 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 211 — Odkoupení podílového listu a investiční akcie bez srážky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Bylo-li rozhodnuto o zvýšení úplaty za obhospodařování nebo výstupního poplatku nad výši uvedenou ve statutu fondu kolektivního investování, vzniká vlastníkům podílových listů nebo vlastníkům investičních akcií, jichž se rozhodnutí o zvýšení úplaty nebo poplatku týká, právo na odkoupení tímto fondem vydaného podílového listu nebo investiční akcie bez srážky; srazit však lze částku odpovídající účelně vynaloženým nákladům spojeným s odkoupením tohoto podílového listu nebo této investiční akcie.
+>
+> (2) Lhůta pro uplatnění práva na odkoupení podle odstavce 1 musí být určena tak, aby činila alespoň 30 dní ode dne uveřejnění informace o rozhodnutí o zvýšení úplaty nebo poplatku; uplynutím této lhůty právo na odkoupení podle odstavce 1 zaniká. Součástí této informace je i údaj o tom, kdy uplyne lhůta pro uplatnění tohoto práva na odkoupení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=743ac21678904ed023d3 -->
+
 ### § 212 — Změna působnosti při schválení účetní závěrky, rozdělení zisku a úhradě ztráty
 
 > **§ 212**
@@ -502,6 +862,52 @@ Stanovy SICAV mohou působnost ke schválení účetní závěrky, rozdělení z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a19c98a0eb362f67fef8 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 212 — Změna působnosti při schválení účetní závěrky, rozdělení zisku a úhradě ztráty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Určí-li tak stanovy akciové společnosti, která je fondem kolektivního investování, schválení účetní závěrky tohoto fondu, jakož i rozhodnutí o rozdělení zisku nebo jiných výnosů z majetku tohoto fondu a rozhodnutí o úhradě ztráty z hospodaření tohoto fondu náleží do působnosti statutárního nebo dozorčího orgánu obhospodařovatele tohoto fondu; jiný orgán tohoto fondu kolektivního investování, který je jinak podle právního předpisu příslušný k rozhodování, v tomto případě nerozhoduje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a19c98a0eb362f67fef8 -->
+
 ### § 213 — Uveřejnění neschválení účetní závěrky
 
 > **§ 213**
@@ -552,6 +958,52 @@ Neschválení účetní závěrky v určené lhůtě i soudní neplatnost jejíh
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3f862245f5ccafb3fc0b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 213 — Uveřejnění neschválení účetní závěrky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Neschválí-li příslušný orgán v určené lhůtě účetní závěrku fondu kolektivního investování, nebo rozhodne-li soud o neplatnosti jednání příslušného orgánu, kterým schválil účetní závěrku, obhospodařovatel tohoto fondu tuto skutečnost, včetně způsobu řešení připomínek svého orgánu nebo soudu, uveřejní na internetových stránkách tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f862245f5ccafb3fc0b -->
+
 ### § 214 — Úhrada ztráty
 
 > **§ 214**
@@ -601,6 +1053,52 @@ Vykáže-li FKI ztrátu, příslušný orgán o její úhradě z majetku fondu r
 **Typicky rozhodné důkazy / podklady:** účetní závěrka, zápis schvalujícího orgánu o úhradě ztráty, výpočet fondového kapitálu, statut (zásady hospodaření).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2786f53cccd7b3765aa8 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 214 — Úhrada ztráty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Vykáže-li fond kolektivního investování za účetní období ztrátu, rozhodne příslušný orgán při schvalování účetní závěrky tohoto fondu za účetní období, ve kterém ztráta vznikla, o její úhradě z majetku tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2786f53cccd7b3765aa8 -->
 
 ## Hlava II — Investování a techniky k obhospodařování (§§ 215–218)
 
@@ -725,6 +1223,90 @@ Obhospodařovatel musí zavést, udržovat a uplatňovat pravidla skladby majetk
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fcbc53b4e00ddd321f58 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 215
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel fondu kolektivního investování při obhospodařování tohoto fondu zavede v rámci statutu tohoto fondu a udržuje a uplatňuje
+>
+> - a) pravidla pro skladbu majetku tohoto fondu, spočívající ve vymezení věcí, které mohou být nabyty do jmění tohoto fondu, a investičních limitů, které je nutno dodržovat ve vztahu k těmto věcem, včetně investičních limitů při kopírování složení indexu akcií a obdobných cenných papírů představujících podíl na obchodní společnosti nebo jiné právnické osobě nebo indexu dluhopisů a obdobných cenných papírů představujících právo na splacení dlužné částky nebo jiného indexu,
+>
+> - b) pravidla pro přijetí úvěru nebo zápůjčky na účet tohoto fondu,
+>
+> - c) pravidla pro použití majetku tohoto fondu k poskytnutí úvěru, zápůjčky nebo daru, k zajištění dluhu jiné osoby nebo k úhradě dluhu, který nesouvisí s obhospodařováním tohoto fondu, včetně toho, zda lze majetek tohoto fondu použít k poskytnutí úvěru nebo zápůjčky, které nesouvisí s jeho obhospodařováním, a toho, zda lze majetek tohoto fondu použít k poskytnutí daru, k zajištění dluhu jiné osoby nebo k úhradě dluhu, který nesouvisí s jeho obhospodařováním,
+>
+> - d) pravidla pro uzavírání smluv o prodeji věcí na účet tohoto fondu, které tento fond nemá ve svém majetku nebo které má na čas přenechány, včetně toho, zda lze na účet tohoto fondu uzavírat smlouvy o prodeji věcí, které tento fond nemá ve svém majetku nebo které má na čas přenechány,
+>
+> - e) techniky k obhospodařování tohoto fondu,
+>
+> - f) pravidla pro používání technik k obhospodařování tohoto fondu, včetně pravidel pro sjednávání repo obchodů s využitím majetku tohoto fondu a pravidel pro investování v souvislosti se sjednanými repo obchody,
+>
+> - g) pravidla pro snižování rizika z použití derivátů, a jde-li o speciální fond, který využívá pákový efekt, také limity pro míru využití pákového efektu,
+>
+> - h) pravidla pro výpočet celkové expozice tohoto fondu závazkovou metodou, metodou hrubé hodnoty aktiv, metodou měření hodnoty v riziku, s rozlišením podle modelu absolutní rizikové hodnoty a relativní rizikové hodnoty, nebo jinou pokročilou metodou měření rizik, a
+>
+> - i) limity u celkové expozice v případě metod podle písmene h).
+>
+> (2) Vláda stanoví nařízením pro standardní fond, pro speciální fond, s rozlišením, zda investuje do nemovitostí a účastí v nemovitostních společnostech, kvalitativní požadavky na
+>
+> - a) pravidla podle odstavce 1 písm. a) až d) a f) až h), včetně toho, zda lze
+>
+> - 1. majetek fondu kolektivního investování použít k poskytnutí úvěru nebo zápůjčky, které nesouvisí s jeho obhospodařováním,
+>
+> - 2. majetek fondu kolektivního investování použít k poskytnutí daru, k zajištění dluhu jiné osoby nebo k úhradě dluhu, který nesouvisí s jeho obhospodařováním, a
+>
+> - 3. na účet fondu kolektivního investování uzavírat smlouvy o prodeji věcí, které tento fond nemá ve svém majetku nebo které má na čas přenechány,
+>
+> - b) techniky podle odstavce 1 písm. e) a
+>
+> - c) limity u celkové expozice podle odstavce 1 písm. i).
+>
+> (3) Odporuje tomuto zákonu, jestliže obhospodařovatel fondu kolektivního investování nezavede, neudržuje nebo neuplatňuje pravidla, techniky nebo limity podle odstavce 1 tak, jak stanoví tento zákon nebo nařízení vlády upravující investování investičních fondů a techniky k jejich obhospodařování.
+>
+> (4) Repo obchodem se pro účely tohoto zákona rozumí prodej nebo jiný převod věci se současně sjednanou zpětnou koupí nebo jiným zpětným převodem a koupě nebo jiný převod věci se současně sjednaným zpětným prodejem nebo jiným zpětným převodem.
+>
+> (5) Pro účely výpočtu investičních limitů, limitů u celkové expozice a dalších limitů, které plynou ze statutu fondu kolektivního investování nebo z nařízení vlády upravujícího investování investičních fondů a techniky k jejich obhospodařování, se na dluhopis anebo cenný papír nebo zaknihovaný cenný papír, s nímž je spojeno právo na splacení dlužné částky, vydaný fondem kolektivního investování, hledí jako na úvěr přijatý na účet tohoto fondu. Ustanovení § 206 odst. 2 věta druhá se použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 206
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fcbc53b4e00ddd321f58 -->
+
 ### § 216 — Porušení souladu skladby majetku nezávisle na vůli obhospodařovatele
 
 > **§ 216**
@@ -782,6 +1364,54 @@ Involuntární (tržním pohybem či změnou NAV vyvolané) porušení limitů a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8608c166599412233546 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 216
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Došlo-li nezávisle na vůli obhospodařovatele fondu kolektivního investování k tomu, že není dodržen soulad skladby majetku tohoto fondu s pravidly pro skladbu majetku tohoto fondu, musí obhospodařovatel tohoto fondu obnovit bez zbytečného odkladu soulad skladby majetku tohoto fondu s těmito pravidly; přitom přihlédne k zájmům podílníků nebo vlastníků investičních akcií tohoto fondu.
+>
+> (2) V souvislosti s uplatněním přednostního práva na upsání investičních cenných papírů nebo nástrojů peněžního trhu, které má nebo bude mít fond kolektivního investování ve svém majetku, nemusí být dodržen soulad skladby majetku tohoto fondu s pravidly pro skladbu majetku tohoto fondu; obhospodařovatel tohoto fondu však musí obnovit bez zbytečného odkladu po uplatnění tohoto přednostního práva soulad skladby majetku tohoto fondu s těmito pravidly.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8608c166599412233546 -->
+
 ### § 218 — Osvědčení přiměřenosti limitů pákového efektu u speciálního fondu
 
 > **§ 218**
@@ -834,6 +1464,52 @@ Obhospodařovatel speciálního fondu využívajícího páku musí na žádost 
 **Typicky rozhodné důkazy / podklady:** statut (limit páky), metodika výpočtu páky (brutto/závazková), dokumentace řízení rizik a kontrolních mechanismů, stress testy, korespondence s ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e3d123a9f01ea5a11dad generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 218
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Obhospodařovatel speciálního fondu nebo srovnatelného zahraničního investičního fondu, který využívá pákový efekt, osvědčí České národní bance na její žádost přiměřenost limitů, které určil pro míru využití pákového efektu, jakož i to, jak zajišťuje jejich dodržování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e3d123a9f01ea5a11dad -->
 
 ## Hlava III — Zpřístupňování informací (§§ 219–240)
 
@@ -888,6 +1564,52 @@ Statut musí srozumitelně pro běžného investora obsahovat investiční strat
 **Typicky rozhodné důkazy / podklady:** text statutu, doklad o zpřístupnění, vymezení okruhu investorů, srovnání obsahu s § 220, případné SKI.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=eae6f3dfd32417535e4f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 219
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Statut fondu kolektivního investování je dokument, který obsahuje investiční strategii fondu kolektivního investování, popis rizik spojených s investováním tohoto fondu a další údaje nezbytné pro investory k zasvěcenému posouzení investice, zpracované formou srozumitelnou běžnému investorovi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eae6f3dfd32417535e4f -->
 
 ### § 220 — Obsah statutu
 
@@ -986,6 +1708,86 @@ Statut musí obsahovat celý povinný katalog dle § 220 odst. 1 (vč. údajů o
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=28b038fa14b43f119bc7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 220
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Statut fondu kolektivního investování obsahuje
+>
+> - a) údaje nutné k identifikaci obhospodařovatele, administrátora a depozitáře fondu kolektivního investování, případně údaje nutné k identifikaci promotéra, byl-li ustaven,
+>
+> - b) údaje nutné k identifikaci fondu kolektivního investování,
+>
+> - c) investiční strategii, včetně investičních limitů,
+>
+> - d) rizikový profil fondu kolektivního investování,
+>
+> - e) údaje o historické výkonnosti fondu kolektivního investování,
+>
+> - f) zásady pro hospodaření fondu kolektivního investování,
+>
+> - g) údaje o výplatě podílů na zisku nebo výnosech fondu kolektivního investování,
+>
+> - h) údaje týkající se podílových listů nebo akcií vydávaných fondem kolektivního investování,
+>
+> - i) údaje o poplatcích účtovaných investorům a nákladech hrazených z majetku fondu kolektivního investování,
+>
+> - j) údaje o zásadách odměňování, a to alespoň odkazem na internetové stránky,
+>
+> - k) údaje o možnosti pověření jiného výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování nebo administrace investičního fondu nebo zahraničního investičního fondu, a v případě, že dojde k pověření jiného výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu nebo zahraničního investičního fondu, údaje o pověřeném,
+>
+> - l) údaje týkající se rizik udržitelnosti podle čl. 6 odst. 1 nařízení Evropského parlamentu a Rady (EU) [[2019/2088|2019/2088]]21) a údaje podle čl. 5 až 7 nařízení Evropského parlamentu a Rady (EU) [[2020/852|2020/852]]22) a
+>
+> - m) další údaje nezbytné pro investory k zasvěcenému posouzení investice, včetně informací podle čl. 14 nařízení Evropského parlamentu a Rady (EU) [[2015/2365|2015/2365]].
+>
+> (2) Vylučuje-li povaha některého údaje jeho uvedení ve statutu, uvede se údaj, který svým obsahem požadovanému údaji nejblíže odpovídá.
+>
+> (3) Česká národní banka stanoví vyhláškou požadavky k obsahu a struktuře statutu fondu kolektivního investování v rozsahu odstavce 1.
+>
+> (4) Nejsou-li rizika týkající se udržitelnosti relevantní, musí údaje podle odstavce 1 písm. l) obsahovat vysvětlení důvodů pro takový závěr.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2019/2088 (výslovně uvedeno v místním znění)
+- akt EU 2020/852 (výslovně uvedeno v místním znění)
+- akt EU 2015/2365 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=28b038fa14b43f119bc7 -->
+
 ### § 221 — Průběžná aktualizace statutu
 
 > **§ 221**
@@ -1035,6 +1837,52 @@ Statut je živý dokument: jakákoli změna jeho údajů musí být průběžně
 **Typicky rozhodné důkazy / podklady:** doklad o změně skutečnosti a její datum, archiv webu fondu, verze statutu s časovými razítky, interní proces aktualizace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=159848cee68e7b69acb7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 221
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Údaje uvedené ve statutu fondu kolektivního investování musejí být průběžně aktualizovány.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=159848cee68e7b69acb7 -->
 
 ### § 222 — Uveřejnění statutu a jeho změn
 
@@ -1087,6 +1935,54 @@ Statut i každá jeho změna se uveřejňují bez zbytečného odkladu na webu f
 **Typicky rozhodné důkazy / podklady:** archiv webu fondu, dodatky a úplná znění statutu s časovými razítky, datum rozhodnutí o změně, doklad o uveřejnění stanov.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6e764ed506044123b676 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 222 — Uveřejnění statutu a jeho změn
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Statut fondu kolektivního investování a každá jeho změna se uveřejní bez zbytečného odkladu na internetových stránkách tohoto fondu.
+>
+> (2) Uveřejnění změny statutu fondu kolektivního investování se provádí také uveřejněním jeho nového úplného znění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e764ed506044123b676 -->
 
 ### § 223 — Současné uveřejnění stanov
 
@@ -1144,6 +2040,58 @@ U fondu ve formě a.s. se se statutem zpřístupní i stanovy — buď přímým
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=25896f9013220a00b88c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 223 — Současné uveřejnění stanov
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Se statutem fondu kolektivního investování, který má právní formu akciové společnosti, se současně uveřejní jeho stanovy.
+>
+> (2) Stanovy nemusí být uveřejněny, obsahuje-li statut fondu kolektivního investování informaci
+>
+> - a) o tom, že stanovy budou investorovi poskytnuty na jeho žádost, nebo
+>
+> - b) o místě, kde je možno do stanov nahlížet, přičemž tento údaj se uvádí za každý členský stát, v němž jsou cenné papíry nebo zaknihované cenné papíry vydávané fondem kolektivního investování veřejně nabízeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25896f9013220a00b88c -->
+
 ### § 224 — Poskytnutí statutu investorovi
 
 > **§ 224**
@@ -1195,6 +2143,54 @@ Administrátor poskytne investorovi na žádost bezúplatně aktuální statut; 
 **Typicky rozhodné důkazy / podklady:** žádost investora, doklad o poskytnutí dokumentů, struktura master-feeder, případné vyúčtování poplatku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1cda05cd3f55ac779ac9 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 224 — Poskytnutí statutu investorovi na jeho žádost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor fondu kolektivního investování poskytne každému investorovi na jeho žádost bezúplatně aktuální statut tohoto fondu.
+>
+> (2) Jedná-li se o podřízený fond, poskytne administrátor tohoto fondu investorovi na jeho žádost bezúplatně i aktuální statut nebo srovnatelný dokument jeho řídícího fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1cda05cd3f55ac779ac9 -->
 
 ### § 225 — Forma poskytnutí statutu
 
@@ -1270,6 +2266,76 @@ Výchozí formou statutu je listina; nelistinný nosič nebo pouze web jsou u sp
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1f2d9363010ebfc38993 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 225
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Statut fondu kolektivního investování se poskytuje v listinné podobě.
+>
+> (2) Za podmínek, které vymezuje přímo použitelný předpis Evropské unie upravující sdělení klíčových informací11), lze statut standardního fondu namísto v listinné podobě
+>
+> - a) poskytnout investorovi na nosiči informací, který nemá listinnou podobu, nebo
+>
+> - b) uveřejnit pouze na internetových stránkách tohoto fondu.
+>
+> (3) Statut speciálního fondu lze investorovi poskytnout na nosiči informací, který nemá listinnou podobu, jestliže
+>
+> - a) jeho poskytnutí na tomto nosiči informací je přiměřené okolnostem, za nichž se uskutečňuje nebo má uskutečnit obchod mezi obhospodařovatelem, popřípadě administrátorem, speciálního fondu a investorem, a
+>
+> - b) investor si při volbě mezi listinnou podobou a nosičem informací, který nemá listinnou podobu, výslovně zvolil tento nosič informací.
+>
+> (4) Statut speciálního fondu lze investorovi poskytnout pouze na internetových stránkách speciálního fondu, jestliže
+>
+> - a) je jejich poskytnutí na internetových stránkách přiměřené okolnostem, za nichž se uskutečňuje nebo má uskutečnit obchod mezi obhospodařovatelem, popřípadě administrátorem, speciálního fondu a investorem,
+>
+> - b) s jejich poskytnutím pouze na internetových stránkách udělil investor souhlas,
+>
+> - c) investorovi byla elektronicky sdělena adresa internetových stránek včetně údaje, kde na nich může investor příslušný statut nalézt, a
+>
+> - d) investor má kdykoliv možnost využívat statut po dobu přiměřenou jeho účelu.
+>
+> (5) Administrátor fondu kolektivního investování poskytne každému investorovi statut fondu kolektivního investování vždy v listinné podobě, jestliže o to investor požádá.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f2d9363010ebfc38993 -->
+
 ### § 226 — Doplňkové informace na žádost investora
 
 > **§ 226**
@@ -1328,6 +2394,60 @@ Na žádost investora poskytne administrátor doplňkové údaje nad rámec stat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4b5a25281a9ef2a44896 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 226
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Jestliže o to investor požádá, poskytne mu administrátor fondu kolektivního investování nad rámec údajů uvedených ve statutu fondu kolektivního investování údaje o
+>
+> - a) kvantitativních omezeních uplatňovaných při řízení rizik spojených s investováním tohoto fondu,
+>
+> - b) technikách uplatňovaných k obhospodařování tohoto fondu,
+>
+> - c) vývoji hlavních rizik spojených s investováním tohoto fondu a
+>
+> - d) vývoji výnosů jednotlivých druhů věcí, které mohou být nabyty do jmění tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b5a25281a9ef2a44896 -->
+
 ## Díl 2 — Sdělení klíčových informací (§§ 227–232)
 
 ### § 227 — Definice sdělení klíčových informací
@@ -1380,6 +2500,52 @@ Sdělení klíčových informací je samostatný stručný dokument umožňujíc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c65286bc54e19e8214e9 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 227
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Sdělení klíčových informací je dokument, který obsahuje stručné základní charakteristiky fondu kolektivního investování, nezbytné pro pochopení povahy a rizik spojených s investováním do tohoto fondu, zpracované formou srozumitelnou běžnému investorovi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c65286bc54e19e8214e9 -->
+
 ### § 228 — Aktualizace a uveřejnění sdělení klíčových informací
 
 > **§ 228**
@@ -1429,6 +2595,54 @@ SKI/KID musí být průběžně aktualizováno a bezodkladně uveřejněno po vy
 **Typicky rozhodné důkazy / podklady:** verze KID s daty, doklad o změně rizika/poplatků, archiv webu, interní proces monitoringu změn.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0139c08d48baf6ae4a10 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 228
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Údaje uvedené ve sdělení klíčových informací musejí být průběžně aktualizovány.
+>
+> (2) Administrátor uveřejní aktuální sdělení klíčových informací fondu kolektivního investování bez zbytečného odkladu po jeho vyhotovení na internetových stránkách tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0139c08d48baf6ae4a10 -->
 
 ### § 229 — Obecné požadavky na sdělení klíčových informací
 
@@ -1493,6 +2707,60 @@ SKI/KID nesmí být zavádějící a musí být v souladu se statutem a srozumit
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=84ef9a89a2a09e3418af generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 229 — Obecné požadavky na sdělení klíčových informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Sdělení klíčových informací
+>
+> - a) nesmí obsahovat nejasné, nepravdivé, zavádějící nebo klamavé informace,
+>
+> - b) musí být v souladu s údaji uvedenými ve statutu fondu kolektivního investování a
+>
+> - c) musí být srozumitelné bez nutnosti seznámit se s jinými uveřejněnými nebo jinak poskytnutými dokumenty, které se týkají fondu kolektivního investování.
+>
+> (2) Administrátor fondu kolektivního investování nahradí investorovi tohoto fondu újmu vzniklou mu tím, že údaje uvedené ve sdělení klíčových informací jsou nejasné, nepravdivé, zavádějící nebo klamavé nebo nejsou v souladu s údaji uvedenými ve statutu tohoto fondu; jinak újmu vzniklou investorovi jinou nesprávností nebo neúplností údajů uvedených ve sdělení klíčových informací nenahrazuje. Ve sdělení klíčových informací je v tomto smyslu obsaženo výslovné upozornění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84ef9a89a2a09e3418af -->
+
 ### § 230 — Zvláštní požadavky na sdělení klíčových informací
 
 > **§ 230**
@@ -1555,6 +2823,56 @@ KID standardního fondu musí odpovídat přímo použitelnému nařízení EU (
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b6afdcc114d17745dbd6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 230 — Zvláštní požadavky na sdělení klíčových informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Náležitosti, strukturu, formu a požadavky na jazykové vyjádření sdělení klíčových informací standardního fondu, jakož i podmínky a způsob jeho průběžné aktualizace a lhůty pro jeho uveřejňování vymezuje přímo použitelný předpis Evropské unie upravující sdělení klíčových informací11).
+>
+> (2) Sdělení klíčových informací standardního fondu musí rovněž obsahovat odkaz na internetové stránky, kde lze najít podrobné údaje o zásadách odměňování a sdělení, že tyto údaje budou na požádání poskytnuty bezúplatně v listinné podobě. Tyto údaje musí zahrnovat alespoň popis toho, jak se odměny vypočítávají, a totožnost osob odpovědných za přiznávání odměn, včetně složení výboru pro odměňování, pokud existuje.
+>
+> (3) Za splnění povinnosti poskytnout sdělení klíčových informací týkajících se fondu kolektivního investování podle tohoto zákona se považuje také poskytnutí sdělení klíčových informací podle nařízení Evropského parlamentu a Rady (EU) č. [[1286/2014|1286/2014]]24).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1286/2014 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b6afdcc114d17745dbd6 -->
+
 ### § 231 — Poskytnutí sdělení klíčových informací investorovi
 
 > **§ 231**
@@ -1605,6 +2923,52 @@ SKI/KID musí být poskytnut bezúplatně a s dostatečným předstihem před us
 **Typicky rozhodné důkazy / podklady:** pokyn k nákupu s časovým razítkem, záznam o předání KID a jeho čas, zápis/nahrávka z jednání, logy online platformy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2b4d1af7189cb1c0bee3 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 231 — Poskytnutí sdělení klíčových informací investorovi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Administrátor fondu kolektivního investování poskytne každému investorovi bezúplatně a s dostatečným časovým předstihem před uskutečněním investice aktuální sdělení klíčových informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b4d1af7189cb1c0bee3 -->
 
 ### § 232 — Forma sdělení klíčových informací
 
@@ -1666,6 +3030,62 @@ Výchozí formou KID je listina; mimo listinu jej lze u speciálního fondu posk
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d3396544b600d3e3cbaf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 232
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor poskytne sdělení klíčových informací v listinné podobě.
+>
+> (2) Sdělení klíčových informací standardního fondu lze za podmínek, které vymezuje přímo použitelný předpis Evropské unie upravující sdělení klíčových informací11), namísto listinné podoby poskytnout investorovi
+>
+> - a) na nosiči informací, který nemá listinnou podobu, nebo
+>
+> - b) pouze na internetových stránkách tohoto fondu.
+>
+> (3) Pro podmínky, za kterých lze sdělení klíčových informací speciálního fondu namísto v listinné podobě poskytnout investorovi na nosiči informací, který nemá listinnou podobu, nebo pouze na internetových stránkách tohoto fondu, se § 225 odst. 3 a [[#§ 4|4]] použijí obdobně.
+>
+> (4) Administrátor fondu kolektivního investování poskytne každému investorovi sdělení klíčových informací vždy v listinné podobě, jestliže o to investor požádá.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 225, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3396544b600d3e3cbaf -->
+
 ## Díl 3 — Výroční zpráva (§§ 233–235) a zpráva auditora (§§ 235–236)
 
 ### § 233 — Výroční zpráva fondu kolektivního investování
@@ -1725,6 +3145,56 @@ Výroční zpráva FKI se uveřejňuje do 4 měsíců po skončení účetního 
 **Typicky rozhodné důkazy / podklady:** účetní období a datum uveřejnění, kvalifikace obhospodařovatele (rozhodný limit), případná výroční finanční zpráva dle ZPKT, žádosti investorů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b2a6ea44e74e4b7e1c62 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 233
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor fondu kolektivního investování uveřejní nejpozději do 4 měsíců po skončení účetního období výroční zprávu tohoto fondu.
+>
+> (2) Administrátor fondu kolektivního investování poskytne každému akcionáři nebo podílníkovi poslední uveřejněnou výroční zprávu tohoto fondu v listinné podobě, jestliže o to akcionář nebo podílník požádá. Stejně administrátor postupuje, jedná-li se o poslední uveřejněnou výroční zprávu řídícího fondu, je-li fond kolektivního investování podřízeným fondem.
+>
+> (3) Pro administrátora fondu kolektivního investování, jehož obhospodařovatel je oprávněn přesáhnout rozhodný limit a za který se uveřejňuje výroční zpráva podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]], se odstavce 1 a [[#§ 2|2]] nepoužijí. V tomto případě postačí, jestliže poskytne každému investorovi na jeho žádost údaje požadované jinak podle odstavce 2, které nejsou obsaženy ve výroční zprávě tohoto fondu uveřejněné podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]]. Tyto údaje lze poskytnout odděleně nebo jako doplněk výroční zprávy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b2a6ea44e74e4b7e1c62 -->
 
 ### § 234 — Zvláštní náležitosti výroční zprávy
 
@@ -1869,6 +3339,134 @@ Výroční zpráva nemovitostního speciálního fondu musí obsahovat detailní
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b60c6033557591d7fc97 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 234 — Zvláštní náležitosti výroční zprávy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Výroční zpráva fondu kolektivního investování dále obsahuje
+>
+> - a) účetní závěrku ověřenou auditorem a zprávu auditora v plném znění,
+>
+> - b) údaje o činnosti jeho obhospodařovatele ve vztahu k majetku fondu v účetním období,
+>
+> - c) údaje o celkovém počtu akcií nebo podílových listů vydaných fondem, které jsou v oběhu ke konci účetního období,
+>
+> - d) údaje o celkovém počtu akcií nebo podílových listů fondu vydaných a odkoupených v účetním období,
+>
+> - e) údaje o fondovém kapitálu na jednu akcii tohoto fondu ke konci účetního období,
+>
+> - f) údaje o skladbě a změnách skladby majetku tohoto fondu,
+>
+> - g) údaje o vývoji aktiv fondu,
+>
+> - h) srovnání celkového fondového kapitálu a fondového kapitálu na jednu akcii nebo podílový list za 3 uplynulá účetní období, přičemž srovnávané hodnoty se týkají vždy konce účetního období,
+>
+> - i) údaje o výsledném objemu závazků vztahující se k technikám, které obhospodařovatel používá k obhospodařování fondu, ke konci účetního období, s rozlišením, zda se jedná o repo obchody nebo deriváty,
+>
+> - j) údaje týkající se prosazování environmentálních nebo sociálních vlastností a udržitelných investic podle čl. 11 nařízení Evropského parlamentu a Rady (EU) [[2019/2088|2019/2088]]21) a údaje podle čl. 5 až 7 nařízení Evropského parlamentu a Rady (EU) [[2020/852|2020/852]]22) a
+>
+> - k) další podstatné údaje, které zajistí, aby výroční zpráva poskytla investorům věrný a poctivý obraz o finanční situaci, podnikatelské činnosti a o výsledcích hospodaření obhospodařovatele fondu ve vztahu k majetku fondu za uplynulé účetní období, včetně informací podle čl. 13 nařízení Evropského parlamentu a Rady (EU) [[2015/2365|2015/2365]].
+>
+> (2) Výroční zpráva speciálního fondu dále obsahuje
+>
+> - a) údaje o podstatných změnách údajů uvedených ve statutu investičního fondu, ke kterým došlo v průběhu účetního období,
+>
+> - b) údaje o mzdách, úplatách a obdobných příjmech pracovníků a vedoucích osob, které mohou být považovány za odměny, vyplácených obhospodařovatelem investičního fondu jeho pracovníkům nebo vedoucím osobám v účetním období, členěných na pevnou a pohyblivou složku, údaje o počtu pracovníků a vedoucích osob obhospodařovatele tohoto fondu a údaje o případných odměnách za zhodnocení kapitálu, které investiční fond nebo jeho obhospodařovatel vyplatil,
+>
+> - c) údaje o mzdách, úplatách a obdobných příjmech pracovníků nebo vedoucích osob, které mohou být považovány za odměny, vyplacených obhospodařovatelem investičního fondu těm z jeho pracovníků nebo vedoucích osob, jejichž činnost má podstatný vliv na rizikový profil tohoto fondu, a
+>
+> - d) údaje uvedené v § 34 odst. 2, neplní-li obhospodařovatel uvedený v § 34 odst. 1 povinnosti stanovené v § 34 odst. 2 nebo § 36 odst. 3; tyto údaje obhospodařovatel speciálního fondu zahrne do výroční zprávy jím obhospodařovaného speciálního fondu, k jehož majetku se vztahuje podíl na hlasovacích právech.
+>
+> (3) Výroční zpráva speciálního fondu, který investuje do nemovitostí nebo účastí v nemovitostní společnosti, dále obsahuje
+>
+> - a) údaje o nemovitosti uvedené v § 267 odst. 2 písm. a) a c) až g) u každé nemovitosti v majetku fondu,
+>
+> - b) účel, pro který byla nemovitost nabyta do majetku fondu, a došlo-li ke změně účelu, důvod této změny a dopady této změny na fond,
+>
+> - c) údaje nutné k identifikaci osoby, která nemovitost spravuje,
+>
+> - d) den, ke kterému byl vyhotoven posudek znalce nebo člena výboru odborníků podle [[#§ 266|§ 266]],
+>
+> - e) údaje nutné k identifikaci znalce a člena výboru odborníků, který ocenil nemovitost podle [[#§ 266|§ 266]],
+>
+> - f) způsob ocenění nemovitosti,
+>
+> - g) popis kritérií, na základě kterých byla cena nemovitosti určena, byla-li nemovitost oceněna způsobem porovnávacím,
+>
+> - h) údaje nutné k identifikaci nemovitostní společnosti, ve které má fond účast,
+>
+> - i) počet nemovitostí v majetku nemovitostní společnosti, ve které má fond účast,
+>
+> - j) údaje nutné k identifikaci nemovitostí v majetku nemovitostní společnosti, ve které má fond účast, a to v rozsahu údajů uvedených v písmenech a) až e),
+>
+> - k) základní informace o členech výboru odborníků,
+>
+> - l) údaje o podstatné změně v předpokládaném vývoji peněžních toků spojených s držením nemovitostí nebo s účastmi v nemovitostních společnostech,
+>
+> - m) údaje o zamýšleném prodeji nemovitosti nebo účasti v nemovitostní společnosti v době do 2 let ode dne nabytí vlastnického práva k nemovitosti nebo před uplynutím předpokládané doby investice,
+>
+> - n) údaje o záměru změnit investiční strategii,
+>
+> - o) popis důvodů nedodržení investičních limitů, došli-li k němu v rozhodném účetním období, a
+>
+> - p) další podstatné informace týkající se nemovitostí nebo nemovitostí společnosti, které zajistí, aby výroční zpráva poskytla investorům věrný a poctivý obraz o finanční situaci, podnikatelské činnosti a o výsledcích hospodaření obhospodařovatele fondu ve vztahu k majetku fondu za uplynulé účetní období.
+>
+> (4) Výroční zpráva podřízeného fondu dále obsahuje
+>
+> - a) údaj o tom, jakým způsobem může investor získat výroční zprávu řídícího fondu tohoto fondu, a
+>
+> - b) údaj o tom, jaké srážky, přirážky nebo poplatky budou v souvislosti s investováním podřízeného fondu hrazeny z jeho majetku a zda k nim je uplatňovaná sleva nebo vratka.
+>
+> (5) Výroční zpráva standardního fondu dále obsahuje údaje podle odstavce 2 písm. a) až c) a další podstatné údaje o odměňování.
+>
+> (6) V dalším požadavky k obsahu a struktuře výroční zprávy speciálního fondu, který obhospodařuje obhospodařovatel oprávněný přesáhnout rozhodný limit, vymezují články 103 až 107 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]].
+>
+> (7) Česká národní banka stanoví vyhláškou požadavky k obsahu výroční zprávy v rozsahu odstavců 1 až 5 v rozsahu, který neupravuje přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6).
+>
+> (8) Má-li být uveřejněna výroční finanční zpráva speciálního fondu podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]], nemusí výroční zpráva obsahovat informace, které jsou součástí výroční finanční zprávy. Není-li výroční zpráva součástí výroční finanční zprávy, uveřejní se spolu s výroční finanční zprávou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 36, § 267, § 266
+
+##### Souvisící předpisy
+
+- akt EU 2019/2088 (výslovně uvedeno v místním znění)
+- akt EU 2020/852 (výslovně uvedeno v místním znění)
+- akt EU 2015/2365 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b60c6033557591d7fc97 -->
+
 ### § 235 — Zpráva auditora
 
 > **§ 235**
@@ -1918,6 +3516,52 @@ Auditor FKI se musí ve své zprávě výslovně vyjádřit, zda je výroční z
 **Typicky rozhodné důkazy / podklady:** výroční zpráva (textová část), auditovaná účetní závěrka, zpráva auditora, pracovní dokumentace auditu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=08dda010a327e3225a1c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 235
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Auditor je ve své zprávě povinen vyjádřit se k souladu výroční zprávy fondu kolektivního investování s účetní závěrkou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08dda010a327e3225a1c -->
 
 ### § 236 — Zvláštní požadavky na zprávu auditora podřízeného fondu
 
@@ -1973,6 +3617,56 @@ Zpráva auditora podřízeného fondu musí zohlednit závěry auditora řídíc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=653b938035539e8afe86 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 236
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ve zprávě auditora podřízeného fondu se zohlední závěry zprávy auditora řídícího fondu.
+>
+> (2) Neshoduje-li se účetní období podřízeného fondu s účetním obdobím řídícího fondu, vypracuje auditor řídícího fondu dodatečnou zprávu ke dni účetní závěrky podřízeného fondu; tato dodatečná zpráva se začlení do zprávy auditora podřízeného fondu.
+>
+> (3) Součástí zprávy auditora podřízeného fondu jsou i údaje o nesrovnalostech řídícího fondu, na které upozorňuje zpráva auditora řídícího fondu, a vysvětlení jejich dopadu na podřízený fond.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=653b938035539e8afe86 -->
+
 ## Díl 4 — Pololetní zpráva (§§ 237–238)
 
 ### § 237 — Pololetní zpráva fondu kolektivního investování
@@ -2026,6 +3720,54 @@ Pololetní zpráva se uveřejňuje do 2 měsíců po uplynutí prvních 6 měsí
 **Typicky rozhodné důkazy / podklady:** datum uplynutí pololetí a datum uveřejnění, obsah pololetní zprávy, rozvaha a údaje o skladbě majetku, vyhláška ČNB, žádosti investorů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7256570a8d011c26695f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 237
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor fondu kolektivního investování uveřejní nejpozději do 2 měsíců po uplynutí prvních 6 měsíců účetního období pololetní zprávu tohoto fondu.
+>
+> (2) Administrátor fondu kolektivního investování poskytne každému akcionáři nebo podílníkovi poslední uveřejněnou pololetní zprávu tohoto fondu v listinné podobě, jestliže o to akcionář nebo podílník požádá. Stejně administrátor postupuje, jedná-li se o poslední uveřejněnou pololetní zprávu řídícího fondu, je-li fond kolektivního investování podřízeným fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7256570a8d011c26695f -->
 
 ### § 238 — Zvláštní náležitosti pololetní zprávy
 
@@ -2082,6 +3824,58 @@ Administrátor otevřeného FKI uveřejňuje NAV/cenu nejméně ve lhůtě dle �
 **Typicky rozhodné důkazy / podklady:** web fondu (frekvence NAV a skladby), záznamy o emisích/odkupech, určení lhůty dle § 193, statut.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f04737f239e246cdb06d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 238 — Zvláštní náležitosti pololetní zprávy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pololetní zpráva fondu kolektivního investování dále obsahuje rozvahu (bilanci) a údaje uvedené v § 234 odst. 1 písm. c), e), f) a j).
+>
+> (2) Pololetní zpráva speciálního fondu, který investuje do nemovitostí nebo účastí v nemovitostní společnosti, dále obsahuje údaje uvedené v § 234 odst. 3 písm. a) až c), f), h) a p).
+>
+> (3) Pololetní zpráva podřízeného fondu dále obsahuje údaj uvedený v § 234 odst. 4 písm. a).
+>
+> (4) Česká národní banka stanoví vyhláškou požadavky k obsahu pololetní zprávy fondu kolektivního investování v rozsahu odstavců 1 až 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 234
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f04737f239e246cdb06d -->
 
 ## Díl 5 — Další údaje uveřejňované nebo jinak zpřístupňované v případě nabízení investic (§§ 239–240)
 
@@ -2150,6 +3944,60 @@ Administrátor otevřeného FKI odkupujícího vlastní CP (veřejně nabízené
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bf3005fb0c295672cdb5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 239 — Údaje uveřejňované k fondu kolektivního investování odkupujícímu jím vydávané cenné papíry nebo zaknihované cenné papíry a srovnatelnému zahraničnímu investičnímu fondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor fondu kolektivního investování a administrátor srovnatelného zahraničního investičního fondu, jsou-li investice do tohoto fondu veřejně nabízeny v České republice, uveřejňuje
+>
+> - a) nejméně jednou ve lhůtě podle [[#§ 193|§ 193]] aktuální hodnotu podílového listu, investiční akcie nebo jiného podílu na investičním fondu a pokaždé, když jsou vydávány nebo odkupovány cenné papíry nebo zaknihované cenné papíry vydávané tímto fondem, údaj o částce, za kterou jsou vydávány a odkupovány cenné papíry nebo zaknihované cenné papíry vydávané tímto fondem,
+>
+> - b) za každý kalendářní měsíc údaj o počtu vydaných a odkoupených cenných papírů nebo zaknihovaných cenných papírů a
+>
+> - c) za každý kalendářní měsíc údaj o skladbě majetku v tomto fondu k poslednímu dni měsíce.
+>
+> (2) Pro administrátora speciálního fondu, který není otevřeným podílovým fondem nebo akciovou společností s proměnným základním kapitálem, a administrátora srovnatelného zahraničního investičního fondu, jde-li o investice do tohoto fondu nabízené v České republice, se odstavec 1 nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 193
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf3005fb0c295672cdb5 -->
+
 ### § 240 — Údaje uveřejňované k fondu kolektivního investování neodkupujícímu jím vydávané cenné papíry
 
 > **§ 240**
@@ -2204,3 +4052,52 @@ Administrátor fondu neodkupujícího vlastní CP, jsou-li investice veřejně n
 - [ ] Probíhá uveřejnění bez zbytečného odkladu po uplynutí příslušného období?
 
 **Typicky rozhodné důkazy / podklady:** web fondu (frekvence a včasnost údajů), výpočty hodnoty fondového kapitálu a NAV, určení lhůty dle § 193, doklad o veřejném nabízení v ČR.
+
+<!-- LEGAL-REVISION:BEGIN id=a2a648945fda4f515db4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 240 — Údaje uveřejňované k fondu kolektivního investování neodkupujícímu jím vydávané cenné papíry nebo zaknihované cenné papíry a srovnatelnému zahraničnímu investičnímu fondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Administrátor fondu kolektivního investování, který neodkupuje jím vydávané cenné papíry nebo zaknihované cenné papíry, nebo srovnatelného zahraničního investičního fondu, jsou-li investice do tohoto fondu veřejně nabízeny v České republice, uveřejňuje bez zbytečného odkladu po uplynutí příslušného období na internetových stránkách tohoto fondu veřejně
+>
+> - a) nejméně jednou ve lhůtě podle [[#§ 193|§ 193]] údaj o aktuální hodnotě fondového kapitálu tohoto fondu a o aktuální hodnotě jím vydávaných cenných papírů nebo zaknihovaných cenných papírů a
+>
+> - b) za každý kalendářní měsíc údaj o skladbě majetku tohoto fondu k poslednímu dni měsíce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 193
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2a648945fda4f515db4 -->

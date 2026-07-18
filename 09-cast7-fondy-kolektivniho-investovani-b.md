@@ -184,6 +184,130 @@ Ustanovení je třeba aplikovat jako podmínku přípustnosti (gateway) nabízen
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4cce79dd039cb3e9be02 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 241 — Informování investorů speciálního fondu obhospodařovaného obhospodařovatelem oprávněným přesáhnout rozhodný limit
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do speciálního fondu nebo do srovnatelného zahraničního investičního fondu lze v České republice nabízet, jsou-li investorům před uskutečněním jejich investice zpřístupněny tyto údaje:
+>
+> - a) investiční strategie tohoto fondu, zejména
+>
+>   - 1. hlavní druhy věcí, které mohou být nabyty do jmění fondu,
+>
+>   - 2. investiční limity, které je nutno dodržovat ve vztahu k věcem podle bodu 1,
+>
+>   - 3. údaj o technikách k obhospodařování fondu a o podmínkách pro jejich používání, včetně informací podle čl. 14 nařízení Evropského parlamentu a Rady (EU) [[2015/2365|2015/2365]],
+>
+> - b) údaje o podmínkách pro využití pákového efektu, včetně údajů o typech transakcí, které mohou být uzavírány s využitím pákového efektu, o protistranách těchto transakcí, o rizicích spojených s využitím pákového efektu a o případných limitech pro míru využití pákového efektu,
+>
+> - c) údaje o dohodách předpokládajících poskytnutí investičního nástroje z majetku tohoto fondu jako finanční kolaterál nebo srovnatelné zajištění podle práva cizího státu,
+>
+> - d) údaje o domovském státě jeho řídícího fondu, jde-li o podřízený fond, a údaj o domovských státech investičních fondů nebo zahraničních investičních fondů, do jimiž vydávaných cenných papírů nebo zaknihovaných cenných papírů investuje, investuje-li více než 49 % hodnoty svého majetku do cenných papírů nebo zaknihovaných cenných papírů vydávaných investičních fondem nebo zahraničním investičním fondem,
+>
+> - e) údaje o tom, za jakých podmínek může dojít ke změně investiční strategie tohoto fondu a jakým způsobem je změna prováděna,
+>
+> - f) údaje o hlavních právních důsledcích vztahujících se k smluvnímu závazku investora v souvislosti s jeho investicí do fondu, zejména údaj o
+>
+>   - 1. soudní příslušnosti pro řešení sporů z dané smlouvy,
+>
+>   - 2. právu rozhodném pro daný smluvní závazkový vztah a
+>
+>   - 3. existenci či neexistenci přímo použitelných předpisů Evropské unie nebo mezinárodních smluv upravujících uznání a výkon soudních rozhodnutí ve státě, ve kterém má fond sídlo, jde-li o zahraniční investiční fond srovnatelný se speciálním fondem,
+>
+> - g) údaje nutné k identifikaci obhospodařovatele, administrátora, depozitáře, hlavního podpůrce a auditora, jakož i popis činností těchto osob ve vztahu k fondu a základních práv investora,
+>
+> - h) údaje, jak jsou plněny požadavky stanovené v [[#§ 32|§ 32]],
+>
+> - i) údaje o tom, jakou činností, kterou zahrnuje obhospodařování nebo administrace investičního fondu nebo zahraničního investičního fondu, byl pověřen jiný, a popis toho, jakými činnostmi depozitáře byl podle [[#§ 78|§ 78]] pověřen jiný, včetně údajů nutných k identifikaci pověřeného a údajů o případných střetech zájmů plynoucích z výkonu činnosti, kterou byl pověřen,
+>
+> - j) údaje o postupech pro oceňování majetku a dluhů tohoto fondu a způsobu jeho oceňování, včetně způsobu oceňování obtížně ocenitelných věcí,
+>
+> - k) údaje o řízení rizika nedostatečné likvidity tohoto fondu, včetně popisu odkupování cenných papírů a zaknihovaných cenných papírů vydávaných tímto fondem za běžných a mimořádných okolností a v případech již podaných žádostí o odkoupení,
+>
+> - l) údaje o všech srážkách, přirážkách a poplatcích a nákladech fondu, které přímo či nepřímo nese investor, a údaj o jejich maximální výši,
+>
+> - m) údaje o tom, zda v případě, že některý z investorů získá zvláštní výhodu nebo právo na zvláštní výhodu, mají tuto výhodu nebo právo i ostatní investoři, popis této zvláštní výhody nebo tohoto práva na zvláštní výhodu a uvedení investorů, kteří tuto výhodu nebo právo získají, včetně uvedení právních a ekonomických vazeb těchto investorů na tento fond nebo na obhospodařovatele a na administrátora tohoto fondu,
+>
+> - n) poslední výroční zpráva tohoto fondu splňující požadavky podle čl. 22 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5) a podle čl. 13 nařízení Evropského parlamentu a Rady (EU) [[2015/2365|2015/2365]],
+>
+> - o) postupy a podmínky pro vydávání a odkupování cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto fondem,
+>
+> - p) údaje o aktuální hodnotě fondového kapitálu tohoto fondu, popřípadě aktuální tržní ceně nebo aktuální hodnotě cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto fondem,
+>
+> - q) údaje o historické výkonnosti fondu, jsou-li tyto údaje k dispozici,
+>
+> - r) popis základních služeb prováděných hlavním podpůrcem pro tento fond, popis způsobu, jakým budou řešeny případné střety zájmů plynoucích ze služeb poskytovaných hlavním podpůrcem, a údaje o případném přenesení povinnosti nahradit újmu hlavního podpůrce, která by jinak stíhala hlavního podpůrce, na jinou osobu,
+>
+> - s) údaje o ujednáních depozitářské smlouvy, která umožňují převod nebo další použití majetku tohoto fondu depozitářem,
+>
+> - t) údaje o tom, jakým způsobem a kdy jsou zpřístupňovány údaje uvedené v odstavcích 3 a [[#§ 4|4]],
+>
+> - u) údaje o tom, zda se depozitář dohodl s pověřeným podle § 82 odst. 2 písm. b) na náhradě ztráty investičních nástrojů pověřeným, jakož i údaj o změně a povaze změny této dohody, a
+>
+> - v) údaje týkající se rizik udržitelnosti podle čl. 6 odst. 1 nařízení Evropského parlamentu a Rady (EU) [[2019/2088|2019/2088]]21) a údaje podle čl. 5 až 7 nařízení Evropského parlamentu a Rady (EU) [[2020/852|2020/852]]22).
+>
+> (2) Údaje uvedené v odstavci 1 musejí být průběžně aktualizovány.
+>
+> (3) Jsou-li investice do speciálního fondu nebo do srovnatelného zahraničního investičního fondu, jehož obhospodařovatel je oprávněn přesáhnout rozhodný limit, nabízeny v České republice, zpřístupňují se investorům dále tyto údaje:
+>
+> - a) podíl majetku, který podléhá zvláštním opatřením v důsledku jeho nízké likvidity, na celkovém majetku dotčeného fondu, tento údaj se uvede v procentním vyjádření,
+>
+> - b) nová opatření přijatá k řízení rizika nedostatečné likvidity fondu a
+>
+> - c) rizikový profil fondu a systém řízení rizik, který uplatňuje obhospodařovatel.
+>
+> (4) Jsou-li investice do speciálního fondu nebo do srovnatelného zahraničního investičního fondu, který investuje s využitím pákového efektu, nabízeny v České republice, zpřístupňují se investorům dále údaje o
+>
+> - a) změnách v míře využití pákového efektu, zárukách poskytnutých v souvislosti s využitím pákového efektu, jakož i veškerých změnách týkajících se oprávnění k dalšímu využití poskytnutého finančního kolaterálu nebo srovnatelného zajištění podle práva cizího státu a
+>
+> - b) míře využití pákového efektu tímto fondem.
+>
+> (5) Kdy a jakým způsobem se zpřístupňují údaje uvedené v odstavcích 3 a [[#§ 4|4]] vymezují články 108 a 109 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]].
+>
+> (6) Nejsou-li rizika týkající se udržitelnosti relevantní, musí údaje podle odstavce 1 písm. v) obsahovat vysvětlení důvodů pro takový závěr.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32, § 78, § 4, § 82
+
+##### Souvisící předpisy
+
+- akt EU 2015/2365 (výslovně uvedeno v místním znění)
+- akt EU 2019/2088 (výslovně uvedeno v místním znění)
+- akt EU 2020/852 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4cce79dd039cb3e9be02 -->
+
 ### Díl 6 — Propagační sdělení týkající se fondu kolektivního investování a srovnatelného zahraničního investičního fondu
 
 ### § 243 — Propagační sdělení
@@ -248,6 +372,54 @@ Propagační sdělení fondu je relativně volné, ale podléhá dvěma podmín�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2c3a46843d0275175ce0 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 243
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Propagační sdělení fondu kolektivního investování a srovnatelného zahraničního investičního fondu, z jehož investiční strategie vyplývá, že se hodnota cenného papíru nebo zaknihovaného cenného papíru vydávaného fondem může vyznačovat značnou kolísavostí, musí na tuto skutečnost výslovně upozornit.
+>
+> (2) Propagační sdělení fondu kolektivního investování a srovnatelného zahraničního investičního fondu, který neinvestuje převážně do investičních cenných papírů ani nástrojů peněžního trhu, nebo který kopíruje složení indexu akcií nebo dluhopisů nebo jiného indexu nebo sleduje jiný finanční kvantitativně vyjádřený ukazatel (benchmark), musí obsahovat odkaz na investiční strategii uvedenou ve statutu tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c3a46843d0275175ce0 -->
+
 ### § 244 — Propagační sdělení podřízeného fondu
 
 > **§ 244**
@@ -302,6 +474,52 @@ Každé propagační sdělení podřízeného fondu musí výslovně a identifik
 **Typicky rozhodné důkazy / podklady:** propagační sdělení, statut podřízeného fondu, doklad o skladbě majetku (podíl investovaný do řídícího fondu), identifikace řídícího fondu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=685fc12d3a86feac5cef generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 244
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Propagační sdělení podřízeného fondu obsahuje údaj o tom, že investuje nejméně 85 % svého majetku do cenných papírů nebo zaknihovaných cenných papírů vydávaných jeho řídícím fondem a název nebo označení tohoto řídícího fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=685fc12d3a86feac5cef -->
 
 ## Hlava IV — Struktura řídícího fondu a podřízených fondů
 
@@ -371,6 +589,54 @@ Pokud zákon nebo jiný právní předpis hovoří o „podřízeném fondu" ř�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=11d86bb4c97074a44a5b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 245 — Řídící fond
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Řídícím fondem je fond kolektivního investování, do jímž vydávaných cenných papírů a zaknihovaných cenných papírů investuje podřízený fond alespoň 85 % hodnoty svého majetku.
+>
+> (2) Dovolává-li se tento zákon nebo jiný právní předpis ve vztahu k řídícímu fondu jeho podřízeného fondu, rozumí se tím i srovnatelný zahraniční investiční fond, neplyne-li z tohoto zákona nebo jiného právního předpisu jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=11d86bb4c97074a44a5b -->
+
 ### § 246 — Podřízený fond
 
 > **§ 246**
@@ -428,6 +694,54 @@ Podřízeným fondem je pouze fond směřující alespoň 85 % majetku do jedin�
 **Typicky rozhodné důkazy / podklady:** statut fondu, skladba portfolia a výpočet podílů, marketingová dokumentace, doklad o případném záměru restrukturalizace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d9783236a87c9d69a812 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 246 — Podřízený fond
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Podřízeným fondem je fond kolektivního investování, který investuje alespoň 85 % hodnoty svého majetku do cenných papírů a zaknihovaných cenných papírů vydávaných jedním řídícím fondem.
+>
+> (2) Dovolává-li se tento zákon nebo jiný právní předpis ve vztahu k podřízenému fondu jeho řídícího fondu, rozumí se tím i srovnatelný zahraniční investiční fond, neplyne-li z tohoto zákona nebo jiného právního předpisu jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9783236a87c9d69a812 -->
 
 ### § 247 — Typy fondů způsobilých pro strukturu master-feeder
 
@@ -496,6 +810,58 @@ Master-feeder lze u FKI realizovat jen v otevřeném podílovém fondu nebo SICA
 **Typicky rozhodné důkazy / podklady:** statuty řídícího i podřízeného fondu, doklad o právní formě (otevřený/uzavřený, SICAV), klasifikace fondu (standardní/speciální), dokumentace subfondové struktury, povolovací spis ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=20a5e769b1116b7ac58e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 247
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jde-li o fond kolektivního investování, může být řídícím fondem, jakož i jeho podřízeným fondem, pouze otevřený podílový fond nebo akciová společnost s proměnným základním kapitálem.
+>
+> (2) Jde-li o standardní fond, který je podřízeným fondem, může být řídícím fondem pouze standardní fond nebo srovnatelný zahraniční investiční fond.
+>
+> (3) Ustanovení tohoto zákona upravující strukturu řídícího fondu a podřízených fondů se v případě, že řídící fond nebo podřízený fond vytváří podfondy nebo, jde-li o zahraniční investiční fond, srovnatelná zařízení, použijí na podfond nebo srovnatelné zařízení tohoto fondu.
+>
+> (4) Evropský fond dlouhodobých investic může vytvářet strukturu řídícího fondu a podřízených fondů za podmínek stanovených přímo použitelným předpisem Evropské unie upravujícím evropské fondy dlouhodobých investic18).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20a5e769b1116b7ac58e -->
 
 ### § 248 — Podmínky pro investování jako podřízený fond
 
@@ -585,6 +951,72 @@ Limit 100 % na řídící fond je zákonnou výjimkou z diverzifikace dostupnou 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c5b2e9a8623206034247 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 248 — Podmínky pro možnost investovat jako podřízený fond a základní povinnosti s tím související
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel podřízeného fondu může investovat až 100 % hodnoty majetku tohoto fondu do cenných papírů nebo zaknihovaných cenných papírů vydávaných jeho řídícím fondem,
+>
+> - a) dohodl-li se s obhospodařovatelem řídícího fondu a administrátorem řídícího fondu na skutečnostech podle § 251 až 255,
+>
+> - b) je-li zajištěna spolupráce mezi depozitářem podřízeného fondu a depozitářem řídícího fondu za účelem řádného plnění povinností obou depozitářů; to se nevyžaduje, mají-li oba téhož depozitáře,
+>
+> - c) je-li zajištěna spolupráce mezi auditorem podřízeného fondu a auditorem řídícího fondu za účelem řádného plnění povinností obou auditorů; to se nevyžaduje, mají-li oba téhož auditora,
+>
+> - d) neinvestuje-li řídící fond jako podřízený fond,
+>
+> - e) neinvestuje-li řídící fond do cenných papírů ani do zaknihovaných cenných papírů vydávaných podřízenými fondy,
+>
+> - f) byl-li změněn statut podřízeného fondu tak, že mu umožňuje investovat jako podřízený fond,
+>
+> - g) v případě řídícího fondu, který je zahraničním investičním fondem srovnatelným se speciálním fondem, lze-li cenné papíry nebo zaknihované cenné papíry vydávané řídícím fondem veřejně nabízet v České republice, a
+>
+> - h) uplynula-li lhůta podle § 250 odst. 2.
+>
+> (2) Obhospodařovatel podřízeného fondu kontroluje výkon činnosti obhospodařovatele řídícího fondu, do jehož cenných papírů nebo zaknihovaných cenných papírů investuje majetek podřízeného fondu.
+>
+> (3) Při kontrole podle odstavce 2 vychází obhospodařovatel podřízeného fondu z informací a dokumentů poskytnutých mu obhospodařovatelem, depozitářem a auditorem řídícího fondu, nemá-li důvodnou pochybnost o jejich správnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 251, § 250
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c5b2e9a8623206034247 -->
+
 ### § 249 — Oznámení o zahájení činnosti jako podřízený fond
 
 > **§ 249**
@@ -653,6 +1085,62 @@ Přechod fondu na podřízený fond vyžaduje úplné oznámení se všemi čty�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b0eb45e4b758c38551dc generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 249 — Oznámení o zahájení činnosti jako podřízený fond
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Byl-li změněn statut fondu kolektivního investování tak, že tomuto fondu umožňuje investovat jako podřízený fond nebo do jiného řídícího fondu než doposud, uveřejní administrátor tohoto fondu oznámení, které obsahuje
+>
+> - a) prohlášení o tom, že byl statut tohoto fondu takto změněn,
+>
+> - b) údaje o tom, kde lze nalézt aktualizované sdělení klíčových informací tohoto fondu a aktualizované sdělení klíčových informací nebo aktualizovaný srovnatelný dokument řídícího fondu,
+>
+> - c) údaje o dni, ke kterému předpokládá překročení limitu týkajícího se cenných papírů a zaknihovaných cenných papírů vydávaných jedním investičním fondem nebo zahraničním investičním fondem, který vyplývá z právního předpisu upravujícího investování investičního fondu a techniky k jeho obhospodařování, a
+>
+> - d) údaje o podmínkách, za nichž se v souvislosti s uveřejněním tohoto oznámení odkoupí jím vydané podílové listy nebo investiční akcie.
+>
+> (2) Prohlášení a údaje uvedené v oznámení podle odstavce 1 současně s jejich uveřejněním poskytne administrátor podřízeného fondu rovněž jeho podílníkům a akcionářům.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b0eb45e4b758c38551dc -->
+
 ### § 250 — Práva podílníků nebo akcionářů v souvislosti s oznámením
 
 > **§ 250**
@@ -708,6 +1196,54 @@ Po oznámení o přechodu na podřízený fond má investor 30 dní (či déle, 
 **Typicky rozhodné důkazy / podklady:** datum uveřejnění a obsah oznámení dle § 249, žádost o odkoupení s datem, sazebník/statut (poplatky), kalkulace skutečných nákladů odkupu, doklad o případném prodloužení lhůty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6780cd2ba54b54804875 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 250 — Práva podílníků nebo akcionářů v souvislosti s oznámením o zahájení činnosti jako podřízený fond
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Uveřejněním oznámení podle § 249 odst. 1 vzniká podílníkům a akcionářům tohoto podřízeného fondu právo na odkoupení jím vydaného podílového listu a jím vydané investiční akcie bez srážky; srazit však lze částku odpovídající účelně vynaloženým nákladům spojeným s odkoupením tohoto cenného papíru nebo zaknihovaného cenného papíru.
+>
+> (2) Uplynutím 30 dní ode dne uveřejnění oznámení podle § 249 odst. 1 zaniká právo na odkoupení podle odstavce 1; obhospodařovatel dotčeného podřízeného fondu může určit lhůtu delší, v takovém případě zaniká právo na odkoupení uplynutím této lhůty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 249
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6780cd2ba54b54804875 -->
 
 ### Díl 2 — Dohoda obhospodařovatelů a administrátorů podřízeného fondu a řídícího fondu
 
@@ -773,6 +1309,56 @@ Master-feeder dohoda dle § 251 je obligatorním předpokladem investování pod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5465cb0d997e1acfa416 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 251
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel a administrátor podřízeného fondu a obhospodařovatel a administrátor řídícího fondu se dohodnou na pravidlech jednání mezi nimi.
+>
+> (2) Dohoda podle odstavce 1 se nevyžaduje, mají-li oba fondy téhož obhospodařovatele a téhož administrátora; v takovém případě postačí, upraví-li záležitosti, které by jinak upravovala pravidla jednání mezi obhospodařovateli a administrátory, vnitřní předpis tohoto obhospodařovatele a tohoto administrátora a obhospodařovatel, jakož i administrátor zavede a udržuje postupy pro řízení střetů zájmů mezi řídícím fondem a podřízeným fondem.
+>
+> (3) Administrátor podřízeného fondu poskytne na žádost a bezúplatně podílníkovi a akcionáři podřízeného fondu kopii dohody podle odstavce 1. Stejnou povinnost má i ve vztahu k osobě ve srovnatelném postavení jako podílník nebo akcionář, jedná-li se o podřízený fond, který je zahraničním investičním fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5465cb0d997e1acfa416 -->
+
 ### § 252 — Směna cenných papírů
 
 > **§ 252**
@@ -822,6 +1408,52 @@ Naturální (in-kind) vydávání a odkup CP řídícího fondu je přípustné 
 **Typicky rozhodné důkazy / podklady:** master-feeder dohoda (ujednání o směně), soupis a ocenění převáděných aktiv, statuty fondů, účetní a daňová dokumentace transakce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b7da7005bbf50e2c9cd4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 252
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Umožňuje-li to dohoda podle § 251 odst. 1, lze cenné papíry nebo zaknihované cenné papíry vydávané řídícím fondem vydávat do majetku podřízeného fondu směnou za věci, které má podřízený fond ve svém majetku, a odkupovat cenné papíry nebo zaknihované cenné papíry vydané řídícím fondem od podřízeného fondu směnou za věci, které má řídící fond ve svém majetku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 251
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b7da7005bbf50e2c9cd4 -->
 
 ### § 253 — Peněžitá plnění a zákaz srážek
 
@@ -879,6 +1511,54 @@ Mezi řídícím a podřízeným fondem platí mandatorní zákaz dvojího zpopl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c518c3126af15dd5078a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 253
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Peněžitá plnění získaná v souvislosti s investováním do investičních akcií nebo podílových listů řídícího fondu na účet podřízeného fondu nebo toho, kdo jedná na účet obhospodařovatele podřízeného fondu v souvislosti s obhospodařováním tohoto fondu, jsou příjmem tohoto podřízeného fondu.
+>
+> (2) Obhospodařovatel ani administrátor řídícího fondu nesmí vůči podřízenému fondu tohoto řídícího fondu uplatňovat žádné srážky, přirážky nebo poplatky za nabytí nebo zcizení cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto řídícím fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c518c3126af15dd5078a -->
+
 ### § 254 — Rozhodné právo dohody
 
 > **§ 254**
@@ -930,6 +1610,54 @@ U tuzemské master-feeder struktury je rozhodné právo dohody mandatorně česk
 **Typicky rozhodné důkazy / podklady:** master-feeder dohoda s doložkou volby práva, doklady o domovských státech obou fondů, depozitářská a auditorská dohoda (kontrola akcesority rozhodného práva).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4f4983867baff3e1938a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 254 — Rozhodné právo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Je-li domovským státem podřízeného fondu i řídícího fondu Česká republika, řídí se ujednání stran dohody podle § 251 odst. 1 českým právem.
+>
+> (2) Nejde-li o případ podle odstavce 1, strany dohody podle § 251 odst. 1 si v této dohodě určí, zda se její ujednání řídí právem domovského státu podřízeného fondu nebo řídícího fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 251
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f4983867baff3e1938a -->
 
 ### § 255 — Náležitosti dohody obhospodařovatelů a administrátorů
 
@@ -1061,6 +1789,116 @@ Master-feeder dohoda musí obsahovat všech 23 minimálních náležitostí dle 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5d24fb563be8b5c8f6de generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 255 — Náležitosti dohody
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) V dohodě podle § 251 odst. 1 si strany ujednají alespoň,
+>
+> - a) do jakých cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem může podřízený fond investovat,
+>
+> - b) jaké srážky, přirážky nebo poplatky budou v souvislosti s investováním podřízeného fondu hrazeny z jeho majetku a zda k nim bude uplatňována sleva či vratka,
+>
+> - c) podmínky směny podle [[#§ 252|§ 252]],
+>
+> - d) periodicitu a lhůty pro předávání informací při spolupráci při oceňování majetku a dluhů řídícího fondu a podřízeného fondu, výpočtu aktuální hodnoty cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem a podřízeným fondem a uveřejňování údajů o aktuální hodnotě,
+>
+> - e) pravidla spolupráce při zajištění vydávání a odkupování cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem, včetně zabezpečení plnění pravidel této spolupráce, je-li výkonem této činnosti pověřen jiný,
+>
+> - f) opatření, jimiž se zajistí časový soulad uveřejnění aktuální hodnoty cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem a podřízeným fondem s cílem předcházet cenové arbitráži,
+>
+> - g) způsob určení převodního měnového kurzu v souvislosti s vydáváním a odkupováním cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem, neúčtují-li řídící fond a podřízený fond v téže měně,
+>
+> - h) lhůty pro vydávání a odkupování cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem; a přichází-li to v úvahu, též podmínky, za nichž se za odkoupení cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem poskytne do majetku podřízeného fondu namísto peněžních prostředků odpovídající nepeněžité plnění,
+>
+> - i) pravidla pro vyřizování stížností a reklamací podílníků, akcionářů a osob ve srovnatelném postavení jako podílník nebo akcionář, jedná-li se o řídící fond nebo podřízený fond, který je zahraničním investičním fondem,
+>
+> - j) podmínky, za nichž obhospodařovatel podřízeného fondu a administrátor podřízeného fondu neuplatní zvláštní práva spojená nebo související s cenným papírem nebo zaknihovaným cenným papírem vydávaným řídícím fondem nebo vyplývajících ze statutu řídícího fondu, přichází-li to v úvahu,
+>
+> - k) způsob zajištění spolupráce při vypracování zprávy auditora řídícího fondu a zprávy auditora podřízeného fondu, shoduje-li se účetní období podřízeného fondu s účetním obdobím řídícího fondu, nebo to, jak je zajištěna spolupráce při vypracování zprávy auditora řídícího fondu a zprávy auditora podřízeného fondu a dodatečné zprávy podle § 236 odst. 2, neshoduje-li se účetní období podřízeného fondu s účetním obdobím řídícího fondu,
+>
+> - l) lhůty pro předávání aktuálního statutu, společenské smlouvy a sdělení klíčových informací řídícího fondu a podřízeného fondu, jakož i dokumentů s nimi srovnatelných, jde-li o zahraniční investiční fond, a způsob jejich předávání,
+>
+> - m) lhůty pro předávání informací o pověření jiného výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování řídícího fondu nebo kterou zahrnuje administrace řídícího fondu, a způsob jejich předávání,
+>
+> - n) lhůty pro předávání kopií jejich vnitřních předpisů, zejména předpisů upravujících systém řízení rizik a compliance, a způsob jejich předávání,
+>
+> - o) lhůty pro předávání informací o porušení právních předpisů, statutu nebo srovnatelného dokumentu řídícího fondu, statutu nebo srovnatelného dokumentu podřízeného fondu, a této dohody, a způsob jejich předávání,
+>
+> - p) lhůty pro předávání informací o otevřených pozicích řídícího fondu z finančních derivátů, které umožní podřízenému fondu vypočítat jeho otevřenou pozici z finančních derivátů, a způsob jejich předávání,
+>
+> - q) lhůty pro předávání informací o tom, že vydávání nebo odkupování cenných papírů nebo zaknihovaných cenných papírů vydávaných řídícím fondem nebo podřízeným fondem bylo pozastaveno, a o tom, že bylo obnoveno, a způsob jejich předávání,
+>
+> - r) lhůty pro předávání informací o chybě v ocenění majetku nebo dluhů řídícího fondu, a způsob jejich předávání, jakož i lhůty pro předávání informací o nápravě této chyby a způsob jejich předávání,
+>
+> - s) lhůty pro předávání informací o navrhované změně statutu nebo srovnatelného dokumentu řídícího fondu, jeho společenské smlouvy a jeho sdělení klíčových informací nebo srovnatelného dokumentu, jakož i o tom, že navrhovaná změna nabyla účinnosti, a způsob jejich předávání; toto ujednání se nevyžaduje, odpovídají-li tyto lhůty lhůtám, v nichž jsou tyto informace zpřístupňovány investorům,
+>
+> - t) lhůty pro předávání informací o plánované nebo navrhované přeměně řídícího fondu nebo podřízeného fondu a způsob jejich předávání,
+>
+> - u) lhůty pro předávání informací o tom, že řídící fond nebo podřízený fond přestal nebo přestane splňovat podmínky, které pro řídící fond nebo podřízený fond vyžaduje tento zákon nebo srovnatelná ustanovení práva cizího státu, a způsob jejich předávání,
+>
+> - v) lhůty pro předávání informací o navrhovaných změnách v osobě
+>
+>   - 1. depozitáře řídícího fondu nebo podřízeného fondu,
+>
+>   - 2. auditora řídícího fondu nebo podřízeného fondu,
+>
+>   - 3. obhospodařovatele řídícího fondu nebo podřízeného fondu,
+>
+>   - 4. administrátora řídícího fondu nebo podřízeného fondu,
+>
+>   - 5. toho, kdo byl pověřen výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování řídícího fondu nebo podřízeného fondu, a
+>
+>   - 6. toho, kdo byl pověřen výkonem jednotlivé činnosti, kterou zahrnuje administrace řídícího fondu nebo podřízeného fondu,
+>
+> jakož i o tom, že změna v osobě uvedené v bodech 1 až 6 nabyla účinnosti, a způsob jejich předávání a
+>
+> - w) lhůty pro předávání informací o navrhovaných změnách této dohody a způsob jejich předávání.
+>
+> (2) Dohoda podle § 251 odst. 1 zavazuje obhospodařovatele řídícího fondu bez zbytečného odkladu informovat obhospodařovatele podřízeného fondu, administrátora podřízeného fondu, depozitáře podřízeného fondu a Českou národní banku, popřípadě příslušný orgán dohledu jiného členského státu, o všech informacích vyžadovaných tímto zákonem, právním předpisem jej provádějícím a statutem nebo společenskou smlouvou podřízeného fondu.
+>
+> (3) V dohodě podle § 251 odst. 1 se uvede, jakým právem se její ujednání řídí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 251, § 252, § 236
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d24fb563be8b5c8f6de -->
+
 ### § 256 — Předávání informací depozitáři podřízeného fondu
 
 > **§ 256**
@@ -1110,6 +1948,52 @@ Obhospodařovatel podřízeného fondu musí depozitáři podřízeného fondu b
 **Typicky rozhodné důkazy / podklady:** informace obdržené od řídícího fondu, záznamy o jejich předání depozitáři (a o datu), depozitářská smlouva, master-feeder dohoda, interní směrnice o toku informací.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7a675c0f108af929c7ad generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 256
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Obhospodařovatel podřízeného fondu bez zbytečného odkladu předává depozitáři tohoto podřízeného fondu informace o řídícím fondu, o nichž lze mít rozumně za to, že jsou nutné k řádnému výkonu činnosti depozitáře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a675c0f108af929c7ad -->
 
 ### Díl 3 — Dohoda depozitářů podřízeného a řídícího fondu
 
@@ -1169,6 +2053,56 @@ Při odlišných depozitářích řídícího a podřízeného fondu je depozit�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9b472c500cf39caa088a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 257
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitář podřízeného fondu a depozitář řídícího fondu se dohodnou na pravidlech jednání mezi nimi.
+>
+> (2) Dohoda podle odstavce 1 se nevyžaduje, mají-li oba fondy téhož depozitáře; v takovém případě postačí, upraví-li záležitosti, které by jinak upravovala pravidla jednání mezi depozitáři, vnitřní předpis tohoto depozitáře.
+>
+> (3) Plněním požadavků vyplývajících z dohody podle odstavce 1 není porušena smluvně sjednaná nebo zákonem uložená povinnost mlčenlivosti v oblasti nakládání s důvěrnými informacemi nebo osobními údaji.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b472c500cf39caa088a -->
+
 ### § 258 — Rozhodné právo depozitářské dohody
 
 > **§ 258**
@@ -1220,6 +2154,54 @@ Rozhodné právo depozitářské dohody akcesoricky následuje právo dohody obh
 **Typicky rozhodné důkazy / podklady:** dohoda obhospodařovatelů/administrátorů s doložkou rozhodného práva, depozitářská dohoda, doklady o domovských státech fondů, případně vnitřní předpis dle § 251 odst. 2.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e275c502a44e8694b0f4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 258 — Rozhodné právo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ujednání dohody podle § 257 odst. 1 se řídí právem, jímž se řídí dohoda podle § 251 odst. 1.
+>
+> (2) Upravuje-li záležitosti, které by jinak upravovala pravidla jednání mezi obhospodařovateli a administrátory, vnitřní předpis podle § 251 odst. 2, určí si strany v dohodě podle § 257 odst. 1, zda se její ujednání řídí právem domovského státu podřízeného fondu nebo řídícího fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 257, § 251
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e275c502a44e8694b0f4 -->
 
 ### § 259 — Náležitosti depozitářské dohody
 
@@ -1286,6 +2268,66 @@ Depozitářská dohoda musí obsahovat všechny čtyři okruhy náležitostí dl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4c2acf802a47289e8ff2 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 259 — Náležitosti dohody
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) V dohodě podle § 257 odst. 1 si strany ujednají alespoň
+>
+> - a) způsob vzájemné komunikace, včetně způsobu, jakým se zajišťuje vedení záznamů o této komunikaci, a způsob ochrany důvěrných informací a osobních údajů, kde zejména vymezí
+>
+>   - 1. druhy informací a osobních údajů a dokumentů, které si budou vzájemně poskytovat, a to s uvedením, které druhy informací a osobních údajů a dokumentů si poskytují na žádost a které bez žádosti, a
+>
+>   - 2. lhůty pro vzájemné předávání informací a osobních údajů a způsob jejich předávání,
+>
+> - b) pravidla umožňující depozitáři plnění kontrolních povinností plynoucích z tohoto zákona,
+>
+> - c) druhy porušení povinností obhospodařovatele nebo administrátora řídícího fondu, o nichž informuje depozitář řídícího fondu depozitáře podřízeného fondu, jakož i lhůty pro předávání těchto informací a způsob jejich předávání, a
+>
+> - d) krizové události, které si oznamují, lhůty pro vzájemné předávání informací týkajících se krizových událostí a způsob jejich předávání.
+>
+> (2) V dohodě podle § 257 odst. 1 se uvede, jakým právem se její ujednání řídí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 257
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c2acf802a47289e8ff2 -->
+
 ### § 260 — Informační povinnosti depozitáře řídícího fondu
 
 > **§ 260**
@@ -1350,6 +2392,64 @@ Depozitář řídícího fondu má přímou zákonnou povinnost bez zbytečného
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7bb10fcb3c15e17c4b56 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 260
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Dohoda podle § 257 odst. 1 zavazuje depozitáře řídícího fondu bez zbytečného odkladu informovat obhospodařovatele podřízeného fondu, depozitáře podřízeného fondu a Českou národní banku, popřípadě příslušný orgán dohledu jiného členského státu, o tom, že obhospodařovatel řídícího fondu, jehož je depozitářem, porušil povinnost plynoucí mu z tohoto zákona, právního předpisu jej provádějícího, statutu nebo depozitářské smlouvy nebo o situaci, která by mohla mít negativní vliv na obhospodařování podřízeného fondu.
+>
+> (2) Depozitář řídícího fondu informuje depozitáře podřízeného fondu zejména v případech, kdy zjistí
+>
+> - a) chyby v ocenění majetku a dluhů řídícího fondu,
+>
+> - b) chyby ve směně nebo odkoupení podílových listů nebo investičních akcií nebo chyby v žádostech podaných podřízeným fondem týkajících se odkoupení nebo zcizování podílových listů či investičních akcií vydaných řídícím fondem,
+>
+> - c) chyby ve výplatě podílu na výnosu hospodaření s majetkem v řídícím fondu, v promítnutí částky, která by jinak odpovídala vyplacenému podílu na výnosu z hospodaření s majetkem v řídícím fondu v aktuální hodnotě jím vydávaných podílových listů nebo investičních akcií, nebo ve výpočtu související srážkové daně,
+>
+> - d) porušení investiční strategie řídícího fondu, nebo
+>
+> - e) porušení investičních limitů a limitů na přijímání a poskytování úvěrů a zápůjček.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 257
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7bb10fcb3c15e17c4b56 -->
+
 ### Díl 4 — Dohoda auditorů podřízeného a řídícího fondu
 
 ### § 261 — Základní povinnost auditorů uzavřít dohodu
@@ -1408,6 +2508,56 @@ Při odlišných auditorech řídícího a podřízeného fondu je auditorská d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6728408b07fbff79b7b5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 261
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Auditor podřízeného fondu a auditor řídícího fondu se dohodnou na pravidlech jednání mezi nimi.
+>
+> (2) Dohoda podle odstavce 1 se nevyžaduje, mají-li oba fondy téhož auditora; v takovém případě postačí, upraví-li záležitosti, které by jinak upravovala pravidla jednání mezi auditory, vnitřní předpis tohoto auditora.
+>
+> (3) Plněním požadavků vyplývajících z dohody podle odstavce 1 není porušena smluvně sjednaná nebo zákonem uložená povinnost mlčenlivosti v oblasti nakládání s důvěrnými informacemi nebo osobními údaji.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6728408b07fbff79b7b5 -->
+
 ### § 262 — Rozhodné právo auditorské dohody
 
 > **§ 262**
@@ -1457,6 +2607,54 @@ Rozhodné právo auditorské dohody akcesoricky následuje právo dohody obhospo
 **Typicky rozhodné důkazy / podklady:** dohoda obhospodařovatelů/administrátorů s doložkou rozhodného práva, auditorská dohoda, doklady o domovských státech fondů, případně vnitřní předpis dle § 251 odst. 2.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cdf5e431e817e400f94e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 262 — Rozhodné právo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ujednání dohody podle § 261 odst. 1 se řídí právem státu, jímž se řídí dohoda podle § 251 odst. 1.
+>
+> (2) Upravuje-li záležitosti, které by jinak upravovala pravidla jednání mezi obhospodařovateli a administrátory, vnitřní předpis podle § 251 odst. 2, určí si strany v dohodě podle § 261 odst. 1, zda se její ujednání řídí právem domovského státu podřízeného fondu nebo řídícího fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 261, § 251
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdf5e431e817e400f94e -->
 
 ### § 263 — Náležitosti auditorské dohody
 
@@ -1521,6 +2719,64 @@ Auditorská dohoda musí obsahovat všech pět okruhů náležitostí dle § 263
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef97520450b6f0885967 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 263 — Náležitosti dohody
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) V dohodě podle § 261 odst. 1 si strany ujednají alespoň
+>
+> - a) druhy informací a dokumentů, které si budou vzájemně poskytovat, a to s uvedením, které druhy informací a dokumentů si poskytují na žádost a které bez žádosti,
+>
+> - b) lhůty pro vzájemné předávání informací a dokumentů a způsob jejich předávání,
+>
+> - c) jak je zajištěna koordinace vypracování zprávy auditora řídícího fondu a zprávy auditora podřízeného fondu, včetně lhůt pro poskytnutí zprávy auditora řídícího fondu a způsobu jejího poskytnutí, shoduje-li se účetní období podřízeného fondu s účetním obdobím řídícího fondu, nebo to, jak je zajištěna spolupráce při vypracování zprávy auditora řídícího fondu a zprávy auditora podřízeného fondu a dodatečné zprávy podle § 236 odst. 2, včetně lhůt pro poskytnutí zprávy auditora dodatečné zprávy podle § 236 odst. 2 nebo návrhu této dodatečné zprávy a způsobu jejího poskytnutí, neshoduje-li se účetní období podřízeného fondu s účetním obdobím řídícího fondu,
+>
+> - d) jaké zjištění nebo druhy zjištění uvedené ve zprávě auditora mohou být považovány za nesrovnalost a
+>
+> - e) lhůtu pro vyřízení žádostí o spolupráci podané jedním auditorem druhému, včetně žádostí o dodatečné informace týkající se nesrovnalosti uvedené ve zprávě auditora řídícího fondu.
+>
+> (2) V dohodě podle § 261 odst. 1 se uvede, jakým právem se její ujednání řídí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 261, § 236
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef97520450b6f0885967 -->
+
 ### Díl 5 — Zvláštní informační povinnosti České národní banky vůči obhospodařovateli podřízeného investičního fondu
 
 ### § 264 — Informační povinnosti ČNB
@@ -1580,6 +2836,52 @@ Tato povinnost je jednostranná — zákon ji ukládá ČNB, nikoliv obhospodař
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ČNB o pokutě/opatření vůči obhospodařovateli a depozitáři řídícího fondu, rozhodnutí Komory auditorů ČR o kárném opatření, doklad o informování obhospodařovatele podřízeného fondu, dokumentace master-feeder struktury.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2cd407e08d314f81d034 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 264
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Česká národní banka informuje obhospodařovatele podřízeného fondu, který je fondem kolektivního investování, o každém zjištěném porušení povinností obhospodařovatele řídícího fondu, o každé uložené pokutě, opatření k nápravě nebo jiném opatření podle tohoto nebo jiného právního předpisu, které uložila obhospodařovateli řídícího fondu, depozitáři řídícího fondu, a to s uvedením důvodu uložení tohoto opatření nebo pokuty, a dále o každém uloženém kárném opatření, které auditorovi řídícího fondu udělila Komora auditorů České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2cd407e08d314f81d034 -->
 
 ## Hlava V — Oceňování nemovitostí
 
@@ -1648,6 +2950,62 @@ Každou nemovitost je třeba před nabytím či prodejem ocenit dvěma nezávisl
 **Typicky rozhodné důkazy / podklady:** oba znalecké posudky / ocenění členů výboru, doklady o nezávislosti znalců (pracovní/koncernové vazby, podíl ve fondu), statut fondu, dokumentace transakce, doklad o účasti fondu v nemovitostní společnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d4bd9102175925398f2e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 266
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Nemovitost, kterou hodlá obhospodařovatel fondu kolektivního investování nabýt do majetku tohoto fondu nebo prodat z majetku tohoto fondu, ocení 2 osoby, které jsou členem výboru odborníků obhospodařovatele dotčeného fondu, nebo nezávislým znalcem v oboru oceňování nemovitostí podle [[zákona upravujícího znalce|zákona upravujícího znalce]]. Znalce vybírá obhospodařovatel.
+>
+> (2) Má se za to, že znalec je ve vztahu k fondu kolektivního investování, který investuje do nemovitostí a účastí v nemovitostní společnosti, nezávislý, není-li
+>
+> - a) vedoucí osobou nebo pracovníkem obhospodařovatele tohoto fondu,
+>
+> - b) vedoucí osobou nebo pracovníkem nemovitostní společnosti, ve které má tento fond účast,
+>
+> - c) vedoucí osobou nebo pracovníkem osoby, která je členem koncernu, jehož členem je obhospodařovatel tohoto fondu, nebo
+>
+> - d) podílníkem nebo akcionářem tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4bd9102175925398f2e -->
 
 ### § 267 — Posudek znalce nebo člena výboru odborníků
 
@@ -1727,6 +3085,76 @@ Posudek musí být ke dni vkladu vlastnického práva ne starší než 6 měsíc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aaa53e91438727079a65 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 267 — Posudek znalce nebo člena výboru odborníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ke dni nabytí nebo pozbytí vlastnického práva k nemovitosti nesmí uplynout více než 6 měsíců ode dne, ke kterému byl vyhotoven posudek znalce nebo člena výboru odborníků podle odstavce 2.
+>
+> (2) Posudek znalce nebo člena výboru odborníků zahrnuje
+>
+> - a) údaje nutné k identifikaci nemovitosti,
+>
+> - b) cenu nemovitosti určenou znalcem nebo členem výboru odborníků,
+>
+> - c) způsob současného využití nemovitosti a stupeň jejího obsazení,
+>
+> - d) stručný popis nemovitosti,
+>
+> - e) popis závad nemovitosti,
+>
+> - f) základní informace o absolutních a relativních majetkových právech vztahujících se k nemovitosti,
+>
+> - g) technický stav nemovitosti,
+>
+> - h) poslední známý i odhadovaný budoucí čistý zisk z nemovitosti, s uvedením budoucího využití nemovitosti,
+>
+> - i) popis trvalých nebo dlouhodobě udržitelných vlastností,
+>
+> - j) popis místních podmínek trhu s nemovitostmi a jeho předpokládaný vývoj a
+>
+> - k) další podstatné informace, které mohou mít vliv na cenu nemovitosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aaa53e91438727079a65 -->
+
 ### § 268 — Výbor odborníků
 
 > **§ 268**
@@ -1794,6 +3222,58 @@ Výbor odborníků musí mít lichý počet (min. 3) způsobilých členů s fun
 **Typicky rozhodné důkazy / podklady:** zřizovací a jmenovací dokumenty výboru, doklady o délce funkčního období členů, doklady o kvalifikaci a zkušenostech členů, doklady o nezávislosti (§ 271/§ 266 odst. 2), statut fondu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e39b9ae013fbe502e1be generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 268 — Výbor odborníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel fondu kolektivního investování, který podle svého statutu investuje do nemovitostí nebo účastí v nemovitostní společnosti, zřizuje jako svůj orgán výbor odborníků.
+>
+> (2) Výbor odborníků má alespoň 3 členy, počet jeho členů je lichý a jeho členy jmenuje a odvolává obhospodařovatel.
+>
+> (3) Celkové funkční období jednotlivého člena výboru odborníků nesmí být delší než 3 roky, přičemž tutéž osobu lze do výboru odborníků téhož fondu kolektivního investování jmenovat nejdříve po uplynutí 3 let ode dne skončení jejího předchozího členství.
+>
+> (4) Členem výboru odborníků může být pouze člověk, který je nezávislý, důvěryhodný a odborně způsobilý a má zkušenosti s určováním hodnoty nemovitostí. Kdo uvedené podmínky nesplňuje nebo na jehož straně je dána překážka výkonu funkce, se členem výboru odborníků nestane, i když o tom rozhodl obhospodařovatel. Přestane-li člen výboru odborníků tyto podmínky splňovat, jeho funkce zaniká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e39b9ae013fbe502e1be -->
 
 ### § 269 — Působnost výboru odborníků
 
@@ -1865,6 +3345,62 @@ Výbor odborníků plní čtyři funkce, z nichž ocenění nemovitostí i úča
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=447fde213deb85ca6771 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 269 — Působnost výboru odborníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Výbor odborníků
+>
+> - a) sleduje stav, využití a další skutečnosti, které mohou mít vliv na hodnotu nemovitosti v majetku fondu kolektivního investování a nemovitosti v majetku nemovitostní společnosti, v níž má tento fond účast,
+>
+> - b) posuzuje ocenění nemovitosti v majetku tohoto fondu nebo nemovitostní společnosti, v níž má tento fond účast, před učiněním právního jednání, pro které se ocenění provádí,
+>
+> - c) určuje alespoň dvakrát ročně pro účely určení aktuální hodnoty podílového listu nebo investiční akcie hodnotu nemovitosti v majetku tohoto fondu a nemovitosti v majetku nemovitostní společnosti, v níž má tento fond účast, a
+>
+> - d) zabezpečuje alespoň dvakrát ročně pro účely určení aktuální hodnoty podílového listu nebo investiční akcie určení hodnoty účasti tohoto fondu v nemovitostní společnosti.
+>
+> (2) Člen výboru odborníků vykonává svou funkci s odbornou péčí, postupuje při výkonu své funkce řádně a obezřetně a odpovídá obhospodařovateli a akcionářům nebo podílníkům dotčeného fondu kolektivního investování za újmu, kterou způsobil porušením svých povinností nebo neodborným výkonem své funkce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=447fde213deb85ca6771 -->
+
 ### § 270 — Postup výboru odborníků
 
 > **§ 270**
@@ -1921,6 +3457,54 @@ Výbor odborníků vychází z pořizovací ceny nebo posledního posudku a prů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0e1939bef0bf618802a8 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 270 — Postup výboru odborníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro sledování a určení hodnoty nemovitosti v majetku fondu kolektivního investování nebo v majetku nemovitostní společnosti, v níž má tento fond účast, vychází výbor odborníků z pořizovací ceny nebo posledního posudku znalce nebo člena výboru odborníků.
+>
+> (2) Výbor odborníků může v odůvodněných případech doporučit obhospodařovateli fondu kolektivního investování, aby zajistil nové ocenění nemovitosti jedním nezávislým znalcem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0e1939bef0bf618802a8 -->
+
 ### § 271 — Nezávislost člena výboru odborníků
 
 > **§ 271**
@@ -1970,6 +3554,52 @@ Na nezávislost člena výboru odborníků se kladou stejné požadavky jako na 
 **Typicky rozhodné důkazy / podklady:** jmenovací akt člena výboru, výpisy z obchodního rejstříku (funkce a vazby), doklady o koncernovém propojení, evidence podílníků/akcionářů fondu, zápisy výboru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=37989da6709bc8b5fe6e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 271 — Nezávislost člena výboru odborníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Má se za to, že člen výboru odborníků je ve vztahu k fondu kolektivního investování, který investuje do nemovitostí a účastí v nemovitostní společnosti, nezávislý, splní-li obdobně předpoklady podle § 266 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 266
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=37989da6709bc8b5fe6e -->
 
 ## Souhrnné poznámky k části sedmé (B)
 

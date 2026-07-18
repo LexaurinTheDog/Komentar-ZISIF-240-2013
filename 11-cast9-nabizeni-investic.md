@@ -70,6 +70,58 @@ Definici nabízení čti funkčně: zachytí každou aktivitu směřující k na
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e7e15af60ab4fb02693b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 294 — Nabízení investic
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Nabízením investic do investičního fondu nebo do zahraničního investičního fondu je
+>
+> - a) nabízení podílových listů nebo srovnatelných cenných papírů nebo zaknihovaných cenných papírů vydaných podle práva cizího státu nebo účastnických cenných papírů vydávaných investičním fondem nebo zahraničním investičním fondem, nebo
+>
+> - b) nabízení jiné možnosti stát se podílníkem, obmyšleným, zakladatelem, společníkem nebo tichým společníkem investičního fondu nebo zahraničního investičního fondu nebo v případě svěřenského fondu nebo srovnatelného zařízení také osobou, která zvyšuje majetek tohoto fondu smlouvou.
+>
+> (2) Nabízení investic podle odstavce 1 zahrnuje i nabízení investic vztahujících se k podfondu investičního fondu nebo srovnatelnému zařízení zahraničního investičního fondu. Ustanovení upravující nabízení investic do investičního fondu nebo do zahraničního investičního fondu se pro nabízení investic vztahujících se k jeho podfondu nebo srovnatelnému zařízení použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e7e15af60ab4fb02693b -->
+
 ### § 295 — Rozhodnutí investora z vlastního podnětu
 
 > **§ 295**
@@ -126,6 +178,52 @@ Reverse solicitation je úzká výjimka: chrání jen úpisy iniciované skuteč
 **Typicky rozhodné důkazy / podklady:** časová osa veškeré komunikace, obsah případných prezentací, distribuční smlouvy, doklad o tom, kdo inicioval konkrétní úpis, interní záznamy správce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d5e65505f4fb4ba00c99 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 295 — Rozhodnutí investora z vlastního podnětu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> O nabízení investic podle § 294 odst. 1 se nejedná, činí-li investor rozhodnutí nabýt cenný papír nebo zaknihovaný cenný papír vydaný investičním fondem nebo zahraničním investičním fondem nebo stát se jinak podílníkem, obmyšleným, zakladatelem, společníkem nebo tichým společníkem investičního fondu nebo zahraničního investičního fondu nebo v případě svěřenského fondu nebo srovnatelného zařízení také osobou, která zvyšuje majetek tohoto fondu smlouvou, z vlastního podnětu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 294
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d5e65505f4fb4ba00c99 -->
 
 ### § 295a — Nabízení veřejně a jinak než veřejně
 
@@ -187,6 +285,54 @@ Veřejné nabízení vyžaduje zápis fondu do příslušného seznamu ČNB (s v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f10f07b2d3ac0986f050 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 295a — Nabízení veřejně a jinak než veřejně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do investičního fondu nebo do zahraničního investičního fondu lze v České republice veřejně nabízet jen za podmínek stanovených tímto zákonem a jen tehdy, je-li tento fond zapsán v příslušném seznamu vedeném Českou národní bankou; tím není dotčen § 305 odst. 1 a [[#§ 325a|§ 325a]].
+>
+> (2) Nabízet v České republice investice do investičního fondu nebo do zahraničního investičního fondu těm, kdo nejsou kvalifikovanými investory, jinak než veřejně (private placement) lze jen tehdy, jestliže takové investice v České republice lze nabízet veřejně, nebo počet těchto osob nepřevyšuje 20.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 305, § 325a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f10f07b2d3ac0986f050 -->
+
 ### § 296 — Nabízení investic do fondů kvalifikovaných investorů a do srovnatelných zahraničních investičních fondů
 
 > **§ 296**
@@ -240,6 +386,52 @@ FKI lze veřejně propagovat, ale investovat smí jen kvalifikovaný investor a 
 **Typicky rozhodné důkazy / podklady:** znění veškeré propagace, doklady o statusu kvalifikovaného investora u jednotlivých upisovatelů (prohlášení, doložení prahu), statut FKI, interní distribuční pravidla.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ab1b17a9019241974d66 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 296 — Nabízení investic do fondů kvalifikovaných investorů a do srovnatelných zahraničních investičních fondů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Investice do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu lze v České republice veřejně nabízet, podílníkem, obmyšleným, zakladatelem, společníkem nebo tichým společníkem tohoto fondu nebo v případě svěřenského fondu nebo srovnatelného zařízení také osobou, která zvyšuje majetek tohoto fondu smlouvou, se však může stát jen kvalifikovaný investor; na to musí být při veřejném nabízení výslovně upozorněno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ab1b17a9019241974d66 -->
 
 ### § 297 — Nabízení investic do zahraničních investičních fondů srovnatelných se speciálním fondem
 
@@ -305,6 +497,62 @@ Veřejné nabízení zahraničního fondu srovnatelného se speciálním fondem 
 **Typicky rozhodné důkazy / podklady:** statut a regulatorní dokumentace fondu, doklad o AIFMD povolení správce, podaná žádost a rozhodnutí ČNB, dohoda o zajištění facility dle § 306.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bccaffd394907e259229 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 297 — Nabízení investic do zahraničních investičních fondů srovnatelných se speciálním fondem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu srovnatelného se speciálním fondem lze v České republice veřejně nabízet jiným než kvalifikovaným investorům jen tehdy, jestliže je obhospodařovatel tohoto fondu oprávněn přesáhnout rozhodný limit na základě povolení uděleného Českou národní bankou nebo na základě povolení uděleného orgánem dohledu jiného členského státu v souladu s požadavky stanovenými v čl. 6 až 8 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5), je splněna povinnost stanovená v § 306 odst. 1 a Česká národní banka vydá rozhodnutí podle odstavce 3. Pro splnění povinnosti stanovené v § 306 odst. 1 se v tomto případě § 306 odst. 2 použije obdobně.
+>
+> (2) Není-li obhospodařovatel fondu podle odstavce 1 oprávněn přesáhnout rozhodný limit, nebo nerozhodla-li Česká národní banka podle odstavce 3, použije se pro nabízení investic podle odstavce 1 [[#§ 296|§ 296]] obdobně.
+>
+> (3) O tom, že je zahraniční investiční fond srovnatelný se speciálním fondem, rozhodne Česká národní banka do 20 pracovních dnů ode dne předložení žádosti, která má předepsané náležitosti a ani netrpí jinými vadami.
+>
+> (4) Žádost podle odstavce 3 lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání.
+>
+> (5) Obhospodařovatel zahraničního investičního fondu srovnatelného se speciálním fondem elektronicky informuje bez zbytečného odkladu Českou národní banku o změně okolností, na základě kterých bylo vydáno rozhodnutí podle odstavce 3.
+>
+> (6) Česká národní banka zruší rozhodnutí podle odstavce 3, jestliže zahraniční investiční fond přestane být srovnatelný se speciálním fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 306, § 296
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bccaffd394907e259229 -->
 
 ### § 297a — Předběžné nabízení investic
 
@@ -378,6 +626,62 @@ Pre-marketing je úzce vymezený nástroj testování zájmu profesionálních z
 **Typicky rozhodné důkazy / podklady:** rozesílané pre-marketingové materiály, seznam a kvalifikace adresátů, doklad o povolení správce, záznamy o průběhu pre-marketingu, doklad o (ne)podání žádosti o nabízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a7d1cc899a531b98a1f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 297a — Předběžné nabízení investic
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Předběžným nabízením investic je činnost obhospodařovatele oprávněného přesáhnout rozhodný limit se sídlem v členském státě nebo jeho zástupce spočívající v poskytování informací o investičních strategiích nebo investičních představách osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] [[zákona o podnikání na kapitálovém trhu|zákona o podnikání na kapitálovém trhu]] a osobám, které jsou podle [[zákona o podnikání na kapitálovém trhu|zákona o podnikání na kapitálovém trhu]] nebo podle práva jiného členského státu považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem s bydlištěm nebo sídlem v členském státě, jejímž cílem je prověřit zájem těchto osob o speciální fond, fond kvalifikovaných investorů nebo o srovnatelný zahraniční investiční fond, jehož domovským státem je členský stát, nebo o jeho podfond nebo srovnatelné zahraniční zařízení, jestliže
+>
+> - a) tento fond nebo jeho podfond nebyl dosud vytvořen, nebo
+>
+> - b) tento fond nebo jeho podfond byl vytvořen, ale ve vztahu k nabízení investic do tohoto fondu nebo podfondu
+>
+> - 1. nebyla podána žádost o zápis do seznamu podle [[#§ 309|§ 309]], nebylo učiněno oznámení podle § 312 odst. 1 ani obhospodařovatel tohoto fondu neobdržel sdělení orgánu dohledu jiného členského státu, ve kterém má sídlo, srovnatelné se sdělením České národní banky podle § 313 odst. 3, jde-li o nabízení investorům s bydlištěm nebo sídlem v České republice, nebo
+>
+> - 2. nebylo učiněno oznámení podle § 312 odst. 1 nebo srovnatelné oznámení podle práva jiného členského státu, jde-li o nabízení investorům s bydlištěm nebo sídlem v tomto jiném členském státě.
+>
+> (2) O předběžné nabízení investic podle odstavce 1 se nejedná, pokud je tato činnost nabízením investic do investičního fondu nebo do zahraničního investičního fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2a, § 309, § 312, § 313
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a7d1cc899a531b98a1f -->
 
 ### § 297b — Podmínky výkonu předběžného nabízení investic
 
@@ -474,6 +778,84 @@ Pre-marketing je přípustný jen v úzkých informačních mezích: žádné up
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=84ea4ccf9286d9063026 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 297b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Předběžné nabízení investic lze v České republice vykonávat, pokud informace sdělené potenciálním investorům
+>
+> - a) nejsou dostatečné k tomu, aby investorům umožnily zavázat se k nabytí podílů na konkrétním investičním fondu,
+>
+> - b) nepředstavují upisovací formuláře nebo podobné dokumenty ve formě návrhu nebo v konečné podobě nebo
+>
+> - c) nepředstavují statut, společenskou smlouvu, sdělení klíčových informací, prospekt nebo obdobné dokumenty v konečné podobě, které se vyhotovují při vzniku investičního fondu či při nabízení investičního fondu, který nebyl dosud zřízen.
+>
+> (2) Je-li v rámci předběžného nabízení podle odstavce 1 poskytnut návrh prospektu nebo dokumentů souvisejících s nabízením investičního fondu, nesmí takový dokument obsahovat informace, které by ve svém souhrnu umožnily investorům učinit investiční rozhodnutí, a musí jasně stanovit, že
+>
+> - a) nepředstavuje nabídku ani výzvu k upisování podílů na investičním fondu a
+>
+> - b) nelze na informace, které jsou v něm obsažené, spoléhat, neboť jsou neúplné a mohou podléhat změně.
+>
+> (3) Obhospodařovatel oprávněný přesáhnout rozhodný limit nemusí oznámit České národní bance obsah ani adresáty předběžného nabízení ani splnit před vykonáním předběžného nabízení jakékoli další podmínky nebo požadavky kromě těch, které jsou uvedeny v odstavcích 1, [[#§ 2|2]] a 4 až 8 a v [[#§ 297c|§ 297c]].
+>
+> (4) Obhospodařovatel zajistí, aby investoři nenabývali podíly v investičním fondu prostřednictvím předběžného nabízení a aby investoři kontaktovaní v rámci předběžného nabízení mohli získat podíly v daném investičním fondu pouze v rámci nabízení investic podle tohoto zákona.
+>
+> (5) Upsání cenných papírů a zaknihovaných cenných papírů investorům vydávaných fondem podle odstavce 1, který je uvedený v informacích poskytnutých v souvislosti s předběžným nabízením nebo zřízeného na základě předběžného nabízení ve lhůtě 18 měsíců poté, co obhospodařovatel zahájil předběžné nabízení, se považuje za výsledek nabízení a ustanovení tohoto zákona o oznamování nabízení investic do těchto fondů se použijí obdobně.
+>
+> (6) Třetí osoba smí předběžně nabízet investice jménem obhospodařovatele na účet investičního fondu, pokud
+>
+> - a) má povolení k činnosti obchodníka s cennými papíry nebo evropského obchodníka s cennými papíry,
+>
+> - b) má povolení k obhospodařování investičního fondu nebo zahraničního investičního fondu,
+>
+> - c) tak činí jako banka nebo zahraniční banka, nebo
+>
+> - d) tak činí jako vázaný zástupce osoby podle písmena a), b) nebo c).
+>
+> (7) Pro třetí osobu předběžně nabízející investice podle odstavce 6 se odstavce 1 až 5 a [[#§ 8|8]] a [[#§ 297c|§ 297c]] použijí obdobně.
+>
+> (8) Obhospodařovatel investičního fondu podle odstavce 1 vede o průběhu předběžného nabízení záznamy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 297c, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84ea4ccf9286d9063026 -->
+
 ### § 297c — Oznamovací povinnost při zahájení předběžného nabízení
 
 > **§ 297c**
@@ -538,6 +920,64 @@ Zahájení pre-marketingu se oznamuje ČNB do 2 týdnů (ex post), s předepsan�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f1dccdbfaf99de92194f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 297c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel do 2 týdnů poté, co zahájil předběžné nabízení investic v České republice nebo v členském státě, tuto skutečnost písemně oznámí České národní bance.
+>
+> (2) V oznámení podle odstavce 1 uvede obhospodařovatel
+>
+> - a) údaje o tom, ve kterých členských státech je nebo bylo předběžné nabízení investic vykonáváno a po jakou dobu,
+>
+> - b) stručný popis předběžného nabízení investic včetně informací o představených investičních strategiích či představ o investování a
+>
+> - c) seznam investičních fondů a jejich podfondů, jež jsou nebo byly předmětem předběžného nabízení investic.
+>
+> (3) Česká národní banka neprodleně informuje o oznámení podle odstavce 1 orgány dohledu členských států, v nichž obhospodařovatel vykonává nebo vykonával předběžné nabízení investic.
+>
+> (4) Na žádost orgánu dohledu jiného členského státu, v němž obhospodařovatel vykonává nebo vykonával předběžné nabízení investic, sdělí Česká národní banka další informace týkající se předběžného nabízení investic na území tohoto jiného členského státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f1dccdbfaf99de92194f -->
+
 ### § 298 — Vztah k právu Evropské unie
 
 > **§ 298**
@@ -597,6 +1037,56 @@ U fondů s evropskou značkou (EuVECA, EuSEF, ELTIF) se nabízení řídí prim�
 **Typicky rozhodné důkazy / podklady:** doklad o registraci fondu jako EuVECA/EuSEF/ELTIF, statut a marketingové materiály, doklad o okruhu investorů, analýza delimitace nařízení vs. ZISIF.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8f9829c85e13c5de477d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 298 — Vztah k právu Evropské unie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Nabízení investic do kvalifikovaného fondu rizikového kapitálu uvedeného v článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění vymezuje přímo použitelný předpis Evropské unie upravující evropské fondy rizikového kapitálu7).
+>
+> (2) Nabízení investic do kvalifikovaného fondu sociálního podnikání uvedeného v článku 3 písm. b) nařízení Evropského parlamentu a Rady (EU) č. [[346/2013|346/2013]], v platném znění vymezuje přímo použitelný předpis Evropské unie upravující evropské fondy sociálního podnikání9).
+>
+> (3) Nabízení investic do evropského fondu dlouhodobých investic vymezuje přímo použitelný předpis Evropské unie upravující evropské fondy dlouhodobých investic18).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8f9829c85e13c5de477d -->
 
 ### § 299 — Fikce zahraničního fondu třetí země pro účely nabízení
 
@@ -658,6 +1148,60 @@ EU fond s expozicí ≥ 85 % do fondů třetích zemí (nebo do fondů non-EU sp
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bff33f26e3a7b3215b54 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 299
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Speciální fond, fond kvalifikovaných investorů nebo srovnatelný zahraniční investiční fond, jehož domovským státem je členský stát, který obhospodařuje obhospodařovatel oprávněný přesáhnout rozhodný limit se sídlem v členském státě, se pro účely nabízení investic do tohoto fondu považuje za zahraniční investiční fond, jehož domovským státem není členský stát, jestliže podle svého statutu nebo srovnatelného dokumentu
+>
+> - a) investuje alespoň 85 % hodnoty svého majetku do zahraničního investičního fondu, jehož domovským státem není členský stát,
+>
+> - b) investuje alespoň 85 % hodnoty svého majetku do investičního fondu nebo zahraničního investičního fondu, který není obhospodařován obhospodařovatelem se sídlem v členském státě,
+>
+> - c) investuje alespoň 85 % hodnoty svého majetku do více zahraničních investičních fondů uvedených v písmenech a) nebo b) nebo investičních fondů uvedených v písmeni b), které mají vzájemně stejnou investiční strategii, nebo
+>
+> - d) může mít expozici až ve výši 85 % svého majetku ve vztahu k zahraničnímu investičnímu fondu uvedenému v písmenech a) nebo b) nebo investičnímu fondu uvedenému v písmeni b) anebo ve vztahu k více takovým fondům, které mají vzájemně stejnou investiční strategii.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bff33f26e3a7b3215b54 -->
+
 ## Hlava II — Nabízení investic do investičního fondu nebo do zahraničního investičního fondu, jehož domovským státem je členský stát (§§ 300–317)
 
 ### Díl 1 — V případě obhospodařovatele, jehož domovským státem je členský stát
@@ -718,6 +1262,54 @@ Veřejné nabízení standardního fondu v ČR vyžaduje kumulativně zápis fon
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1bb5237b4b1e185639ef generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 300 — Veřejné nabízení investic do standardního fondu v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do standardního fondu lze v České republice veřejně nabízet, je-li tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. a) nebo b).
+>
+> (2) Zakazuje se veřejně nabízet v České republice investice do standardního fondu, není-li obhospodařován osobou s povolením uděleným Českou národní bankou opravňujícím ji obhospodařovat standardní fondy nebo orgánem dohledu jiného členského státu opravňujícím ji obhospodařovat zahraniční investiční fondy srovnatelné se standardním fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1bb5237b4b1e185639ef -->
+
 ### § 301 — Veřejné nabízení investic do standardního fondu v jiném členském státě
 
 > **§ 301**
@@ -771,6 +1363,54 @@ Odst. 2 zajišťuje uniformitu dokumentace: sdělení klíčových informací (K
 **Typicky rozhodné důkazy / podklady:** sdělení ČNB dle § 303 odst. 3, srovnání českého a cizojazyčného KID, doklad o povaze změn (překlad vs. dodatek), datum zahájení nabízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e42ed7bbe617d2e62125 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 301
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do standardního fondu lze v jiném členském státě veřejně nabízet ode dne, kdy obhospodařovatel tohoto fondu obdrží sdělení České národní banky podle § 303 odst. 3.
+>
+> (2) Jsou-li investice do standardního fondu veřejně nabízeny v jiném členském státě, musí být sdělení klíčových informací v tomto členském státě uveřejňováno a poskytováno za stejných podmínek jako v České republice. Jiné změny sdělení klíčových informací, než je překlad, anebo jeho dodatky, nejsou dovoleny. Ustanovení § 229 odst. 2 se použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 303, § 229
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e42ed7bbe617d2e62125 -->
 
 ### § 302 — Oznamovací povinnost při zahájení nabízení standardního fondu v jiném členském státě
 
@@ -852,6 +1492,80 @@ Oznámení dle § 302 se podává ČNB v angličtině s přílohami v předepsan
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=21d548f6bfe085d784cc generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 302
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Mají-li být investice do standardního fondu veřejně nabízeny v jiném členském státě, oznámí to obhospodařovatel tohoto fondu předem České národní bance. Oznámení podle věty první se České národní bance zasílá v anglickém jazyce.
+>
+> (2) Náležitosti oznámení podle odstavce 1 vymezuje článek 1 a příloha I nařízení Komise (EU) č. [[584/2010|584/2010]]. Oznámení podle odstavce 1 obsahuje také potřebné údaje, včetně adresy pro doručování ve věci peněžitých plnění uložených orgánem jiného členského státu, ve kterém mají být investice veřejně nabízeny, a informací o způsobu plnění úkolů podle [[#§ 306|§ 306]].
+>
+> (3) K oznámení podle odstavce 1 obhospodařovatel dotčeného standardního fondu přiloží překlad
+>
+>   - a) aktuálního sdělení klíčových informací tohoto fondu,
+>
+>   - b) aktuálního statutu tohoto fondu,
+>
+>   - c) aktuální výroční zprávy tohoto fondu a
+>
+>   - d) popřípadě aktuální pololetní zprávy tohoto fondu, byla-li vyhotovena po vyhotovení aktuální výroční zprávy podle písmene c).
+>
+> (4) Sdělení podle odstavce 3 písm. a) musí být přiloženo s překladem do jazyka, ve kterém lze předkládat dokumenty orgánu dohledu jiného členského státu, ve kterém mají být investice veřejně nabízeny.
+>
+> (5) Dokumenty podle odstavce 3 písm. b) až d) lze, podle uvážení obhospodařovatele dotčeného standardního fondu, přiložit s překladem do
+>
+>   - a) jazyka, ve kterém lze předkládat dokumenty orgánu dohledu jiného členského státu, ve kterém mají být investice veřejně nabízeny, nebo
+>
+>   - b) anglického jazyka.
+>
+> (6) Podle uvážení obhospodařovatele dotčeného standardního fondu může být překlad podle odstavců 4 a [[#§ 5|5]] úředně ověřen. Za správnost a úplnost překladu podle odstavců 4 a [[#§ 5|5]] odpovídá obhospodařovatel dotčeného standardního fondu.
+>
+> (7) V případě změny informací v oznámení podle odstavce 1 oznámí obhospodařovatel dotčeného standardního fondu tuto změnu písemně jak České národní bance, tak orgánu dohledu jiného členského státu, ve kterém mají být investice veřejně nabízeny, nejpozději jeden měsíc před provedením uvedené změny.
+>
+> (8) Pokud v důsledku změny podle odstavce 7 již dotčený standardní fond není v souladu s právními předpisy, oznámí Česká národní banka tomuto fondu a orgánu dohledu jiného členského státu, ve kterém mají být investice dotčeného fondu veřejně nabízeny, do 15 pracovních dnů od obdržení veškerých dokumentů podle odstavce 7, že uvedenou změnu nesmí provést.
+>
+> (9) Pokud byla změna podle odstavce 7 provedena po předání informace podle odstavce 8 a v důsledku této změny již dotčený standardní fond není v souladu s právními předpisy, přijme Česká národní banka veškerá vhodná opatření, včetně výslovného zákazu nabízení dotčeného standardního fondu, pokud je to nezbytné, a bez zbytečného odkladu tuto skutečnost včetně přijatých opatření oznámí orgánu dohledu jiného členského státu, ve kterém mají být investice do tohoto standardního fondu veřejně nabízeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 306, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21d548f6bfe085d784cc -->
+
 ### § 303 — Postup ČNB při předání notifikačního spisu UCITS
 
 > **§ 303**
@@ -911,6 +1625,62 @@ Oznámení dle § 302 se podává ČNB v angličtině s přílohami v předepsan
 **Typicky rozhodné důkazy / podklady:** datum a bezvadnost oznámení, doklad o odeslání spisu a potvrzení hostitelskému orgánu, sdělení ČNB dle § 303 odst. 3, datum zahájení nabízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b2c68d751955b62c8f27 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 303
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka ověří, zda má oznámení a jeho přílohy podle [[#§ 302|§ 302]] předepsané náležitosti a ani netrpí jinými vadami.
+>
+> (2) Česká národní banka do 10 pracovních dní ode dne, kdy obdržela oznámení a přílohy podle [[#§ 302|§ 302]], které má předepsané náležitosti a ani netrpí jinými vadami, odešle orgánu dohledu jiného členského státu, ve kterém mají být investice podle § 301 odst. 1 veřejně nabízeny,
+>
+>   - a) toto oznámení a jeho přílohy a
+>
+>   - b) potvrzení v anglickém jazyce o tom, že dotčený standardní fond splňuje požadavky směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování4); náležitosti tohoto potvrzení vymezuje článek 2 a příloha II nařízení Komise (EU) č. [[584/2010|584/2010]].
+>
+> (3) Česká národní banka sdělí obhospodařovateli dotčeného standardního fondu bez zbytečného odkladu, že odeslala oznámení, jeho přílohy a potvrzení podle odstavce 2.
+>
+> (4) V dalším vymezují postup České národní banky podle odstavce 2 články 3 až 5 nařízení Komise (EU) č. [[584/2010|584/2010]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 302, § 301
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b2c68d751955b62c8f27 -->
 
 ### § 304 — Povinnosti při nabízení standardního fondu v hostitelském státě
 
@@ -984,6 +1754,74 @@ V hostitelském státě musí být investorům trvale k dispozici aktuální KID
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=15a6345f38068b5953b9 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 304
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li v jiném členském státě veřejně nabízeny investice do standardního fondu, musí být v tomto jiném členském státě investorům poskytnuty a uveřejněny aktuální
+>
+>   - a) sdělení klíčových informací tohoto fondu, jakož i jeho změny,
+>
+>   - b) statut tohoto fondu, jakož i jeho změny,
+>
+>   - c) výroční zpráva tohoto fondu, jakož i její změny,
+>
+>   - d) pololetní zpráva standardního fondu, jakož i její změny, a
+>
+>   - e) údaje o částkách, za které jsou vydávány a odkupovány podílové listy a investiční akcie vydávané tímto fondem.
+>
+> (2) Dokumenty podle odstavce 1 písm. a) až d), jakož i jejich změny, a údaje podle odstavce 1 písm. e) se v jiném členském státě, ve kterém jsou investice do standardního fondu veřejně nabízeny, investorům poskytují a uveřejňují stejným způsobem, jakým se investorům poskytují a uveřejňují srovnatelné dokumenty a údaje týkající se zahraničního investičního fondu srovnatelného se standardním fondem podle práva tohoto jiného členského státu.
+>
+> (3) Sdělení podle odstavce 1 písm. a), jakož i jeho změny, se v jiném členském státě, ve kterém jsou investice do standardního fondu veřejně nabízeny, investorům poskytuje a uveřejňuje s překladem do jazyka, ve kterém lze předkládat dokumenty orgánu dohledu tohoto jiného členského státu.
+>
+> (4) Dokumenty podle odstavce 1 písm. b) až d), jakož i jejich změny, a údaje podle odstavce 1 písm. e) se v jiném členském státě, ve kterém jsou investice do standardního fondu veřejně nabízeny, investorům poskytují a uveřejňují s překladem do
+>
+>   - a) jazyka, ve kterém lze předkládat dokumenty orgánu dohledu tohoto jiného členského státu, nebo
+>
+>   - b) anglického jazyka.
+>
+> (5) Četnost uveřejňování údajů podle odstavce 1 písm. e) se řídí českým právem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=15a6345f38068b5953b9 -->
+
 ### § 304a — Zánik účinků oznámení — de-notifikace standardního fondu v hostitelském státě
 
 > **§ 304a**
@@ -1050,6 +1888,68 @@ De-notifikace UCITS v hostitelském státě je trojpodmínková (bezplatná odku
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ab7991c7e7a43e44e089 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 304a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Účinky oznámení podle § 302 odst. 1 zanikají doručením písemného oznámení obhospodařovatele standardního fondu České národní bance o zániku účinků oznámení podle § 302 odst. 1 vůči jinému členskému státu, které obsahuje údaje o splnění těchto podmínek:
+>
+>   - a) po dobu nejméně 30 pracovních dnů byla zveřejněna jednotná nabídka na odkup všech cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto standardním fondem určená přímo nebo nepřímo každému vlastníkovi těchto cenných papírů nebo zaknihovaných cenných papírů se sídlem nebo bydlištěm v dotčeném členském státě, a to bez jakýchkoliv srážek, přirážek nebo úplat,
+>
+>   - b) úmysl zrušit opatření zavedená za účelem veřejného nabízení investic do tohoto standardního fondu v dotčeném členském státě byl zveřejněn alespoň elektronicky ve veřejném sdělovacím prostředku, který je běžně používán pro veřejné nabízení investic do standardních fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem v dotčeném členském státě a který je vhodný pro typického investora investujícího do takovýchto fondů, a
+>
+>   - c) veškeré závazky ze smluv, které umožňují veřejné nabízení investic do tohoto standardního fondu v daném členském státě, budou nejpozději ke dni zániku účinků oznámení podle § 302 odst. 1 ukončeny nebo změněny tak, aby toto veřejné nabízení již nebylo po tomto dni možné.
+>
+> (2) Informace zveřejněné podle odstavce 1 písm. a) a b) musí obsahovat přesný popis důsledků pro vlastníky cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto standardním fondem, pokud nepřijmou nabídku na odkup, a musí být zveřejněny v úředním jazyce dotčeného členského státu nebo v jazyce, ve kterém lze předkládat dokumenty orgánu dohledu dotčeného členského státu.
+>
+> (3) Česká národní banka do 15 pracovních dnů ode dne, kdy obdržela oznámení podle odstavce 1, které má předepsané náležitosti a netrpí vadami, odešle toto oznámení orgánu dohledu dotčeného členského státu a evropskému orgánu dohledu. Česká národní banka sdělí obhospodařovateli dotčeného standardního fondu bez zbytečného odkladu, že oznámení podle odstavce 1 odeslala.
+>
+> (4) Po zániku účinků oznámení podle § 302 odst. 1 nesmí být investice do dotčeného standardního fondu v dotčeném členském státě veřejně nabízeny.
+>
+> (5) Po zániku účinků oznámení podle § 302 odst. 1 musí být vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných dotčeným standardním fondem, kteří mají sídlo nebo bydliště v dotčeném členském státě, poskytnuty aktuální dokumenty podle § 304 odst. 1 písm. a) až d) a údaje podle § 304 odst. 1 písm. e) prostřednictvím prostředku komunikace na dálku v úředním jazyce dotčeného členského státu nebo v jazyce, ve kterém lze předkládat dokumenty orgánu dohledu dotčeného členského státu.
+>
+> (6) Dokumenty a údaje podle odstavce 5 musí být zaslány i České národní bance. Česká národní banka zašle tyto dokumenty a údaje orgánu dohledu dotčeného členského státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 302, § 304
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ab7991c7e7a43e44e089 -->
+
 ### § 305 — Veřejné nabízení investic do zahraničního investičního fondu srovnatelného se standardním fondem v České republice
 
 > **§ 305**
@@ -1103,6 +2003,56 @@ Zahraniční UCITS lze v ČR veřejně nabízet ode dne, kdy obhospodařovatel o
 **Typicky rozhodné důkazy / podklady:** sdělení orgánu domovského státu, doklad o zápisu fondu do seznamu ČNB, povolení obhospodařovatele, datum zahájení nabízení v ČR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=17ba442ae2f4c0f1e925 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 305
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu srovnatelného se standardním fondem lze v České republice veřejně nabízet ode dne, kdy obhospodařovatel tohoto fondu obdrží sdělení orgánu dohledu jiného členského státu, který je domovským státem tohoto fondu, srovnatelné se sdělením České národní banky podle § 303 odst. 3. Česká národní banka zapíše zahraniční investiční fond do seznamu podle § 597 písm. d) bez zbytečného odkladu poté, kdy obdrží od orgánu dohledu domovského státu tohoto fondu dokumenty srovnatelné s dokumenty podle § 303 odst. 2.
+>
+> (2) Zakazuje se veřejně nabízet v České republice investice do zahraničního investičního fondu srovnatelného se standardním fondem, není-li obhospodařován osobou s povolením uděleným Českou národní bankou opravňujícím ji obhospodařovat standardní fondy nebo orgánem dohledu jiného členského státu opravňujícím ji obhospodařovat zahraniční investiční fondy srovnatelné se standardním fondem.
+>
+> (3) Zakazuje se veřejně nabízet v České republice investice do zahraničního investičního fondu srovnatelného se standardním fondem ode dne, kdy obhospodařovatel tohoto fondu obdrží sdělení orgánu dohledu jiného členského státu, který je domovským státem tohoto fondu, srovnatelné se sdělením České národní banky podle § 304a odst. 3 věty třetí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 303, § 597, § 304a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17ba442ae2f4c0f1e925 -->
 
 ### § 306 — Facility agent — podpůrné služby pro investory v ČR při nabízení zahraničního UCITS
 
@@ -1181,6 +2131,80 @@ Při nabízení zahraničního UCITS v ČR musí být zajištěno šest podpůrn
 **Typicky rozhodné důkazy / podklady:** popis a doklad o zajištění jednotlivých funkcí, jazyk poskytovaných služeb, písemná dohoda s tuzemskou institucí (je-li), kontaktní údaje místa pro investory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=14154d3f22222ae9cb40 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 306
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li v České republice veřejně nabízeny investice do zahraničního investičního fondu srovnatelného se standardním fondem, musí být v České republice zajištěn způsob
+>
+>   - a) provádění pokynů týkajících se vydávání, upisování a odkupování cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto fondem v České republice a provádění plateb v souladu s podmínkami obsaženými v dokumentech podle [[#§ 307|§ 307]],
+>
+>   - b) poskytování informací investorům o způsobu, jakým mohou být pokyny a platby podle písmene a) prováděny, a o rozdělování a vyplácení podílů na zisku a jiných výnosů z majetku tohoto fondu v České republice,
+>
+>   - c) stanovení vhodných postupů a opatření, jež zajistí řádné projednání stížností investora a odstranění veškerých omezení pro investory při uplatňování jejich práv,
+>
+>   - d) zpřístupňování informací a dokumentů investorům ke kontrole a k získání kopií, za obdobných podmínek, jako podle [[#§ 307|§ 307]],
+>
+>   - e) poskytování informací investorům týkajících se úkolů, které osoby plní, na trvalém nosiči informací, a
+>
+>   - f) působení kontaktního místa pro komunikaci s příslušnými orgány.
+>
+> (2) Činnosti podle odstavce 1 lze zajišťovat elektronickým nebo jiným způsobem umožňujícím dálkový přístup.
+>
+> (3) Činnosti podle odstavce 1 musí být zajištěny zahraničním investičním fondem srovnatelným se standardním fondem podle odstavce 1 nebo bankou, zahraniční bankou s pobočkou v České republice, obchodníkem s cennými papíry nebo osobou podle [[§ 24 odst. 5|§ 24 odst. 5]] nebo [[§ 28 odst. 1|§ 28 odst. 1]] [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]] samostatně nebo společně na základě dohody v písemné formě.
+>
+> (4) Dohoda podle odstavce 3 stanoví,
+>
+>   - a) které z úkolů podle odstavce 1 neprovádí zahraniční investiční fond srovnatelný se standardním fondem a
+>
+>   - b) že zahraniční investiční fond srovnatelný se standardním fondem předá veškeré relevantní informace a dokumenty protistraně dohody.
+>
+> (5) Činnosti podle odstavce 1 musí být zajištěny
+>
+>   - a) v českém jazyce, nebo
+>
+>   - b) v jazyce, jehož použití pro tyto účely Česká národní banka stanoví vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 307, § 24, § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=14154d3f22222ae9cb40 -->
 
 ### § 307 — Dokumenty poskytované investorům v ČR při nabízení zahraničního standardního fondu
 
@@ -1262,6 +2286,82 @@ Při nabízení zahraničního UCITS v ČR musí být dokumenty nejen poskytová
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=268fde13bb671996d653 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 307
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li v České republice veřejně nabízeny investice do zahraničního investičního fondu srovnatelného se standardním fondem, musí být investorům se sídlem nebo bydlištěm v České republice ve vztahu k tomuto fondu poskytnuty a na internetových stránkách tohoto fondu uveřejněny aktuální
+>
+>   - a) dokument srovnatelný se sdělením klíčových informací standardního fondu, jakož i jeho změny,
+>
+>   - b) dokument srovnatelný se statutem standardního fondu, jakož i jeho změny,
+>
+>   - c) dokument srovnatelný s výroční zprávou standardního fondu, jakož i jeho změny,
+>
+>   - d) dokument srovnatelný s pololetní zprávou standardního fondu, jakož i jeho změny, a
+>
+>   - e) údaje o částkách, za které jsou vydávány a odkupovány cenné papíry a zaknihované cenné papíry vydávané tímto fondem.
+>
+> (2) Pro povinnost stanovenou v odstavci 1 se § 306 odst. 2 použije obdobně.
+>
+> (3) Dokumenty podle odstavce 1 písm. a) až d), jakož i jejich změny, a údaje podle odstavce 1 písm. e) se v České republice investorům poskytují a uveřejňují stejným způsobem, jakým se investorům poskytují a uveřejňují srovnatelné dokumenty a údaje týkající se standardního fondu podle tohoto zákona, na základě tohoto zákona nebo podle přímo použitelného předpisu Evropské unie upravujícího klíčové informace pro investory, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování11).
+>
+> (4) Dokument podle odstavce 1 písm. a), jakož i jeho změny, lze v České republice investorům poskytnout nebo uveřejnit s překladem do
+>
+>   - a) českého jazyka, nebo
+>
+>   - b) jazyka, jehož použití pro tyto účely Česká národní banka stanoví vyhláškou.
+>
+> (5) Dokumenty podle odstavce 1 písm. b) až d), jakož i jejich změny, a údaje podle odstavce 1 písm. e) lze investorům poskytnout nebo uveřejnit s překladem do
+>
+>   - a) českého jazyka,
+>
+>   - b) jazyka, jehož použití pro tyto účely Česká národní banka stanoví vyhláškou, nebo
+>
+>   - c) anglického jazyka.
+>
+> (6) Četnost uveřejňování údajů podle odstavce 1 písm. e) se řídí právem domovského státu tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 306
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=268fde13bb671996d653 -->
+
 ### § 308 — Nabízení zahraničního UCITS v jiném členském státě investiční společností
 
 > **§ 308**
@@ -1312,6 +2412,52 @@ Nabízí-li česká investiční společnost jí obhospodařovaný zahraniční 
 
 #### Oddíl 2 — Nabízení investic do speciálního fondu, do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu, jehož domovským státem je členský stát
 
+
+<!-- LEGAL-REVISION:BEGIN id=6d4edbbb9875ef40567e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 308 — Veřejné nabízení investic do zahraničního investičního fondu srovnatelného se standardním fondem obhospodařovaného investiční společností v jiném členském státě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Investice do zahraničního investičního fondu srovnatelného se standardním fondem, lze v jiném členském státě veřejně nabízet ode dne, kdy investiční společnost obhospodařující tento fond obdrží sdělení orgánu dohledu domovského státu tohoto fondu, že orgánu dohledu jiného členského státu, ve kterém mají být tyto investice veřejně nabízeny, odeslala oznámení, jeho přílohy a potvrzení srovnatelné s oznámením, jeho přílohami a potvrzením podle § 303 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 303
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6d4edbbb9875ef40567e -->
+
 ### § 309 — Nabízení alternativního fondu v ČR — obhospodařovatel se sídlem v ČR oprávněný přesáhnout rozhodný limit
 
 > **§ 309**
@@ -1359,6 +2505,52 @@ Před zahájením nabízení AIF spravovaného českým plným AIFM v ČR vždy 
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu ČNB, žádost o zápis a přílohy, distribuční/marketingové materiály s datací, povolení obhospodařovatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=579a2c9325e58e0b8765 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 309 — V případě obhospodařovatele se sídlem v České republice oprávněného přesáhnout rozhodný limit, jde-li o nabízení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Investice do speciálního fondu, do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu, jehož domovským státem je členský stát, který obhospodařuje obhospodařovatel se sídlem v České republice oprávněný přesáhnout rozhodný limit, lze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle [[#§ 597|§ 597]]. Jde-li o zahraniční investiční fond, použije se pro obsah žádosti o zápis do seznamu § 312 odst. 2 obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 312
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=579a2c9325e58e0b8765 -->
 
 ### § 310 — Nabízení v ČR — obhospodařovatel neoprávněný přesáhnout rozhodný limit
 
@@ -1410,6 +2602,54 @@ Sub-threshold obhospodařovatel (český i z EU) potřebuje k veřejnému nabíz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b48a0ced6595e2de139c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 310 — V případě obhospodařovatele neoprávněného přesáhnout rozhodný limit, jde-li o veřejné nabízení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do fondu kvalifikovaných investorů nebo do zahraničního investičního fondu srovnatelného se speciálním fondem nebo s fondem kvalifikovaných investorů, jehož domovským státem je členský stát, který obhospodařuje obhospodařovatel se sídlem v České republice neoprávněný přesáhnout rozhodný limit, lze v České republice veřejně nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. a), b), c) nebo d).
+>
+> (2) Investice do zahraničního investičního fondu srovnatelného se speciálním fondem nebo s fondem kvalifikovaných investorů, jehož domovským státem je jiný členský stát, který obhospodařuje obhospodařovatel, který nemá povolení orgánu dohledu jiného členského státu opravňující jej přesáhnout rozhodný limit, se sídlem v jiném členském státě, lze v České republice veřejně nabízet ode dne, kdy je tento fond zapsán v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b48a0ced6595e2de139c -->
+
 ### § 311 — Nabízení alternativního fondu v jiném členském státě — AIFMD pas
 
 > **§ 311**
@@ -1459,6 +2699,52 @@ AIFMD pas umožňuje nabízet EU AIF profesionálům v celé EU, ale teprve ode 
 **Typicky rozhodné důkazy / podklady:** oznámení § 312 a sdělení ČNB s datem, marketingová komunikace s datací, klasifikace oslovených investorů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5cc8801bcde3417f72a1 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 311
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Investice do speciálního fondu, do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu, jehož domovským státem je členský stát, který obhospodařuje obhospodařovatel se sídlem v České republice oprávněný přesáhnout rozhodný limit, lze v jiném členském státě nabízet osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a osobám, které jsou podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] nebo podle práva jiného členského státu považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, ode dne, kdy obhospodařovatel tohoto fondu obdrží sdělení České národní banky podle § 313 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2a, § 313
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5cc8801bcde3417f72a1 -->
 
 ### § 312 — Oznamovací povinnost při AIFMD nabízení v jiném členském státě
 
@@ -1530,6 +2816,72 @@ Oznámení podle § 312 musí být úplné (všech 9 položek, pokud jsou releva
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c72ae1cdff7ceefac0a5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 312
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Mají-li být v jiném členském státě nabízeny investice podle [[#§ 311|§ 311]], oznámí to obhospodařovatel dotčeného investičního fondu nebo zahraničního investičního fondu předem České národní bance. Oznámení podle věty první a přílohy tohoto oznámení se České národní bance zasílají v anglickém jazyce nebo s překladem do anglického jazyka.
+>
+> (2) Oznámení podle odstavce 1 musí obsahovat, popřípadě k němu musí být přiloženy,
+>
+>   - a) plán obchodní činnosti ve vztahu k tomuto nabízení, který zahrnuje údaje nutné k identifikaci dotčeného investičního fondu nebo zahraničního investičního fondu a údaje nutné k identifikaci domovského státu tohoto fondu,
+>
+>   - b) statut nebo srovnatelný dokument, popřípadě též společenská smlouva dotčeného investičního fondu nebo zahraničního investičního fondu,
+>
+>   - c) údaje nutné k identifikaci depozitáře dotčeného investičního fondu nebo zahraničního investičního fondu,
+>
+>   - d) údaje o dotčeném investičním fondu nebo zahraničním investičním fondu, které jsou poskytovány investorům, nebo popis těchto údajů, jde-li o údaje uvedené v [[#§ 241|§ 241]] nebo § 293 odst. 1,
+>
+>   - e) jde-li se o investiční fond nebo zahraniční investiční fond, který podle svého statutu nebo srovnatelného dokumentu investuje alespoň 85 % hodnoty svého majetku do jednoho investičního fondu nebo zahraničního investičního fondu, nebo do více investičních fondů nebo zahraničních investičních fondů, které mají vzájemně stejnou investiční strategii, nebo může mít expozici ve výši až 85 % hodnoty svého majetku vůči jednomu investičnímu fondu nebo zahraničnímu investičnímu fondu nebo vůči více investičním fondům nebo zahraničním investičním fondům, které mají vzájemně stejnou investiční strategii, údaj o domovském státě fondů, do kterých takto investuje, nebo vůči kterým má tuto expozici,
+>
+>   - f) údaje nutné k identifikaci členského státu, ve kterém mají být nabízeny investice podle [[#§ 311|§ 311]],
+>
+>   - g) mají-li být investice nabízeny pouze osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona [[upravujícího podnikání na kapitálovém trhu|upravujícího podnikání na kapitálovém trhu]] a osobám, které jsou podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] nebo podle práva jiného členského státu považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, informace o opatřeních, jimiž se zajistí dodržování tohoto omezení, a to i v případě, že tyto investice mají být v tomto jiném členském státě nabízeny prostřednictvím jiné osoby, a to v souladu s právem tohoto jiného členského státu,
+>
+>   - h) nezbytné údaje, včetně adresy pro doručování ve věci peněžitých plnění uložených orgánem dohledu hostitelského členského státu a
+>
+>   - i) údaje o tom, jakým způsobem jsou zajišťovány činnosti podle [[#§ 315a|§ 315a]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 311, § 241, § 293, § 2a, § 315a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c72ae1cdff7ceefac0a5 -->
+
 ### § 313 — Postup ČNB při předání AIFMD notifikačního spisu
 
 > **§ 313**
@@ -1588,6 +2940,60 @@ Oznámení podle § 312 musí být úplné (všech 9 položek, pokud jsou releva
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b1517cc75d834815316d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 313
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka ověří, zda má oznámení a jeho přílohy podle [[#§ 312|§ 312]] předepsané náležitosti a ani netrpí jinými vadami.
+>
+> (2) Česká národní banka do 20 pracovních dní ode dne, kdy obdržela oznámení a přílohy podle [[#§ 312|§ 312]], které má předepsané náležitosti a ani netrpí jinými vadami, odešle orgánu dohledu jiného členského státu, v němž mají být nabízeny investice podle [[#§ 311|§ 311]],
+>
+>   - a) toto oznámení a jeho přílohy a
+>
+>   - b) potvrzení v anglickém jazyce o tom, že obhospodařovatel dotčeného investičního fondu nebo zahraničního investičního fondu má povolení, které jej opravňuje přesáhnout rozhodný limit a obhospodařovat investiční fondy a zahraniční investiční fondy s určitou investiční strategií.
+>
+> (3) Česká národní banka sdělí obhospodařovateli dotčeného investičního fondu nebo zahraničního investičního fondu bez zbytečného odkladu, že odeslala oznámení, jeho přílohy a potvrzení podle odstavce 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 312, § 311
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1517cc75d834815316d -->
+
 ### § 314 — Oznamování změn v AIFMD notifikaci
 
 > **§ 314**
@@ -1641,6 +3047,58 @@ Každou změnu notifikovaných skutečností hlásit ČNB i hostitelskému dohle
 **Typicky rozhodné důkazy / podklady:** oznámení o změně s datem, popis a povaha změny, doklad o případné objektivní překážce, korespondence s oběma dohledy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=baed3f9b3adba76ea73e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 314
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li v jiném členském státě nabízeny investice podle [[#§ 311|§ 311]], oznamovatel oznámí České národní bance a příslušnému orgánu dohledu hostitelského státu každou změnu ve skutečnostech oznámených podle [[#§ 312|§ 312]] nejpozději 1 měsíc přede dnem jejího provedení.
+>
+> (2) Nemůže-li oznamovatel pro překážku, která nastala nezávisle na jeho vůli, lhůtu podle odstavce 1 dodržet, oznámí změnu bez zbytečného odkladu poté, kdy tato překážka pomine.
+>
+> (3) Česká národní banka rozhodne do 15 pracovních dnů ode dne, kdy jí došlo oznámení podle odstavce 1, že obhospodařovatel nesmí takovou změnu provést a že Česká národní banka odmítá sdělit orgánu dohledu hostitelského státu změnu podle odstavce 1, jestliže oznamovatel neplní nebo s ohledem na plánovanou změnu nelze očekávat, že nadále bude plnit povinnosti uložené obhospodařovateli oprávněnému přesáhnout rozhodný limit tímto zákonem, na základě tohoto zákona nebo přímo použitelným předpisem Evropské unie vydaným na základě směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6).
+>
+> (4) Česká národní banka bez zbytečného odkladu informuje příslušný orgán dohledu hostitelského státu o každé změně oznámené podle odstavce 1, včetně toho, že se jedná o případ podle odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 311, § 312
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=baed3f9b3adba76ea73e -->
 
 ### § 314a — Zánik účinků oznámení — de-notifikace AIF v hostitelském státě
 
@@ -1708,6 +3166,68 @@ De-notifikace AIF vyžaduje 30denní odkupní nabídku (kromě uzavřených AIF/
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0c27c10e6042c9163731 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 314a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Účinky oznámení podle § 312 odst. 1 zanikají doručením písemného oznámení obhospodařovatele dotčeného investičního fondu nebo zahraničního investičního fondu České národní bance o zániku účinků oznámení podle § 312 odst. 1 vůči jinému členskému státu, které obsahuje údaje o splnění těchto podmínek:
+>
+>   - a) po dobu nejméně 30 pracovních dnů byla zveřejněna jednotná nabídka na odkup všech cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto investičním fondem nebo zahraničním investičním fondem určená přímo nebo nepřímo každému vlastníkovi těchto cenných papírů nebo zaknihovaných cenných papírů se sídlem nebo bydlištěm v dotčeném členském státě, a to bez jakýchkoliv srážek, přirážek nebo úplat; to neplatí pro investiční fond nebo zahraniční investiční fond, který je uzavřeným alternativním investičním fondem podle nařízení Komise v přenesené pravomoci (EU) č. [[694/2014|694/2014]]23) nebo evropským fondem dlouhodobých investic podle přímo použitelného předpisu Evropské unie upravujícího evropské fondy dlouhodobých investic18),
+>
+>   - b) úmysl zrušit opatření zavedená za účelem nabízení investic do tohoto investičního fondu nebo zahraničního investičního fondu v dotčeném členském státě byl zveřejněn alespoň elektronicky ve veřejném sdělovacím prostředku, který je běžně používán pro nabízení investic do speciálních fondů, do fondů kvalifikovaných investorů nebo do srovnatelných zahraničních investičních fondů srovnatelných v dotčeném členském státě a který je vhodný pro typického investora investujícího do takovýchto fondů, a
+>
+>   - c) veškeré závazky ze smluv, které umožňují nabízení investic do dotčeného investičního fondu nebo zahraničního investičního fondu v daném členském státě, budou nejpozději ke dni zániku účinků oznámení podle § 312 odst. 1 ukončeny nebo změněny tak, aby toto nabízení již nebylo po tomto dni možné.
+>
+> (2) Informace zveřejněné podle odstavce 1 písm. a) a b) musí obsahovat popis důsledků pro vlastníky cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto investičním fondem nebo zahraničním investičním fondem, pokud nepřijmou nabídku na odkup, a musí být zveřejněny v úředním jazyce dotčeného členského státu nebo v jazyce, ve kterém lze předkládat dokumenty orgánu dohledu dotčeného členského státu.
+>
+> (3) Česká národní banka do 15 pracovních dnů ode dne, kdy obdržela oznámení podle odstavce 1, které má předepsané náležitosti a netrpí vadami, odešle toto oznámení orgánu dohledu dotčeného členského státu a evropskému orgánu dohledu. Česká národní banka sdělí obhospodařovateli dotčeného investičního fondu nebo zahraničního investičního fondu bez zbytečného odkladu, že oznámení podle odstavce 1 odeslala.
+>
+> (4) Po zániku účinků oznámení podle § 312 odst. 1 nesmí být investice do dotčeného investičního fondu nebo zahraničního investičního fondu v dotčeném členském státě nabízeny a po dobu 36 měsíců ani předběžně nabízeny.
+>
+> (5) Po zániku účinků oznámení podle § 312 odst. 1 musí být vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných dotčeným investičním fondem nebo zahraničním investičním fondem, kteří mají sídlo nebo bydliště v dotčeném členském státě, poskytnuty aktuální dokumenty podle § 304 odst. 1 písm. a) až d) a údaje podle § 304 odst. 1 písm. e) prostřednictvím prostředku komunikace na dálku v úředním jazyce dotčeného členského státu nebo v jazyce, ve kterém lze předkládat dokumenty orgánu dohledu dotčeného členského státu.
+>
+> (6) Dokumenty a údaje podle odstavce 5 musí být zaslány i České národní bance. Česká národní banka zašle tyto dokumenty a údaje orgánu dohledu dotčeného členského státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 312, § 304
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c27c10e6042c9163731 -->
+
 ### § 315 — Nabízení alternativního EU fondu v ČR — obhospodařovatel z jiného členského státu
 
 > **§ 315**
@@ -1759,6 +3279,54 @@ AIFM z EU smí v ČR nabízet profesionálům ode dne sdělení svého domovské
 **Typicky rozhodné důkazy / podklady:** sdělení domovského dohledu s datem, doklad o předání spisu ČNB, výpis ze seznamu § 597 písm. d), klasifikace investorů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=42d4ca38b438a7ef15d6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 315 — V případě obhospodařovatele se sídlem v jiném členském státě oprávněného přesáhnout rozhodný limit, jde-li o nabízení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do speciálního fondu, do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu, jehož domovským státem je členský stát, který obhospodařuje obhospodařovatel se sídlem v jiném členském státě oprávněný přesáhnout rozhodný limit, lze v České republice nabízet osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a osobám, které jsou podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, ode dne, kdy obhospodařovatel tohoto fondu obdrží sdělení orgánu dohledu jiného členského státu, ve kterém má sídlo, srovnatelné se sdělením České národní banky podle § 313 odst. 3. Česká národní banka zapíše zahraniční investiční fond do seznamu podle § 597 písm. d) bez zbytečného odkladu poté, kdy obdrží od orgánu dohledu jiného členského státu dokumenty srovnatelné s dokumenty podle § 313 odst. 2.
+>
+> (2) Investice podle odstavce 1 lze v České republice veřejně nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. a), b), c) nebo d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2a, § 313, § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=42d4ca38b438a7ef15d6 -->
 
 ### § 315a — Facility services pro investory v ČR při nabízení zahraničního alternativního fondu
 
@@ -1836,6 +3404,80 @@ Při veřejném (retailovém) nabízení zahraničního speciálního fondu v Č
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e14b4a76d8e882aed399 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 315a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li v České republice veřejně nabízeny investice jiným než kvalifikovaným investorům do zahraničního investičního fondu srovnatelného se speciálním fondem, musí být v České republice zajištěn způsob
+>
+>   - a) provádění pokynů týkajících se vydávání, upisování a odkupování cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto fondem v České republice a provádění plateb v souladu s podmínkami obsaženými v dokumentech podle [[#§ 307|§ 307]],
+>
+>   - b) poskytování informací investorům o způsobu, jakým mohou být pokyny a platby podle písmene a) prováděny, a o rozdělování a vyplácení podílů na zisku a jiných výnosů z majetku tohoto fondu v České republice,
+>
+>   - c) stanovení vhodných postupů a opatření, jež zajistí řádné projednání stížností investora a odstranění veškerých omezení pro investory při uplatňování jejich práv,
+>
+>   - d) zpřístupňování informací a dokumentů investorům ke kontrole a k získání kopií, za podmínek obdobných podmínkám podle [[#§ 241|§ 241]],
+>
+>   - e) poskytování informací investorům týkajících se úkolů, které osoby plní, na trvalém nosiči informací,
+>
+>   - f) působení kontaktního místa pro komunikaci s příslušnými orgány.
+>
+> (2) Činnosti podle odstavce 1 lze zajišťovat elektronickým nebo jiným způsobem umožňujícím dálkový přístup.
+>
+> (3) Činnosti podle odstavce 1 musí být zajištěny obhospodařovatelem zahraničního investičního fondu srovnatelného se speciálním fondem podle odstavce 1 nebo bankou, zahraniční bankou s pobočkou v České republice, obchodníkem s cennými papíry nebo osobou podle [[§ 24 odst. 5|§ 24 odst. 5]] nebo podle [[§ 28 odst. 1|§ 28 odst. 1]] [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]] samostatně nebo společně na základě dohody v písemné formě.
+>
+> (4) Dohoda podle odstavce 3 stanoví,
+>
+>   - a) které z úkolů podle odstavce 1 neprovádí obhospodařovatel zahraničního investičního fondu srovnatelného se speciálním fondem a
+>
+>   - b) že obhospodařovatel zahraničního investičního fondu srovnatelný se speciálním fondem předá veškeré relevantní informace a dokumenty protistraně dohody.
+>
+> (5) Činnosti podle odstavce 1 musí být zajištěny
+>
+>   - a) v českém jazyce, nebo
+>
+>   - b) v jazyce, jehož použití pro tyto účely Česká národní banka stanoví vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 307, § 241, § 24, § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e14b4a76d8e882aed399 -->
+
 ### Díl 2 — V případě obhospodařovatele se sídlem ve státě, který není členským státem (§§ 316–317)
 
 ### § 316 — Nabízení AIF z EU — non-EU AIFM, nabízení pouze v ČR
@@ -1904,6 +3546,68 @@ Non-EU AIFM s EU fondem smí v ČR (a jen v ČR) nabízet po zápisu do § 597 p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1ced9811fcb54f4d119f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 316
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu srovnatelného se speciálním fondem nebo s fondem kvalifikovaných investorů, jehož domovským státem je jiný členský stát, který obhospodařuje obhospodařovatel, který přesahuje rozhodný limit, se sídlem ve státě, který není členským státem, lze pouze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle odstavce 2.
+>
+> (2) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 1 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže
+>
+> - a) orgán dohledu jiného státu, který udělil obhospodařovateli tohoto fondu oprávnění k obhospodařování tohoto fondu, a Česká národní banka se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle tohoto zákona,
+>
+> - b) orgán dohledu jiného státu, který udělil obhospodařovateli tohoto fondu oprávnění k obhospodařování tohoto fondu, a orgán dohledu domovského státu tohoto fondu, se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle práva domovského státu tohoto fondu, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5), a
+>
+> - c) stát, ve kterém má sídlo obhospodařovatel tohoto fondu, není uveden na seznamu nespolupracujících zemí a teritorií vypracovaném Finančním akčním výborem proti praní peněz Organizace pro hospodářskou spolupráci a rozvoj.
+>
+> (3) Při nabízení investic podle odstavce 1 plní obhospodařovatel dotčeného zahraničního investičního fondu ve vztahu k tomuto fondu, České národní bance a investorům se sídlem nebo bydlištěm v České republice povinnosti uložené obhospodařovateli oprávněnému přesáhnout rozhodný limit podle § 34 až 37, § 233 až 235, [[#§ 241|§ 241]], [[#§ 290|290]], [[#§ 291|291]], [[#§ 293|293]], [[#§ 463|463]], [[#§ 464|464]] a [[#§ 557|557]] obdobně.
+>
+> (4) Povinnosti stanovené v odstavci 3 musí být plněny i poté, co investice podle odstavce 1 přestaly být v České republice nabízeny, a to až do vypořádání závazků vůči osobám ve srovnatelném postavení s podílníky, obmyšlenými, zakladateli, společníky nebo tichými společníky dotčeného zahraničního investičního fondu, kteří mají sídlo nebo bydliště v České republice, a v případě zařízení srovnatelného se svěřenským fondem i těmi, kteří zvýšili majetek tohoto zařízení jako dotčeného zahraničního investičního fondu smlouvy a mají sídlo nebo bydliště v České republice.
+>
+> (5) Zakazuje se nabízet v České republice investice podle odstavce 1 po dni, který určí akt v přenesené působnosti přijatý Evropskou komisí na základě článku 68 odst. 6 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5) jako den, k němuž se musí ukončit vnitrostátní režimy upravené v článcích 36 a 42 této směrnice a režim pasu stanovený v článcích 35 a 37 až 41 této směrnice se stane jediným povinným režimem platným ve všech členských státech.
+>
+> (6) Žádost podle odstavce 2 lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 34, § 233, § 241, § 290, § 291, § 293, § 463, § 464, § 557
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ced9811fcb54f4d119f -->
+
 ### § 317 — Nabízení AIF z EU — různé kombinace sídla obhospodařovatele
 
 > **§ 317**
@@ -1957,6 +3661,58 @@ Non-EU AIFM s EU fondem smí v ČR (a jen v ČR) nabízet po zápisu do § 597 p
 **Typicky rozhodné důkazy / podklady:** doklad o povolení podle § 481 nebo o AIFMD licenci, identifikace domovského státu fondu, výpis ze seznamu § 597, doklad o sdělení dohledu.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=712fc0e31fda6573cd15 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 317
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do speciálního fondu, do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu, jehož domovským státem je jiný členský stát, který obhospodařuje zahraniční osoba s povolením podle [[#§ 481|§ 481]], lze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle [[#§ 597|§ 597]].
+>
+> (2) Pro nabízení investic v jiném členském státě do speciálního fondu, do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu, jehož domovským státem je jiný členský stát, který obhospodařuje zahraniční osoba s povolením podle [[#§ 481|§ 481]], osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a osobám, které jsou podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] nebo podle práva jiného členského státu považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, se § 311 až 314 použijí obdobně.
+>
+> (3) Pro nabízení investic v České republice do speciálního fondu, do fondu kvalifikovaných investorů nebo do srovnatelného zahraničního investičního fondu, jehož domovským státem je jiný členský stát, který obhospodařuje osoba se sídlem ve státě, který není členským státem, která má povolení udělené orgánem dohledu jiného členského státu srovnatelné s povolením podle [[#§ 481|§ 481]], se [[#§ 315|§ 315]] použije obdobně.
+>
+> (4) Investice do zahraničního investičního fondu srovnatelného se speciálním fondem nebo s fondem kvalifikovaných investorů, jehož domovským státem je jiný členský stát, který obhospodařuje obhospodařovatel se sídlem ve státě, který není členským státem, který nemá povolení podle [[#§ 481|§ 481]] ani srovnatelné povolení udělené orgánem dohledu jiného členského státu, lze v České republice veřejně nabízet ode dne, kdy je tento fond zapsán v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 597, § 2a, § 311, § 315
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=712fc0e31fda6573cd15 -->
+
 ## Hlava III — Nabízení investic do zahraničního investičního fondu, jehož domovským státem není členský stát (§§ 318–327)
 
 ### Díl 1 — V případě obhospodařovatele, který má sídlo v členském státě (§§ 318–323)
@@ -2025,6 +3781,66 @@ Non-EU AIFM s EU fondem smí v ČR (a jen v ČR) nabízet po zápisu do § 597 p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=686eb427b053fff1e90a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 318 — V případě investiční společnosti oprávněné přesáhnout rozhodný limit, jde-li o nabízení pouze v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje investiční společnost oprávněná přesáhnout rozhodný limit, lze pouze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+>
+> (2) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 1 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže
+>
+> - a) orgán dohledu domovského státu tohoto fondu a Česká národní banka se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle tohoto zákona a
+>
+> - b) domovský stát tohoto fondu není uveden na seznamu nespolupracujících zemí a teritorií vypracovaném Finančním akčním výborem proti praní peněz Organizace pro hospodářskou spolupráci a rozvoj.
+>
+> (3) Při nabízení investic podle odstavce 1 plní obhospodařovatel dotčeného zahraničního investičního fondu ve vztahu k tomuto fondu povinnosti uložené obhospodařovateli oprávněnému přesáhnout rozhodný limit podle tohoto zákona, na základě tohoto zákona nebo podle přímo použitelného předpisu Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6), s výjimkou § 60 až 84; obhospodařovatel dotčeného zahraničního investičního fondu však zajistí, aby činnost depozitáře podle § 71 až 73 ve vztahu k tomuto fondu vykonávaly jiné osoby. Obhospodařovatel dotčeného zahraničního investičního fondu oznámí České národní bance údaje nutné k identifikaci osob, které vykonávají činnost depozitáře tohoto fondu podle § 71 až 73, jakož i jejich změny.
+>
+> (4) Pro povinnosti stanovené v odstavci 3 se § 316 odst. 4 použije obdobně.
+>
+> (5) Zakazuje se nabízet v České republice investice podle odstavce 1 po dni, který určí akt v přenesené působnosti přijatý Evropskou komisí na základě článku 68 odst. 6 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5) jako den, k němuž se musí ukončit vnitrostátní režimy upravené v článcích 36 a 42 této směrnice a režim pasu stanovený v článcích 35 a 37 až 41 této směrnice se stane jediným povinným režimem platným ve všech členských státech.
+>
+> (6) Žádost podle odstavce 2 lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání. Česká národní banka dále stanoví vyhláškou v rozsahu potřebném pro výkon účinného dohledu nad kapitálovým trhem rozsah, strukturu, formu a způsob oznamování údajů a poskytování dokumentů podle odstavce 3 České národní bance, jakož i lhůty pro jejich oznamování a poskytování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 60, § 71, § 316
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=686eb427b053fff1e90a -->
+
 ### § 319 — Obhospodařovatel se sídlem v jiném členském státě oprávněný přesáhnout rozhodný limit, nabízení pouze v ČR
 
 > **§ 319**
@@ -2087,6 +3903,66 @@ EU AIFM z jiného státu nabízející non-EU AIF jen v ČR: zápis do § 597 p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=60c50e3c7347432fd0bc generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 319 — V případě obhospodařovatele se sídlem v jiném členském státě oprávněného přesáhnout rozhodný limit, jde-li o nabízení pouze v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje obhospodařovatel oprávněný přesáhnout rozhodný limit se sídlem v jiném členském státě, lze pouze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+>
+> (2) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 1 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže
+>
+> - a) orgán dohledu domovského státu tohoto fondu a orgán dohledu jiného členského státu, ve kterém má sídlo obhospodařovatel tohoto fondu, se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle práva tohoto jiného členského státu, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5), a
+>
+> - b) je obdobně splněna podmínka podle § 318 odst. 2 písm. b).
+>
+> (3) Při nabízení investic podle odstavce 1 plní obhospodařovatel dotčeného zahraničního investičního fondu ve vztahu k tomuto fondu povinnosti uložené obhospodařovateli oprávněnému přesáhnout rozhodný limit podle přímo použitelného předpisu Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6), a podle práva státu, ve kterém má sídlo, na základě směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5), s výjimkou článku 21 této směrnice; obhospodařovatel dotčeného zahraničního investičního fondu však zajistí, aby činnost depozitáře podle článku 21 odst. 7, 8 a 9 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5) ve vztahu k tomuto fondu vykonávaly jiné osoby. Obhospodařovatel dotčeného zahraničního investičního fondu zašle orgánu dohledu jiného členského státu, ve kterém má sídlo, údaje nutné k identifikaci osob, které vykonávají činnost depozitáře tohoto fondu podle článku 21 odst. 7, 8 a 9 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5), jakož i jejich změny.
+>
+> (4) Pro povinnosti stanovené v odstavci 3 se § 316 odst. 4 použije obdobně.
+>
+> (5) Zakazuje se nabízet v České republice investice podle odstavce 1 po dni, který určí akt v přenesené působnosti přijatý Evropskou komisí na základě článku 68 odst. 6 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5) jako den, k němuž se musí ukončit vnitrostátní režimy upravené v článcích 36 a 42 této směrnice a režim pasu stanovený v článcích 35 a 37 až 41 této směrnice se stane jediným povinným režimem platným ve všech členských státech.
+>
+> (6) Žádost podle odstavce 2 lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 318, § 316
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60c50e3c7347432fd0bc -->
+
 ### § 320 — Investiční společnost oprávněná přesáhnout rozhodný limit, nabízení v ČR (bez omezení pouze na ČR)
 
 > **§ 320**
@@ -2147,6 +4023,62 @@ Pro nabízení non-EU AIF v ČR (bez omezení jen na ČR) českým plným AIFM j
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=60ea6212b778d14caf9b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 320 — V případě investiční společnosti oprávněné přesáhnout rozhodný limit, jde-li o nabízení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje investiční společnost oprávněná přesáhnout rozhodný limit, lze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+>
+> (2) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 1 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže
+>
+> - a) jsou obdobně splněny podmínky podle § 318 odst. 2 písm. a) a b),
+>
+> - b) domovský stát tohoto fondu uzavřel s Českou republikou dohodu, která odpovídá zásadám uvedeným v článku 26 Modelové daňové smlouvy Organizace pro hospodářskou spolupráci a rozvoj o příjmech a majetku a která zajišťuje výměnu informací v daňových záležitostech, a
+>
+> - c) dni, od kterého mají být tyto investice nabízeny, předchází den, který určuje předpis Evropské unie vydaný na základě článku 67 odst. 6 směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5) jako den nabytí účinnosti čl. 35 a 37 až 41 této směrnice.
+>
+> (3) Žádost podle odstavce 2 lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 318
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60ea6212b778d14caf9b -->
+
 ### § 321 — Investiční společnost oprávněná přesáhnout rozhodný limit, nabízení v jiném členském státě
 
 > **§ 321**
@@ -2200,6 +4132,58 @@ Pro nabízení non-EU AIF českým plným AIFM v jiném EU státě je nutné spl
 **Typicky rozhodné důkazy / podklady:** doklady o MoU a daňových dohodách (ČR–domovský stát fondu i hostitelský stát–domovský stát fondu), ověření FATF seznamu, oznámení § 312.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=da68b63a8b6f9317f937 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 321 — V případě investiční společnosti oprávněné přesáhnout rozhodný limit, jde-li o nabízení v jiném členském státě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro nabízení investic v jiném členském státě do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje investiční společnost oprávněná přesáhnout rozhodný limit, osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a osobám, které jsou podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] nebo podle práva jiného členského státu považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, se § 311 až 314 použijí obdobně.
+>
+> (2) Investice podle odstavce 1 lze v jiném členském státě nabízet jen, jestliže
+>
+> - a) jsou obdobně splněny podmínky podle § 318 odst. 2 písm. a) a b) a § 320 odst. 2 písm. b) a c) a
+>
+> - b) domovský stát tohoto fondu uzavřel s jiným členským státem, ve kterém mají být tyto investice nabízeny, dohodu, která odpovídá zásadám uvedeným v článku 26 Modelové daňové smlouvy Organizace pro hospodářskou spolupráci a rozvoj o příjmech a majetku a která zajišťuje výměnu informací v daňových záležitostech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2a, § 311, § 318, § 320
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=da68b63a8b6f9317f937 -->
 
 ### § 322 — Obhospodařovatel se sídlem v jiném členském státě oprávněný přesáhnout rozhodný limit, nabízení v ČR
 
@@ -2261,6 +4245,64 @@ EU AIFM z jiného státu nabízí non-EU AIF v ČR profesionálům ode dne sděl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b09df4b8ba276c3c8239 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 322 — V případě obhospodařovatele se sídlem v jiném členském státě oprávněného přesáhnout rozhodný limit, jde-li o nabízení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pro nabízení investic v České republice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje obhospodařovatel oprávněný přesáhnout rozhodný limit se sídlem v jiném členském státě, osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a osobám, které jsou podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, se § 315 odst. 1 použije obdobně.
+>
+> (2) Investice podle odstavce 1 lze v České republice nabízet jen, jestliže
+>
+> - a) jsou obdobně splněny podmínky podle § 318 odst. 2 písm. b), § 319 odst. 2 písm. a) a § 320 odst. 2 písm. b) a c) a
+>
+> - b) domovský stát tohoto fondu uzavřel s jiným členským státem, ve kterém má sídlo obhospodařovatel tohoto fondu, dohodu, která odpovídá zásadám uvedeným v článku 26 Modelové daňové smlouvy Organizace pro hospodářskou spolupráci a rozvoj o příjmech a majetku a která zajišťuje výměnu informací v daňových záležitostech.
+>
+> (3) Investice podle odstavce 1 lze v České republice veřejně nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+>
+> (4) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 1 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže jsou obdobně splněny podmínky podle § 318 odst. 2 písm. b), § 319 odst. 2 písm. a), § 320 odst. 2 písm. b) a c) a odstavce 2 písm. b).
+>
+> (5) Žádost podle odstavce 4 lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2a, § 315, § 318, § 319, § 320, § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b09df4b8ba276c3c8239 -->
+
 ### § 323 — Obhospodařovatel se sídlem v členském státě neoprávněný přesáhnout rozhodný limit, veřejné nabízení v ČR
 
 > **§ 323**
@@ -2308,6 +4350,52 @@ Sub-threshold EU AIFM smí veřejně nabízet non-EU AIF v ČR jen na základě 
 **Typicky rozhodné důkazy / podklady:** doklad o sub-threshold registraci, doložení objemu majetku, žádost o zápis a výpis ze seznamu ČNB, identifikace domovského státu fondu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=03013416d2f0e73af015 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 323 — V případě obhospodařovatele se sídlem v členském státě neoprávněného přesáhnout rozhodný limit, jde-li o veřejné nabízení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje obhospodařovatel se sídlem v členském státě neoprávněný přesáhnout rozhodný limit, lze v České republice veřejně nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=03013416d2f0e73af015 -->
 
 ### Díl 2 — V případě obhospodařovatele, který nemá sídlo v členském státě (§§ 324–325a)
 
@@ -2373,6 +4461,64 @@ V situaci „double third country" (non-EU správce + non-EU fond, nabízení je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4bba0c292e2410e5c2a5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 324 — Nabízení pouze v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje obhospodařovatel přesahující rozhodný limit se sídlem ve státě, který není členským státem, lze pouze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+>
+> (2) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 1 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže
+>
+> - a) jsou obdobně splněny podmínky podle § 318 odst. 2 písm. a) a b),
+>
+> - b) orgán dohledu jiného státu, který udělil obhospodařovateli tohoto fondu povolení opravňující jej obhospodařovat tento fond, a Česká národní banka se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle tohoto zákona a
+>
+> - c) stát, ve kterém má sídlo obhospodařovatel tohoto fondu, není uveden na seznamu nespolupracujících zemí a teritorií vypracovaném Finančním akčním výborem proti praní peněz Organizace pro hospodářskou spolupráci a rozvoj.
+>
+> (3) Pro nabízení investic podle odstavce 1 se § 316 odst. 3 až 5 použijí obdobně.
+>
+> (4) Žádost podle odstavce 2 lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 597, § 318, § 316
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4bba0c292e2410e5c2a5 -->
+
 ### § 325 — Non-EU AIFM s EU licencí nebo povolením, non-EU AIF, nabízení v ČR
 
 > **§ 325**
@@ -2437,6 +4583,66 @@ Non-EU správce s EU licencí (českou dle § 481 nebo z jiného EU státu) smí
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c45670328ea499ffb468 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 325 — Nabízení v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje zahraniční osoba s povolením podle [[#§ 481|§ 481]], lze v České republice nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+>
+> (2) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 1 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže jsou obdobně splněny podmínky podle § 318 odst. 2 písm. a) a b) a § 320 odst. 2 písm. b) a c).
+>
+> (3) Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje osoba se sídlem ve státě, který není členským státem, která má povolení udělené orgánem dohledu jiného členského státu srovnatelné s povolením podle [[#§ 481|§ 481]], lze v České republice nabízet osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a osobám, které jsou podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] nebo podle práva jiného členského státu považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, ode dne, kdy obhospodařovatel tohoto fondu obdrží sdělení orgánu dohledu jiného členského státu, který jí udělil povolení srovnatelné s povolením podle [[#§ 481|§ 481]], srovnatelné se sdělením České národní banky podle § 313 odst. 3. Ustanovení § 315 odst. 1 věty druhé se použije obdobně. Investice podle věty první lze v České republice nabízet jen, jestliže jsou obdobně splněny podmínky podle § 318 odst. 2 písm. b) a § 320 odst. 2 písm. b) a c) a
+>
+> - a) orgán dohledu domovského státu tohoto fondu a orgán dohledu jiného členského státu, který udělil obhospodařovateli tohoto fondu povolení srovnatelné s povolením podle [[#§ 481|§ 481]], se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle práva tohoto jiného členského státu, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5), a
+>
+> - b) domovský stát tohoto fondu uzavřel s jiným členským státem, jehož orgán dohledu udělil obhospodařovateli tohoto fondu povolení srovnatelné s povolením podle [[#§ 481|§ 481]], dohodu, která odpovídá zásadám uvedeným v článku 26 Modelové daňové smlouvy Organizace pro hospodářskou spolupráci a rozvoj o příjmech a majetku a která zajišťuje výměnu informací v daňových záležitostech.
+>
+> (4) Investice podle odstavce 3 lze v České republice veřejně nabízet ode dne, kdy je tento fond zapsaný v seznamu vedeném Českou národní bankou podle § 597 písm. d).
+>
+> (5) Česká národní banka zapíše zahraniční investiční fond uvedený v odstavci 3 do seznamu podle § 597 písm. d) na žádost jeho obhospodařovatele do 20 pracovních dnů, jestliže jsou obdobně splněny podmínky podle § 318 odst. 2 písm. b), § 320 odst. 2 písm. b) a c) a odstavce 3 písm. a) a b).
+>
+> (6) Žádost podle odstavců 2 a [[#§ 5|5]] lze podat pouze elektronicky; žádost musí obsahovat údaje a doklady prokazující splnění podmínek stanovených tímto zákonem. Česká národní banka stanoví vyhláškou náležitosti žádosti osvědčující splnění podmínek stanovených tímto zákonem, její formu a způsob podání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 597, § 318, § 320, § 2a, § 313, § 315, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c45670328ea499ffb468 -->
+
 ### § 325a — Non-EU obhospodařovatel bez AIFMD licence nepřesahující rozhodný limit, veřejné nabízení v ČR
 
 > **§ 325a**
@@ -2487,6 +4693,52 @@ Sub-threshold non-EU správce bez EU licence smí v ČR veřejně nabízet non-E
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=199edf4215f4e362466a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 325a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Investice do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje obhospodařovatel se sídlem ve státě, který není členským státem, který nemá povolení podle [[#§ 481|§ 481]] ani srovnatelné povolení udělené orgánem dohledu jiného členského státu a který nepřesahuje rozhodný limit, lze v České republice veřejně nabízet podle [[#§ 296|§ 296]] a § 297 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 296, § 297
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=199edf4215f4e362466a -->
+
 ### § 326 — Non-EU AIFM s EU licencí, nabízení v jiném členském státě
 
 > **§ 326**
@@ -2536,6 +4788,52 @@ Zahraniční osoba s českou licencí (§ 481) nabízí non-EU AIF v jiných EU 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ČNB o povolení podle § 481; text MoU; výpis ze seznamu FATF; znění daňových smluv (ČR–domovský stát fondu, hostitelský stát–domovský stát fondu) se standardem výměny informací; notifikační spis a doklad o jeho předání podle § 313.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d76fcf8d6cf3a85bae90 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 326 — Nabízení v jiném členském státě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Pro nabízení investic v jiném členském státě do zahraničního investičního fondu, jehož domovským státem není členský stát, který obhospodařuje zahraniční osoba s povolením podle [[#§ 481|§ 481]], osobám uvedeným v [[§ 2a odst. 1|§ 2a odst. 1]] nebo [[2|2]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a osobám, které jsou podle práva tohoto jiného členského státu považovány ve vztahu k investicím do daného fondu za zákazníka, který je profesionálním zákazníkem, se § 311 až 314 použijí obdobně; tyto investice lze v jiném členském státě nabízet jen, jestliže jsou obdobně splněny podmínky podle § 318 odst. 2 písm. a) a b), § 320 odst. 2 písm. b) a c) a § 321 odst. 2 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 2a, § 311, § 318, § 320, § 321
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d76fcf8d6cf3a85bae90 -->
 
 ### Díl 3 — Depozitář zahraničního investičního fondu, jehož domovským státem není členský stát
 
@@ -2614,3 +4912,68 @@ Zahraniční osoba s českou licencí (§ 481) nabízí non-EU AIF v jiných EU 
 **Typicky rozhodné důkazy / podklady:** osvědčení o prudenciální licenci a dohledu nad depozitářem; výpis ze seznamu FATF pro stát sídla depozitáře; text dohody/MoU o výměně informací s ČNB; depozitářská (nebo srovnatelná) smlouva se závazkem standardu § 73 a §§ 80–82; doklad o referenčním státu obhospodařovatele dle § 481.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=d2633e69dc199aee3fbf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 327
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitářem zahraničního investičního fondu, jehož domovským státem není členský stát a do nějž jsou nabízeny investice v České republice, může být pouze
+>
+> - a) zahraniční osoba,
+>
+>   - 1. která má sídlo nebo pobočku v domovském státě tohoto fondu,
+>
+>   - 2. která dodržuje pravidla obezřetnosti podle práva státu, ve kterém má sídlo,
+>
+>   - 3. která podléhá dohledu ve státě, ve kterém má sídlo,
+>
+>   - 4. jestliže jsou obdobně splněny podmínky podle § 318 odst. 2 písm. b) a § 320 odst. 2 písm. b),
+>
+>   - 5. jestliže se orgán dohledu státu, ve kterém má sídlo, a Česká národní banka dohodly na výměně informací nezbytných k výkonu dohledu podle tohoto zákona a
+>
+>   - 6. která se ve smlouvě srovnatelné s depozitářskou smlouvou zaváže, že bude vykonávat kontrolní činnost depozitáře alespoň tak, jak vyplývá z [[#§ 73|§ 73]], a odpovídat za újmu alespoň tak, jak vyplývá z § 80 až 82, nebo
+>
+> - b) osoba, která má sídlo nebo pobočku v členském státě, ve kterém má sídlo obhospodařovatel tohoto fondu, nebo který je referenčním státem obhospodařovatele tohoto fondu, a která může být podle práva tohoto členského státu depozitářem.
+>
+> (2) Pro depozitáře zahraničního investičního fondu uvedeného v odstavci 1 písm. b), jehož obhospodařovatel má sídlo nebo pobočku v České republice, nebo pro jehož obhospodařovatele je Česká republika referenčním státem, se ustanovení tohoto zákona, která se dovolávají depozitáře speciálního fondu nebo depozitáře fondu kvalifikovaných investorů, použijí obdobně.
+>
+> (3) V dalším náležitosti splnění podmínek podle odstavce 1 písm. a) bodů 2 a [[#§ 3|3]] vymezuje článek 84 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 318, § 320, § 73, § 80, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d2633e69dc199aee3fbf -->

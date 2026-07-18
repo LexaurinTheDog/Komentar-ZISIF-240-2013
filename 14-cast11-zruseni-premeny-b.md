@@ -87,6 +87,66 @@ V praxi je § 382 vstupní branou: nejprve ověř, zda zamýšlená kombinace fo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b1d244dc2bc23ab5b049 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 382 — Přípustné způsoby splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Připouští se splynutí
+>
+>   - a) speciálních fondů, které mají právní formu podílových fondů, v jeden nový speciální fond, který má právní formu podílového fondu,
+>
+>   - b) speciálního fondu, který má právní formu podílového fondu, a standardního fondu, který má právní formu podílového fondu, v jeden nový standardní fond, který má právní formu podílového fondu,
+>
+>   - c) standardních fondů, které mají právní formu podílových fondů, v jeden nový standardní fond, který má právní formu podílového fondu, nebo v jeden nový zahraniční investiční fond srovnatelný se standardním fondem,
+>
+>   - d) standardního fondu, který má právní formu podílového fondu, a zahraničního investičního fondu srovnatelného se standardním fondem v jeden nový standardní fond, který má právní formu podílového fondu, nebo v jeden nový zahraniční investiční fond srovnatelný se standardním fondem a
+>
+>   - e) fondů kvalifikovaných investorů, které mají právní formu podílových fondů, v jeden nový fond kvalifikovaných investorů, který má právní formu podílového fondu.
+>
+> (2) Podílové fondy, popřípadě i zahraniční investiční fond srovnatelný se standardním fondem, které se splynutí účastní, se zrušují bez likvidace a jmění v nich se stává jměním v podílovém fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, který má splynutím vzniknout.
+>
+> (3) O splynutí rozhoduje obhospodařovatel podílových fondů, popřípadě i zahraničních investičních fondů srovnatelných se standardním fondem, které mají být splynutím zrušeny. Rozhoduje-li o splynutí více osob, vyžaduje se jejich dohoda.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1d244dc2bc23ab5b049 -->
+
 ### § 383 — Projekt splynutí
 
 > **§ 383**
@@ -149,6 +209,56 @@ Projekt splynutí je páteří celé operace: musí mít písemnou formu, obsaho
 **Typicky rozhodné důkazy / podklady:** schválené znění projektu splynutí, doklady o jeho schválení každým administrátorem, rozhodnutí obhospodařovatelů o splynutí, statuty fondů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dfbb8ba411d9359c7834 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 383 — Projekt splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Splynutí se provádí podle schváleného projektu splynutí.
+>
+> (2) Projekt splynutí vypracují administrátoři podílových fondů, popřípadě i zahraničních investičních fondů srovnatelných se standardním fondem, které mají být splynutím zrušeny.
+>
+> (3) Projekt splynutí musí být schválen ve stejném znění všemi, kdo jej vypracovali.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dfbb8ba411d9359c7834 -->
 
 ### § 384 — Náležitosti projektu splynutí
 
@@ -229,6 +339,72 @@ Zákon vyžaduje písemnou formu, nikoliv formu notářského zápisu. To odliš
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b7de3289a20c0b920913 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 384 — Náležitosti projektu splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Projekt splynutí obsahuje s ohledem na způsob splynutí alespoň
+>
+>   - a) určení, o který způsob splynutí uvedený v § 382 odst. 1 se jedná,
+>
+>   - b) označení podílového fondu, popřípadě i zahraničního investičního fondu srovnatelného se standardním fondem, který má být splynutím zrušen, a označení podílového fondu, popřípadě i zahraničního investičního fondu srovnatelného se standardním fondem, který má splynutím vzniknout,
+>
+>   - c) důvody pro splynutí,
+>
+>   - d) pravděpodobné dopady splynutí na zájmy vlastníků cenných papírů nebo zaknihovaných cenných papírů vydaných podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který má být splynutím zrušen,
+>
+>   - e) kritéria pro ocenění majetku a dluhů v podílovém fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, který má být splynutím zrušen,
+>
+>   - f) postup pro výpočet výměnného podílu ([[#§ 395|§ 395]]),
+>
+>   - g) rozhodný den splynutí,
+>
+>   - h) pravidla pro převzetí jmění v podílovém fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, který má být splynutím zrušen, a výměnu cenných papírů nebo zaknihovaných cenných papírů vydaných tímto fondem za cenné papíry nebo zaknihovaných cenných papírů vydávané podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který má splynutím vzniknout, a
+>
+>   - i) návrh statutu podílového fondu nebo zahraničního investičního fondu srovnatelného se standardním fondem, který má splynutím vzniknout.
+>
+> (2) Projekt splynutí vyžaduje písemnou formu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 382, § 395
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b7de3289a20c0b920913 -->
+
 ### § 385 — Povolení České národní banky
 
 > **§ 385**
@@ -302,6 +478,66 @@ Zamítne-li ČNB nebo zahraniční orgán dohledu splynutí, ruší se projekt s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c58f11e5fce38bd51fe generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 385 — Povolení České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ke splynutí, k němuž dochází některým ze způsobů uvedených v § 382 odst. 1 písm. a) až d), je třeba povolení České národní banky.
+>
+> (2) Česká národní banka nepovolí splynutí
+>
+>   - a) otevřeného podílového fondu a uzavřeného podílového fondu,
+>
+>   - b) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem s výrazně odlišným způsobem investování,
+>
+>   - c) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem, není-li zajištěna ochrana zájmů vlastníků cenných papírů nebo zaknihovaných cenných papírů vydávaných těmito fondy,
+>
+>   - d) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem, o němž nebyly vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných těmito fondy poskytnuty dostatečné informace, a
+>
+>   - e) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem, jestliže se jedná o splynutí, při němž se zpracovává sdělení o splynutí, a standardní fond nebo zahraniční investiční fond srovnatelný se standardním fondem, který má splynutím vzniknout, nebude oprávněn veřejně nabízet jím vydávané cenné papíry nebo zaknihované cenné papíry ve stejných členských státech, v nichž byl oprávněn je veřejně nabízet každý ze standardních fondů, které mají být splynutím zrušeny.
+>
+> (3) Dnem nabytí právní moci rozhodnutí České národní banky nebo kteréhokoli příslušného orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, jímž se splynutí nepovoluje, se projekt splynutí ruší. Právní účinky zrušení projektu splynutí pominou dnem, kdy bylo takové rozhodnutí pravomocně zrušeno rozhodnutím soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 382
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c58f11e5fce38bd51fe -->
+
 ### § 386 — Řízení o žádosti o povolení splynutí
 
 > **§ 386**
@@ -369,6 +605,60 @@ Zákon výslovně vymezuje okruh účastníků správního řízení: obhospoda�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=82cd82353234a2a59241 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 386 — Řízení o žádosti o povolení splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Žádost o povolení splynutí, k němuž dochází
+>
+>   - a) způsobem uvedeným v § 382 odst. 1 písm. a), podává ten, kdo bude poskytovat administraci podílovému fondu, který má splynutím vzniknout, nebo
+>
+>   - b) některým ze způsobů uvedených v § 382 odst. 1 písm. b) až d), podává administrátor standardního fondu, který má být splynutím zrušen.
+>
+> (2) Žádost o povolení splynutí, k němuž dochází způsobem uvedeným v § 382 odst. 1 písm. c) nebo d), a její přílohy musí být rovněž v úředním jazyce domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, který má být splynutím zrušen, a v úředním jazyce domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, který má splynutím vzniknout, anebo v jazyce, v němž lze předkládat dokumenty orgánům dohledu těchto států.
+>
+> (3) Účastníky řízení o žádosti o povolení splynutí jsou obhospodařovatelé, administrátoři a depozitáři podílových fondů, popřípadě i zahraničních investičních fondů srovnatelných se standardním fondem, které mají být splynutím zrušeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 382
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82cd82353234a2a59241 -->
+
 ### § 387 — Lhůta pro vydání rozhodnutí
 
 > **§ 387**
@@ -425,6 +715,54 @@ Pro splynutí, při nichž se zpracovává sdělení o splynutí (standardní fo
 **Typicky rozhodné důkazy / podklady:** podací razítko/datum žádosti, výzva ČNB k odstranění vad a její datum, doklad o doplnění žádosti, rozhodnutí o povolení a datum jeho vydání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=523bb03d42c7538ad33b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 387 — Lhůta pro vydání rozhodnutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka vydá rozhodnutí o žádosti o povolení splynutí nejpozději do 20 pracovních dní ode dne podání žádosti, která má předepsané náležitosti a netrpí jinými vadami.
+>
+> (2) Nemá-li žádost o povolení splynutí, při němž se zpracovává sdělení o splynutí, předepsané náležitosti nebo trpí-li jinými vadami, vyzve Česká národní banka žadatele nejpozději do 10 pracovních dní ode dne podání žádosti nebo ode dne jejího doplnění, aby tyto vady v přiměřené lhůtě odstranil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=523bb03d42c7538ad33b -->
 
 ### § 388 — Sdělení o splynutí
 
@@ -493,6 +831,60 @@ Sdělení nelze uveřejnit dříve, než nabylo právní moci rozhodnutí o povo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2973284841555d658ca9 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 388 — Sdělení o splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor standardního fondu, který má být splynutím zrušen, zpracuje, uveřejní a poskytne podílníkům nebo akcionářům tohoto fondu sdělení o splynutí, má-li se splynutím zrušit
+>
+>   - a) standardní fond a vzniknout standardní fond, popřípadě i zahraniční investiční fond srovnatelný se standardním fondem, nebo
+>
+>   - b) standardní fond, jehož podílové listy jsou veřejně nabízeny v jiném členském státě.
+>
+> (2) Administrátoři standardních fondů, které mají být splynutím zrušeny, mohou zpracovat společné sdělení o splynutí. Společné sdělení o splynutí zpracují vždy, mají-li se splynutím zrušit pouze standardní fondy a vzniknout pouze standardní fond.
+>
+> (3) Administrátor standardního fondu, který má být splynutím zrušen, uveřejní sdělení o splynutí až po dni nabytí právní moci rozhodnutí České národní banky nebo orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, jímž se splynutí povoluje poslednímu žadateli o povolení splynutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2973284841555d658ca9 -->
+
 ### § 389 — Náležitosti sdělení o splynutí
 
 > **§ 389**
@@ -559,6 +951,64 @@ Pro přeshraniční fondy musí být sdělení přeloženo do úředního jazyka
 **Typicky rozhodné důkazy / podklady:** text sdělení o splynutí ve všech jazykových verzích, doklad o státech veřejného nabízení, vyhláška ČNB k obsahu sdělení, zpráva depozitáře o kontrole sdělení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2fe917aa2cb23a667349 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 389 — Náležitosti sdělení o splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Sdělení o splynutí obsahuje takové informace o splynutí, aby vlastníci cenných papírů nebo zaknihovaných cenných papírů vydávaných podílovými fondy, popřípadě i zahraničními investičními fondy srovnatelnými se standardními fondy, které mají být splynutím zrušeny, mohli posoudit dopady splynutí na své zájmy; sdělení o splynutí obsahuje alespoň
+>
+>   - a) důvody pro splynutí,
+>
+>   - b) dopady splynutí na zájmy vlastníků cenných papírů nebo zaknihovaných cenných papírů vydávaných podílovými fondy, popřípadě i zahraničními standardními fondy, které mají být splynutím zrušeny,
+>
+>   - c) rozhodný den splynutí a
+>
+>   - d) informaci o tom, zda vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných podílovými fondy, popřípadě i zahraničními standardními fondy, které mají být splynutím zrušeny, vzniká právo na odkoupení nebo právo na nahrazení podle § 390 odst. 1, a vysvětlení podstaty tohoto práva včetně lhůty pro jeho uplatnění.
+>
+> (2) Sdělení o splynutí se zpracuje a uveřejní rovněž v úředním jazyce jiných členských států, ve kterých jsou nabízeny investice do standardního fondu, popřípadě i do zahraničního investičního fondu srovnatelného se standardním fondem, který má být splynutím zrušen, nebo v jazyce, v němž lze předkládat dokumenty orgánům dohledu těchto států.
+>
+> (3) Česká národní banka stanoví vyhláškou požadavky k obsahu sdělení o splynutí v rozsahu odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 390
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2fe917aa2cb23a667349 -->
 
 ### § 390 — Následky uveřejnění sdělení o splynutí
 
@@ -631,6 +1081,60 @@ Minimální lhůta 30 dní od uveřejnění sdělení dává investorům dostate
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=60f0e0e634d78c3ea731 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 390 — Následky uveřejnění sdělení o splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Uveřejněním sdělení o splynutí vzniká vlastníkovi cenného papíru nebo zaknihovaného cenného papíru vydaného podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který se splynutím zrušuje,
+>
+>   - a) právo na odkoupení tohoto cenného papíru nebo zaknihovaného cenného papíru bez srážky; srazit však lze částku odpovídající účelně vynaloženým nákladům spojeným s odkoupením cenného papíru nebo zaknihovaného cenného papíru, nebo
+>
+>   - b) právo na nahrazení cenného papíru nebo zaknihovaného cenného papíru cenným papírem nebo zaknihovaným cenným papírem vydávaným jiným standardním fondem nebo jiným zahraničním investičním fondem srovnatelným se standardním fondem, který obhospodařuje stejný obhospodařovatel nebo obhospodařovatel, který je součástí stejného koncernu jako obhospodařovatel standardního fondu nebo zahraničního investičního fondu srovnatelného se standardním fondem, který vydává cenné papíry nebo zaknihované cenné papíry, za něž mají být cenné papíry nebo zaknihované cenné papíry nahrazeny.
+>
+> (2) Právo podle odstavce 1 zanikne, není-li uplatněno ve lhůtě určené ve sdělení o splynutí. Lhůta pro uplatnění práva podle odstavce 1 musí být určena tak, aby činila alespoň 30 dní ode dne uveřejnění sdělení o splynutí a skončila nejpozději 5 pracovních dní před rozhodným dnem splynutí.
+>
+> (3) Při odkoupení se § 131 až 141 použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60f0e0e634d78c3ea731 -->
+
 ### § 391 — Postup bez uveřejnění sdělení o splynutí
 
 > **§ 391**
@@ -686,6 +1190,56 @@ Pokud se splynutí nezpracovává sdělení o splynutí (tj. jde o splynutí spe
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=309ad757ccb901b6ff0e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 391 — Postup bez uveřejnění sdělení o splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Nejedná-li se o splynutí, při němž se zpracovává sdělení o splynutí, administrátor podílového fondu, který má být splynutím zrušen, uveřejní na internetových stránkách tohoto fondu rozhodnutí České národní banky o povolení splynutí a statut podílového fondu, který má splynutím vzniknout, do 1 měsíce ode dne nabytí právní moci tohoto rozhodnutí. Zároveň na internetových stránkách podílového fondu, který má být splynutím zrušen, uveřejní oznámení o vzniku práva na odkoupení podílového listu.
+>
+> (2) Uveřejněním oznámení podle odstavce 1 vzniká podílníkům podílových fondů, které mají být splynutím zrušeny, právo na odkoupení podílového listu bez srážky; srazit však lze částku odpovídající účelně vynaloženým nákladům spojeným s odkoupením podílového listu. Toto právo zanikne, není-li uplatněno do 2 měsíců ode dne uveřejnění oznámení.
+>
+> (3) Při odkoupení podílového listu se postupuje podle § 131 až 141.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=309ad757ccb901b6ff0e -->
+
 ### § 392 — Dočasná výjimka z investičních limitů
 
 > **§ 392**
@@ -736,6 +1290,52 @@ Splynutím vznikají v portfoliu nového fondu pozice, které mohou překračova
 **Typicky rozhodné důkazy / podklady:** skladba portfolia k rozhodnému dni a po něm, výpočet investičních limitů, odůvodnění příčinné souvislosti se splynutím, plán a doklady o narovnání limitů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=27d4b598f14b5af5e14a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 392 — Dočasná výjimka z investičních limitů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Obhospodařovatel fondu kolektivního investování, který splynutím vznikl, nemusí po dobu až 6 měsíců od rozhodného dne splynutí dodržovat pro tento fond investiční limity, které nařízení vlády vydané podle § 215 odst. 2 stanoví u investičních cenných papírů, nástrojů peněžního trhu, cenných papírů vydávaných investičním fondem nebo zahraničním investičním fondem, derivátů nebo pohledávek na výplatu peněžních prostředků z účtu v české nebo cizí měně, je-li pro to z hlediska důsledků splynutí důvod.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 215
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27d4b598f14b5af5e14a -->
 
 ### § 393 — Další pravidla
 
@@ -795,6 +1395,56 @@ Depozitář rovněž ověřuje věcnou správnost sdělení o splynutí. Tato ko
 **Typicky rozhodné důkazy / podklady:** projekt splynutí s oceňovacími kritérii, výpočet výměnného podílu, zpráva depozitáře o kontrole, oznámení o ukončení převodu jmění a o rozhodném dni.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5e7582b1e1769e890200 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 393 — Další pravidla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel podílového fondu nebo zahraničního standardního fondu srovnatelného s podílovým fondem, který splynutím vznikl, oznámí depozitáři tohoto fondu, že převod jmění v tomto fondu byl ukončen; na internetových stránkách tohoto fondu uveřejní rovněž informaci o tom, že nastal rozhodný den splynutí.
+>
+> (2) Depozitář podílového fondu nebo zahraničního investičního fondu srovnatelného se standardním fondem, který byl splynutím zrušen, zkontroluje, zda majetek a dluhy v tomto fondu byly oceněny v souladu s kritérii obsaženými v projektu splynutí a zda výměnný podíl byl vypočítán v souladu s tímto zákonem a projektem splynutí. O výsledku kontroly zpracuje zprávu, kterou na požádání bezplatně poskytne vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných standardním fondem nebo zahraničním investičním fondem srovnatelným se standardním fondem, který má být splynutím zrušen, a rovněž České národní bance a orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem.
+>
+> (3) Depozitář podílového fondu nebo zahraničního investičního fondu srovnatelného se standardním fondem, který byl splynutím zrušen nebo který splynutím vznikl, zkontroluje soulad údajů obsažených ve sdělení o splynutí s požadavky tohoto zákona a statutem těchto fondů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5e7582b1e1769e890200 -->
 
 ### § 394 — Rozhodný den splynutí
 
@@ -873,6 +1523,62 @@ Po rozhodném dni nelze projekt měnit ani prohlásit splynutí za neplatné. Jd
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c3c5a8f19c6d276edeb4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 394 — Rozhodný den splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Podílový fond, popřípadě i zahraniční investiční fond srovnatelný se standardním fondem, který se splynutí účastní, se zrušuje a vlastníci cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto fondem se stávají vlastníky cenných papírů nebo zaknihovaných cenných papírů vydávaných podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který má splynutím vzniknout, uplynutím určené lhůty k rozhodnému dni splynutí.
+>
+> (2) Rozhodný den splynutí je rovněž den, od něhož se jmění v podílovém fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, který má být splynutím zrušen, považuje z účetního hlediska za jmění v podílovém fondu, popřípadě i zahraničním investičním fondu srovnatelném se standardním fondem, který má splynutím vzniknout.
+>
+> (3) Rozhodný den splynutí nesmí předcházet dni, v němž rozhodnutí o povolení splynutí vydané Českou národní bankou nebo orgánem dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem nabude právní moci.
+>
+> (4) Zrušuje-li se splynutím standardní fond a vzniká-li splynutím zahraniční investiční fond srovnatelný se standardním fondem, stávají se podílníci standardního fondu, který má být splynutím zrušen, vlastníky cenných papírů nebo zaknihovaných cenných papírů vydávaných zahraničním investičním fondem srovnatelným se standardním fondem, který má splynutím vzniknout, ke dni, který vyplývá z práva domovského státu tohoto fondu.
+>
+> (5) Účastní-li se splynutí řídící fond, může rozhodný den splynutí nastat nejdříve 60 dní ode dne uveřejnění oznámení o tom, že se řídící fond zrušuje (§ 435 odst. 1).
+>
+> (6) Po rozhodném dni splynutí nemůže být projekt splynutí změněn nebo zrušen ani nemůže být splynutí nebo rozhodnutí o něm prohlášeno za neplatné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 435
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c3c5a8f19c6d276edeb4 -->
+
 ### § 395 — Výměna cenných papírů nebo zaknihovaných cenných papírů
 
 > **§ 395**
@@ -926,6 +1632,54 @@ Výměna probíhá ve výměnném poměru, který se vypočítá jako poměr fon
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dbe0c46c576d26cc65a6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 395 — Výměna cenných papírů nebo zaknihovaných cenných papírů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor podílového fondu, který splynutím vznikl, zajistí do 3 měsíců od rozhodného dne splynutí výměnu cenného papíru nebo zaknihovaného cenného papíru vydaného podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který byl splynutím zrušen, za podílový list podílového fondu, který splynutím vznikl, v poměru určeném podle výše fondového kapitálu podílového fondu připadajícího na cenný papír nebo zaknihovaný cenný papír vydaný podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který byl splynutím zrušen, k rozhodnému dni splynutí.
+>
+> (2) Zrušuje-li se splynutím podílový fond a vzniká-li splynutím zahraniční investiční fond srovnatelný se standardním fondem, vymění se podílový list za cenný papír nebo zaknihovaný cenný papír vydaný zahraničním investičním fondem srovnatelným se standardním fondem ve lhůtě a v poměru stanoveném ke dni, který vyplývá z práva domovského státu zahraničního investičního fondu srovnatelného se standardním fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbe0c46c576d26cc65a6 -->
+
 ### § 396 — Peněžní dorovnání pro nepřiměřenost výměnného podílu
 
 > **§ 396**
@@ -978,6 +1732,54 @@ Zákon umožňuje poskytnout peněžní dorovnání až do výše 10 % hodnoty c
 **Typicky rozhodné důkazy / podklady:** projekt splynutí (výměnný poměr a metodika), výpočet aktuální hodnoty CP k rozhodnému dni, zpráva depozitáře o kontrole výměnného podílu, doklad o vyplaceném dorovnání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a59501488fe03298197f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 396 — Peněžní dorovnání pro nepřiměřenost výměnného podílu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Není-li pro uplatnění práva na výměnu podle [[#§ 395|§ 395]] výměnný poměr uvedený v projektu splynutí přiměřený, poskytne obhospodařovatel podílového fondu, popřípadě zahraničního investičního fondu srovnatelného se standardním fondem, který splynutím vznikl, prostřednictvím administrátora tohoto fondu vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydaných podílovým fondem, popřípadě zahraničním investičním fondem srovnatelným se standardním fondem, který byl splynutím zrušen, dorovnání v penězích, a to až do výše 10 % aktuální hodnoty cenných papírů nebo zaknihovaných cenných papírů vydaných podílovým fondem, popřípadě zahraničním investičním fondem srovnatelným se standardním fondem, který byl splynutím zrušen.
+>
+> (2) Den, k němuž se pro účely dorovnání určí aktuální hodnota cenného papíru nebo zaknihovaného cenného papíru, musí být totožný s rozhodným dnem splynutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 395
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a59501488fe03298197f -->
 
 ### § 397 — Spolupráce České národní banky a orgánu dohledu zahraničního investičního fondu v řízení o žádosti o povolení splynutí
 
@@ -1033,6 +1835,54 @@ Pro přeshraniční splynutí (písm. c a d) zákon ukládá ČNB okamžitou not
 ---
 
 #### Oddíl 3 — Sloučení podílových fondů
+
+
+<!-- LEGAL-REVISION:BEGIN id=0376393731a6a02e23bb generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 397 — Spolupráce České národní banky a orgánu dohledu zahraničního investičního fondu v řízení o žádosti o povolení splynutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jakmile žádost o povolení splynutí, k němuž dochází způsobem uvedeným v § 382 odst. 1 písm. c) nebo d), splňuje stanovené požadavky, Česká národní banka zašle bez zbytečného odkladu její kopii a kopie dokladů, které jsou k ní přiloženy, orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, který má splynutím vzniknout.
+>
+> (2) Česká národní banka informuje bez zbytečného odkladu orgán dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, který se má splynutím zrušit nebo který má splynutím vzniknout, o vydání rozhodnutí o povolení splynutí, k němuž dochází způsobem uvedeným v § 382 odst. 1 písm. c) nebo d), jakož i o tom, že rozhodný den splynutí nastal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 382
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0376393731a6a02e23bb -->
 
 ### § 398 — Přípustné způsoby sloučení
 
@@ -1103,6 +1953,66 @@ Zákon opět vymezuje přípustné kombinace taxativně. Klíčové je písm. b)
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eb5f26d1d473c4b00edf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 398 — Přípustné způsoby sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Připouští se sloučení
+>
+>   - a) speciálních fondů, které mají právní formu podílových fondů,
+>
+>   - b) speciálního fondu, který má právní formu podílového fondu, a standardního fondu, který má právní formu podílového fondu, má-li být přejímajícím podílovým fondem standardní fond,
+>
+>   - c) standardních fondů, které mají právní formu podílových fondů,
+>
+>   - d) standardního fondu, který má právní formu podílového fondu, a zahraničního investičního fondu srovnatelného se standardním fondem, a
+>
+>   - e) fondů kvalifikovaných investorů, které mají právní formu podílových fondů.
+>
+> (2) Podílový fond, který sloučením zaniká, se zrušuje bez likvidace a jmění v něm se stává součástí jmění v přejímajícím podílovém fondu, popřípadě i v přejímajícím zahraničním investičním fondu srovnatelném se standardním fondem.
+>
+> (3) O sloučení rozhoduje obhospodařovatel podílových fondů, popřípadě i zahraničních investičních fondů srovnatelných se standardním fondem, které se sloučení účastní. Rozhoduje-li o sloučení více osob, vyžaduje se jejich dohoda.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb5f26d1d473c4b00edf -->
+
 ### § 399 — Projekt sloučení
 
 > **§ 399**
@@ -1155,6 +2065,56 @@ Ustanovení je obsahově paralelní s § 383 (projekt splynutí); na rozdíl od 
 **Typicky rozhodné důkazy / podklady:** schválené znění projektu sloučení, doklady o jeho schválení každým administrátorem (vč. přejímajícího fondu), rozhodnutí obhospodařovatelů o sloučení, statuty fondů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e2132e4478c7ab2344a7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 399 — Projekt sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Sloučení se provádí podle schváleného projektu sloučení.
+>
+> (2) Projekt sloučení vypracují administrátoři podílových fondů, popřípadě i zahraničních investičních fondů srovnatelných se standardním fondem, které se sloučení účastní.
+>
+> (3) Projekt sloučení musí být schválen ve stejném znění všemi, kdo jej vypracovali.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2132e4478c7ab2344a7 -->
 
 ### § 400 — Náležitosti projektu sloučení
 
@@ -1227,6 +2187,72 @@ Projekt sloučení se liší od projektu splynutí (§ 384) zejména v tom, že 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8475737f9dc5e51104ea generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 400 — Náležitosti projektu sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Projekt sloučení obsahuje s ohledem na způsob sloučení alespoň
+>
+>   - a) určení, o který způsob sloučení uvedený v § 398 odst. 1 se jedná,
+>
+>   - b) označení podílových fondů, popřípadě i zahraničního investičního fondu srovnatelného se standardním fondem, které se sloučení účastní,
+>
+>   - c) důvody pro sloučení,
+>
+>   - d) pravděpodobné dopady sloučení na zájmy vlastníků cenných papírů nebo zaknihovaných cenných papírů vydaných podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který se sloučením zrušuje, a na zájmy vlastníků cenných papírů nebo zaknihovaných cenných papírů vydaných přejímajícím podílovým fondem, popřípadě i přejímajícím zahraničním investičním fondem srovnatelným se standardním fondem,
+>
+>   - e) kritéria pro ocenění majetku a dluhů v podílovém fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, které se stávají součástí majetku a dluhů v přejímajícím podílovém fondu, popřípadě i v přejímajícím zahraničním investičním fondu srovnatelném se standardním fondem,
+>
+>   - f) postup pro výpočet výměnného podílu ([[#§ 411|§ 411]]),
+>
+>   - g) rozhodný den sloučení,
+>
+>   - h) pravidla pro převzetí jmění v podílovém fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, který má být sloučením zrušen, a výměnu cenných papírů nebo zaknihovaných cenných papírů vydaných tímto fondem za cenné papíry nebo zaknihované cenné papíry vydávané přejímajícím podílovým fondem, popřípadě i přejímajícím zahraničním investičním fondem srovnatelným se standardním fondem, a
+>
+>   - i) návrh nového nebo aktualizovaného statutu přejímajícího podílového fondu nebo přejímajícího zahraničního investičního fondu srovnatelného se standardním fondem.
+>
+> (2) Projekt sloučení vyžaduje písemnou formu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 398, § 411
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8475737f9dc5e51104ea -->
+
 ### § 401 — Povolení České národní banky
 
 > **§ 401**
@@ -1298,6 +2324,68 @@ Oproti splynutí přibývá u sloučení důvod zamítnutí v písm. f): pokud z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6b9a3e4f942093f02ee6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 401 — Povolení České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Ke sloučení, k němuž dochází některým ze způsobů uvedených v § 398 odst. 1 písm. a) až d), je třeba povolení České národní banky, ledaže se jedná o sloučení, k němuž dochází způsobem uvedeným v § 398 odst. 1 písm. d), a sloučením nemá být zrušen standardní fond.
+>
+> (2) Česká národní banka nepovolí sloučení
+>
+>   - a) otevřeného podílového fondu a uzavřeného podílového fondu,
+>
+>   - b) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem s výrazně odlišným způsobem investování,
+>
+>   - c) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem, není-li zajištěna ochrana zájmů vlastníků cenných papírů nebo zaknihovaných cenných papírů vydávaných těmito fondy,
+>
+>   - d) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem, o němž nebyly vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných těmito fondy poskytnuty dostatečné informace,
+>
+>   - e) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem, jestliže se jedná o sloučení, při němž se zpracovává sdělení o sloučení, a přejímající standardní fond nebo přejímající zahraniční investiční fond srovnatelný se standardním fondem nebude oprávněn veřejně nabízet jím vydávané cenné papíry nebo zaknihované cenné papíry ve stejných členských státech, v nichž byl oprávněn je veřejně nabízet každý ze standardních fondů, které se sloučení účastní, a
+>
+>   - f) podílových fondů nebo zahraničních investičních fondů srovnatelných se standardním fondem, jestliže se jedná o sloučení, při němž se zpracovává sdělení o sloučení, a orgán dohledu domovského státu přejímajícího zahraničního investičního fondu srovnatelného se standardním fondem do vydání rozhodnutí České národní banky, jímž se sloučení povoluje, České národní bance neoznámil, že jeho výhrady, které jí ke sloučení sdělil, již netrvají.
+>
+> (3) Dnem nabytí právní moci rozhodnutí České národní banky nebo kteréhokoli příslušného orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, jímž se sloučení nepovoluje, se projekt sloučení ruší. Právní účinky zrušení projektu sloučení pominou dnem, kdy bylo takové rozhodnutí pravomocně zrušeno rozhodnutím soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 398
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b9a3e4f942093f02ee6 -->
+
 ### § 402 — Řízení o žádosti o povolení sloučení
 
 > **§ 402**
@@ -1354,6 +2442,60 @@ V praxi je nutné nejprve zařadit sloučení pod správné písmeno § 398 odst
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8b84cc8c42b939f34538 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 402 — Řízení o žádosti o povolení sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Žádost o povolení sloučení, k němuž dochází
+>
+>   - a) způsobem uvedeným v § 398 odst. 1 písm. a), podává administrátor přejímajícího podílového fondu, nebo
+>
+>   - b) některým ze způsobů uvedených v § 398 odst. 1 písm. b) až d), podává administrátor podílového fondu, který má být sloučením zrušen.
+>
+> (2) Žádost o povolení sloučení, k němuž dochází způsobem uvedeným v § 398 odst. 1 písm. d), a její přílohy musí být rovněž v úředním jazyce domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, který má být sloučením zrušen, a v úředním jazyce domovského státu přejímajícího zahraničního investičního fondu srovnatelného se standardním fondem, anebo v jazyce, v němž lze předkládat dokumenty orgánům dohledu těchto států.
+>
+> (3) Účastníky řízení o žádosti o povolení sloučení jsou obhospodařovatelé, administrátoři a depozitáři podílových fondů, popřípadě i zahraničních investičních fondů srovnatelných se standardním fondem, které se sloučení účastní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 398
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b84cc8c42b939f34538 -->
+
 ### § 403 — Lhůta pro vydání rozhodnutí
 
 > **§ 403**
@@ -1403,6 +2545,54 @@ Ustanovení je obsahově totožné s § 387 (lhůty u splynutí). Viz výklad ta
 **Typicky rozhodné důkazy / podklady:** doručenka žádosti, spisový přehled úkonů ČNB s daty, znění výzvy k odstranění vad, projekt sloučení a jeho přílohy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a19d09501abed1481a9a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 403 — Lhůta pro vydání rozhodnutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka vydá rozhodnutí o žádosti o povolení sloučení nejpozději do 20 pracovních dní ode dne podání žádosti, která má předepsané náležitosti a netrpí jinými vadami.
+>
+> (2) Nemá-li žádost o povolení sloučení, při němž se zpracovává sdělení o sloučení, předepsané náležitosti nebo trpí-li jinými vadami, vyzve Česká národní banka žadatele nejpozději do 10 pracovních dní ode dne podání žádosti nebo ode dne jejího doplnění, aby tyto vady v přiměřené lhůtě odstranil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a19d09501abed1481a9a -->
 
 ### § 404 — Sdělení o sloučení
 
@@ -1459,6 +2649,60 @@ Sdělení o sloučení se zpracovává pro podílníky všech účastnících se
 **Typicky rozhodné důkazy / podklady:** text a datum uveřejnění sdělení, projekt sloučení, doklad o právní moci povolení ČNB, srovnání portfolií a rizikových profilů fondů před a po sloučení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f8aef253810a3537617f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 404 — Sdělení o sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor standardního fondu, který se sloučení účastní, zpracuje, uveřejní a poskytne podílníkům nebo akcionářům tohoto fondu sdělení o sloučení,
+>
+>   - a) má-li být sloučením zrušen standardní fond a jmění v něm se stát součástí jmění ve standardním fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, nebo
+>
+>   - b) účastní-li se sloučení standardní fond, jehož podílové listy jsou veřejně nabízeny v jiném členském státě.
+>
+> (2) Administrátoři standardních fondů, které se sloučení účastní, mohou zpracovat společné sdělení o sloučení. Společné sdělení o sloučení zpracují vždy, mají-li se sloučením zrušit pouze standardní fondy a má-li se jmění v nich stát součástí jmění pouze standardního fondu.
+>
+> (3) Administrátor standardního fondu, který se sloučení účastní, uveřejní sdělení o sloučení až po dni nabytí právní moci rozhodnutí České národní banky nebo orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, jímž se sloučení povoluje poslednímu žadateli o povolení sloučení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8aef253810a3537617f -->
 
 ### § 405 — Náležitosti sdělení o sloučení
 
@@ -1520,6 +2764,64 @@ Sdělení o sloučení musí obsahovat alespoň důvody, dopady, rozhodný den a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9364b2265fa76f5de078 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 405 — Náležitosti sdělení o sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Sdělení o sloučení obsahuje takové informace o sloučení, aby vlastníci cenných papírů nebo zaknihovaných cenných papírů vydávaných podílovými fondy, popřípadě i zahraničními investičními fondy srovnatelnými se standardními fondy, které se sloučení účastní, mohli posoudit dopady sloučení na své zájmy; sdělení o sloučení obsahuje alespoň
+>
+>   - a) důvody pro sloučení,
+>
+>   - b) dopady sloučení na zájmy vlastníků cenných papírů nebo zaknihovaných cenných papírů vydávaných podílovými fondy, popřípadě i zahraničními investičními fondy srovnatelnými se standardními fondy, které se sloučení účastní,
+>
+>   - c) rozhodný den sloučení a
+>
+>   - d) informaci o tom, zda vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných podílovými fondy, popřípadě i zahraničními fondy srovnatelnými se standardními fondy, které se sloučení účastní, vzniká právo na odkoupení nebo právo na nahrazení podle § 406 odst. 1, a vysvětlení podstaty tohoto práva včetně lhůty pro jeho uplatnění.
+>
+> (2) Sdělení o sloučení se zpracuje a uveřejní rovněž v úředním jazyce jiných členských států, ve kterých jsou nabízeny investice do standardního fondu, popřípadě i do zahraničního investičního fondu srovnatelného se standardním fondem, který se sloučení účastní, nebo v jazyce, v němž lze předkládat dokumenty orgánům dohledu těchto států.
+>
+> (3) Česká národní banka stanoví vyhláškou požadavky k obsahu sdělení o sloučení v rozsahu odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 406
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9364b2265fa76f5de078 -->
+
 ### § 406 — Následky uveřejnění sdělení o sloučení
 
 > **§ 406**
@@ -1576,6 +2878,60 @@ Uveřejnění sdělení o sloučení zakládá podílníkům standardních fond�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=27c8982b07440a2f78a8 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 406 — Následky uveřejnění sdělení o sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Uveřejněním sdělení o sloučení vzniká podílníkovi standardního fondu, který se účastní sloučení, nebo speciálního fondu, který má být sloučením zrušen,
+>
+>   - a) právo na odkoupení podílového listu bez srážky; srazit však lze částku odpovídající účelně vynaloženým nákladům spojeným s odkoupením podílového listu, nebo
+>
+>   - b) právo na nahrazení podílového listu cenným papírem nebo zaknihovaným cenným papírem vydávaným jiným standardním fondem nebo jiným zahraničním investičním fondem srovnatelným se standardním fondem, který obhospodařuje stejný obhospodařovatel nebo obhospodařovatel, který je součástí stejného koncernu jako obhospodařovatel standardního fondu nebo zahraničního investičního fondu srovnatelného se standardním fondem, který vydává cenné papíry nebo zaknihované cenné papíry, za něž mají být cenné papíry nebo zaknihované cenné papíry nahrazeny.
+>
+> (2) Právo podle odstavce 1 zanikne, není-li uplatněno ve lhůtě určené ve sdělení o sloučení. Lhůta pro uplatnění práva podle odstavce 1 musí být určena tak, aby činila alespoň 30 dní ode dne uveřejnění sdělení o sloučení a skončila nejpozději 5 pracovních dní před rozhodným dnem sloučení.
+>
+> (3) Při odkoupení se postupuje podle § 131 až 141.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27c8982b07440a2f78a8 -->
+
 ### § 407 — Postup bez uveřejnění sdělení o sloučení
 
 > **§ 407**
@@ -1628,6 +2984,56 @@ Při sloučení bez sdělení musí administrátor zrušovaného fondu do 1 měs
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4a92e953522c62e6a641 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 407 — Postup bez uveřejnění sdělení o sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Nejedná-li se o sloučení, při němž se zpracovává sdělení o sloučení, administrátor podílového fondu, který má být sloučením zrušen, uveřejní na internetových stránkách tohoto fondu rozhodnutí České národní banky o povolení sloučení a statut přejímajícího podílového fondu do 1 měsíce ode dne nabytí právní moci tohoto rozhodnutí. Zároveň na internetových stránkách podílového fondu, který má být sloučením zrušen, uveřejní oznámení o vzniku práva na odkoupení podílového listu.
+>
+> (2) Uveřejněním oznámení podle odstavce 1 vzniká podílníkům podílového fondu, který má být sloučením zrušen, právo na odkoupení podílového listu bez srážky; srazit však lze částku odpovídající účelně vynaloženým nákladům spojeným s odkoupením podílového listu. Toto právo zanikne, není-li uplatněno do 2 měsíců ode dne uveřejnění oznámení.
+>
+> (3) Při odkoupení se § 131 až 141 použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4a92e953522c62e6a641 -->
+
 ### § 408 — Dočasná výjimka z investičních limitů
 
 > **§ 408**
@@ -1675,6 +3081,52 @@ Po rozhodném dni sloučení smí přejímající fond až 6 měsíců dočasně
 **Typicky rozhodné důkazy / podklady:** projekt sloučení, evidence portfolia k rozhodnému dni a v následujících měsících, plán snižování koncentrace, nařízení vlády o investičních limitech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0ee52a255387853942d1 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 408 — Dočasná výjimka z investičních limitů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Obhospodařovatel přejímajícího investičního fondu nemusí po dobu až 6 měsíců od rozhodného dne sloučení dodržovat pro tento fond investiční limity, které nařízení vlády vydané podle § 215 odst. 2 stanoví u investičních cenných papírů, nástrojů peněžního trhu, cenných papírů vydávaných investičním fondem nebo zahraničním investičním fondem, derivátů nebo pohledávek na výplatu peněžních prostředků z účtu v české nebo cizí měně, je-li pro to z hlediska důsledků sloučení důvod.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 215
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ee52a255387853942d1 -->
 
 ### § 409 — Další pravidla
 
@@ -1727,6 +3179,56 @@ Po rozhodném dni obhospodařovatel přejímajícího fondu oznámí depozitář
 **Typicky rozhodné důkazy / podklady:** oznámení obhospodařovatele depozitáři, záznam o uveřejnění informace o rozhodném dni, projekt sloučení s oceňovacími kritérii, kontrolní zpráva depozitáře, žádost podílníka o zprávu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6cfe43386ecf446dbb14 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 409 — Další pravidla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel přejímajícího standardního fondu nebo přejímajícího zahraničního investičního fondu srovnatelného se standardním fondem oznámí depozitáři tohoto fondu, že převod jmění v tomto fondu byl ukončen; na internetových stránkách tohoto fondu uveřejní rovněž informaci o tom, že nastal rozhodný den sloučení.
+>
+> (2) Depozitář podílového fondu, který byl sloučením zrušen, zkontroluje, zda majetek a dluhy v tomto fondu byly oceněny v souladu s kritérii obsaženými v projektu sloučení a zda výměnný podíl byl vypočítán v souladu s tímto zákonem a projektem sloučení. O výsledku kontroly zpracuje zprávu, kterou na požádání bezplatně poskytne vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných standardními fondy nebo zahraničními standardními fondy, které se sloučení účastní, a rovněž České národní bance a orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem.
+>
+> (3) Depozitář podílového fondu nebo zahraničního investičního fondu srovnatelného se standardním fondem, který se sloučení účastní, zkontroluje soulad údajů obsažených ve sdělení o sloučení s požadavky tohoto zákona a statutem těchto fondů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6cfe43386ecf446dbb14 -->
 
 ### § 410 — Rozhodný den sloučení
 
@@ -1786,6 +3288,62 @@ Rozhodný den sloučení určuje okamžik zrušení fondu, vstupu podílníků d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=58ed5c51683196cd7500 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 410 — Rozhodný den sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Podílový fond, popřípadě i zahraniční investiční fond srovnatelný se standardním fondem, který má být sloučením zrušen, se zrušuje a vlastníci cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto fondem se stávají podílníky přejímajícího podílového fondu uplynutím určené lhůty k rozhodnému dni sloučení.
+>
+> (2) Rozhodný den sloučení je rovněž den, od něhož se jmění v podílovém fondu, popřípadě i v zahraničním investičním fondu srovnatelném se standardním fondem, který má být sloučením zrušen, považuje z účetního hlediska za jmění v přejímajícím podílovém fondu.
+>
+> (3) Rozhodný den sloučení nesmí předcházet dni, v němž rozhodnutí o povolení sloučení vydané Českou národní bankou a orgánem dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem nabude právní moci.
+>
+> (4) Zrušuje-li se sloučením standardní fond a je-li přejímajícím fondem zahraniční investiční fond srovnatelný se standardním fondem, stávají se podílníci standardního fondu, který má být sloučením zrušen, vlastníky cenných papírů nebo zaknihovaných cenných papírů vydávaných přejímajícím zahraničním investičním fondem srovnatelným se standardním fondem ke dni, který vyplývá z práva domovského státu tohoto fondu.
+>
+> (5) Účastní-li se sloučení řídící fond, rozhodný den sloučení může nastat nejdříve 60 dní ode dne uveřejnění oznámení o tom, že se řídící fond zrušuje (§ 435 odst. 1).
+>
+> (6) Po rozhodném dni sloučení nemůže být projekt sloučení změněn nebo zrušen ani nemůže být sloučení nebo rozhodnutí o něm prohlášeno za neplatné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 435
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=58ed5c51683196cd7500 -->
+
 ### § 411 — Výměna cenných papírů nebo zaknihovaných cenných papírů
 
 > **§ 411**
@@ -1836,6 +3394,54 @@ Administrátor přejímajícího fondu musí do 3 měsíců od rozhodného dne z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b793e0e501f9c044b7c4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 411 — Výměna cenných papírů nebo zaknihovaných cenných papírů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Administrátor přejímajícího podílového fondu zajistí do 3 měsíců od rozhodného dne sloučení výměnu cenného papíru nebo zaknihovaného cenného papíru vydaného podílovým fondem, popřípadě i zahraničním investičním fondem srovnatelným se standardním fondem, který byl sloučením zrušen, za podílový list přejímajícího podílového fondu v poměru určeném podle výše fondového kapitálu podílového fondu připadajícího na cenný papír nebo zaknihovaný cenný papír vydaný podílovým fondem nebo zahraničním investičním fondem srovnatelným se standardním fondem, který byl sloučením zrušen, k rozhodnému dni sloučení.
+>
+> (2) Zrušuje-li se sloučením podílový fond a je-li přejímajícím fondem zahraniční investiční fond srovnatelný se standardním fondem, vymění se podílový list za cenný papír nebo zaknihovaný cenný papír vydaný zahraničním investičním fondem srovnatelným se standardním fondem ve lhůtě a v poměru stanoveném ke dni, který vyplývá z práva domovského státu zahraničního investičního fondu srovnatelného se standardním fondem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b793e0e501f9c044b7c4 -->
+
 ### § 412 — Peněžní dorovnání pro nepřiměřenost výměnného poměru
 
 > **§ 412**
@@ -1885,6 +3491,54 @@ Nepřiměřenost výměnného poměru se po sloučení neřeší změnou poměru
 **Typicky rozhodné důkazy / podklady:** projekt sloučení s výměnným poměrem, oceňovací/znalecké podklady k rozhodnému dni, výpočet aktuální hodnoty cenných papírů zrušeného fondu, doklad o výplatě dorovnání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aa2e0f47331c900d57c0 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 412 — Peněžní dorovnání pro nepřiměřenost výměnného poměru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Není-li pro uplatnění práva na výměnu podle [[#§ 411|§ 411]] výměnný poměr uvedený v projektu sloučení přiměřený, poskytne obhospodařovatel přejímajícího podílového fondu nebo přejímajícího zahraničního investičního fondu srovnatelného se standardním fondem prostřednictvím administrátora tohoto fondu vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydaných podílovým fondem, popřípadě zahraničním investičním fondem srovnatelným se standardním fondem, který byl sloučením zrušen, dorovnání v penězích, a to až do výše 10 % aktuální hodnoty cenných papírů nebo zaknihovaných cenných papírů vydaných podílovým fondem, popřípadě zahraničním investičním fondem srovnatelným se standardním fondem, který byl sloučením zrušen.
+>
+> (2) Den, k němuž se pro účely dorovnání určí aktuální hodnota cenného papíru nebo zaknihovaného cenného papíru, musí být totožný s rozhodným dnem sloučení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 411
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa2e0f47331c900d57c0 -->
 
 ### § 413 — Spolupráce České národní banky a orgánu dohledu zahraničního investičního fondu v řízení o žádosti o povolení sloučení
 
@@ -1943,6 +3597,58 @@ U přeshraničního sloučení podle § 398 odst. 1 písm. d) ČNB koordinuje ř
 ---
 
 #### Oddíl 4 — Přeměna podílového fondu na akciovou společnost
+
+
+<!-- LEGAL-REVISION:BEGIN id=3630de2ce969535d4cb1 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 413 — Spolupráce České národní banky a orgánu dohledu zahraničního investičního fondu v řízení o žádosti o povolení sloučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Jakmile žádost o povolení sloučení, k němuž dochází způsobem uvedeným v § 398 odst. 1 písm. d), splňuje stanovené požadavky, Česká národní banka zašle bez zbytečného odkladu její kopii a kopie dokladů, které jsou k ní přiloženy, orgánu dohledu domovského státu přejímajícího zahraničního investičního fondu srovnatelného se standardním fondem a požádá jej o vyjádření, zda má výhrady ke sdělení o sloučení z hlediska informací v něm uvedených ve vztahu k vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto přejímajícím zahraničním investičním fondem srovnatelným se standardním fondem.
+>
+> (2) Jestliže v souvislosti s rozhodováním o žádosti o povolení sloučení, k němuž dochází způsobem uvedeným v § 398 odst. 1 písm. d), obdrží Česká národní banka od orgánu dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, který se účastní sloučení, kopii sdělení o sloučení, k němuž má po jeho posouzení výhrady z hlediska ochrany zájmů podílníků standardního fondu, který se sloučení účastní, seznámí s povahou těchto výhrad orgán dohledu, který jí kopii sdělení o sloučení zaslal; zároveň může tyto výhrady sdělit do 15 pracovních dní ode dne, kdy jí kopie sdělení o sloučení došla, obhospodařovateli tohoto standardního fondu a vyzvat jej, aby obsah sdělení o sloučení na základě výhrad České národní banky upravil.
+>
+> (3) Česká národní banka oznámí orgánu dohledu uvedenému v odstavci 2, že její výhrady trvají, má-li za to, že úprava obsahu sdělení o sloučení provedená obhospodařovatelem na základě výzvy České národní banky podle odstavce 2 není dostatečná. Oznámení, že její výhrady trvají, zašle Česká národní banka orgánu dohledu do 20 pracovních dní ode dne, kdy jí došlo podání obhospodařovatele o úpravě obsahu sdělení o sloučení na základě výhrad České národní banky.
+>
+> (4) Česká národní banka bez zbytečného odkladu informuje orgán dohledu domovského státu zahraničního investičního fondu srovnatelného se standardním fondem, který se sloučení účastní, o vydání rozhodnutí o povolení sloučení, k němuž dochází způsobem uvedeným v § 398 odst. 1 písm. d), jakož i o tom, že nastal rozhodný den sloučení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 398
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3630de2ce969535d4cb1 -->
 
 ### § 414 — Přípustnost přeměny
 
@@ -2006,6 +3712,56 @@ Každý podílový fond se může přeměnit na akciovou společnost s proměnn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d07cd2d007c381cd7f66 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 414 — Přípustnost přeměny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Podílový fond se může přeměnit na akciovou společnost s proměnným základním kapitálem.
+>
+> (2) Uzavřený podílový fond se může přeměnit i na akciovou společnost, která není akciovou společností s proměnným základním kapitálem.
+>
+> (3) O přeměně podílového fondu na akciovou společnost rozhoduje obhospodařovatel podílového fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d07cd2d007c381cd7f66 -->
+
 ### § 415 — Projekt přeměny
 
 > **§ 415**
@@ -2055,6 +3811,54 @@ Projekt přeměny vypracovává výlučně administrátor přeměňovaného pod�
 **Typicky rozhodné důkazy / podklady:** projekt přeměny, doklad o jeho zpracovateli (administrátor), rozhodnutí obhospodařovatele o přeměně, případná smlouva o odborné pomoci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f414530f7d40ee8315bf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 415 — Projekt přeměny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Přeměna podílového fondu na akciovou společnost se provádí podle schváleného projektu přeměny.
+>
+> (2) Projekt přeměny vypracuje administrátor podílového fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f414530f7d40ee8315bf -->
 
 ### § 416 — Náležitosti projektu přeměny
 
@@ -2124,6 +3928,72 @@ Projekt přeměny musí v písemné formě obsahovat zejména identifikaci fondu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1fe662a0397d66d2f57c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 416 — Náležitosti projektu přeměny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Projekt přeměny obsahuje alespoň
+>
+>   - a) označení přeměňovaného podílového fondu a navrhovanou obchodní firmu akciové společnosti, na kterou se má podílový fond přeměnit,
+>
+>   - b) údaje nezbytné k identifikaci obhospodařovatele, který má obhospodařovat akciovou společnost, na kterou se má podílový fond přeměnit,
+>
+>   - c) důvody pro přeměnu,
+>
+>   - d) pravděpodobné dopady přeměny na zájmy podílníků podílového fondu,
+>
+>   - e) kritéria pro ocenění majetku a dluhů v podílovém fondu,
+>
+>   - f) postup pro výpočet výměnného podílu mezi podílovými listy a akciemi akciové společnosti nebo investičními akciemi akciové společnosti s proměnným základním kapitálem ([[#§ 422|§ 422]]),
+>
+>   - g) rozhodný den přeměny,
+>
+>   - h) pravidla pro převzetí jmění v podílovém fondu akciovou společností a výměnu podílových listů za akcie akciové společnosti nebo za investiční akcie akciové společnosti s proměnným základním kapitálem a
+>
+>   - i) návrh společenské smlouvy a statutu akciové společnosti, na kterou se má podílový fond přeměnit.
+>
+> (2) Projekt přeměny vyžaduje písemnou formu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 422
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1fe662a0397d66d2f57c -->
+
 ### § 417 — Povolení České národní banky
 
 > **§ 417**
@@ -2182,6 +4052,60 @@ K přeměně podílového fondu na akciovou společnost je nutné povolení ČNB
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=231c9454f907d4b2d198 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 417 — Povolení České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) K přeměně fondu kolektivního investování, který má právní formu podílového fondu, na akciovou společnost je třeba povolení České národní banky.
+>
+> (2) Česká národní banka nepovolí přeměnu, jestliže
+>
+>   - a) není zajištěna ochrana zájmů podílníků přeměňovaného podílového fondu, nebo
+>
+>   - b) jedinou osobou, která má upsat zakladatelské akcie akciové společnosti s proměnným základním kapitálem, na kterou se podílový fond přeměňuje, není obhospodařovatel přeměňovaného podílového fondu.
+>
+> (3) Dnem nabytí právní moci rozhodnutí České národní banky, jímž se přeměna nepovoluje, se projekt přeměny ruší. Právní účinky zrušení projektu přeměny pominou dnem, kdy bylo takové rozhodnutí pravomocně zrušeno rozhodnutím soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=231c9454f907d4b2d198 -->
+
 ### § 418 — Řízení o žádosti o povolení přeměny
 
 > **§ 418**
@@ -2233,3 +4157,50 @@ K přeměně podílového fondu na akciovou společnost je nutné povolení ČNB
 ---
 
 > **Pokračování:** Likvidace, přeshraniční přeměny a společná procesní pravidla (§ 419 a násl.) jsou předmětem navazující kapitoly [15-cast11-zruseni-premeny-c.md](15-cast11-zruseni-premeny-c.md).
+
+<!-- LEGAL-REVISION:BEGIN id=acc007f1b09699310277 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 418 — Řízení o žádosti o povolení přeměny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Žádost o povolení přeměny podává administrátor přeměňovaného podílového fondu.
+>
+> (2) Účastníky řízení o žádosti o povolení přeměny jsou obhospodařovatel, administrátor a depozitář přeměňovaného podílového fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acc007f1b09699310277 -->

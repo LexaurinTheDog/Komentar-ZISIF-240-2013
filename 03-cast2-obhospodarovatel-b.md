@@ -96,6 +96,68 @@ Pověření třetí osoby výkonem složky obhospodařování je přípustné je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b7b8b377eacf1b2fca32 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Obhospodařovatel investičního fondu nebo zahraničního investičního fondu může pověřit výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu nebo zahraničního investičního fondu, jiného jen, jestliže
+>
+> - a) to bylo předem oznámeno České národní bance,
+>
+> - b) to nebrání výkonu dohledu České národní banky nad plněním povinností tohoto obhospodařovatele stanovených tímto zákonem, na základě tohoto zákona, přímo použitelným předpisem Evropské unie v oblasti obhospodařování investičních fondů2) nebo jeho povinnosti vyplývající ze statutu dotčeného investičního fondu nebo ze srovnatelného dokumentem dotčeného zahraničního investičního fondu,
+>
+> - c) to nebrání tomu, aby tento obhospodařovatel vykonával svou činnost ve vztahu k tomuto fondu řádně a obezřetně a jednal v nejlepším zájmu podílníků, společníků nebo obmyšlených tohoto fondu,
+>
+> - d) je zajištěno, že tento obhospodařovatel může kontrolovat a svými příkazy ovlivňovat výkon této činnosti pověřeným,
+>
+> - e) je zajištěno, že může s okamžitou účinností zrušit toto pověření, je-li to v zájmu podílníků, společníků nebo obmyšlených tohoto fondu,
+>
+> - f) je toto pověření schopen zdůvodnit, a to i ve vztahu k jiným pověřením výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování tohoto fondu, a ve vztahu k pověření dalšího některým úkonem z této činnosti,
+>
+> - g) je schopen osvědčit, že ten, kdo má být pověřen, splňuje podmínky podle [[#§ 25|§ 25]] a že tomuto pověření předcházel pečlivý výběr, a
+>
+> - h) statut nebo srovnatelný dokument tohoto fondu vymezuje tuto činnost jako činnost, jejímž výkonem lze pověřit jiného.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b7b8b377eacf1b2fca32 -->
+
 ### § 24 — Povinnosti obhospodařovatele při pověření a zachování jeho odpovědnosti
 
 > **§ 24**
@@ -154,6 +216,54 @@ Pověření je „štítem" pouze operativním, nikoli odpovědnostním: obhospo
 **Typicky rozhodné důkazy / podklady:** smlouva o pověření; interní směrnice o monitoringu pověřených; záznamy provedených kontrol a reportingu; znalecký posudek k pochybení pověřeného; vyčíslení újmy a doklad o její příčině.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a6cf42ff0efac5fc1167 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Pověří-li obhospodařovatel investičního fondu nebo zahraničního investičního fondu jiného výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu nebo zahraničního investičního fondu, zavede, udržuje a uplatňuje odpovídající opatření k řízení s tím spojených rizik a pravidelně kontroluje výkon této činnosti.
+>
+> (2) Pověřením jiného výkonem jednotlivé činnosti podle odstavce 1 zůstává ve vztahu ke třetím osobám nedotčena povinnost obhospodařovatele investičního fondu nebo zahraničního investičního fondu nahradit újmu vzniklou porušením jeho povinnosti stanovené tímto zákonem, na základě tohoto zákona, přímo použitelným předpisem Evropské unie v oblasti obhospodařování investičních fondů2) nebo jeho povinnosti vyplývající ze statutu dotčeného investičního fondu nebo ze srovnatelného dokumentu dotčeného zahraničního investičního fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6cf42ff0efac5fc1167 -->
 
 ### § 25 — Kvalifikační podmínky pro pověřeného
 
@@ -243,6 +353,76 @@ Pověřený musí splňovat šest minimálních kvalifikačních podmínek; u FK
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7611cfc7b3dc7e98a7de generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel investičního fondu nebo zahraničního investičního fondu může pověřit výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu nebo zahraničního investičního fondu, jen toho,
+>
+> - a) kdo má nezbytné věcné, organizační a personální předpoklady pro výkon této činnosti,
+>
+> - b) jehož vedoucí osoby jsou důvěryhodné a mají nezbytné znalosti a zkušenosti pro výkon této činnosti,
+>
+> - c) kdo má podnikatelské nebo jiné oprávnění k výkonu této činnosti,
+>
+> - d) kdo dodržuje pravidla obezřetnosti, která jsou srovnatelná s pravidly obezřetnosti podle práva Evropské unie, a podléhá dohledu orgánu dohledu státu, ve kterém má sídlo,
+>
+> - e) kdo není depozitářem tohoto fondu ani osobou pověřenou výkonem činnosti tohoto depozitáře a
+>
+> - f) u koho nemůže dojít ke střetu zájmů mezi ním a obhospodařovatelem nebo mezi ním a společnými zájmy investorů dotčeného fondu.
+>
+> (2) Obhospodařovatel investičního fondu nebo zahraničního investičního fondu může pověřit výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu nebo zahraničního investičního fondu, osobu se sídlem nebo bydlištěm ve státě, který není členským státem, jen je-li zajištěna spolupráce mezi Českou národní bankou a orgánem dohledu jiného státu, v němž má tato osoba sídlo nebo bydliště.
+>
+> (3) Obhospodařovatel investičního fondu nebo zahraničního investičního fondu může pověřit výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování fondu kvalifikovaných investorů, nebo srovnatelného zahraničního investičního fondu, i toho, kdo nesplňuje požadavek podle odstavce 1 písm. d), jestliže oznámí České národní bance nejpozději 1 měsíc přede dnem, kdy je pověření účinné, údaje o tom, kdo má být pověřen výkonem této činnosti, a současně jí poskytne informace nezbytné k posouzení splnění požadavků podle [[#§ 23|§ 23]], a Česká národní banka nevyrozumí tohoto obhospodařovatele do 1 měsíce ode dne, kdy toto oznámení obdržela o tom, že s tímto pověřením nesouhlasí.
+>
+> (4) Obhospodařovatel oprávněný přesáhnout rozhodný limit může pověřit výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu, který není standardním fondem, nebo srovnatelného zahraničního investičního fondu, i toho, kdo nesplňuje požadavek podle odstavce 1 písm. f), jestliže ten, kdo má být pověřen výkonem této činnosti,
+>
+> - a) má zavedeny organizační předpoklady zajišťující řádnou, samostatnou a nestrannou kontrolu výkonu této činnosti,
+>
+> - b) má funkčně a hierarchicky oddělen výkon této činnosti od svých dalších činností, u nichž hrozí střet zájmů, a
+>
+> - c) zavede, udržuje a uplatňuje postupy pro řízení střetů zájmů podle písmene b), včetně jejich zjišťování, zamezování a oznamování podílníkům, společníkům nebo obmyšleným tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7611cfc7b3dc7e98a7de -->
+
 ### § 26 — Subdelegace (pověření dalšího pověřenou osobou)
 
 > **§ 26**
@@ -312,6 +492,62 @@ Subdelegace je přípustná jen při předchozím (dostatečně určitém) souhl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=72e3d40cb97d5a46c8ad generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 26 — Pověření dalšího pověřenou osobou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Kdo byl pověřen obhospodařovatelem investičního fondu nebo zahraničního investičního fondu výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu nebo zahraničního investičního fondu, může pověřit výkonem některého úkonu nebo některých úkonů z této činnosti dalšího, jen jestliže
+>
+> - a) s tím předem souhlasí tento obhospodařovatel,
+>
+> - b) to bylo předem oznámeno České národní bance a
+>
+> - c) jsou obdobně splněny podmínky stanovené v [[#§ 23|§ 23]] a [[#§ 25|25]].
+>
+> (2) Kdo byl pověřen obhospodařovatelem investičního fondu nebo zahraničního investičního fondu výkonem jednotlivé činnosti, kterou zahrnuje obhospodařování investičního fondu nebo zahraničního investičního fondu, pravidelně kontroluje výkon úkonu nebo úkonů z této činnosti, jehož nebo jejichž výkonem pověřil dalšího podle odstavce 1.
+>
+> (3) Kdo byl pověřen výkonem některého úkonu nebo některých úkonů z činnosti podle odstavce 1, může jeho nebo jejich výkonem dále pověřit dalšího, jsou-li obdobně splněny podmínky stanovené v odstavci 1 písm. a) a b), odstavci 2 a v [[#§ 23|§ 23]] a [[#§ 25|25]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 23, § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=72e3d40cb97d5a46c8ad -->
+
 ### § 27 — Vztah k právu Evropské unie (obhospodařovatel oprávněný přesáhnout rozhodný limit)
 
 > **§ 27**
@@ -361,6 +597,52 @@ Pro AIFM (obhospodařovatele oprávněného přesáhnout rozhodný limit) platí
 **Typicky rozhodné důkazy / podklady:** vnitřní předpisy obhospodařovatele k jednotlivým oblastem (jednání, transparentnost, řízení rizik a likvidity, pákový efekt, kapitál, delegace); znění relevantních článků nařízení č. 231/2013; prováděcí vyhláška ČNB; dohledová korespondence.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=75c1accb20ce313d2f9b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 27 — Vztah k právu Evropské unie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> V dalším povinnosti obhospodařovatele oprávněného přesáhnout rozhodný limit vymezují články 13, 16 až 25, 27 až 58, 60 až 64, 66 a 75 až 82 přímo použitelného předpisu Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=75c1accb20ce313d2f9b -->
 
 ### § 28 — Obhospodařovatel fondů kvalifikovaných investorů a srovnatelných zahraničních investičních fondů neoprávněný přesáhnout rozhodný limit
 
@@ -414,6 +696,52 @@ Sub-limitní obhospodařovatel obhospodařující výlučně FKI je vyňat z del
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu ČNB o kategorizaci; statuty obhospodařovaných fondů (prokázání výlučnosti FKI); výpočet objemu spravovaných aktiv vůči rozhodnému limitu; vnitřní předpisy prokazující soulad s čl. 7–10 EuVECA.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e1596a855b342b5f70a6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 28 — Obhospodařovatel fondů kvalifikovaných investorů a srovnatelných zahraničních investičních fondů neoprávněný přesáhnout rozhodný limit
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Pro obhospodařovatele neoprávněného přesáhnout rozhodný limit, který obhospodařuje pouze fondy kvalifikovaných investorů a srovnatelné zahraniční investiční fondy, se články 7 až 10 nařízení Evropského parlamentu a Rady (EU) č. [[345/2013|345/2013]], v platném znění použijí obdobně a § 20 odst. 2 písm. j), [[#§ 20a|§ 20a]], § 20 odst. 5, § 22 odst. 6 a § 23 až 27 se nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 20a, § 22, § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1596a855b342b5f70a6 -->
 
 ## Hlava III — Požadavky na kapitál (§§ 29–32)
 
@@ -510,6 +838,82 @@ Minimální počáteční kapitál se určuje podle kombinace typu entity (inves
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=976aae170c317a8619ea generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 29 — Požadavky na počáteční kapitál
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Počáteční kapitál musí činit alespoň částka odpovídající 125 000 EUR, jde-li o počáteční kapitál
+>
+> - a) investiční společnosti, která obhospodařuje standardní fond nebo srovnatelný zahraniční investiční fond,
+>
+> - b) investiční společnosti oprávněné přesáhnout rozhodný limit, která není investiční společností podle písmene a), a
+>
+> - c) zahraniční osoby s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem.
+>
+> (2) Počáteční kapitál musí činit alespoň částka odpovídající 300 000 EUR, jde-li o počáteční kapitál
+>
+> - a) samosprávného investičního fondu, který je standardním fondem,
+>
+> - b) samosprávného investičního fondu oprávněného přesáhnout rozhodný limit, který není samosprávným investičním fondem podle písmene a), a
+>
+> - c) zahraniční osoby s povolením podle [[#§ 481|§ 481]], která je srovnatelná se samosprávným investičním fondem.
+>
+> (3) Počáteční kapitál investiční společnosti neuvedené v odstavci 1 písm. a) nebo b) a samosprávného investičního fondu neuvedeného v odstavci 2 musí činit alespoň částka odpovídající 50 000 EUR.
+>
+> (4) Počátečním kapitálem se pro účely tohoto zákona rozumí součet
+>
+> - a) splaceného základního kapitálu (zapisovaného základního kapitálu),
+>
+> - b) splaceného emisního ážia,
+>
+> - c) splaceného příplatku mimo základní kapitál,
+>
+> - d) povinných rezervních fondů,
+>
+> - e) ostatních rezervních fondů vytvořených ze zisku po zdanění, s výjimkou rezervních fondů účelově vytvořených, a
+>
+> - f) rozdílu nerozděleného zisku z předchozích období, uvedeného v účetní závěrce ověřené auditorem a schválené valnou hromadou, o jehož rozdělení valná hromada nerozhodla, a neuhrazené ztráty z předchozích období včetně ztráty za minulá účetní období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=976aae170c317a8619ea -->
+
 ### § 30 — Minimální výše kapitálu
 
 > **§ 30**
@@ -576,6 +980,60 @@ Obhospodařovatel musí průběžně udržovat kapitál ve výši vyšší z hod
 **Typicky rozhodné důkazy / podklady:** účetní výkazy a auditovaná závěrka; výpočet fixed overhead requirement dle čl. 13 IFR; přehled nehmotného majetku a neuhrazené ztráty; business plán (u nového subjektu); prováděcí vyhláška ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=54d22bbd184b071f994f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 30 — Minimální výše kapitálu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investiční společnost uvedená v § 29 odst. 1 písm. a) nebo b), samosprávný investiční fond uvedený v § 29 odst. 2 písm. a) nebo b) a zahraniční osoba uvedená v § 29 odst. 1 písm. c) nebo § 29 odst. 2 písm. c) průběžně udržuje kapitál nejméně ve výši částky podle čl. 13 nařízení Evropského parlamentu a Rady (EU) [[2019/2033|2019/2033]]20).
+>
+> (2) Nevykonávala-li osoba uvedená v odstavci 1 svou činnost po celé předchozí účetní období, použijí se pro výpočet podle odstavce 1 plánované správní náklady a odpisy podle jejího plánu obchodní činnosti.
+>
+> (3) Kapitál investiční společnosti, samosprávného investičního fondu a zahraniční osoby s povolením podle [[#§ 481|§ 481]] nesmí po celou dobu jejího nebo jeho trvání klesnout pod minimální výši počátečního kapitálu stanovenou v § 29 odst. 1, [[#§ 2|2]] nebo [[#§ 3|3.]]
+>
+> (4) Základem pro určení výše kapitálu pro účely určení toho, zda výše kapitálu odpovídá požadavkům podle odstavců 1 a [[#§ 3|3]], je splacený základní kapitál, ke kterému se přičítají zejména povinné rezervní fondy, emisní ážio a nerozdělený zisk z předchozích období a od kterého se odečítá zejména hodnota nehmotného majetku a neuhrazená ztráta z předchozích období.
+>
+> (5) Česká národní banka stanoví vyhláškou pravidla pro určení výše kapitálu podle odstavce 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 481, § 2, § 3
+
+##### Souvisící předpisy
+
+- akt EU 2019/2033 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=54d22bbd184b071f994f -->
 
 ### § 31 — Zvýšení kapitálu
 
@@ -662,6 +1120,66 @@ Povinné zvýšení kapitálu činí 0,02 % z objemu obhospodařovaných aktiv n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=57092b7552ecac269b1c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 31 — Zvýšení kapitálu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Investiční společnost uvedená v § 29 odst. 1 písm. a) zvýší kapitál podle § 30 odst. 1 a [[#§ 3|3]] alespoň o částku, která se rovná 0,02 % ze součtu hodnot majetků jí obhospodařovaných investičních fondů a zahraničních investičních fondů převyšujícího částku odpovídající 250 000 000 EUR, nejvýše však na částku odpovídající 10 000 000 EUR.
+>
+> (2) Částka, o kterou investiční společnost zvýší kapitál podle odstavce 1, může být až do výše 50 % kryta zárukou banky, zahraniční banky nebo pojišťovny, které mají sídlo ve státě, který vyžaduje dodržování pravidel obezřetnosti podle práva Evropské unie nebo pravidel, která Česká národní banka považuje za rovnocenná.
+>
+> (3) Do výpočtu podle odstavce 1 se započítávají investiční fondy a zahraniční investiční fondy, které investiční společnost obhospodařuje, bez ohledu na to, zda pověřila jiného výkonem činnosti, kterou zahrnuje jejich obhospodařování, nikoli však investiční fondy a zahraniční investiční fondy, u kterých byla jiným pověřena výkonem činnosti, kterou zahrnuje jejich obhospodařování.
+>
+> (4) Pro investiční společnost uvedenou v § 29 odst. 1 písm. b), samosprávný investiční fond uvedený v § 29 odst. 2 písm. a) nebo b) a zahraniční osobu uvedenou v § 29 odst. 1 písm. c) nebo § 29 odst. 2 písm. c) ve vztahu k jí obhospodařovaným investičním fondům, které nejsou standardním fondem, a srovnatelným zahraničním investičním fondům se odstavce 1 až 3 použijí obdobně.
+>
+> (5) Investiční společnost uvedená v § 29 odst. 1 písm. b) a zahraniční osoba s povolením podle [[#§ 481|§ 481]] uvedená v § 29 odst. 1 písm. c) musí dále
+>
+> - a) zvýšit v souladu s články 12 a 14 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], kapitál podle § 30 odst. 1 a [[#§ 3|3]] a odstavce 1 o částku odpovídající riziku vzniku újmy v souvislosti s obhospodařováním investičních fondů, které nejsou standardním fondem, a srovnatelných zahraničních investičních fondů, nebo
+>
+> - b) být v souladu s články 12 a 15 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], pojištěna pro případ vzniku povinnosti nahradit újmu vzniklou v souvislosti s obhospodařováním investičních fondů, které nejsou standardním fondem, a srovnatelných zahraničních investičních fondů.
+>
+> (6) Pro samosprávný investiční fond uvedený v § 29 odst. 2 písm. b) a pro zahraniční osobu s povolením podle [[#§ 481|§ 481]] uvedenou v § 29 odst. 2 písm. c), jedná-li se o jeho nebo její vlastní obhospodařování, se odstavec 5 použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 30, § 3, § 481
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57092b7552ecac269b1c -->
+
 ### § 32 — Umístění kapitálu
 
 > **§ 32**
@@ -715,6 +1233,54 @@ Regulatorní kapitál obhospodařovatele oprávněného přesáhnout rozhodný l
 **Typicky rozhodné důkazy / podklady:** evidence umístění majetku kryjícího kapitál; charakteristika nástrojů (likvidita, odkupní lhůty, rizikový a výnosový profil); interní investiční směrnice; ocenění a doklad o ratingu/investičním stupni.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0fb769d9fceed2625cf0 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 32 — Umístění kapitálu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Kapitál investiční společnosti oprávněné přesáhnout rozhodný limit a kapitál zahraniční osoby s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, uvedený v [[#§ 30|§ 30]] a [[#§ 31|31]], lze umístit pouze do likvidní věci v právním smyslu (dále jen „věc“), jejíž přeměna na peněžní prostředky je možná v krátké době, přičemž tato věc neobsahuje spekulativní prvek.
+>
+> (2) Majetek, kterým byl kapitál samosprávného investičního fondu oprávněného přesáhnout rozhodný limit nebo kapitál zahraniční osoby s povolením podle [[#§ 481|§ 481]], která je srovnatelná se samosprávným investičním fondem, zvýšen podle § 31 odst. 5 písm. a), lze umístit pouze do likvidní věci, jejíž přeměna na peněžní prostředky je možná v krátké době, přičemž tato věc neobsahuje spekulativní prvek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 30, § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0fb769d9fceed2625cf0 -->
 
 ## Hlava IV — Poskytování investičních služeb (§ 33)
 
@@ -791,6 +1357,70 @@ Při poskytování vedlejších investičních služeb pro jiného (§ 11 odst. 
 **Typicky rozhodné důkazy / podklady:** smlouva o obhospodařování portfolia zákazníka; evidence pokynů a transakcí; doklad o výslovném souhlasu zákazníka; vnitřní předpisy o ochraně majetku zákazníka; deník obchodníka s CP; doklad o odbornosti osob.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3bdb2c1f55f8f2b4c1c5 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 33
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Vykonává-li obhospodařovatel investičního fondu nebo zahraničního investičního fondu v České republice činnosti uvedené v § 11 odst. 1 písm. c) až f) pro jiného
+>
+> - a) musí při výkonu těchto činností splňovat stejné předpoklady jako obchodník s cennými papíry při poskytování investiční služby spočívající v obhospodařování majetku zákazníka podle zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]], a to přiměřeně k rozsahu, složitosti a povaze jí vykonávaných činností uvedených v § 11 odst. 1 písm. c) až f), zejména zavede ve vztahu k těmto činnostem pravidla obezřetného poskytování investičních služeb včetně pravidel pro výkon činnosti obchodníka s cennými papíry pověřenou osobou a pravidel pro ochranu majetku zákazníka, a
+>
+> - b) vykonává tyto činnosti pro jiného s odbornou péčí a dodržuje přitom obdobně ustanovení zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] týkající se poskytování stejných investičních služeb obchodníkem s cennými papíry, zejména ustanovení upravující
+>
+> - 1. deník obchodníka s cennými papíry,
+>
+> - 2. odbornost osob, pomocí kterých obchodník s cennými papíry vykonává činnost,
+>
+> - 3. jednání obchodníka s cennými papíry se zákazníky,
+>
+> - 4. vázané zástupce obchodníků s cennými papíry,
+>
+> - 5. Garanční fond obchodníků s cennými papíry ve vztahu k činnosti uvedené v § 11 odst. 1 písm. c) nebo d) a
+>
+> - 6. informační povinnosti obchodníka s cennými papíry, s výjimkou hlášení obchodů.
+>
+> (2) Vykonává-li obhospodařovatel investičního fondu nebo zahraničního investičního fondu v České republice činnost uvedenou v § 11 odst. 1 písm. c) pro jiného, nesmí bez předchozího výslovného souhlasu tohoto zákazníka s takovým jednáním investovat jeho majetek do podílových listů nebo účastnických cenných papírů vydávaných jím obhospodařovaným investičním fondem nebo zahraničním investičním fondem nebo použít tento majetek k tomu, aby se zákazník stal jinak podílníkem, společníkem, osobou, která zvýšila majetek fondu smlouvou, nebo zakladatelem jím obhospodařovaného investičního fondu nebo zahraničního investičního fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3bdb2c1f55f8f2b4c1c5 -->
 
 ## Hlava V — Povinnosti při přesáhnutí některých podílů na hlasovacích právech (§§ 34–37)
 
@@ -899,6 +1529,96 @@ Překročí-li AIFM prostřednictvím nestandardního fondu 50 % hlasovacích pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fc3dc8c6b90400d6ce1a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 34 — Zpřístupnění některých informací podílníkům, společníkům nebo obmyšleným fondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel oprávněný přesáhnout rozhodný limit, který ve vztahu k podílům na hlasovacích právech vztahujícím se k majetku jím obhospodařovaných investičních fondů, které nejsou standardními fondy, nebo srovnatelných zahraničních investičních fondů překročil podíl ve výši 50 % na všech hlasovacích právech právnické osoby, jejíž účastnické cenné papíry nejsou přijaty k obchodování na evropském regulovaném trhu, a
+>
+> - a) která splňuje alespoň 2 z těchto 3 kritérií:
+>
+> - 1. celkový počet zaměstnanců v pracovním poměru dosahuje alespoň počtu 250,
+>
+> - 2. čistý roční obrat odpovídající podle poslední účetní závěrky částce alespoň 50 000 000 EUR, nebo
+>
+> - 3. celková výše aktiv odpovídající podle poslední účetní závěrky částce alespoň 43 000 000 EUR, nebo
+>
+> - b) jejíž výhradní činností není nabývání, zcizování nebo správa nemovitostí nebo práv spojených s vlastnictvím nemovitostí,
+>
+> zajistí, aby byly podílníkům, společníkům nebo obmyšleným tohoto fondu zpřístupněny údaje o financování překročení tohoto podílu.
+>
+> (2) Obhospodařovatel uvedený v odstavci 1 zajistí, aby byly podílníkům, společníkům nebo obmyšleným dotčeného fondu ve lhůtě, v níž jim má být zpřístupněna výroční zpráva tohoto fondu, zpřístupněny tyto údaje:
+>
+> - a) objektivní zhodnocení vývoje podnikání kontrolované právnické osoby v účetním období,
+>
+> - b) popis všech významných událostí, které se týkají kontrolované právnické osoby a k nimž došlo po skončení účetního období,
+>
+> - c) údaje o předpokládaném budoucím vývoji podnikání kontrolované právnické osoby a
+>
+> - d) údaje o nabytí vlastních akcií kontrolované právnické osoby v rozsahu vyplývajícím ze [[zákona upravujícího právní poměry obchodních společností a družstev|zákona upravujícího právní poměry obchodních společností a družstev]], je-li tato právnická osoba akciovou společností, nebo údaje o nabytí vlastních účastnických cenných papírů touto osobou ve srovnatelném rozsahu, je-li tato osoba zahraniční osobou srovnatelnou s akciovou společností.
+>
+> (3) Povinnost podle odstavce 2 obhospodařovatel neplní, postupuje-li podle § 234 odst. 2 písm. d). Obhospodařovatel si zvolí, zda postupuje podle odstavce 2 nebo § 234 odst. 2 písm. d).
+>
+> (4) Pro účely výpočtu podílu na hlasovacích právech podle odstavce 1 se do podílu obhospodařovatele započítávají hlasovací práva vztahující se k majetku jím obhospodařovaných investičních fondů, které nejsou standardním fondem, nebo srovnatelných zahraničních investičních fondů, bez ohledu na to, zda jsou vykonávána, a hlasovací práva z účastnických cenných papírů nebo podílů,
+>
+> - a) kterými disponuje jiná osoba, která jedná ve shodě s obhospodařovatelem,
+>
+> - b) která má obhospodařovatel možnost dočasně vykonávat na základě úplatné smlouvy,
+>
+> - c) které byly obhospodařovateli nebo jím obhospodařovanému fondu poskytnuty jako zajištění,
+>
+> - d) ke kterým má obhospodařovatel nebo jím obhospodařovaný fond doživotní užívací právo,
+>
+> - e) které obhospodařovatel spravuje, obhospodařuje nebo jsou u něj uloženy, nebyly-li mu vlastníkem uděleny zvláštní příkazy týkající se hlasování,
+>
+> - f) která má možnost svým jménem na účet obhospodařovatele nebo jím obhospodařovaného fondu vykonávat jiná osoba,
+>
+> - g) která jsou vykonávána obhospodařovatelem na základě plné moci, může-li tato práva vykonávat podle svého uvážení a nebyly-li mu zmocnitelem uděleny zvláštní příkazy týkající se hlasování, nebo
+>
+> - h) které je oprávněn obhospodařovatel nabýt jednostranným projevem vůle.
+>
+> (5) Kontrolovanou právnickou osobou se pro účely tohoto zákona rozumí právnická osoba, na jejíchž hlasovacích právech byl překročen podíl způsobem a ve výši stanovených v odstavci 1 nebo v § 35 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 234, § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc3dc8c6b90400d6ce1a -->
+
 ### § 35 — Zpřístupnění informací kontrolované právnické osobě a jejím společníkům
 
 > **§ 35**
@@ -978,6 +1698,74 @@ Obhospodařovatel musí kontrolované osobě a jejím společníkům zpřístupn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2eff0d3019ae66767538 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 35 — Zpřístupnění některých informací kontrolované právnické osobě a jejím společníkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel uvedený v § 34 odst. 1 zajistí bez zbytečného odkladu poté, co se dozví nebo dozvědět mohl o překročení podílu, aby kontrolované právnické osobě a jejím společníkům, jejichž totožnost a adresa je mu známa nebo jejichž totožnost a adresu se může dozvědět od této právnické osoby nebo z veřejného rejstříku, byly zpřístupněny údaje
+>
+> - a) o překročení podílu,
+>
+> - b) o dni, ke kterému k překročení podílu došlo,
+>
+> - c) o výsledném podílu na hlasovacích právech kontrolované právnické osoby,
+>
+> - d) údaje nutné k identifikaci zúčastněných společníků a osob oprávněných vykonávat hlasovací práva jejich jménem; je-li to možné, doplní tyto údaje grafickým znázorněním vztahů mezi osobami, jejichž prostřednictvím jsou hlasovací práva vykonávána, a údaji o dalších podmínkách, které k překročení podílu vedly,
+>
+> - e) o záměrech obhospodařovatele ve vztahu k budoucímu vývoji činnosti kontrolované právnické osoby a jejich dopadech na její zaměstnance, především s ohledem na vyhlídku možné významné změny v podmínkách pracovní činnosti jejích zaměstnanců,
+>
+> - f) údaje nutné k identifikaci obhospodařovatele a případně jiných osob, se kterými jedná ve shodě,
+>
+> - g) o řízení střetů zájmů včetně jejich zjišťování a zamezování, a to zejména mezi obhospodařovatelem, dotčeným fondem a kontrolovanou právnickou osobou, včetně údajů o konkrétních opatřeních zajišťujících, že smlouvy uzavřené tímto obhospodařovatelem a kontrolovanou právnickou osobou nebudou významně nerovnovážné, a
+>
+> - h) o postupech upravujících vnitřní a vnější komunikaci kontrolované právnické osoby, zejména ve vztahu k jejím zaměstnancům nebo jejich zástupcům.
+>
+> (2) Údaje podle odstavce 1 písm. a) až d) musí být zpřístupněny nejpozději do 10 pracovních dní poté, co se obhospodařovatel uvedený v § 34 odst. 1 dozví nebo dozvědět mohl o překročení podílu.
+>
+> (3) Pro obhospodařovatele oprávněného přesáhnout rozhodný limit, který ve vztahu k podílům na hlasovacích právech vztahujících se k majetku jím obhospodařovaných investičních fondů, které nejsou standardním fondem, nebo srovnatelných zahraničních investičních fondů, dosáhl nebo překročil podíl ve výši 30 % na všech hlasovacích právech právnické osoby, jíž vydávané účastnické cenné papíry jsou přijaty k obchodování na evropském regulovaném trhu, jde-li o právnickou osobu se sídlem v České republice, nebo ve výši srovnatelného rozhodného limitu stanoveného podle práva jiného členského státu pro účely povinných nabídek převzetí, jde-li o právnickou osobu se sídlem v tomto jiném členském státě, se odstavec 1, s výjimkou písm. a) až e), použije obdobně.
+>
+> (4) Pro výpočet podílu na hlasovacích právech podle odstavce 3 se § 34 odst. 4 použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2eff0d3019ae66767538 -->
+
 ### § 36 — Zpřístupnění informací zaměstnancům kontrolované právnické osoby nebo jejich zástupcům
 
 > **§ 36**
@@ -1040,6 +1828,60 @@ Obhospodařovatel musí prokazatelně požádat statutární orgán kontrolovan�
 **Typicky rozhodné důkazy / podklady:** doklad o žádosti statutárnímu orgánu a jejím rozsahu; obsah skutečně předaných informací; akcionářská smlouva se závazkem zpřístupnění; doklad o existenci a identitě zástupců zaměstnanců; výroční zpráva kontrolované osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=620c75294485182d472b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 36 — Zpřístupnění některých informací zaměstnancům kontrolované právnické osoby nebo jejich zástupcům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel uvedený v § 34 odst. 1 při zpřístupnění informací podle § 35 odst. 1 písm. a) až e) kontrolované právnické osobě požádá statutární orgán této osoby, aby tento orgán zpřístupnil bez zbytečného odkladu zaměstnancům této osoby nebo jejich zástupcům údaje uvedené v § 35 odst. 1 písm. a) až e), a v rámci svých možností zajistí, aby statutární orgán tuto povinnost splnil.
+>
+> (2) Obhospodařovatel uvedený v § 34 odst. 1 nebo v § 35 odst. 3 při zpřístupnění informací uvedených v § 35 odst. 1 písm. f) až h) kontrolované právnické osobě požádá statutární orgán této osoby, aby tento orgán zpřístupnil bez zbytečného odkladu zaměstnancům této osoby nebo jejich zástupcům údaje uvedené v § 35 odst. 1 písm. f) až h), a v rámci svých možností zajistí, aby statutární orgán tuto povinnost splnil.
+>
+> (3) Obhospodařovatel uvedený v § 34 odst. 1 požádá statutární orgán kontrolované právnické osoby, aby tento orgán ve lhůtě, v níž musí být vyhotovena výroční zpráva této osoby podle příslušných právních předpisů, zpřístupnil zaměstnancům této osoby nebo jejich zástupcům výroční zprávu této osoby obsahující údaje uvedené v § 34 odst. 2, a v rámci svých možností zajistí, aby statutární orgán tuto povinnost splnil.
+>
+> (4) Povinnost podle odstavce 3 obhospodařovatel neplní, postupuje-li podle § 234 odst. 2 písm. d); v takovém případě obhospodařovatel uvedený v § 34 odst. 1 požádá statutární orgán kontrolované právnické osoby, aby tento orgán ve lhůtě, v níž má být zpřístupněna výroční zpráva dotčeného fondu jeho podílníkům, společníkům nebo obmyšleným, zpřístupnil zaměstnancům této osoby nebo jejich zástupcům údaje uvedené v § 34 odst. 2, a v rámci svých možností zajistí, aby statutární orgán tuto povinnost splnil.
+>
+> (5) Zástupcem zaměstnanců se pro účely tohoto zákona rozumí odborová organizace, rada zaměstnanců, zástupce pro oblast bezpečnosti a ochrany zdraví při práci nebo zástupci zaměstnanců podle práva cizího státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 35, § 234
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=620c75294485182d472b -->
 
 ### § 37 — Zabránění některých dispozic s majetkem kontrolované právnické osoby (anti-asset stripping)
 
@@ -1139,3 +1981,76 @@ Po dobu 24 měsíců od získání kontrolního podílu musí obhospodařovatel 
 Část druhá ZISIF je ukončena § 37. Na ni navazuje Část třetí — Administrátor; viz [04-cast3-administrator.md](04-cast3-administrator.md).
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=6dfb04743a016a16ed2d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 37 — Zabránění některých dispozic s majetkem kontrolované právnické osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel uvedený v § 34 odst. 1 nebo § 35 odst. 3 zabrání po dobu 24 měsíců ode dne, kdy došlo k dosažení nebo překročení podílu na hlasovacích právech podle § 34 odst. 1 nebo § 35 odst. 3,
+>
+> - a) rozdělení zisku nebo jiných vlastních zdrojů kontrolované právnické osoby mezi její společníky,
+>
+> - b) snížení základního kapitálu kontrolované právnické osoby, popřípadě snížení srovnatelné veličiny, jde-li o právnickou osobu se sídlem v zahraničí, a
+>
+> - c) nabytí podílů na základním kapitálu, srovnatelné veličině, jde-li o právnickou osobu se sídlem v zahraničí, nebo hlasovacích právech kontrolované právnické osoby do jejího majetku.
+>
+> (2) Ustanovení odstavce 1 písm. a) se použije jen v případě, že
+>
+> - a) hodnota majetku snížená o závazky kontrolované právnické osoby zjištěná podle poslední řádné účetní závěrky je nižší, nebo by v důsledku tohoto rozdělení byla nižší, než výše základního kapitálu, popřípadě srovnatelné veličiny, jde-li o právnickou osobu se sídlem v zahraničí,
+>
+> - 1. zvýšeného o tu část rezervních fondů nebo o ty rezervní fondy, které nelze použít k plnění jejím společníkům, a
+>
+> - 2. sníženého o nesplacený základní kapitál, popřípadě srovnatelnou veličinu, jde-li o právnickou osobu se sídlem v zahraničí, který není zahrnut v rozvaze v aktivech, nebo
+>
+> - b) částka k rozdělení mezi společníky překračuje výši výsledku hospodaření posledního skončeného účetního období
+>
+> - 1. zvýšenou o nerozdělený zisk z předchozích období a o platby z rezervních fondů určených k tomuto účelu, a
+>
+> - 2. sníženou o ztráty z předchozích období a o příděly do rezervních a jiných fondů v souladu se zákonem a společenskou smlouvou kontrolované právnické osoby.
+>
+> (3) Ustanovení odstavce 1 písm. b) se použije jen v případě, že snížení základního kapitálu nebo srovnatelné veličiny za účelem úhrady ztráty nebo za účelem převodu do rezervního fondu a úhrady budoucí ztráty a výše těchto rezervních fondů přesáhne 10 % sníženého základního kapitálu nebo snížené srovnatelné veličiny.
+>
+> (4) Ustanovení odstavce 1 písm. c) se použije jen v případě, že by toto nabytí, včetně podílů, které již tato osoba vlastní a podílů držených jiným na její účet, vedlo k poklesu hodnoty majetku snížené o závazky této právnické osoby pod výši jejího základního kapitálu, popřípadě srovnatelné veličiny, jde-li o právnickou osobu se sídlem v zahraničí,
+>
+> - a) zvýšeného o ty části rezervních fondů nebo ty rezervní fondy, které nelze použít k plnění jejím společníkům, a
+>
+> - b) sníženého o nesplacený základní kapitál, popřípadě srovnatelnou veličinu, jde-li o právnickou osobu se sídlem v zahraničí, který není zahrnut v rozvaze v aktivech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6dfb04743a016a16ed2d -->

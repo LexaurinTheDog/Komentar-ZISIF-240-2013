@@ -80,6 +80,60 @@ Odst. 2 je „bránou" pro depozitáře zahraničních fondů z třetích zemí 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8d8e05c3bdcca3209f8d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 60 — Depozitář
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitářem investičního fondu nebo zahraničního investičního fondu je osoba, která je na základě depozitářské smlouvy oprávněna
+>
+> - a) mít v opatrování majetek investičního fondu nebo zahraničního investičního fondu,
+>
+> - b) zřídit a vést peněžní účty a evidovat pohyb veškerých peněžních prostředků náležících do majetku investičního fondu nebo zahraničního investičního fondu a
+>
+> - c) evidovat a kontrolovat stav jiného majetku investičního fondu nebo zahraničního investičního fondu než majetku uvedeného v písmenech a) a b).
+>
+> (2) Depozitářem zahraničního investičního fondu, jehož domovským státem není členský stát a který obhospodařuje investiční společnost nebo zahraniční osoba s povolením podle [[#§ 481|§ 481]], musí být osoba uvedená v [[#§ 327|§ 327]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 481, § 327
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8d8e05c3bdcca3209f8d -->
+
 ### § 61 — Neslučitelnost
 
 > **§ 61**
@@ -133,6 +187,52 @@ Norma odpovídá čl. 21 odst. 4 AIFMD a čl. 25 odst. 2 UCITS V.
 **Typicky rozhodné důkazy / podklady:** organizační a vlastnické schéma, vnitřní předpisy o oddělení činností (čínské zdi), reporting depozitářské funkce, evidence oznámených střetů zájmů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e4d2ad618fc4c754bf00 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 61 — Neslučitelnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Depozitářem investičního fondu nesmí být obhospodařovatel tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4d2ad618fc4c754bf00 -->
 
 ### § 62 — Odborná péče a jednání v nejlepším zájmu
 
@@ -191,6 +291,54 @@ Odst. 2 zavádí princip proporcionality: povinnosti depozitáře se přizpůsob
 **Typicky rozhodné důkazy / podklady:** depozitářská smlouva, vnitřní předpisy o odborné péči a výběru pověřených, dokumentace due diligence, komunikace s obhospodařovatelem, znalecký posudek tržního standardu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=39d7ac9ff96360ce0d6a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 62 — Odborná péče a jednání v nejlepším zájmu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitář investičního fondu je povinen činnost depozitáře vykonávat s odbornou péčí a při jejím výkonu jednat v nejlepším zájmu investičního fondu, jehož je depozitářem, a podílníků, společníků nebo obmyšlených tohoto fondu.
+>
+> (2) Depozitář plní povinnosti plynoucí mu z tohoto zákona nebo z depozitářské smlouvy způsobem, který odpovídá povaze, rozsahu a složitosti jím vykonávaných činností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=39d7ac9ff96360ce0d6a -->
 
 ### § 63 — Zvláštní pravidlo pro opětovné poskytnutí finančního kolaterálu
 
@@ -252,6 +400,56 @@ U standardních fondů a ELTIF platí trojitý filtr: předchozí souhlas + pros
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d7d7f6f033a7a56e49da generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 63 — Zvláštní pravidlo pro opětovné poskytnutí finančního kolaterálu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Bez předchozího souhlasu obhospodařovatele investičního fondu nesmí depozitář tohoto fondu použít jeho majetek, který má v opatrování nebo v úschově pro účely vlastní nebo jiné osoby.
+>
+> (2) Depozitář standardního fondu nebo evropského fondu dlouhodobých investic použije majetek podle odstavce 1 pouze, je-li to ve prospěch tohoto fondu a jeho podílníků nebo akcionářů.
+>
+> (3) Použije-li depozitář standardního fondu nebo evropského fondu dlouhodobých investic majetek podle odstavce 1, poskytne ve prospěch tohoto fondu finanční kolaterál podle zákona upravujícího finanční zajištění tak, aby zajištění pohledávky fondu bylo dostatečné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7d7f6f033a7a56e49da -->
+
 ### § 64 — Střety zájmů
 
 > **§ 64**
@@ -309,6 +507,54 @@ Hrozba střetu zájmů zakládá okamžitou povinnost oznámení **bez zbytečn�
 **Typicky rozhodné důkazy / podklady:** vnitřní předpis a registr střetů zájmů, vlastnické a organizační schéma, dokumentace oznámení obhospodařovateli a investorům, smlouvy zakládající střet (úvěr, nákup od spřízněné osoby).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=29169af5e24152d5f417 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 64 — Střety zájmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) K zajištění řádného a obezřetného výkonu činnosti depozitář investičního fondu zavede, udržuje a uplatňuje postupy pro řízení střetů zájmů mezi ním, tímto fondem, obhospodařovatelem tohoto fondu a podílníky, společníky nebo obmyšlenými tohoto fondu, včetně zjišťování, zamezování a oznamování těchto střetů zájmů.
+>
+> (2) Hrozí-li střet zájmů podle odstavce 1, oznámí to depozitář investičního fondu bez zbytečného odkladu obhospodařovateli tohoto fondu, jakož i podílníkům, společníkům nebo obmyšleným tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=29169af5e24152d5f417 -->
 
 ### § 65 — Oddělení výkonu jiné činnosti od výkonu činnosti depozitáře
 
@@ -372,6 +618,60 @@ Kumulace depozitářství s jinou činností je dovolena (odst. 1), ale oceňov�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bfba4bb0629ebcc5c16d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 65 — Oddělení výkonu jiné činnosti od výkonu činnosti depozitáře
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitář investičního fondu může pro tento fond vykonávat i jiné činnosti než činnost depozitáře tohoto fondu.
+>
+> (2) Jestliže může z výkonu této jiné činnosti plynout střet zájmů podle § 64 odst. 1, musí mít depozitář tohoto fondu zavedeny organizační předpoklady zajišťující efektivní oddělení výkonu této jiné činnosti od činnosti depozitáře tak, aby tento střet zájmů minimalizoval.
+>
+> (3) Oceňovat majetek a dluhy investičního fondu, jehož je depozitářem, nebo provádět výpočet aktuální hodnoty podílového listu nebo investiční akcie vydávané takovým investičním fondem může depozitář investičního fondu jen tehdy, má-li zavedeny organizační předpoklady
+>
+> - a) pro oceňování majetku a dluhů tohoto fondu, nebo pro výpočet aktuální hodnoty podílového listu a investiční akcie vydávaného tímto fondem, a
+>
+> - b) zajišťující efektivní oddělení výkonu této činnosti od činnosti depozitáře tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 64
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bfba4bb0629ebcc5c16d -->
+
 ### § 66 — Postup při zjištění nedostatků
 
 > **§ 66**
@@ -424,6 +724,52 @@ Povinnost projednat zjištění s obhospodařovatelem je první stupeň; v pří
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d6731303439f9990f306 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 66 — Postup při zjištění nedostatků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Zjistí-li depozitář investičního fondu při výkonu své činnosti skutečnost nasvědčující tomu, že obhospodařovatel tohoto fondu porušil povinnost uloženou mu tímto zákonem, na základě tohoto zákona, přímo použitelným předpisem Evropské unie v oblasti obhospodařování investičních fondů2), statutem tohoto investičního fondu nebo depozitářskou smlouvou, bez zbytečného odkladu po tomto zjištění s ním tuto skutečnost projedná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d6731303439f9990f306 -->
+
 ### § 66a — Mechanismus k hlášení
 
 > **§ 66a**
@@ -473,6 +819,52 @@ Povinnost projednat zjištění s obhospodařovatelem je první stupeň; v pří
 **Typicky rozhodné důkazy / podklady:** vnitřní předpis o whistleblowingu, popis a dostupnost kanálů, záznamy o přijatých hlášeních a jejich vyřízení, doklady o informování zaměstnanců.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f8f0bf69583a406e306 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 66a — Mechanismus k hlášení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Depozitář investičního fondu zavede, udržuje a uplatňuje mechanismus k hlášení obdobně podle [[#§ 20a|§ 20a]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f8f0bf69583a406e306 -->
 
 ### § 67 — Depozitářská smlouva
 
@@ -532,6 +924,54 @@ Depozitářská smlouva je sui generis typ (prvky příkazu, úschovy, obstarán
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fce0218ec0cc98834fea generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 67 — Depozitářská smlouva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitářskou smlouvou se depozitář investičního fondu zavazuje v rozsahu povinností plynoucích mu z tohoto zákona vykonávat činnost depozitáře tohoto fondu a obhospodařovatel tohoto fondu se zavazuje plnit povinnosti plynoucí mu v souvislosti s výkonem činnosti depozitáře z tohoto zákona a platit depozitáři tohoto fondu za jeho činnost úplatu.
+>
+> (2) Depozitářská smlouva vyžaduje písemnou formu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fce0218ec0cc98834fea -->
+
 ## Část čtvrtá — Depozitář (pokračování)
 
 ### Hlava II — Depozitář fondu kolektivního investování (§§ 68–82)
@@ -587,6 +1027,52 @@ Pravidlo je jednoduché a kogentní: jeden fond kolektivního investování = je
 **Typicky rozhodné důkazy / podklady:** stanovy fondu a úprava podfondů, depozitářská smlouva, případné smlouvy o pověření sub-custodiana, evidence majetku jednotlivých podfondů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0d9fbb34f30d8ba74245 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 68 — Povinnost mít jednoho depozitáře
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Každý fond kolektivního investování musí mít pouze jednoho depozitáře. Připouští-li stanovy tohoto fondu vytvoření podfondu, depozitář tohoto fondu vykonává činnost depozitáře i pro tyto podfondy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0d9fbb34f30d8ba74245 -->
 
 ### § 69 — Osoby, které mohou být depozitářem
 
@@ -668,6 +1154,72 @@ Depozitářem fondu kolektivního investování může být jen subjekt z uzavř
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d827e0494a078630e22a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 69 — Osoby, které mohou být depozitářem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitářem fondu kolektivního investování může být pouze
+>
+> - a) banka se sídlem v České republice,
+>
+> - b) zahraniční banka, která má pobočku umístěnou v České republice,
+>
+> - c) obchodník s cennými papíry, který není bankou a který
+>
+> - 1. je povinen dodržovat požadavky na počáteční kapitál podle [[§ 8a odst. 1|§ 8a odst. 1]] zákona o [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a
+>
+> - 2. má povolení k poskytování investiční služby úschova a správa investičních nástrojů včetně souvisejících služeb, nebo
+>
+> - d) zahraniční osoba, která
+>
+> - 1. má povolení orgánu dohledu jiného členského státu k poskytování investiční služby úschova a správa investičních nástrojů včetně souvisejících služeb,
+>
+> - 2. poskytuje investiční služby v České republice prostřednictvím pobočky obchodního závodu a
+>
+> - 3. je povinna dodržovat požadavky na počáteční kapitál srovnatelně podle [[§ 8a odst. 1|§ 8a odst. 1]] zákona o [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]].
+>
+> (2) Depozitář fondu kolektivního investování musí mít vytvořeny předpoklady k plnění povinností depozitáře fondu kolektivního investování vyplývajících z tohoto zákona, přímo použitelného předpisu Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6) a přímo použitelného předpisu Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d827e0494a078630e22a -->
+
 ### § 70 — Některé náležitosti depozitářské smlouvy
 
 > **§ 70**
@@ -727,6 +1279,56 @@ Depozitářem fondu kolektivního investování může být jen subjekt z uzavř
 **Typicky rozhodné důkazy / podklady:** depozitářská smlouva a přílohy, evidence předaných soupisů majetku s datací, záznamy o komunikaci, vnitřní předpisy o ochraně údajů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=67aa2d8423f7bb5f3d1a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 70 — Některé náležitosti depozitářské smlouvy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitář fondu kolektivního investování a obhospodařovatel fondu kolektivního investování si v depozitářské smlouvě také vymezí způsob vzájemné komunikace, včetně způsobu, jakým se zajišťuje vedení záznamů o této komunikaci, a způsob ochrany důvěrných informací a osobních údajů.
+>
+> (2) Depozitář standardního fondu a obhospodařovatel tohoto fondu si v depozitářské smlouvě také vymezí lhůty, v níž depozitář poskytuje obhospodařovateli soupis o majetku tohoto fondu, který má v opatrování, úschově nebo o němž zajišťuje evidenci, a to včetně peněžních prostředků na účtech, které vede na jméno a ve prospěch tohoto fondu.
+>
+> (3) V dalším náležitosti depozitářské smlouvy vymezují článek 83 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=67aa2d8423f7bb5f3d1a -->
 
 ### § 71 — Opatrování, úschova a evidence majetku fondu
 
@@ -805,6 +1407,64 @@ Podrobnosti vymezují články 88–90 nařízení 231/2013: které konkrétní 
 **Typicky rozhodné důkazy / podklady:** výpisy z centrální evidence a vlastnických účtů, soupis majetku fondu s kategorizací, smlouva s prime brokerem, evidence majetku u prime brokera a reporting podle § 89.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0036ced6f6b3b4ec1177 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 71 — Opatrování, úschova a evidence majetku fondu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) V rámci činnosti depozitáře depozitář fondu kolektivního investování
+>
+> - a) má v opatrování zastupitelné investiční nástroje v majetku fondu kolektivního investování jejich evidováním na vlastnickém účtu, který depozitář fondu kolektivního investování vede pro tento fond v centrální evidenci zaknihovaných cenných papírů, v samostatné evidenci investičních nástrojů, v evidenci na ně navazující nebo v obdobné evidenci vedené podle práva cizího státu; depozitářská smlouva depozitáře fondu kolektivního investování opravňuje zajistit opatrování zastupitelných investičních nástrojů i zřízením vlastnického účtu pro tento fond u centrálního depozitáře zaknihovaných cenných papírů nebo srovnatelného zařízení založeného nebo vytvořeného podle práva cizího státu, přičemž odstavec 3 se v tomto případě nepoužije,
+>
+> - b) má v úschově investiční nástroje, jejichž povaha to umožňuje, a ostatní majetek fondu kolektivního investování, je-li to účelné, a
+>
+> - c) zajišťuje evidenci o majetku fondu kolektivního investování, jehož povaha to umožňuje.
+>
+> (2) V rámci činnosti depozitáře depozitář fondu kolektivního investování dále zajišťuje evidenci o majetku fondu kolektivního investování, který drží nebo je oprávněn držet hlavní podpůrce (prime broker) tohoto fondu kolektivního investování.
+>
+> (3) Které zastupitelné investiční nástroje podle odstavce 1 písm. a) má mít depozitář v opatrování, jakož i způsob plnění povinností uvedených v odstavci 1 depozitářem fondu kolektivního investování, vymezují články 88 až 90 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+>
+> (4) Odstavec 1 se nepoužije pro majetek, který drží nebo je oprávněn držet hlavní podpůrce daného fondu kolektivního investování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0036ced6f6b3b4ec1177 -->
 
 ### § 72 — Povinnosti depozitáře ve vztahu k vedení peněžních prostředků
 
@@ -900,6 +1560,80 @@ Přijaté peněžní prostředky (ze subscripce, z dividend, z prodejů) musí b
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1ab7ba0892ff15890584 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 72 — Povinnosti depozitáře ve vztahu k vedení peněžních prostředků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) V rámci činnosti depozitáře fondu kolektivního investování depozitář zřizuje nebo vede
+>
+> - a) peněžní účty na jméno tohoto fondu,
+>
+> - b) peněžní účty na jméno obhospodařovatele tohoto fondu zřízené ve prospěch tohoto fondu, nebo
+>
+> - c) peněžní účty na svoje jméno zřízené ve prospěch tohoto fondu; v takovém případě depozitář speciálního fondu zajišťuje, aby na takovém účtu nebyly vedeny jeho peněžní prostředky.
+>
+> (2) Peněžní účty je depozitář oprávněn zřídit u
+>
+> - a) České národní banky nebo centrální banky jiného státu,
+>
+> - b) banky se sídlem v České republice,
+>
+> - c) zahraniční banky, která má pobočku umístěnou v České republice,
+>
+> - d) zahraniční banky, která má sídlo v jiném členském státě a která nemá pobočku umístěnou v České republice,
+>
+> - e) zahraniční banky nebo obdobné osoby, která má sídlo ve třetí zemi vyžadující dodržování pravidel obezřetnosti, která jsou srovnatelná s pravidly obezřetnosti podle práva Evropské unie,
+>
+> - f) spořitelního a úvěrního družstva, nebo
+>
+> - g) toho, kdo je hlavním podpůrcem (část pátá) fondu kolektivního investování.
+>
+> (3) Depozitář ukládá bez zbytečného odkladu na příslušný jím zřízený peněžní účet podle odstavce 1 nebo [[#§ 2|2]] veškeré peněžní prostředky tohoto fondu získané zejména upsáním nebo vydáváním cenných papírů a zaknihovaných cenných papírů vydávaných tímto fondem.
+>
+> (4) V rámci činnosti depozitáře fondu kolektivního investování depozitář eviduje všechny peněžní účty zřízené pro tento fond a kontroluje pohyb peněžních prostředků tohoto fondu na těchto účtech.
+>
+> (5) Způsob plnění povinností uvedených v odstavcích 1 až 4 depozitářem fondu kolektivního investování vymezují články 85 a 86 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ab7ba0892ff15890584 -->
+
 ### § 73 — Kontrolní povinnosti
 
 > **§ 73**
@@ -993,6 +1727,76 @@ Pro standardní fondy zákon doplňuje evidenční povinnost o majetek, který n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8cdc9feae62dbf435cb6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 73 — Kontrolní povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) V rámci činnosti depozitáře fondu kolektivního investování depozitář kontroluje, zda v souladu s tímto zákonem, přímo použitelným předpisem Evropské unie v oblasti obhospodařování investičních fondů2), statutem fondu kolektivního investování a ujednáními depozitářské smlouvy
+>
+> - a) byly vydávány a odkupovány podílové listy nebo investiční akcie,
+>
+> - b) byla vypočítávána aktuální hodnota podílového listu nebo investiční akcie,
+>
+> - c) byl oceňován majetek a dluhy tohoto fondu,
+>
+> - d) byla vyplácena protiplnění z obchodů s majetkem tohoto fondu v obvyklých lhůtách,
+>
+> - e) jsou používány výnosy plynoucí pro tento fond,
+>
+> - f) jsou prováděny příkazy obhospodařovatele směrující k nabytí nebo zcizení věcí v majetku tohoto fondu, přičemž postačí, jestliže depozitář kontroluje, jak byly tyto příkazy provedeny, je-li pro tento způsob kontroly důvod zvláštního zřetele hodný; jak byly příkazy provedeny, kontroluje depozitář dále, jde-li o příkazy týkající se
+>
+> - 1. obchodu v hodnotě nepřevyšující částku 500 000 Kč a souhrnnou denní hodnotu odpovídající 0,1 % hodnoty majetku tohoto fondu,
+>
+> - 2. obchodu uzavřeného na trhu uvedeném v [[§ 3 odst. 1 písm. a)|§ 3 odst. 1 písm. a)]] [[nařízení vlády upravujícího investování investičních fondů a techniky k jejich obhospodařování|nařízení vlády upravujícího investování investičních fondů a techniky k jejich obhospodařování]], nebo
+>
+> - 3. obchodu s cenným papírem nebo zaknihovaným cenným papírem vydaným fondem kolektivního investování nebo srovnatelným zahraničním investičním fondem.
+>
+> (2) V rámci činnosti depozitáře fondu kolektivního investování depozitář provádí příkazy obhospodařovatele tohoto fondu v souladu se statutem tohoto fondu a v souladu s depozitářskou smlouvou.
+>
+> (3) V rámci činnosti depozitáře fondu kolektivního investování depozitář dále kontroluje stav majetku standardního fondu, který nelze mít v opatrování podle § 71 odst. 1 písm. a) nebo v úschově podle § 71 odst. 1 písm. b).
+>
+> (4) Způsob plnění povinností uvedených v odstavci 1 depozitářem fondu kolektivního investování vymezují články 92 až 97 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8cdc9feae62dbf435cb6 -->
+
 ### § 74 — Povinnosti obhospodařovatele ve vztahu k vedení peněžních prostředků
 
 > **§ 74**
@@ -1051,6 +1855,58 @@ Systém zajišťuje, že depozitář má vždy přehled o pohybu peněz — i te
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d5ad4e4e3022a11d5a61 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 74 — Povinnosti obhospodařovatele ve vztahu k vedení peněžních prostředků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel fondu kolektivního investování je po předchozím oznámení depozitáři tohoto fondu oprávněn zřídit pro tento fond účet u osoby uvedené v § 72 odst. 2.
+>
+> (2) Obhospodařovatel fondu kolektivního investování nakládá s peněžními prostředky tohoto fondu jen prostřednictvím depozitáře tohoto fondu nebo prostřednictvím osoby uvedené v § 72 odst. 2, u které zřídil peněžní účet.
+>
+> (3) Obhospodařovatel fondu kolektivního investování ukládá bez zbytečného odkladu na příslušný peněžní účet zřízený podle odstavce 1 nebo zřízený depozitářem tohoto fondu podle § 72 odst. 1 a [[#§ 2|2]] peněžní prostředky tohoto fondu získané zejména upsáním nebo vydáváním cenných papírů a zaknihovaných cenných papírů vydávaných tímto fondem.
+>
+> (4) Způsob plnění povinností uvedených v odstavcích 1 až 3 obhospodařovatelem fondu kolektivního investování vymezují článek 87 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 72, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d5ad4e4e3022a11d5a61 -->
+
 ### § 75 — Povinnosti bývalého depozitáře
 
 > **§ 75**
@@ -1104,6 +1960,54 @@ Systém zajišťuje, že depozitář má vždy přehled o pohybu peněz — i te
 **Typicky rozhodné důkazy / podklady:** doklady o zániku a vzniku depozitářských smluv, předávací protokoly, evidence majetku a prostředků, časová osa předání, korespondence s nástupcem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bb4345e0206eb8c800fd generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 75 — Povinnosti bývalého depozitáře
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Přestal-li depozitář fondu kolektivního investování vykonávat činnost depozitáře tohoto fondu, je povinen bez zbytečného odkladu řádně informovat nastupujícího depozitáře tohoto fondu o své dosavadní činnosti a předat mu všechny doklady související s jeho výkonem činnosti depozitáře tohoto fondu a vydat mu peněžní prostředky tohoto fondu a majetek tohoto fondu, které má ve své moci.
+>
+> (2) Do doby předání všech dokladů a vydání peněžních prostředků a majetku fondu kolektivního investování se na toho, kdo přestal vykonávat činnost depozitáře, hledí jako na depozitáře tohoto fondu; [[#§ 81|§ 81]] se pro toho, kdo přestal vykonávat činnost depozitáře, nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 81
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bb4345e0206eb8c800fd -->
 
 ### § 76 — Povinnosti obhospodařovatele
 
@@ -1166,6 +2070,58 @@ Zánik depozitářské smlouvy bez okamžité náhrady spouští ochranný reži
 **Typicky rozhodné důkazy / podklady:** doklad o zániku smlouvy, evidence operací po zániku, doklady o oznámení ČNB a uveřejnění na webu, korespondence o uzavírání nové depozitářské smlouvy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d46ad3a68736c4c15238 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 76 — Povinnosti obhospodařovatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Obhospodařovatel fondu kolektivního investování bez zbytečného odkladu po zániku příslušné depozitářské smlouvy, nebyla-li tato smlouva současně nahrazena novou depozitářskou smlouvou,
+>
+> - a) pozastaví vydávání a odkupování podílových listů nebo investičních akcií vydávaných tímto fondem a pozastaví nakládání s majetkem tohoto fondu, který má ve své moci osoba, která přestala pro tento fond vykonávat činnost depozitáře tohoto fondu, s výjimkou úhrady závazků vzniklých před zánikem závazku z depozitářské smlouvy a úhrady nezbytných provozních a mzdových výdajů, a to až do doby nabytí účinnosti nové depozitářské smlouvy,
+>
+> - b) zašle informaci o pozastavení nakládání s majetkem tohoto fondu podle písmene a) a o pozastavení vydávání a odkupování podílových listů nebo investičních akcií vydávaných tímto fondem České národní bance a uveřejní ji na internetových stránkách tohoto fondu a
+>
+> - c) provádí úkony směřující k ustavení nového depozitáře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d46ad3a68736c4c15238 -->
 
 ### § 77 — Pověření jiného (Hlava: Pověření jiného)
 
@@ -1235,6 +2191,64 @@ Pověření sub-custodiana je přípustné jen při kumulativním splnění čty
 **Typicky rozhodné důkazy / podklady:** depozitářská smlouva s ujednáním o pověření, dokumentace výběru a due diligence pověřeného, smlouva o sub-custody, záznamy o průběžné kontrole pověřeného.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=edfd9261d61945d61934 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 77
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitář fondu kolektivního investování může pověřit výkonem jednotlivé činnosti uvedené v § 71 odst. 1 jiného jen, jestliže
+>
+> - a) to umožňuje depozitářská smlouva,
+>
+> - b) je schopen osvědčit, že kdo má být pověřen, splňuje podmínky podle [[#§ 78|§ 78]] a že tomuto pověření předcházel pečlivý výběr,
+>
+> - c) to nebrání tomu, aby tento depozitář vykonával svou činnost ve vztahu k tomuto fondu s odbornou péčí a jednal v nejlepším zájmu podílníků, společníků nebo obmyšlených tohoto fondu, a
+>
+> - d) je zajištěno, že tento depozitář nebo obhospodařovatel tohoto fondu mohou kontrolovat a svými příkazy ovlivňovat výkon této činnosti pověřeným.
+>
+> (2) Depozitář fondu kolektivního investování pravidelně kontroluje výkon jednotlivé činnosti uvedené v § 71 odst. 1, kterým pověřil jiného.
+>
+> (3) Způsob plnění povinností uvedených v odstavci 1 písm. b) depozitářem fondu kolektivního investování vymezují článek 98 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 78
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edfd9261d61945d61934 -->
 
 ### § 78 — Podmínky způsobilosti pověřeného
 
@@ -1331,6 +2345,84 @@ Pověření sub-custodiana je přípustné jen při kumulativním splnění čty
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=35639f476218b7211720 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 78
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitář fondu kolektivního investování může pověřit výkonem jednotlivé činnosti uvedené v § 71 odst. 1 jen toho, kdo
+>
+> - a) má nezbytné věcné, organizační a personální předpoklady pro výkon této činnosti přiměřené povaze, rozsahu a složitosti této činnosti,
+>
+> - b) odděluje majetek zákazníků depozitáře od svého majetku a od majetku depozitáře tak, aby bylo v každém okamžiku zřejmé, že daný majetek patří zákazníkům depozitáře,
+>
+> - c) uplatňuje obdobně podle [[#§ 64|§ 64]] postupy pro řízení střetů zájmů, včetně jejich zjišťování, zamezování a oznamování, a
+>
+> - d) má zavedeny organizační předpoklady obdobně podle [[#§ 65|§ 65]], může-li z výkonu jeho jiné činnosti a z výkonu činnosti, kterou byl pověřen, plynout střet zájmů.
+>
+> (2) Depozitář fondu kolektivního investování může pověřit výkonem jednotlivé činnosti uvedené v § 71 odst. 1 písm. a) a b) jen toho, kdo
+>
+> - a) dodržuje pravidla obezřetnosti, včetně minimálních kapitálových požadavků, a podléhá dohledu orgánu dohledu státu, ve kterém má sídlo, a
+>
+> - b) podléhá pravidelnému externímu auditu, který ověřuje, že jsou příslušné investiční nástroje v jeho moci.
+>
+> (3) Depozitář fondu kolektivního investování může pověřit výkonem jednotlivé činnosti uvedené v § 71 odst. 1 písm. a) a b) i toho, kdo nesplňuje některý z požadavků podle odstavce 2, jestliže
+>
+> - a) má ten, kdo má být pověřen, sídlo ve státě, který není členským státem,
+>
+> - b) právo státu uvedeného v písmeni a) vyžaduje, aby určité investiční nástroje byly vedeny tím, kdo má být pověřen, způsobem srovnatelným s § 71 odst. 1 písm. a) a b),
+>
+> - c) byli podílníci, společníci a obmyšlení tohoto fondu před investicí do investičních nástrojů, které by měl mít ve své moci ten, kdo má být pověřen, řádně informováni
+>
+> - 1. o tomto pověření, včetně okolností odůvodňujících toto pověření, a
+>
+> - 2. o tom, že toto pověření je nezbytné vzhledem k omezením vyplývajícím z práva státu uvedeného v písmeni a), a
+>
+> - d) má tento depozitář od obhospodařovatele tohoto fondu písemné přivolení, aby toho, kdo má být pověřen, pověřil výkonem této činnosti.
+>
+> (4) Depozitář standardního fondu může pověřit výkonem jednotlivé činnosti uvedené v § 71 odst. 1 písm. a) a b) jen toho, kdo přijme opatření, která v případě jeho úpadku povedou k vydání majetku fondu obdobným způsobem, jako je vydáván majetek zákazníků po vydání rozhodnutí o úpadku a prohlášení konkurzu na majetek obchodníka s cennými papíry podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]].
+>
+> (5) Požadavky na oddělení majetku fondu kolektivního investování podle odstavce 1 písm. b) vymezují článek 99 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 64, § 65
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35639f476218b7211720 -->
+
 ### § 79 — Pověření dalšího pověřenou osobou
 
 > **§ 79**
@@ -1387,6 +2479,56 @@ Odpovědnostní záchranná klauzule (odst. 3) odkazuje na § 82 — viz níže.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=670cf7af8b731547b812 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 79 — Pověření dalšího pověřenou osobou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Kdo byl pověřen depozitářem fondu kolektivního investování výkonem jednotlivé činnosti uvedené v § 71 odst. 1, může pověřit některým úkonem nebo některými úkony z této činnosti dalšího, jestliže s tím předem souhlasí tento depozitář a jestliže jsou obdobně splněny podmínky stanovené v [[#§ 77|§ 77]] a [[#§ 78|78]].
+>
+> (2) Kdo byl pověřen depozitářem fondu kolektivního investování výkonem jednotlivé činnosti uvedené v § 71 odst. 1, pravidelně kontroluje úkon nebo úkony z této činnosti, kterým pověřil dalšího podle odstavce 1.
+>
+> (3) Pro zproštění se povinnosti nahradit ztrátu investičních nástrojů tím, kdo pověřil některým úkonem nebo některými úkony dalšího podle odstavce 1, se [[#§ 82|§ 82]] použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 77, § 78, § 82
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=670cf7af8b731547b812 -->
+
 ### § 80 — Náhrada újmy depozitářem (Hlava: Náhrady újmy depozitářem)
 
 > **§ 80**
@@ -1442,6 +2584,54 @@ Tato odpovědnost je obecná a doplňuje přísnější odpovědnost § 81 (obje
 **Typicky rozhodné důkazy / podklady:** statut a depozitářská smlouva, doklady o provedení sporné operace, evidence kontroly a komunikace s obhospodařovatelem, vyčíslení újmy, doklady o opatřeních k prevenci (k prokázání absence nedbalosti).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5c6d1a2728d6e01cb856 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 80
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitář fondu kolektivního investování, který obhospodařovateli tohoto fondu, tomuto fondu, podílníkovi nebo akcionáři tohoto fondu způsobí újmu porušením své povinnosti stanovené nebo sjednané pro výkon jeho činnosti jako depozitáře, je povinen ji nahradit.
+>
+> (2) Povinnosti k náhradě podle odstavce 1 se depozitář fondu kolektivního investování zprostí jen, prokáže-li, že újmu nezavinil ani z nedbalosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c6d1a2728d6e01cb856 -->
 
 ### § 81 — Objektivní odpovědnost za ztrátu investičních nástrojů
 
@@ -1502,6 +2692,54 @@ Odpovědnost depozitáře lze omezit jen za podmínek § 82.
 **Typicky rozhodné důkazy / podklady:** evidence účtů a doklady o ztrátě nástrojů, smlouvy o opatrování a sub-custody, právní posouzení kvalifikace „ztráty" dle čl. 100, časová osa zjištění a náhrady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0edd63a5bde715b55040 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 81
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li ke ztrátě investičních nástrojů, které má depozitář fondu kolektivního investování v opatrování podle § 71 odst. 1 písm. a) části věty před středníkem nebo úschově investičních nástrojů podle § 71 odst. 1 písm. b), depozitář nahradí tomuto fondu bez zbytečného odkladu újmu z toho vzniklou; přitom nerozhoduje, zda depozitář pověřil výkonem některé činnosti jiného.
+>
+> (2) Případy, kdy jde o ztrátu investičních nástrojů podle odstavce 1, vymezují článek 100 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0edd63a5bde715b55040 -->
 
 ### § 82 — Zproštění odpovědnosti za ztrátu
 
@@ -1567,6 +2805,58 @@ Tato výjimka je dostupná pouze pro **speciální fondy** (nikoli standardní/U
 **Typicky rozhodné důkazy / podklady:** písemná dohoda o přenosu odpovědnosti s datací, dokumentace splnění § 78 odst. 1 a 2, doložení objektivního důvodu (např. právní nutnost lokální custody), právní posouzení vyšší moci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c80cbe378798c9c680a4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 82
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Povinnosti k náhradě podle [[#§ 81|§ 81]] se depozitář fondu kolektivního investování zprostí jen za podmínek, které vymezuje článek 101 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], a přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8).
+>
+> (2) Povinnosti k náhradě podle [[#§ 81|§ 81]] se depozitář speciálního fondu zprostí i tehdy, dohodl-li se dříve písemně s tím, koho pověřil výkonem činnosti uvedené v § 71 odst. 1 písm. a) nebo b), na tom, že pověřený nahradí ztrátu investičních nástrojů namísto něj, a prokáže-li, že
+>
+> - a) při pověření jiného výkonem činnosti uvedené v § 71 odst. 1 písm. a) nebo b) byly splněny podmínky stanovené v § 78 odst. 1 a [[#§ 2|2]] a
+>
+> - b) pro uzavření takové dohody existoval objektivní důvod, vymezený v článku 102 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 81, § 71, § 78, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c80cbe378798c9c680a4 -->
 
 ### Hlava III — Depozitář fondu kvalifikovaných investorů (§§ 83–84)
 
@@ -1643,6 +2933,60 @@ Tato výjimka je dostupná pouze pro **speciální fondy** (nikoli standardní/U
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ff990f7543ac81be01de generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 83
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Fond kvalifikovaných investorů musí mít alespoň jednoho depozitáře; fond kvalifikovaných investorů, který obhospodařuje obhospodařovatel oprávněný přesáhnout rozhodný limit, však může mít pouze jednoho depozitáře. Fond kvalifikovaných investorů podle § 96 písm. a) nebo b) mít depozitáře nemusí. Pro depozitáře fondu kvalifikovaných investorů se § 69 až 82 použijí obdobně, s výjimkou § 73 odst. 1 písm. f) a § 73 odst. 2 a s výjimkou odkazů na přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování ve vztahu k depozitářům standardních fondů8). Pro depozitáře fondu kvalifikovaných investorů, jehož obhospodařovatel není oprávněn přesáhnout rozhodný limit, se přímo použitelný předpis Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6), jde-li o způsob plnění povinností podle § 71 odst. 3, § 72 odst. 5, § 73 odst. 4 a § 74 odst. 4, nepoužije.
+>
+> (2) Připouští-li stanovy fondu kvalifikovaných investorů vytvoření podfondu, depozitář tohoto fondu vykonává činnost depozitáře i pro tyto podfondy.
+>
+> (3) Povinnost nahradit újmu podle § 80 odst. 1 má depozitář fondu kvalifikovaných investorů i tehdy, způsobí-li ji obmyšlenému nebo jinému společníkovi než akcionáři tohoto fondu.
+>
+> (4) Pro depozitáře evropského fondu dlouhodobých investic, do nějž jsou investice nabízeny zákazníkům, kteří nejsou profesionálními zákazníky podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]], se [[#§ 82|§ 82]] nepoužije.
+>
+> (5) Depozitář fondu kvalifikovaných investorů provádí kontrolu příkazů podle § 73 odst. 2 po jejich provedení, není-li s obhospodařovatelem dohodnuto jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 96, § 69, § 73, § 71, § 72, § 74, § 80, § 82
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ff990f7543ac81be01de -->
+
 ### § 84 — Notář jako depozitář fondu kvalifikovaných investorů
 
 > **§ 84**
@@ -1716,6 +3060,64 @@ Zákon kumulativně vyžaduje:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=07a8665d651edc859269 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 84
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Depozitářem fondu kvalifikovaných investorů, který není evropským fondem dlouhodobých investic, do nějž jsou investice nabízeny zákazníkům, kteří nejsou profesionálními zákazníky podle [[zákona upravujícího podnikání na kapitálovém trhu|zákona upravujícího podnikání na kapitálovém trhu]], může být i notář; notář však může být depozitářem pouze fondu kvalifikovaných investorů,
+>
+> - a) u kterého k vyplacení nebo rozdělení majetku tohoto fondu osobám, od nichž byly shromážděny peněžní prostředky nebo penězi ocenitelné věci do tohoto majetku, nemůže podle tohoto zákona, jiného právního předpisu nebo statutu tohoto fondu dojít dříve než po uplynutí 5 let ode dne jejich shromáždění od dané osoby, a
+>
+> - b) který podle svého statutu investuje
+>
+> - 1. nejvýše 10 % hodnoty svého majetku do investičních nástrojů, které má jinak mít depozitář fondu kolektivního investování podle § 71 odst. 1 písm. a) v opatrování, nebo
+>
+> - 2. více než 90 % hodnoty svého majetku do práv duševního vlastnictví, cenných papírů nebo zaknihovaných cenných papírů představujících podíl na obchodní společnosti nebo jiné právnické osobě nebo účastí v obchodních společnostech nebo jiných právnických osobách tak, aby podíl na hlasovacích právech v těchto obchodních společnostech nebo právnických osobách byl překročen způsobem a ve výši stanovených v § 34 odst. 1 nebo v § 35 odst. 3.
+>
+> (2) Notář, který je depozitářem fondu kvalifikovaných investorů musí mít vytvořeny předpoklady k plnění povinností depozitáře fondu kvalifikovaných investorů vyplývajících z tohoto zákona a přímo použitelného předpisu Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6).
+>
+> (3) Pro notáře, který je depozitářem fondu kvalifikovaných investorů, se [[#§ 69|§ 69]] nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 34, § 35, § 69
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=07a8665d651edc859269 -->
+
 ## Část pátá — Hlavní podpůrce
 
 ### § 85 — Hlavní podpůrce
@@ -1782,6 +3184,56 @@ Oproti depozitáři je prime broker **smluvní protistrana fondu**, nikoliv nez�
 **Typicky rozhodné důkazy / podklady:** smlouva o prime brokerage (rozsah financování a vypořádání), statut fondu, doklady o margin pozicích a vypořádání, doklady o informování depozitáře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=297a4aa52453d22f106f generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 85 — Hlavní podpůrce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Hlavním podpůrcem investičního fondu je osoba, která je na základě smlouvy s obhospodařovatelem tohoto fondu, nebo na základě smlouvy s obhospodařovatelem a depozitářem tohoto fondu, oprávněna provádět tyto finanční služby:
+>
+> - a) poskytovat nebo přenechávat peněžní prostředky či investiční nástroje za účelem podpory financování tohoto fondu, nebo
+>
+> - b) vypořádávat obchody prováděné v rámci určené investiční strategie tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=297a4aa52453d22f106f -->
 
 ### § 86 — Osoby, které mohou být hlavním podpůrcem
 
@@ -1855,6 +3307,70 @@ Okruh prime brokerů (§ 86) je oproti depozitáři (§ 69) volnější: banka z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=16229e22e5a17ba07c24 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 86 — Osoby, které mohou být hlavním podpůrcem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Hlavním podpůrcem může být pouze
+>
+> - a) banka se sídlem v České republice,
+>
+> - b) zahraniční banka, která má sídlo v členském státě,
+>
+> - c) obchodník s cennými papíry, který není bankou a který je povinen dodržovat kapitálovou přiměřenost podle [[§ 9|§ 9]] a [[9a|9a]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]],
+>
+> - d) zahraniční osoba, která má povolení orgánu dohledu jiného členského státu k poskytování investičních služeb, jestliže
+>
+> - 1. poskytuje investiční služby v České republice prostřednictvím pobočky obchodního závodu nebo i bez umístění pobočky a
+>
+> - 2. je povinna dodržovat kapitálovou přiměřenost srovnatelně podle [[§ 9|§ 9]] a [[9a|9a]] zákona upravujícího [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]] a
+>
+> - e) zahraniční osoba, která má sídlo ve státě, který není členským státem, jestliže
+>
+> - 1. je povinna dodržovat pravidla obezřetnosti podle práva svého domovského státu a
+>
+> - 2. podléhá dohledu ve svém domovském státě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16229e22e5a17ba07c24 -->
+
 ### § 87 — Činnost hlavního podpůrce
 
 > **§ 87**
@@ -1926,6 +3442,64 @@ Okruh prime brokerů (§ 86) je oproti depozitáři (§ 69) volnější: banka z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=df81e1f1697930f301d6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 87
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Hlavní podpůrce investičního fondu nebo zahraničního investičního fondu, který je oprávněn na účet tohoto fondu provádět finanční služby uvedené v [[#§ 85|§ 85]], se může s obhospodařovatelem tohoto fondu, popřípadě i s depozitářem tohoto fondu, je-li tento depozitář stranou smlouvy uvedené v [[#§ 85|§ 85]], dále dohodnout, že je na účet tohoto fondu oprávněn
+>
+> - a) provádět i jiné podpůrné služby jako
+>
+> - 1. zajišťovat vypořádání obchodů s investičními nástroji prováděných v rámci určené investiční strategie tohoto fondu,
+>
+> - 2. poskytovat technologickou podporu tomuto fondu na míru, nebo
+>
+> - 3. předávat údaje o uzavřených obchodech obhospodařovateli tohoto fondu, nebo
+>
+> - b) držet majetek tohoto fondu za účelem provádění finanční služby uvedené v [[#§ 85|§ 85]] nebo jiné podpůrné služby podle písmene a).
+>
+> (2) Depozitář investičního fondu musí být smluvní stranou smlouvy s hlavním podpůrcem jen tehdy, je-li hlavní podpůrce oprávněn držet majetek podle odstavce 1 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 85
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=df81e1f1697930f301d6 -->
+
 ### § 88 — Smlouva s hlavním podpůrcem
 
 > **§ 88**
@@ -1986,6 +3560,56 @@ Smlouva s prime brokerem podléhá třem požadavkům:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=37dee1adb60671606c33 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 88
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Smlouva, na základě které hlavní podpůrce provádí finanční služby nebo jiné podpůrné služby nebo drží majetek investičního fondu, vyžaduje písemnou formu.
+>
+> (2) Smlouva uvedená v odstavci 1 musí být v souladu se statutem investičního fondu, pro který hlavní podpůrce provádí finanční služby nebo jiné podpůrné služby nebo jehož majetek drží.
+>
+> (3) O vzniku nebo zániku závazku ze smlouvy uvedené v odstavci 1 obhospodařovatel informuje příslušného depozitáře, ledaže je depozitář její smluvní stranou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=37dee1adb60671606c33 -->
+
 ### § 89 — Povinnosti obhospodařovatele při přístupu depozitáře k informacím
 
 > **§ 89**
@@ -2042,6 +3666,54 @@ Technické podrobnosti informačního toku vymezuje čl. 91 nařízení 231/2013
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2af69a0cce024ec37a76 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 89
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Obhospodařovatel investičního fondu, pro který hlavní podpůrce provádí finanční služby nebo jiné podpůrné služby nebo jehož majetek drží, zajistí, aby hlavní podpůrce poskytoval příslušnému depozitáři potřebné údaje a dokumenty, které jsou nutné pro řádný výkon činnosti depozitáře, zejména které se týkají majetku tohoto fondu, který drží hlavní podpůrce.
+>
+> (2) V dalším povinnost podle odstavce 1 vymezuje článek 91 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2af69a0cce024ec37a76 -->
+
 ### § 90 — Zvláštní pravidlo pro opětovné poskytnutí finančního kolaterálu
 
 > **§ 90**
@@ -2093,6 +3765,52 @@ Na rozdíl od § 63 odst. 2 a 3 zákon u prime brokera nestanoví zpřísňujíc
 **Typicky rozhodné důkazy / podklady:** prime brokerská smlouva a ujednání o (re)použití kolaterálu, doklad o předchozím souhlasu obhospodařovatele, doklady o poskytnutí kolaterálu třetí straně, statut fondu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=60d2030fb0a7f1e6ea7b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 90 — Zvláštní pravidlo pro opětovné poskytnutí finančního kolaterálu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> Bez předchozího souhlasu obhospodařovatele investičního fondu nesmí hlavní podpůrce tohoto fondu poskytnout jako finanční kolaterál nebo srovnatelné zajištění podle práva cizího státu anebo jiné zajištění investiční nástroje, které mu byly poskytnuty z majetku tohoto fondu jako finanční kolaterál nebo jako srovnatelné zajištění podle práva cizího státu anebo jiné zajištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60d2030fb0a7f1e6ea7b -->
 
 ### § 91 — Výkon činnosti depozitáře hlavním podpůrcem
 
@@ -2163,3 +3881,56 @@ Tato ustanovení reflektují zkušenosti z finanční krize 2008: kumulace rolí
 ---
 
 *Typy investičních fondů, pro jejichž majetek depozitář a prime broker vykonávají výše popsané funkce, jsou podrobně vymezeny v [06-cast6-investicni-fondy-a.md](06-cast6-investicni-fondy-a.md).*
+
+<!-- LEGAL-REVISION:BEGIN id=3fab3e1c46d4404e6d44 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
+#### Revizní doplnění k § 91 — Výkon činnosti depozitáře hlavním podpůrcem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
+
+##### Znění ustanovení
+
+> (1) Hlavní podpůrce investičního fondu může vykonávat činnost depozitáře tohoto fondu, jen jestliže
+>
+> - a) splňuje podmínky stanovené tímto zákonem pro výkon činnosti depozitáře tohoto fondu,
+>
+> - b) má funkčně a hierarchicky oddělen výkon činnosti hlavního podpůrce od výkonu činnosti depozitáře a
+>
+> - c) zavede, udržuje a uplatňuje postupy pro řízení střetů zájmů plynoucích z výkonu činnosti hlavního podpůrce a z výkonu činnosti depozitáře, včetně jejich zjišťování, zamezování a oznamování.
+>
+> (2) Hrozí-li střet zájmů podle odstavce 1, oznámí to hlavní podpůrce investičního fondu nebo zahraničního investičního fondu bez zbytečného odkladu obhospodařovateli tohoto fondu, jakož i podílníkům, společníkům nebo obmyšleným tohoto fondu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3fab3e1c46d4404e6d44 -->
