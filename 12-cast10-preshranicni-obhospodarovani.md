@@ -106,76 +106,6 @@ Oznámení podle § 328 je vstupní branou Czech-out pasu přes pobočku; jeho o
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=65812b32c1b8665d1e88 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 328 — Oznámení investiční společnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Hodlá-li investiční společnost oprávněná obhospodařovat standardní fondy a srovnatelné zahraniční investiční fondy nebo oprávněná přesáhnout rozhodný limit nebo zahraniční osoba s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, v hostitelském státě prostřednictvím pobočky obhospodařovat zahraniční investiční fond, nebo hodlá-li jako obhospodařovatel oprávněný přesáhnout rozhodný limit vykonávat některou z činností podle § 11 odst. 1 písm. c) až f) nebo podle § 11 odst. 6 písm. a), oznámí to předem České národní bance.
->
-> (2) Oznámení podle odstavce 1 obsahuje
->
-> - a) hostitelský stát, ve kterém má být pobočka umístěna,
->
-> - b) plán obchodní činnosti obsahující zejména druhy a rozsah služeb, které hodlá oznamovatel poskytovat, například, zda oznamovatel hodlá provádět administraci zahraničního investičního fondu,
->
-> - c) hodlá-li oznamovatel v hostitelském státě obhospodařovat zahraniční investiční fond srovnatelný se standardním fondem,
->
->   - 1. popis systému řízení rizik ve vztahu k této pobočce,
->
->   - 2. pravidla pro vyřizování stížností a reklamací investorů takového fondu,
->
->   - 3. pravidla pro zajištění poskytování informací investorům a
->
->   - 4. popis opatření přijatých pro zajištění výkonu práv investorů takového fondu v hostitelském státě,
->
-> - d) hodlá-li oznamovatel v hostitelském státě obhospodařovat zahraniční fond srovnatelný se speciálním fondem nebo s fondem kvalifikovaných investorů, údaje nutné k identifikaci tohoto fondu,
->
-> - e) organizační uspořádání pobočky,
->
-> - f) adresu pobočky, na které mohou být požadovány informace a dokumenty, a
->
-> - g) údaje nutné k identifikaci vedoucího pobočky a jeho kontaktní údaje.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 481, § 11
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=65812b32c1b8665d1e88 -->
-
 ### § 329 — Postup České národní banky
 
 > **§ 329**
@@ -252,62 +182,6 @@ Kratší odmítací lhůta u AIF správců vytváří asymetrii: ČNB musí být
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=797681f9caf9ce65ecdc generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 329 — Postup České národní banky
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Nemá-li Česká národní banka námitky proti umístění pobočky oznamovatele v hostitelském státě, sdělí do 2 měsíců ode dne, kdy jí došlo oznámení podle § 328 odst. 1, orgánu dohledu hostitelského státu údaje uvedené v § 328 odst. 2.
->
-> (2) Česká národní banka informuje orgán dohledu hostitelského státu též o podmínkách poskytování náhrad z Garančního fondu obchodníků s cennými papíry.
->
-> (3) Česká národní banka příslušný orgán hostitelského státu dále informuje o rozsahu povolení oznamovatele a o případných omezeních, která je oznamovatel povinen při obhospodařování nebo provádění administrace zahraničního investičního fondu dodržovat.
->
-> (4) O předání údajů podle odstavců 1 až 3 orgánu dohledu hostitelského státu informuje Česká národní banka bez zbytečného odkladu oznamovatele.
->
-> (5) Hodlá-li investiční společnost oprávněná obhospodařovat standardní fondy obhospodařovat zahraniční investiční fond srovnatelný se standardním fondem a Česká národní banka nepovažuje umístění pobočky tohoto oznamovatele v hostitelském státě za vhodné z důvodu organizační struktury nebo finanční situace oznamovatele s ohledem na plán obchodní činnosti podle § 328 odst. 2 písm. b), rozhodne Česká národní banka do 2 měsíců ode dne, kdy jí došlo oznámení podle § 328 odst. 1, že odmítá sdělit orgánu dohledu hostitelského státu údaje uvedené v § 328 odst. 2.
->
-> (6) Hodlá-li investiční společnost oprávněná přesáhnout rozhodný limit nebo zahraniční osoba s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, obhospodařovat zahraniční investiční fond, který je srovnatelný se speciálním fondem nebo s fondem kvalifikovaných investorů, nebo vykonávat některou z činností podle § 11 odst. 1 písm. c) až f) nebo podle § 11 odst. 6 písm. a), a tento oznamovatel neplní nebo s ohledem na plán obchodní činnosti podle § 328 odst. 2 písm. b) nelze očekávat, že nadále bude plnit povinnosti uložené obhospodařovateli oprávněnému přesáhnout rozhodný limit tímto zákonem, na základě tohoto zákona nebo přímo použitelným předpisem Evropské unie vydaným na základě směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6), rozhodne Česká národní banka do 15 pracovních dnů ode dne, kdy jí došlo oznámení podle § 328 odst. 1, že obhospodařovatel nesmí takovou změnu provést a že Česká národní banka odmítá sdělit orgánu dohledu hostitelského státu údaje uvedené v § 328 odst. 2.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 328, § 481, § 11
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=797681f9caf9ce65ecdc -->
-
 ### § 330 — Vznik oprávnění
 
 > **§ 330**
@@ -370,54 +244,6 @@ Oprávnění se váže výlučně na činnosti **uvedené v oznámení** podle �
 **Typicky rozhodné důkazy / podklady:** doklad o datu informace ČNB o předání, sdělení hostitelského orgánu o informačních povinnostech (je-li), znění oznámení dle § 328 odst. 2 písm. b).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=9fc35024ef724e75563b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 330 — Vznik oprávnění
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Investiční společnost oprávněná obhospodařovat standardní fondy a srovnatelné zahraniční investiční fondy může začít prostřednictvím pobočky obhospodařovat zahraniční investiční fond srovnatelný se standardním fondem a popřípadě vykonávat další činnosti uvedené v oznámení podle § 328 odst. 2 písm. b) v hostitelském státě ode dne, kdy jí orgán dohledu hostitelského státu sdělí, které informační povinnosti musí plnit, nebo po uplynutí 2 měsíců ode dne, kdy ji Česká národní banka podle § 329 odst. 4 informovala o předání údajů orgánu dohledu hostitelského státu.
->
-> (2) Investiční společnost oprávněná přesáhnout rozhodný limit a zahraniční osoba s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, může začít prostřednictvím pobočky obhospodařovat zahraniční investiční fond srovnatelný se speciálním fondem nebo s fondem kvalifikovaných investorů, nebo vykonávat některou z činností podle § 11 odst. 1 písm. c) až f) nebo podle § 11 odst. 6 písm. a), a popřípadě vykonávat další činnosti uvedené v oznámení podle § 328 odst. 2 písm. b), ode dne, kdy ji Česká národní banka podle § 329 odst. 4 informovala o předání údajů orgánu dohledu hostitelského státu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 328, § 329, § 481, § 11
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9fc35024ef724e75563b -->
 
 ### § 331 — Oznamování změn
 
@@ -490,60 +316,6 @@ Oznamovatel je povinen oznámit změny **oběma** orgánům — jak ČNB (domovs
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=18f901f7cb5638f6f4ed generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 331 — Oznamování změn
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Oznamovatel oznámí České národní bance a příslušnému orgánu dohledu hostitelského státu každou změnu ve skutečnostech oznámených podle § 328 odst. 2 nejpozději 1 měsíc přede dnem jejího provedení.
->
-> (2) Nemůže-li oznamovatel pro překážku, která nastala nezávisle na jeho vůli, lhůtu podle odstavce 1 dodržet, oznámí změnu bez zbytečného odkladu poté, kdy tato překážka pomine.
->
-> (3) Jde-li o obhospodařování zahraničního investičního fondu srovnatelného se standardním fondem, Česká národní banka rozhodne do 15 pracovních dnů ode dne, kdy jí došlo oznámení podle odstavce 1, že obhospodařovatel nesmí takovou změnu provést a že Česká národní banka odmítá sdělit orgánu dohledu hostitelského státu změnu podle odstavce 1, jestliže oznamovatel neplní nebo s ohledem na plánovanou změnu nelze očekávat, že nadále bude plnit povinnosti uložené obhospodařovateli oprávněnému obhospodařovat standardní fondy nebo zahraniční investiční fondy srovnatelné se standardním fondem tímto zákonem, na základě tohoto zákona nebo přímo použitelným předpisem Evropské unie vydaným na základě směrnice Evropského parlamentu a Rady upravující koordinaci v oblasti kolektivního investování4).
->
-> (4) Jde-li o obhospodařování zahraničního investičního fondu, který je srovnatelný se speciálním fondem nebo s fondem kvalifikovaných investorů, Česká národní banka rozhodne do 15 pracovních dnů ode dne, kdy jí došlo oznámení podle odstavce 1, že obhospodařovatel nesmí takovou změnu provést a že Česká národní banka odmítá sdělit orgánu dohledu hostitelského státu změnu podle odstavce 1, jestliže oznamovatel neplní nebo s ohledem na plánovanou změnu nelze očekávat, že nadále bude plnit povinnosti uložené obhospodařovateli oprávněnému přesáhnout rozhodný limit tímto zákonem, na základě tohoto zákona nebo přímo použitelným předpisem Evropské unie vydaným na základě směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6).
->
-> (5) Česká národní banka bez zbytečného odkladu informuje příslušný orgán dohledu hostitelského státu také o každé změně oznámené podle odstavce 1.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 328
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=18f901f7cb5638f6f4ed -->
-
 ### Díl 2 — Bez umístění pobočky
 
 ### § 332 — Oznámení
@@ -608,54 +380,6 @@ Tato redukce odpovídá povaze přeshraničního poskytování služeb bez trval
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=196b770de8636066c7a2 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 332 — Oznámení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Hodlá-li investiční společnost oprávněná obhospodařovat standardní fondy a srovnatelné zahraniční investiční fondy nebo oprávněná přesáhnout rozhodný limit nebo zahraniční osoba s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, obhospodařovat zahraniční investiční fond v hostitelském státě bez umístění pobočky, oznámí to předem České národní bance.
->
-> (2) Oznámení podle odstavce 1 obsahuje uvedení hostitelského státu, ve kterém hodlá oznamovatel obhospodařovat zahraniční investiční fond bez umístění pobočky, a údaje uvedené v § 328 odst. 2 písm. b) až d).
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 481, § 328
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=196b770de8636066c7a2 -->
-
 ### § 333 — Postup České národní banky
 
 > **§ 333**
@@ -716,58 +440,6 @@ Informace o Garančním fondu obchodníků s cennými papíry (odst. 2) a o rozs
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=e5302f4df0e9d77b9dad generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 333 — Postup České národní banky
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Česká národní banka sdělí do 1 měsíce ode dne, kdy jí došlo oznámení podle § 332 odst. 1, orgánu dohledu hostitelského státu údaje podle § 332 odst. 2.
->
-> (2) Česká národní banka informuje orgán dohledu hostitelského státu též o podmínkách poskytování náhrad z Garančního fondu obchodníků s cennými papíry.
->
-> (3) Česká národní banka příslušný orgán hostitelského státu dále informuje o rozsahu povolení oznamovatele a o případných omezeních, která je oznamovatel povinen při obhospodařování nebo administraci zahraničního investičního fondu dodržovat.
->
-> (4) O předání údajů podle odstavců 1 až 3 orgánu dohledu hostitelského státu informuje Česká národní banka bez zbytečného odkladu oznamovatele.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 332
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e5302f4df0e9d77b9dad -->
-
 ### § 334 — Vznik oprávnění
 
 > **§ 334**
@@ -826,54 +498,6 @@ Tato symetrie (UCITS má pasivní záchrannou lhůtu; AIF nikoli) je konzistentn
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f8ae62725fccc48da4e3 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 334 — Vznik oprávnění
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Investiční společnost oprávněná obhospodařovat standardní fondy a srovnatelné zahraniční investiční fondy může začít vykonávat činnosti uvedené v oznámení podle § 328 odst. 2 písm. b) v hostitelském státě ode dne, kdy ji Česká národní banka podle § 333 odst. 4 informovala o předání údajů orgánu dohledu hostitelského státu, nebo po marném uplynutí lhůty uvedené v § 333 odst. 1.
->
-> (2) Investiční společnost oprávněná přesáhnout rozhodný limit a zahraniční osoba s povolením podle [[#§ 481|§ 481]], která není srovnatelná se samosprávným investičním fondem, může začít bez umístění pobočky obhospodařovat zahraniční investiční fond srovnatelný se speciálním fondem nebo s fondem kvalifikovaných investorů, nebo vykonávat některou z činností podle § 11 odst. 1 písm. c) až f) nebo podle § 11 odst. 6 písm. a), a popřípadě vykonávat další činnosti uvedené v oznámení podle § 328 odst. 2 písm. b), ode dne, kdy ji Česká národní banka podle § 333 odst. 4 informovala o předání údajů orgánu dohledu hostitelského státu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 328, § 333, § 481, § 11
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f8ae62725fccc48da4e3 -->
-
 ### § 335 — Oznamování změn
 
 > **§ 335**
@@ -930,56 +554,6 @@ Tato symetrie (UCITS má pasivní záchrannou lhůtu; AIF nikoli) je konzistentn
 **Typicky rozhodné důkazy / podklady:** oznámení o změně s doklady o datu, doklad o překážce nezávislé na vůli (při liberaci), korespondence s ČNB a hostitelským orgánem.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=afa458f574bb7f41f319 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 335 — Oznamování změn
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Oznamovatel oznámí České národní bance a orgánu dohledu hostitelského státu každou změnu ve skutečnostech oznámených podle § 332 odst. 2 nejpozději 1 měsíc přede dnem jejího provedení.
->
-> (2) Nemůže-li oznamovatel pro překážku, která nastala nezávisle na jeho vůli, lhůtu podle odstavce 1 dodržet, oznámí změnu bez zbytečného odkladu poté, kdy tato překážka pomine.
->
-> (3) Česká národní banka bez zbytečného odkladu informuje orgán dohledu hostitelského státu také o každé změně oznámené podle odstavce 1.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 332
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=afa458f574bb7f41f319 -->
 
 ### § 336 — Poskytování informací ČNB orgánu dohledu hostitelského státu
 
@@ -1040,58 +614,6 @@ Toto ustanovení transponuje obecnou povinnost spolupráce domovského a hostite
 **Typicky rozhodné důkazy / podklady:** žádost hostitelského orgánu, evidence vedoucích osob a vedoucího pobočky, akcionářská struktura (osoby s podílem/hlasovacími právy), seznam vázaných zástupců.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=a8849228d4e0a64cdabf generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 336 — Poskytování informací Českou národní bankou orgánu dohledu hostitelského státu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Česká národní banka poskytne údaje potřebné pro výkon dohledu nad oznamovatelem, požádá-li o ně, orgánu dohledu hostitelského státu, zejména
->
-> - a) údaje o každé vedoucí osobě oznamovatele nebo údaje o vedoucím pobočky oznamovatele umístěné v hostitelském státě,
->
-> - b) údaje o každé osobě, která má podíl na základním kapitálu nebo hlasovacích právech oznamovatele, a
->
-> - c) údaje o vázaných zástupcích, pomocí nichž oznamovatel hodlá v tomto hostitelském státě provádět činnost.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a8849228d4e0a64cdabf -->
 
 ## Hlava II — Obhospodařování zahraničního investičního fondu, jehož domovským státem není členský stát
 
@@ -1163,56 +685,6 @@ Hlava II zákonného textu nemá vlastní označení a po § 337 se přechází 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=cd596bf4dbdb6a6470fe generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 337
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Investiční společnost oprávněná přesáhnout rozhodný limit může obhospodařovat zahraniční investiční fond, jehož domovským státem není členský stát, nejsou-li investice do tohoto fondu nabízeny v členském státě, jestliže
->
-> - a) plní při obhospodařování tohoto zahraničního investičního fondu povinnosti uložené obhospodařovateli oprávněnému přesáhnout rozhodný limit tímto zákonem, na základě tohoto zákona nebo přímo použitelným předpisem Evropské unie vydaným na základě směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů6), s výjimkou povinností stanovených v § 60 až 91, § 233 až 236 a § 290 až 292, a
->
-> - b) orgán dohledu domovského státu tohoto zahraničního investičního fondu a Česká národní banka se v souladu s články 113 až 115 nařízení Komise v přenesené pravomoci (EU) č. [[231/2013|231/2013]], dohodly na výměně informací nezbytných k výkonu dohledu podle tohoto zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 60, § 233, § 290
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cd596bf4dbdb6a6470fe -->
-
 ## Hlava III — Zahraniční osoba obhospodařující standardní fond
 
 > Hlava III reguluje **opačný směr přeshraničního pasu**: zahraniční správce UCITS (zahraniční osoba podle § 14 odst. 1 ZISIF) hodlající obhospodařovat standardní fond se sídlem v České republice. Česká republika se zde ocitá v roli hostitelského státu; ČNB přijímá údaje od domovského orgánu dohledu zahraniční osoby a sděluje jí, které povinnosti českého práva musí při výkonu své činnosti plnit.
@@ -1277,54 +749,6 @@ Marná lhůta chrání zahraniční správce před průtahy hostitelského orgá
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=63dd2b35d121820f0858 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 338
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Zahraniční osobě uvedené v § 14 odst. 1, která hodlá prostřednictvím pobočky umístěné v České republice obhospodařovat standardní fond, sdělí Česká národní banka do 2 měsíců ode dne, kdy jí došly údaje srovnatelné s údaji podle § 328 odst. 2, které povinnosti, stanovené tímto zákonem, na základě tohoto zákona a zákonem upravujícím [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]], je tato zahraniční osoba při poskytování těchto služeb povinna dodržovat.
->
-> (2) Zahraniční osoba uvedená v odstavci 1 může začít prostřednictvím pobočky umístěné v České republice obhospodařovat standardní fond ode dne, kdy jí Česká národní banka sdělila, které povinnosti, stanovené tímto zákonem, na základě tohoto zákona a zákonem upravujícím [[podnikání na kapitálovém trhu|podnikání na kapitálovém trhu]], je tato zahraniční osoba při poskytování těchto služeb povinna dodržovat, nebo po marném uplynutí lhůty uvedené v odstavci 1.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 14, § 328
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=63dd2b35d121820f0858 -->
-
 ### § 339 — Vznik oprávnění bez pobočky
 
 > **§ 339**
@@ -1385,56 +809,6 @@ Při obhospodařování standardního fondu bez pobočky v ČR zahraniční spr�
 **Typicky rozhodné důkazy / podklady:** doklad o datu doručení údajů domovskému orgánu, informace domovského orgánu o předání ČNB (je-li), povolení domovského orgánu k UCITS činnosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=dff9cd8a035f97cfac93 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 339
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Zahraniční osoba uvedená v § 14 odst. 1 může začít bez pobočky umístěné v České republice obhospodařovat standardní fond
->
-> - a) ode dne, kdy jí od orgánu dohledu jiného členského státu, který této zahraniční osobě udělil povolení k činnosti, dojde informace, že tento orgán dohledu předal České národní bance údaje týkající se obhospodařování standardního fondu touto zahraniční osobou, nebo
->
-> - b) po uplynutí 1 měsíce ode dne, kdy údaje týkající se obhospodařování standardního fondu touto zahraniční osobou dojdou orgánu dohledu jiného členského státu, který této zahraniční osobě udělil povolení k činnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 14
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=dff9cd8a035f97cfac93 -->
 
 ### § 340 — Povinnosti zahraniční osoby při obhospodařování standardního fondu
 
@@ -1518,64 +892,6 @@ Na zánik povolení a jeho důsledky pro fond samotný odkazuje [13-cast11-zruse
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=7ecc5fa4b960a803495a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 340 — Povinnosti zahraniční osoby při obhospodařování standardního fondu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Zahraniční osoba uvedená v § 14 odst. 1, která obhospodařuje standardní fond,
->
-> - a) uveřejňuje a poskytuje v České republice dokumenty a informace, které uveřejňuje a poskytuje podle právních předpisů přijatých na základě směrnice Evropského parlamentu a Rady upravující koordinaci předpisů v oblasti kolektivního investování4) v členském státě, ve kterém má sídlo,
->
-> - b) oznamuje České národní bance nejméně 1 měsíc předem každou změnu v údajích obsažených v oznámení srovnatelném s oznámením podle § 328 odst. 2 a
->
-> - c) dodržuje pravidla jednání při obhospodařování standardního fondu stanovená tímto zákonem a na základě tohoto zákona.
->
-> (2) Nemůže-li zahraniční osoba uvedená v odstavci 1 lhůtu uvedenou v odstavci 1 písm. b) dodržet pro překážku vzniklou nezávisle na její vůli, oznámí změnu České národní bance bez zbytečného odkladu poté, kdy tato překážka pomine.
->
-> (3) Zahraniční osoba uvedená v § 14 odst. 1 používá při obhospodařování standardního fondu v České republice stejné označení, jaké používá ve státě, ve kterém má sídlo. V případě nedostatečného odlišení jejího označení od jiného jí může Česká národní banka uložit povinnost doplnit rozlišující prvek.
->
-> (4) Ode dne, kdy orgán dohledu jiného členského státu odňal zahraniční osobě uvedené v § 14 odst. 1 povolení opravňující ji obhospodařovat zahraniční investiční fondy srovnatelné se standardním fondem, není tato osoba oprávněna obhospodařovat standardní fond; na tuto osobu se až do vypořádání závazků vůči vlastníkům cenných papírů nebo zaknihovaných cenných papírů vydávaných tímto fondem, kteří mají sídlo nebo bydliště v České republice, hledí jako na zahraniční osobu uvedenou v § 14 odst. 1, která obhospodařuje standardní fond, a tato osoba plní povinnosti stanovené v odstavcích 1 až 3.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 14, § 328
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7ecc5fa4b960a803495a -->
-
 ## Hlava IV — Zahraniční osoba obhospodařující speciální fond nebo fond kvalifikovaných investorů
 
 > Hlava IV je AIF analogií Hlavy III: reguluje situaci, kdy zahraniční správce AIF ze členského státu EU (zahraniční osoba podle § 14 odst. 2 ZISIF) hodlá obhospodařovat speciální fond nebo fond kvalifikovaných investorů se sídlem v ČR, nebo vykonávat doplňkové činnosti v ČR.
@@ -1632,52 +948,6 @@ Tato přísnější struktura koresponduje s obecně přísnějším přístupem
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=53df83ffbe6d056a3f30 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 342
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Zahraniční osoba uvedená v § 14 odst. 2 může začít obhospodařovat speciální fond nebo fond kvalifikovaných investorů prostřednictvím pobočky umístěné v České republice ode dne, kdy jí od orgánu dohledu jiného členského státu, který této zahraniční osobě udělil povolení opravňující ji přesáhnout rozhodný limit, dojde informace, že tento orgán dohledu předal České národní bance údaje týkající se obhospodařování speciálního fondu nebo fondu kvalifikovaných investorů touto zahraniční osobou.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 14
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=53df83ffbe6d056a3f30 -->
-
 ### § 343 — Vznik oprávnění bez pobočky
 
 > **§ 343**
@@ -1727,52 +997,6 @@ Tato přísnější struktura koresponduje s obecně přísnějším přístupem
 **Typicky rozhodné důkazy / podklady:** povolení domovského orgánu opravňující přesáhnout rozhodný limit, informace domovského orgánu o předání údajů ČNB, smlouva o obhospodařování českého fondu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=cc035476be9fac48e0e0 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 343
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Zahraniční osoba uvedená v § 14 odst. 2 může začít obhospodařovat speciální fond nebo fond kvalifikovaných investorů bez pobočky umístěné v České republice ode dne, kdy jí od orgánu dohledu jiného členského státu, který této zahraniční osobě udělil povolení k činnosti, dojde informace, že tento orgán dohledu předal České národní bance údaje týkající se obhospodařování speciálního fondu nebo fondu kvalifikovaných investorů touto zahraniční osobou.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 14
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cc035476be9fac48e0e0 -->
 
 ### § 344 — Povinnosti zahraniční osoby při obhospodařování speciálního fondu nebo fondu kvalifikovaných investorů
 
@@ -1847,64 +1071,6 @@ Zákonná fikce zachování plnění povinností do vypořádání závazků chr
 **Typicky rozhodné důkazy / podklady:** rozhodnutí domovského orgánu o odnětí povolení, evidence všech kategorií chráněných osob s bydlištěm/sídlem v ČR (vč. zakladatelů a obmyšlených svěřenského fondu), doklady o vypořádání závazků a o plnění obezřetnostních povinností.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=70c0d1d3c5addecd1a2c generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 344 — Povinnosti zahraniční osoby při poskytování služeb obhospodařování speciálního fondu nebo fondu kvalifikovaných investorů
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Zahraniční osoba uvedená v § 14 odst. 2, která obhospodařuje speciální fond nebo fond kvalifikovaných investorů, nebo vykonává některou z činností podle § 11 odst. 1 písm. c) až f) nebo podle § 11 odst. 6 písm. a),
->
-> - a) uveřejňuje a zpřístupňuje v České republice dokumenty a informace, které uveřejňuje a zpřístupňuje podle právních předpisů přijatých na základě směrnice Evropského parlamentu a Rady upravující správce alternativních investičních fondů5) v členském státě, ve kterém má sídlo nebo jehož orgán dohledu jí udělil povolení srovnatelné s povolením podle [[#§ 481|§ 481]], nemá-li sídlo v členském státě,
->
-> - b) oznamuje České národní bance nejméně 1 měsíc předem každou změnu v údajích obsažených v oznámení srovnatelném s oznámením podle § 328 odst. 2 a
->
-> - c) dodržuje pravidla jednání a požadavky na řádný a obezřetný výkon činnosti v rozsahu činnosti vykonávané prostřednictvím pobočky umístěné v České republice.
->
-> (2) Nemůže-li zahraniční osoba uvedená v § 14 odst. 2, která poskytuje služby v České republice, lhůtu uvedenou v odstavci 1 písm. b) dodržet pro překážku vzniklou nezávisle na její vůli, oznámí změnu bez zbytečného odkladu poté, kdy tato překážka pomine.
->
-> (3) Zahraniční osoba uvedená v § 14 odst. 2 používá při obhospodařování speciálního fondu nebo fondu kvalifikovaných investorů, nebo při výkonu některé z činností podle § 11 odst. 1 písm. c) až f) nebo podle § 11 odst. 6 písm. a), v České republice stejné označení, jaké používá ve státě, ve kterém má sídlo. V případě nedostatečného odlišení jejího označení od jiného jí může Česká národní banka uložit povinnost doplnit rozlišující prvek.
->
-> (4) Ode dne, kdy orgán dohledu jiného členského státu odňal zahraniční osobě uvedené v § 14 odst. 2 povolení opravňující ji přesáhnout rozhodný limit, není tato osoba oprávněna obhospodařovat speciální fond nebo fond kvalifikovaných investorů; na tuto osobu se až do vypořádání závazků vůči osobám ve srovnatelném postavení s podílníky, obmyšlenými, zakladateli, společníky nebo tichými společníky dotčeného zahraničního investičního fondu, kteří mají sídlo nebo bydliště v České republice, a v případě zařízení srovnatelného se svěřenským fondem i těmi, kteří zvýšili majetek tohoto zařízení jako dotčeného zahraničního investičního fondu smlouvy a mají sídlo nebo bydliště v České republice, hledí jako na zahraniční osobu uvedenou v § 14 odst. 2, která obhospodařuje speciální fond nebo fond kvalifikovaných investorů, a tato osoba plní povinnosti stanovené v odstavcích 1 až 3.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 14, § 11, § 481, § 328
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=70c0d1d3c5addecd1a2c -->
 
 ## Shrnutí části desáté — přehledová tabulka notifikačního systému
 

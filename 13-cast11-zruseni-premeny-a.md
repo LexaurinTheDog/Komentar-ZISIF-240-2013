@@ -68,52 +68,6 @@ Při soudním zrušení investiční společnosti je osoba likvidátora vždy v�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=3e547fe183725f41b2e4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 345 — Rozhodnutí soudu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Rozhodne-li soud o zrušení investiční společnosti s likvidací, jmenuje jejího likvidátora na návrh České národní banky.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3e547fe183725f41b2e4 -->
-
 ### § 346 — Rozhodnutí orgánu investiční společnosti
 
 > **§ 346**
@@ -169,54 +123,6 @@ Usnesení o dobrovolném zrušení investiční společnosti musí vždy obsahov
 **Typicky rozhodné důkazy / podklady:** notářský zápis usnesení valné hromady, doklad o podání žádosti a datum doručení ČNB, stanovy s vymezením pravomocí orgánů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4112d9d23f67d0bae8ca generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 346 — Rozhodnutí orgánu investiční společnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Rozhodne-li příslušný orgán investiční společnosti o jejím zrušení s likvidací, rozhodne zároveň o podání žádosti o jmenování jejího likvidátora.
->
-> (2) Investiční společnost podá žádost o jmenování likvidátora bez zbytečného odkladu poté, kdy její příslušný orgán rozhodne o jejím zrušení s likvidací.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4112d9d23f67d0bae8ca -->
 
 ### § 347 — Uplynutí doby
 
@@ -274,52 +180,6 @@ U investiční společnosti založené na dobu určitou je nutné podat žádost
 
 #### Oddíl 2 — Likvidátor
 
-
-<!-- LEGAL-REVISION:BEGIN id=cec7659e144e47a3028e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 347 — Uplynutí doby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Investiční společnost, která byla založena na dobu určitou, podá nejpozději 2 měsíce před uplynutím této doby žádost o jmenování svého likvidátora. O podání žádosti rozhodne příslušný orgán investiční společnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cec7659e144e47a3028e -->
-
 ### § 348 — Odborná péče
 
 > **§ 348**
@@ -373,52 +233,6 @@ Likvidátor investiční společnosti je vázán přísnějším standardem odbo
 **Typicky rozhodné důkazy / podklady:** znalecké ocenění majetku, doklady o oslovení zájemců a nabídkách, kupní/realizační smlouvy, interní dokumentace rozhodování likvidátora.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=d5c68446684bd85257e6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 348 — Odborná péče
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Likvidátor investiční společnosti je povinen vykonávat svou funkci s odbornou péčí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d5c68446684bd85257e6 -->
 
 ### § 349 — Předpoklady pro výkon funkce
 
@@ -489,60 +303,6 @@ Likvidátorem investiční společnosti může být jen osoba zapsaná v seznamu
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu ČNB, výpisy z OR k propojeným osobám, smlouvy a doklady o pohledávkách kandidáta, auditorské zprávy se jmény členů týmu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b08742b8e3c4101e30b1 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 349 — Předpoklady pro výkon funkce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Likvidátorem investiční společnosti může být pouze ten, kdo je zapsán do seznamu osob, které mohou být jmenovány likvidátorem investiční společnosti, fondu kolektivního investování s právní osobností a hlavního administrátora, vedeného Českou národní bankou.
->
-> (2) Likvidátorem investiční společnosti nemůže být ten,
->
->   - a) jehož zájmy jsou v rozporu se zájmy společníků, podílníků nebo obmyšlených investičního fondu nebo zahraničního investičního fondu, který investiční společnost obhospodařuje, nebo se zájmy jiných zákazníků investiční společnosti,
->
->   - b) kdo je personálně nebo majetkově propojen s investiční společností, nebo
->
->   - c) kdo se v posledních 3 letech podílel na auditu investiční společnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b08742b8e3c4101e30b1 -->
 
 ### § 350 — Jmenování a odvolání
 
@@ -618,60 +378,6 @@ Likvidátora investiční společnosti jmenuje a odvolává ČNB (mimo zrušení
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=9ca12e86ef52be04026e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 350 — Jmenování a odvolání
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Likvidátora investiční společnosti jmenuje a odvolává Česká národní banka, ledaže investiční společnost byla zrušena rozhodnutím soudu.
->
-> (2) Při jmenování likvidátora investiční společnosti na žádost není Česká národní banka vázána osobou likvidátora uvedenou v žádosti.
->
-> (3) Rozklad proti rozhodnutí České národní banky o jmenování nebo odvolání likvidátora investiční společnosti nemá odkladný účinek.
->
-> (4) Návrh na zápis likvidátora investiční společnosti do obchodního rejstříku a návrh na výmaz tohoto likvidátora z obchodního rejstříku podává Česká národní banka.
->
-> (5) Na likvidátora investiční společnosti se [[#§ 515|§ 515]] nepoužije.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 515
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9ca12e86ef52be04026e -->
-
 ### § 351 — Zánik funkce
 
 > **§ 351**
@@ -739,62 +445,6 @@ Funkce likvidátora při odstoupení zaniká nejdříve 30 dní od doručení oz
 **Typicky rozhodné důkazy / podklady:** oznámení o odstoupení s datem doručení, evidence činnosti/nečinnosti likvidátora, podněty podílníků a věřitelů, rozhodnutí ČNB o odvolání a jmenování nástupce.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4eb19fcbdc15573340d9 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 351 — Zánik funkce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Likvidátor investiční společnosti jmenovaný Českou národní bankou může z funkce odstoupit tím, že to písemně oznámí České národní bance. Funkce likvidátora zaniká dnem uvedeným v oznámení, nejdříve však 30 dní ode dne, kdy oznámení dojde České národní bance.
->
-> (2) Česká národní banka odvolá likvidátora investiční společnosti, kterého jmenovala, jestliže likvidátor
->
->   - a) nesplňuje předpoklady pro výkon funkce likvidátora stanovené v [[#§ 349|§ 349]],
->
->   - b) závažně nebo opakovaně poruší svoji povinnost, nebo
->
->   - c) nevykonává svoji funkci.
->
-> (3) Odstoupí-li likvidátor investiční společnosti jmenovaný Českou národní bankou z funkce, je-li odvolán nebo zanikne-li jinak jeho funkce, jmenuje Česká národní banka bez zbytečného odkladu nového likvidátora.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 349
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4eb19fcbdc15573340d9 -->
 
 ### § 352 — Náhrada hotových výdajů a odměna
 
@@ -864,58 +514,6 @@ Odměna a hotové výdaje likvidátora se hradí z majetku investiční společn
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=58bd16a5bb6bade1628e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 352 — Náhrada hotových výdajů a odměna
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Náhrada hotových výdajů a odměna likvidátora investiční společnosti jmenovaného Českou národní bankou se vyplácí z majetku investiční společnosti. Jmenovala-li Česká národní banka likvidátora, platí, že je tato také tím, kdo jej povolal.
->
-> (2) Nepostačuje-li majetek investiční společnosti k vyplacení náhrady hotových výdajů a odměny jejího likvidátora, vyplatí je stát.
->
-> (3) I po odnětí povolení k činnosti investiční společnosti se při určení náhrady hotových výdajů a odměny jejího likvidátora postupuje podle pravidel pro určení náhrady hotových výdajů likvidátora a odměny likvidátora investiční společnosti.
->
-> (4) Česká národní banka stanoví vyhláškou pravidla pro určení výše odměny likvidátora a podmínky náhrady hotových výdajů a odměny likvidátora státem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=58bd16a5bb6bade1628e -->
-
 ### § 353 — Povinnost součinnosti
 
 > **§ 353**
@@ -969,52 +567,6 @@ Likvidátor investiční společnosti jmenovaný ČNB má vůči komukoli stejn�
 **Typicky rozhodné důkazy / podklady:** doklad o jmenování likvidátora ČNB, písemné žádosti o součinnost, odmítavé odpovědi povinných subjektů, vymezení rozsahu požadovaných údajů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=6e40f8c88276eb51393b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 353 — Povinnost součinnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Každý je povinen poskytnout likvidátorovi investiční společnosti jmenovanému Českou národní bankou součinnost v rozsahu, v němž je povinen ji poskytnout insolvenčnímu správci podle zákona upravujícího úpadek a způsoby jeho řešení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6e40f8c88276eb51393b -->
 
 ### Díl 2 — Přeměna investiční společnosti
 
@@ -1080,56 +632,6 @@ Investiční společnost nelze převést jmění na akcionáře ani změnit jej�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=9656553466542b8ac88e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 354 — Zakázané přeměny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Zakazují se
->
-> - a) převod jmění investiční společnosti na jejího akcionáře a
->
-> - b) změna právní formy investiční společnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9656553466542b8ac88e -->
-
 ### § 355 — Povolení České národní banky
 
 > **§ 355**
@@ -1193,54 +695,6 @@ K fúzi, rozdělení nebo převodu jmění investiční společnosti obhospodař
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=eb57edbf3507ee39d9cc generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 355 — Povolení České národní banky
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) K fúzi nebo rozdělení investiční společnosti, která obhospodařuje fond kolektivního investování, nebo k převodu jmění na společníka, jímž je investiční společnost, která obhospodařuje fond kolektivního investování, je třeba povolení České národní banky.
->
-> (2) Česká národní banka nepovolí fúzi nebo rozdělení investiční společnosti nebo převod jmění na společníka, jímž je investiční společnost, která obhospodařuje fond kolektivního investování, není-li zajištěna ochrana zájmů akcionářů a podílníků fondů kolektivního investování, které investiční společnost obhospodařuje.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=eb57edbf3507ee39d9cc -->
-
 ### § 356 — Řízení o žádosti o povolení fúze, rozdělení nebo převodu jmění
 
 > **§ 356**
@@ -1296,54 +750,6 @@ K fúzi, rozdělení nebo převodu jmění investiční společnosti obhospodař
 **Typicky rozhodné důkazy / podklady:** projekt přeměny, seznam zúčastněných společností, žádost a souhlasy ostatních zúčastněných, doklady o doručení a okruhu účastníků.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=3e8889a7bf5e414aa82b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 356 — Řízení o žádosti o povolení fúze, rozdělení nebo převodu jmění
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Žádost o povolení fúze nebo rozdělení investiční společnosti, která obhospodařuje fond kolektivního investování, nebo o povolení převodu jmění na společníka, jímž je investiční společnost, která obhospodařuje fond kolektivního investování, podává investiční společnost, která se fúze, rozdělení nebo převodu jmění účastní.
->
-> (2) Účastníky řízení o žádosti o povolení fúze nebo rozdělení investiční společnosti, která obhospodařuje fond kolektivního investování, nebo o povolení převodu jmění na společníka, jímž je investiční společnost, která obhospodařuje fond kolektivního investování, jsou investiční společnosti, které se fúze, rozdělení nebo převodu jmění účastní.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3e8889a7bf5e414aa82b -->
 
 ### Díl 3 — Převod, pacht a zastavení obchodního závodu investiční společnosti nebo jeho části
 
@@ -1403,54 +809,6 @@ Investiční společnost nesmí převést, propachtovat ani zastavit obchodní z
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=29c9ee64b740c2ff2d76 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 357
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Převod, pacht nebo zastavení obchodního závodu investiční společnosti nebo jeho části, které by znamenaly podstatnou změnu dosavadní struktury závodu nebo podstatnou změnu v činnosti investiční společnosti, se zakazuje.
->
-> (2) Pro účely odstavce 1 a [[#§ 374|§ 374]] nezahrnuje obchodní závod majetek a dluhy z investiční činnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 374
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=29c9ee64b740c2ff2d76 -->
-
 ## Hlava II — Zrušení a přeměna hlavního administrátora a jiné majetkové dispozice týkající se hlavního administrátora
 
 ### § 358 — Obdobné použití ustanovení o investiční společnosti
@@ -1506,52 +864,6 @@ Na zrušení a přeměnu hlavního administrátora se obdobně použijí pravidl
 **Typicky rozhodné důkazy / podklady:** usnesení o zrušení administrátora, povolení k činnosti hlavního administrátora, smlouvy o administraci, žádost o jmenování likvidátora.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=213df84a94ace0766832 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 358 — Obdobné použití ustanovení o investiční společnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Pro zrušení a přeměnu hlavního administrátora a pro jiné majetkové dispozice týkající se hlavního administrátora se ustanovení tohoto zákona o zrušení a přeměně investiční společnosti a o jiných majetkových dispozicích týkajících se investiční společnosti použijí obdobně, nestanoví-li tento zákon jinak. Dovolávají-li se tato ustanovení obhospodařování investičních fondů nebo zahraničních investičních fondů, rozumí se tím poskytování administrace těmto fondům.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=213df84a94ace0766832 -->
 
 ### § 359 — Změna právní formy hlavního administrátora
 
@@ -1609,54 +921,6 @@ Změna právní formy hlavního administrátora provádějícího administraci f
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c88eb5002eb831952bf3 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 359 — Změna právní formy hlavního administrátora
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Ke změně právní formy hlavního administrátora, který provádí administraci fondu kolektivního investování, je třeba povolení České národní banky.
->
-> (2) Česká národní banka nepovolí změnu právní formy hlavního administrátora, není-li zajištěna ochrana zájmů akcionářů a podílníků fondů kolektivního investování, jehož administraci provádí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c88eb5002eb831952bf3 -->
-
 ### § 360 — Řízení o žádosti o změnu právní formy hlavního administrátora
 
 > **§ 360**
@@ -1708,54 +972,6 @@ Změna právní formy hlavního administrátora provádějícího administraci f
 **Typicky rozhodné důkazy / podklady:** žádost administrátora o povolení změny formy, projekt změny formy, povolení administrátora, doklady o zajištění ochrany podílníků dotčeného fondu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=1654582b084d37d764d8 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 360 — Řízení o žádosti o změnu právní formy hlavního administrátora
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Žádost o povolení změny právní formy hlavního administrátora podává hlavní administrátor.
->
-> (2) Účastníkem řízení o žádosti o změnu právní formy hlavního administrátora je hlavní administrátor, jehož právní forma se mění.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1654582b084d37d764d8 -->
 
 ## Hlava III — Zrušení a přeměna investičního fondu s právní osobností a jiné majetkové dispozice týkající se tohoto fondu
 
@@ -1823,56 +1039,6 @@ Investiční fond s právní osobností se zrušuje s likvidací ex lege, byl-li
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=45d96b79b09794e99504 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 361
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Pro zrušení investičního fondu s právní osobností se ustanovení tohoto zákona o zrušení investiční společnosti použijí obdobně, nestanoví-li tento zákon jinak.
->
-> (2) Investiční fond uvedený v § 9 odst. 1 se zrušuje s likvidací a jeho likvidátora jmenuje Česká národní banka, jestliže byl jeho obhospodařovatel zrušen s likvidací, nebo mu zaniklo oprávnění obhospodařovat tento fond, a Česká národní banka nerozhodla do 3 měsíců ode dne, kdy příslušný orgán obhospodařovatele rozhodl o jeho zrušení s likvidací, nebo ode dne, kdy mu zaniklo oprávnění obhospodařovat tento fond, o převodu obhospodařování tohoto fondu na jiného obhospodařovatele podle [[#§ 541|§ 541]].
->
-> (3) Investiční fond uvedený v § 9 odst. 1 se zrušuje s likvidací a jeho likvidátora jmenuje Česká národní banka, jestliže nemá déle než 3 měsíce obhospodařovatele oprávněného k obhospodařování tohoto investičního fondu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 9, § 541
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=45d96b79b09794e99504 -->
-
 ### § 362 — Náhradní splnění podílu na likvidačním zůstatku
 
 > **§ 362**
@@ -1924,52 +1090,6 @@ Podíl na likvidačním zůstatku fondu s právní osobností se při splnění 
 **Typicky rozhodné důkazy / podklady:** výpočet podílu na likvidačním zůstatku, doklad o nedosažitelnosti/prodlení věřitele, výše soudního poplatku za úschovu, evidence akcionářů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2be2f66b2d4d02d65d79 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 362 — Náhradní splnění podílu na likvidačním zůstatku
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Jsou-li splněny podmínky pro náhradní splnění podle [[občanského zákoníku|občanského zákoníku]], složí se podíl na likvidačním zůstatku investičního fondu s právní osobností do soudní úschovy. Podíl na likvidačním zůstatku se do soudní úschovy nesloží a připadne státu, jestliže soudní poplatek za návrh na zahájení řízení o úschově převyšuje částku, která má být do soudní úschovy složena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2be2f66b2d4d02d65d79 -->
 
 ### § 362a — Zvláštní ustanovení pro případ úpadku akciové společnosti s proměnným základním kapitálem
 
@@ -2067,76 +1187,6 @@ Při úpadku SICAV insolvenční správce postupuje v třístupňové hierarchii
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=305d46058296d6d6d03d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 362a — Zvláštní ustanovení pro případ úpadku akciové společnosti s proměnným základním kapitálem
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Bylo-li vydáno rozhodnutí o úpadku akciové společnosti s proměnným základním kapitálem, zajistí insolvenční správce nebo ten, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, převod veškerého majetku a dluhů z investiční činnosti, v případě akciové společnosti s proměnným základním kapitálem, která nevytvořila podfond, nebo převod všech podfondů, v případě akciové společnosti s proměnným základním kapitálem, která vytvořila podfond, do jiné akciové společnosti s proměnným kapitálem (dále jen „převod jmění“) mající téhož obhospodařovatele nebo téhož administrátora, je-li to s ohledem na řádný a obezřetný výkon těchto činností možné. S převodem jmění musí vyslovit souhlas i valná hromada akciové společnosti s proměnným základním kapitálem, která je v úpadku, přičemž v případě hlasování o převodu jmění mají hlasovací právo pouze akcionáři vlastnící investiční akcie vztahující se k převáděnému jmění. Právo svolat valnou hromadu akciové společnosti s proměnným základním kapitálem, která je v úpadku, za účelem hlasování o převodu jmění má také insolvenční správce nebo ten, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce.
->
-> (2) Nelze-li postupovat podle odstavce 1, zejména pokud valná hromada nevysloví souhlas, zajistí insolvenční správce nebo ten, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, převod jmění na jinou akciovou společnost s proměnným základním kapitálem, která bude s převodem jmění souhlasit, je-li to s ohledem na řádný a obezřetný výkon těchto činností možné. Odstavec 1 věty druhá a poslední se použijí obdobně.
->
-> (3) V případě, že nebude moci postupovat podle odstavců 1 a [[#§ 2|2]], zejména pokud valná hromada nevysloví souhlas, zajistí insolvenční správce nebo ten, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, likvidaci majetku a dluhů z investiční činnosti nebo podfondu či podfondů.
->
-> (4) K převodu jmění podle odstavce 1 nebo [[#§ 2|2]] dochází účinností smlouvy o převodu jmění, která vyžaduje písemnou formu a obsahuje
->
-> - a) identifikační údaje týkající se akciové společnosti s proměnným základním kapitálem, jejíž jmění je převáděno (dále jen „převádějící společnost“), a akciové společnosti s proměnným základním kapitálem, na níž je převáděno (dále jen „přejímající společnost“),
->
-> - b) identifikační údaje týkající se převáděného jmění,
->
-> - c) v případě, že je převáděno jmění z investiční činnosti, které není podfondem, údaj o tom, že se toto jmění stane podfondem přejímající společnosti a identifikační údaje budoucího podfondu,
->
-> - d) v případě, že je převáděn podfond, identifikační údaje podfondu po jeho převodu,
->
-> - e) výměnný poměr akcií, který musí být stanoven jako rovnoměrný tak, aby zůstal zachován podíl akcionáře, jehož se výměna týká, na převáděném jmění, a tak nebyla dotčena práva ve vztahu k podílu na zisku a likvidačním zůstatku,
->
-> - f) podrobná pravidla výměny akcií po převodu jmění a
->
-> - g) popis změny práv akcionářů po převodu jmění, pokud se mění jejich práva.
->
-> (5) Převedené jmění se stává podfondem přejímající společnosti dnem účinnosti smlouvy o převodu jmění.
->
-> (6) Na postup podle odstavců 1, [[#§ 2|2]], [[#§ 4|4]] a [[#§ 5|5]] se nepoužijí ustanovení zákona upravujícího přeměny obchodních korporací.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2, § 4, § 5
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=305d46058296d6d6d03d -->
-
 ### § 362b — Výměna akcií při převodu jmění
 
 > **§ 362b**
@@ -2208,58 +1258,6 @@ Výměna akcií při převodu jmění SICAV se řídí podle čtyř kombinací f
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=395327017738d52aea96 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 362b
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Pro postup při výměně zaknihovaných akcií na listinné akcie se použijí ustanovení [[občanského zákoníku|občanského zákoníku]] o přeměně zaknihovaného cenného papíru na cenný papír; délku lhůty pro odevzdání listinné akcie však může smlouva o převzetí jmění zkrátit, a to až na lhůtu v délce 1 měsíce.
->
-> (2) Pro postup při výměně listinných akcií na zaknihované akcie se použijí ustanovení [[občanského zákoníku|občanského zákoníku]] o přeměně cenného papíru na zaknihovaný cenný papír; délku lhůty pro odevzdání listinné akcie však může přejímající společnost zkrátit, a to až na lhůtu v délce 1 měsíce. Přejímající společnost požádá centrálního depozitáře nebo zahraničního centrálního depozitáře o zaevidování zaknihovaných akcií před zápisem změny údajů nutných k identifikaci podfondu v příslušném seznamu vedeném Českou národní bankou.
->
-> (3) Výměnu listinných akcií za listinné akcie provede přejímající společnost bez zbytečného odkladu po účinnosti smlouvy o převodu jmění. Pro postup při výměně listinných akcií za listinné akcie se použijí přiměřeně ustanovení zákona upravujícího právní poměry obchodních společností a družstev o výměně listinných akcií při zvýšení základního kapitálu zvýšením jmenovité hodnoty akcií. Údaje, které [[zákon o obchodních korporacích|zákon o obchodních korporacích]] vyžaduje uvést v rozhodnutí valné hromady, se uvádějí ve smlouvě o převzetí jmění. Délku lhůty pro odevzdání listinné akcie však může smlouva o převzetí jmění zkrátit, a to až na lhůtu v délce 1 měsíce.
->
-> (4) Mají-li být vyměněny zaknihované akcie za zaknihované akcie, dá přejímající společnost bez zbytečného dokladu po účinnosti smlouvy o převodu jmění příkaz ke zrušení dosavadních akcií a požádá centrálního depozitáře nebo zahraničního centrálního depozitáře o zaevidování nových zaknihovaných akcií před zápisem změny údajů nutných k identifikaci podfondu v příslušném seznamu vedeném Českou národní bankou.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=395327017738d52aea96 -->
-
 ### § 362c — Změna stanov
 
 > **§ 362c**
@@ -2317,54 +1315,6 @@ Ustanovení umožňuje pružně dokončit změnu stanov při urgentním převodu
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2f13c4322eae485baabc generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 362c
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Neplyne-li z usnesení valné hromady převádějící společnosti, jakým způsobem se stanovy mění, změní jejich obsah statutární orgán v souladu s rozhodnutím valné hromady a smlouvou o převodu jmění. Neplyne-li z usnesení valné hromady přejímající společnosti, jakým způsobem se stanovy mění, změní jejich obsah statutární orgán v souladu s rozhodnutím valné hromady a smlouvou o převodu jmění.
->
-> (2) O změně obsahu stanov statutárním orgánem podle odstavce 1 se pořizuje veřejná listina.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2f13c4322eae485baabc -->
-
 ### § 362d — Odměna insolvenčního správce při převodu jmění SICAV
 
 > **§ 362d**
@@ -2419,56 +1369,6 @@ Odměna a hotové výdaje insolvenčního správce za speciální činnost při 
 **Typicky rozhodné důkazy / podklady:** výkaz hotových výdajů, evidence úkonů podle § 362a, přehled a vyúčtování majetkové podstaty, výpočet odměny dle vyhlášky ČNB.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0db624cc400bc53136aa generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 362d
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Insolvenčnímu správci nebo tomu, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, přísluší za činnost uvedenou v [[#§ 362a|§ 362a]] náhrada hotových výdajů a odměna.
->
-> (2) Nepostačuje-li majetková podstata akciové společnosti s proměnným základním kapitálem k vyplacení náhrady hotových výdajů a odměny insolvenčního správce nebo toho, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, vyplatí je stát.
->
-> (3) Česká národní banka stanoví vyhláškou pravidla pro určení výše odměny a hotových výdajů a podmínky náhrady odměny a hotových výdajů insolvenčního správce nebo toho, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, za splnění povinností stanovených v [[#§ 362a|§ 362a]] a jejich maximální výši hrazenou státem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 362a
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0db624cc400bc53136aa -->
 
 ### § 362e — Zrušení podfondu investičního fondu s právní osobností
 
@@ -2529,56 +1429,6 @@ Zrušení podfondu SICAV se řídí pravidly o zrušení podílového fondu pou�
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zrušení podfondu, statut SICAV a podfondu, oddělená účetní evidence podfondu, evidence investičních akcií vztahujících se k podfondu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5d864d35aff12f81a382 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 362e — Zrušení podfondu investičního fondu s právní osobností
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Pro zrušení podfondu investičního fondu s právní osobností se ustanovení tohoto zákona o zrušení podílového fondu použijí obdobně; dovolávají-li se tato ustanovení
->
-> - a) podílníka, rozumí se tím vlastník investičních akcií vztahujících se k podfondu,
->
-> - b) podílových listů, rozumí se tím investiční akcie vztahující se k podfondu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5d864d35aff12f81a382 -->
 
 ### Díl 2 — Přeměna investičního fondu s právní osobností
 
@@ -2641,52 +1491,6 @@ ZPřem je obecným zákonem; ZISIF je lex specialis. Přeměny podle ZPřem se p
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=59b02b0742b24409cb9e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 363
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Přeměnou investičního fondu s právní osobností se pro účely tohoto zákona rozumí přeměna podle [[zákona upravujícího přeměny obchodních společností a družstev|zákona upravujícího přeměny obchodních společností a družstev]] a přeměna investičního fondu, který má právní formu akciové společnosti, na akciovou společnost s proměnným základním kapitálem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=59b02b0742b24409cb9e -->
-
 ### § 364 — Zakázané přeměny investičního fondu s právní osobností
 
 > **§ 364**
@@ -2744,56 +1548,6 @@ ZPřem je obecným zákonem; ZISIF je lex specialis. Přeměny podle ZPřem se p
 **Typicky rozhodné důkazy / podklady:** návrh projektu transakce, stanovy a statut fondu, doklad o typu fondu, struktura společníků/akcionářů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=21d1bb341d174ad8e39b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 364 — Zakázané přeměny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Zakazují se
->
->   - a) převod jmění investičního fondu s právní osobností na jeho společníka a
->
->   - b) změna právní formy fondu kolektivního investování s právní osobností.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=21d1bb341d174ad8e39b -->
 
 ### § 365 — Povolení České národní banky
 
@@ -2853,56 +1607,6 @@ Fúze, rozdělení a převod jmění fondu kolektivního investování s právn�
 **Typicky rozhodné důkazy / podklady:** projekt fúze/rozdělení/převodu jmění, statuty fondů, srovnání strategií, mechanismus a poměr výměny akcií, informace poskytnuté investorům, doklad o povaze nemovitostního fondu a nemovitostní společnosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e1d83e4e3b7b39146ea6 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 365 — Povolení České národní banky
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) K fúzi nebo rozdělení fondu kolektivního investování s právní osobností nebo k převodu jmění na společníka, jímž je fond kolektivního investování s právní osobností, je třeba povolení České národní banky.
->
-> (2) Česká národní banka nepovolí fúzi nebo rozdělení fondu kolektivního investování s právní osobností nebo převod jmění na společníka, jímž je fond kolektivního investování s právní osobností, není-li zajištěna ochrana zájmů akcionářů tohoto fondu.
->
-> (3) Odstavce 1 a [[#§ 2|2]] se nepoužijí pro fúzi fondu kolektivního investování s právní osobností, který investuje do nemovitostí nebo účastí v nemovitostní společnosti, a nemovitostní společnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e1d83e4e3b7b39146ea6 -->
 
 ### § 366 — Řízení o žádosti o povolení fúze, rozdělení nebo převodu jmění
 
@@ -2969,54 +1673,6 @@ V řízení o povolení fúze, rozdělení nebo převodu jmění fondů KI s pr�
 
 #### Oddíl 2 — Přeměna investičního fondu, který má právní formu akciové společnosti, na akciovou společnost s proměnným základním kapitálem
 
-
-<!-- LEGAL-REVISION:BEGIN id=79e303a8e985411ea6f7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 366 — Řízení o žádosti o povolení fúze, rozdělení nebo převodu jmění
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Žádost o povolení fúze nebo rozdělení fondu kolektivního investování s právní osobností nebo o povolení převodu jmění na společníka, jímž je fond kolektivního investování s právní osobností, podává administrátor tohoto fondu.
->
-> (2) Účastníky řízení o žádosti o povolení fúze nebo rozdělení fondu kolektivního investování s právní osobností nebo o povolení převodu jmění na společníka, jímž je fond kolektivního investování s právní osobností, jsou fondy kolektivního investování s právní osobností, které se fúze, rozdělení nebo převodu jmění účastní, a jejich obhospodařovatelé, administrátoři a depozitáři.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=79e303a8e985411ea6f7 -->
-
 ### § 367 — Přípustnost přeměny
 
 > **§ 367**
@@ -3078,56 +1734,6 @@ Přeměna klasické a.s.-fondu na SICAV je vnitřní změnou struktury (bez pře
 **Typicky rozhodné důkazy / podklady:** usnesení valné hromady o přeměně, nové stanovy SICAV, návrh na zápis a výpis z obchodního rejstříku, evidence druhu a emise akcií.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=85745958b310cd226473 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 367 — Přípustnost přeměny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Investiční fond, který má právní formu akciové společnosti, se může přeměnit na akciovou společnost s proměnným základním kapitálem.
->
-> (2) K přeměně investičního fondu, který má právní formu akciové společnosti, na akciovou společnost s proměnným základním kapitálem dochází tím, že přeměňovaný investiční fond změní svoji obchodní firmu tak, aby byla v souladu s požadavkem podle § 154 odst. 1, změní svoje stanovy tak, aby byly v souladu s požadavky na obsah stanov akciové společnosti s proměnným základním kapitálem stanovenými v [[#§ 156|§ 156]], a změní druh akcií, které vydal.
->
-> (3) Právní účinky přeměny podle odstavce 1 nastávají dnem zápisu obchodní firmy splňující požadavky podle § 154 odst. 1 do obchodního rejstříku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 154, § 156
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=85745958b310cd226473 -->
 
 ### § 368 — Změna druhu akcií
 
@@ -3195,56 +1801,6 @@ Změnou druhu akcií se dosavadní akcie rozdělí na zakladatelské (ve výši 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=09ed9d007c1124a64c8d generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 368 — Změna druhu akcií
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) V rozhodnutí valné hromady přeměňovaného investičního fondu o změně druhu akcií se určí akcie, které se po přeměně stanou zakladatelskými akciemi, a to ve výši podílu na základním kapitálu, která odpovídá zapisovanému základnímu kapitálu budoucí akciové společnosti s proměnným základním kapitálem; ostatní akcie se po přeměně stanou investičními akciemi. Má-li akciová společnost s proměnným kapitálem vytvářet podfondy, určí se v rozhodnutí, ke kterému podfondu či podfondům budou tyto investiční akcie vydány.
->
-> (2) K rozhodnutí valné hromady o změně druhu akcií se kromě podmínek stanovených [[zákonem upravujícím právní poměry obchodních společností a družstev|zákonem upravujícím právní poměry obchodních společností a družstev]] vyžaduje také souhlas všech akcionářů, jejichž akcie se po přeměně stanou zakladatelskými akciemi.
->
-> (3) Jako akcie, které se po přeměně stanou zakladatelskými akciemi, mohou být určeny pouze akcie, jejichž emisní kurs byl zcela splacen.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=09ed9d007c1124a64c8d -->
-
 ### § 369 — Povolení České národní banky
 
 > **§ 369**
@@ -3297,54 +1853,6 @@ Přeměna fondu kolektivního investování ve formě a.s. na SICAV vyžaduje po
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o změně druhu akcií, rozdělení akcionářů na zakladatelské/investiční, analýza dopadu na likviditu, souhlasy dotčených akcionářů, statut a stanovy budoucího SICAV.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=db08b5282931ad7cd1e4 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 369 — Povolení České národní banky
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) K přeměně fondu kolektivního investování, který má právní formu akciové společnosti, na akciovou společnost s proměnným základním kapitálem je třeba povolení České národní banky.
->
-> (2) Česká národní banka nepovolí přeměnu, není-li zajištěna ochrana zájmů akcionářů přeměňovaného fondu kolektivního investování.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=db08b5282931ad7cd1e4 -->
 
 ### § 370 — Řízení o žádosti o povolení přeměny
 
@@ -3401,54 +1909,6 @@ Přeměna fondu kolektivního investování ve formě a.s. na SICAV vyžaduje po
 
 #### Oddíl 3 — Obdobné použití některých ustanovení o splynutí a sloučení podílového fondu
 
-
-<!-- LEGAL-REVISION:BEGIN id=a52770d1daef0985218e generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 370 — Řízení o žádosti o povolení přeměny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Žádost o povolení přeměny podává administrátor přeměňovaného fondu kolektivního investování.
->
-> (2) Účastníky řízení o žádosti o povolení přeměny jsou přeměňovaný fond kolektivního investování a jeho obhospodařovatel, administrátor a depozitář.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a52770d1daef0985218e -->
-
 ### § 371 — Splynutí a sloučení investičního fondu s právní osobností, který je standardním fondem
 
 > **§ 371**
@@ -3501,54 +1961,6 @@ Na splynutí a sloučení standardního fondu s právní osobností se přednost
 **Typicky rozhodné důkazy / podklady:** projekt splynutí/sloučení, statuty standardních fondů, informace poskytnuté investorům, mechanismus výměny investičních akcií, harmonogram a doklady o odkupu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=6265d067d0a518e1d6ce generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 371 — Splynutí a sloučení investičního fondu s právní osobností, který je standardním fondem
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Pro splynutí a sloučení investičního fondu s právní osobností, který je standardním fondem, se ustanovení tohoto zákona o splynutí a sloučení standardního fondu, který má právní formu podílového fondu, použijí obdobně. Dovolávají-li se tato ustanovení podílníků, rozumí se tím vlastníci investičních akcií; dovolávají-li se podílových listů, rozumí se tím investiční akcie.
->
-> (2) Pro splynutí a sloučení investičního fondu s právní osobností, který je standardním fondem, se ustanovení tohoto dílu a [[zákona upravujícího přeměny obchodních společností a družstev|zákona upravujícího přeměny obchodních společností a družstev]] použijí, jen jestliže ustanovení tohoto zákona o sloučení nebo splynutí standardního fondu, který má právní formu podílového fondu, nestanoví jinak.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6265d067d0a518e1d6ce -->
 
 ### § 372 — Sloučení akciové společnosti s proměnným základním kapitálem a otevřeného podílového fondu
 
@@ -3613,60 +2025,6 @@ I zde platí priorita pravidel o podílovém fondu. Zákon o přeměnách se pou
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f04f5285891aed0bd951 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 372 — Sloučení akciové společnosti s proměnným základním kapitálem a otevřeného podílového fondu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Připouští se
->
->   - a) sloučení speciálního fondu, který má právní formu akciové společnosti s proměnným základním kapitálem, a speciálního fondu, který má právní formu otevřeného podílového fondu, a
->
->   - b) sloučení fondu kvalifikovaných investorů, který má právní formu akciové společnosti s proměnným základním kapitálem, a fondu kvalifikovaných investorů, který má právní formu otevřeného podílového fondu.
->
-> (2) Pro sloučení uvedené v odstavci 1 písm. a) se ustanovení tohoto zákona o sloučení speciálního fondu, který má právní formu podílového fondu, použijí obdobně. Pro sloučení uvedené v odstavci 1 písm. b) se ustanovení tohoto zákona o sloučení fondu kvalifikovaných investorů, který má právní formu podílového fondu, použijí obdobně. Dovolávají-li se tato ustanovení podílníků, rozumí se tím v případě akciové společnosti s proměnným základním kapitálem vlastníci investičních akcií; dovolávají-li se podílových listů, rozumí se tím v případě akciové společnosti s proměnným základním kapitálem investiční akcie.
->
-> (3) Pro sloučení uvedené v odstavci 1 se ustanovení tohoto dílu použijí, jen jestliže ustanovení tohoto zákona o sloučení speciálního fondu, který má právní formu podílového fondu, nebo ustanovení tohoto zákona o sloučení fondu kvalifikovaných investorů, který má právní formu podílového fondu, nestanoví jinak.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f04f5285891aed0bd951 -->
-
 ### § 373 — Přeměna podfondu investičního fondu s právní osobností
 
 > **§ 373**
@@ -3717,52 +2075,6 @@ Přeměna standardního podfondu SICAV se řídí obdobně pravidly o přeměně
 **Typicky rozhodné důkazy / podklady:** projekt přeměny podfondu, statut SICAV a podfondu, oddělená účetní evidence podfondu, evidence investičních akcií vztahujících se k podfondu, informace poskytnuté investorům.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2b9e53ba7a1e39315174 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 373 — Přeměna podfondu investičního fondu s právní osobností
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Pro přeměnu podfondu investičního fondu s právní osobností, který je standardním fondem, se ustanovení tohoto zákona o přeměně podílového fondu, který je standardním fondem, použijí obdobně. Dovolávají-li se tato ustanovení podílníků, rozumí se tím vlastníci investičních akcií vztahujících se k podfondu; dovolávají-li se podílových listů, rozumí se tím investiční akcie vztahující se k podfondu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2b9e53ba7a1e39315174 -->
 
 ### Díl 3 — Převod, pacht a zastavení obchodního závodu investičního fondu s právní osobností nebo jeho části
 
@@ -3816,52 +2128,6 @@ Přeměna standardního podfondu SICAV se řídí obdobně pravidly o přeměně
 **Typicky rozhodné důkazy / podklady:** smlouva o převodu/pachtu/zastavení závodu nebo jeho části, popis dosavadní struktury závodu a činnosti fondu, srovnání stavu před a po transakci, identifikace nabyvatele/pachtýře/zástavního věřitele.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=8e3dfd66bb0707f03933 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 374
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Převod, pacht a zastavení obchodního závodu investičního fondu s právní osobností nebo jeho části, které by znamenaly podstatnou změnu dosavadní struktury závodu nebo podstatnou změnu v činnosti investičního fondu s právní osobností, se zakazuje.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8e3dfd66bb0707f03933 -->
 
 ## Hlava IV — Zrušení a přeměna podílového fondu
 
@@ -3948,62 +2214,6 @@ Uzavřený podílový fond vytvořený na dobu určitou se v důsledku uplynutí
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=93f39533cc363f7e1467 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 375 — Důvody zrušení podílového fondu s likvidací
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Podílový fond se zrušuje s likvidací, jestliže
->
-> - a) o tom rozhodl jeho obhospodařovatel,
->
-> - b) jeho obhospodařovatel byl zrušen s likvidací, nerozhodne-li Česká národní banka do 3 měsíců ode dne, kdy příslušný orgán obhospodařovatele rozhodl o zrušení obhospodařovatele s likvidací, o převodu obhospodařování tohoto fondu na jiného obhospodařovatele,
->
-> - c) zaniklo oprávnění obhospodařovatele podílového fondu tento fond obhospodařovat, nerozhodne-li Česká národní banka do 3 měsíců ode dne zániku oprávnění obhospodařovatele podílového fondu tento fond obhospodařovat o převodu obhospodařování tohoto fondu na jiného obhospodařovatele,
->
-> - d) o tom rozhodla Česká národní banka nebo o tom rozhodl soud, nebo
->
-> - e) uplynula doba, na kterou byl vytvořen, nejedná-li se o uzavřený podílový fond, který se po uplynutí této doby přemění na otevřený podílový fond nebo na akciovou společnost s proměnným základním kapitálem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=93f39533cc363f7e1467 -->
-
 ### § 376 — Likvidace podílového fondu
 
 > **§ 376**
@@ -4085,64 +2295,6 @@ Likvidace podílového fondu probíhá ve třech zákonných fázích se závazn
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=bfe1a62df8583b0efe72 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 376 — Likvidace podílového fondu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Obhospodařovatel podílového fondu zpeněží majetek v tomto fondu a splní dluhy v tomto fondu do 6 měsíců ode dne zrušení tohoto fondu.
->
-> (2) Administrátor podílového fondu vyplatí podílníkům jejich podíly na likvidačním zůstatku do 3 měsíců ode dne zpeněžení majetku v tomto fondu a splnění dluhů v tomto fondu.
->
-> (3) Jakmile obhospodařovatel podílového fondu dokončí činnosti podle odstavce 1, vyhotoví konečnou zprávu o průběhu likvidace, v níž uvede alespoň, jak bylo naloženo s majetkem v podílovém fondu. Ke dni vyhotovení této zprávy sestaví administrátor podílového fondu účetní závěrku podle zákona upravujícího účetnictví.
->
-> (4) Administrátor bez zbytečného odkladu po vyplacení podílů na likvidačním zůstatku podílníkům podá žádost o výmaz ze seznamu podílových fondů České národní bance spolu s konečnou zprávou o průběhu likvidace a účetní závěrkou, které byly vyhotoveny podle odstavce 3.
->
-> (5) Administrátor zajistí uchování dokumentů podle odstavce 3 po dobu 10 let od zániku investičního fondu. Povinnost uchovávat dokumenty má i právní nástupce administrátora, který zanikl, případně insolvenční správce nebo likvidátor, zanikl-li administrátor bez právního nástupce.
->
-> (6) Zjistí-li se ještě před zánikem podílového fondu dosud neznámý majetek v podílovém fondu nebo objeví-li se potřeba jiných nezbytných opatření, likvidace neskončí a obhospodařovatel postupuje ve vztahu k tomuto majetku podle odstavců 1 až 5 obdobně nebo provede jiná nezbytná opatření.
->
-> (7) Zjistí-li se po zániku podílového fondu dosud neznámý majetek v podílovém fondu nebo objeví-li se jiný zájem hodný právní ochrany, Česká národní banka na návrh toho, kdo osvědčí právní zájem, rozhodne o zrušení zániku podílového fondu, rozhodne o pokračování likvidace a jmenuje likvidátora, který postupuje podle odstavců 1 až 6 obdobně. Od zrušení zániku podílového fondu se na podílový fond hledí, jako by nikdy nezanikl.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bfe1a62df8583b0efe72 -->
-
 ### § 377 — Náhradní splnění podílu na likvidačním zůstatku
 
 > **§ 377**
@@ -4193,52 +2345,6 @@ Likvidace podílového fondu probíhá ve třech zákonných fázích se závazn
 **Typicky rozhodné důkazy / podklady:** doklad o nemožnosti výplaty (pokusy o doručení), výše podílu, sazba soudního poplatku za úschovu, evidence podílníka.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c7ea39de5d7c783e7a1a generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 377 — Náhradní splnění podílu na likvidačním zůstatku
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> Jsou-li splněny podmínky pro náhradní splnění podle [[občanského zákoníku|občanského zákoníku]], složí se podíl na likvidačním zůstatku do soudní úschovy. Podíl na likvidačním zůstatku se do soudní úschovy nesloží a připadne státu, jestliže soudní poplatek za návrh na zahájení řízení o úschově převyšuje částku, která má být do soudní úschovy složena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c7ea39de5d7c783e7a1a -->
 
 ### § 378 — Záloha na podíl na likvidačním zůstatku
 
@@ -4298,54 +2404,6 @@ Pokud záloha přesto byla vyplacena (v souladu s odst. 1, tj. po uspokojení v�
 **Typicky rozhodné důkazy / podklady:** přehled zpeněženého majetku a zůstatku, seznam věřitelů a stav jejich pohledávek (splatné/nesplatné/sporné), doklad o poskytnuté jistotě, rozhodnutí o výplatě zálohy.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=70e208b3277cf9ad78b7 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 378 — Záloha na podíl na likvidačním zůstatku
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Dokud nejsou uspokojena práva všech známých věřitelů pohledávek odpovídajících dluhům v podílovém fondu, nelze vyplácet podíl na likvidačním zůstatku ani ve formě zálohy, ani jej jinak použít. Je-li pohledávka sporná nebo není-li ještě splatná, lze likvidační zůstatek použít, jen byla-li věřiteli poskytnuta dostatečná jistota.
->
-> (2) Byl-li vyplacen podíl na likvidačním zůstatku ve formě zálohy, obhospodařovatel není povinen zpeněžit majetek v podílovém fondu ve lhůtě uvedené v § 376 odst. 1 a administrátor není povinen vyplatit podílníkům jejich podíly na likvidačním zůstatku ve lhůtě uvedené v § 376 odst. 2. Povinnost obhospodařovatele splnit dluhy v podílovém fondu ve lhůtě uvedené v § 376 odst. 1 tím není dotčena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 376
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=70e208b3277cf9ad78b7 -->
 
 ### § 379 — Zvláštní ustanovení pro případ úpadku obhospodařovatele
 
@@ -4413,58 +2471,6 @@ Při úpadku obhospodařovatele podílového fondu zajišťuje insolvenční spr
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku obhospodařovatele, doklad o oddělení majetku fondu, podklady k převodu obhospodařování, výkaz činnosti a odměny insolvenčního správce, přehled majetkové podstaty obhospodařovatele.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=1c330a174ed4bf2ad625 generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 379 — Zvláštní ustanovení pro případ úpadku obhospodařovatele
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Bylo-li vydáno rozhodnutí o úpadku obhospodařovatele podílového fondu, zajistí převod obhospodařování podílového fondu nebo splnění povinností podle [[#§ 376|§ 376]] insolvenční správce nebo ten, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, přitom se [[#§ 377|§ 377]] a [[#§ 378|378]] použijí obdobně.
->
-> (2) Insolvenčnímu správci nebo tomu, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, přísluší za činnost uvedenou v odstavci 1 náhrada hotových výdajů a odměna. Pohledávka na jejich vyplacení je pohledávkou za majetkovou podstatou obhospodařovatele podílového fondu.
->
-> (3) Nepostačuje-li majetková podstata obhospodařovatele podílového fondu k vyplacení náhrady hotových výdajů a odměny insolvenčního správce nebo toho, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, vyplatí je stát.
->
-> (4) Česká národní banka stanoví vyhláškou pravidla pro určení výše odměny a hotových výdajů a podmínky náhrady odměny a hotových výdajů insolvenčního správce nebo toho, kdo podle práva cizího státu vykonává úkoly srovnatelné s úkoly insolvenčního správce, za splnění povinností stanovených v odstavci 1 a jejich maximální výši hrazenou státem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 376, § 377, § 378
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1c330a174ed4bf2ad625 -->
 
 ### § 380 — Povinnosti podřízeného fondu při zrušení jeho řídícího fondu s likvidací
 
@@ -4536,60 +2542,6 @@ Zrušení řídícího fondu spouští dvouměsíční prekluzivní lhůtu, v n�
 **Typicky rozhodné důkazy / podklady:** oznámení o zrušení řídícího fondu a doklad o jeho doručení, statut feeder fondu, žádost o předchozí souhlas ČNB s doložkou o podání, evidence investičních pokynů za přechodné období, případné rozhodnutí ČNB.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=49dfa53c067373d7ce9b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 380 — Povinnosti podřízeného fondu při zrušení jeho řídícího fondu s likvidací
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Zrušuje-li se řídící fond s likvidací nebo způsobem srovnatelným s likvidací podle práva cizího státu, obhospodařovatel podřízeného fondu požádá prostřednictvím administrátora tohoto fondu o předchozí souhlas České národní banky s tím, že hodlá
->
-> - a) investovat majetek v tomto fondu jako obhospodařovatel podřízeného fondu do cenných papírů nebo zaknihovaných cenných papírů vydávaných jiným řídícím fondem, nebo
->
-> - b) nadále investovat majetek v tomto fondu jako obhospodařovatel standardního fondu, který není podřízeným fondem.
->
-> (2) Nepožádá-li obhospodařovatel podřízeného fondu o předchozí souhlas České národní banky podle odstavce 1 do 2 měsíců ode dne, kdy obdržel oznámení o tom, že se řídící fond zrušuje (§ 435 odst. 2), nebo srovnatelné oznámení podle práva cizího státu, zrušuje se tento fond marným uplynutím této lhůty s likvidací. Zamítne-li Česká národní banka žádost o předchozí souhlas podle odstavce 1, zrušuje se podřízený fond s likvidací dnem nabytí právní moci tohoto rozhodnutí.
->
-> (3) Do uplynutí lhůty uvedené v odstavci 2 nebo do udělení předchozího souhlasu podle odstavce 1 může obhospodařovatel podřízeného fondu investovat majetek v tomto fondu pouze za účelem zachování jeho majetku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 435
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=49dfa53c067373d7ce9b -->
 
 ### Díl 2 — Přeměna podílového fondu
 
@@ -4685,64 +2637,3 @@ Podílový fond lze přeměnit pouze jedním ze sedmi taxativně vyjmenovaných 
 > **Poznámka k struktuře:** Oddíl 2 a navazující části Hlavy IV (§§ 382 a násl. — splynutí a sloučení podílových fondů, přeměna na a.s., FKI na speciální fond, uzavřený na otevřený, speciální na standardní, převod jmění kapitálové společnosti) jsou pokryty v [14-cast11-zruseni-premeny-b.md](14-cast11-zruseni-premeny-b.md).
 
 ---
-
-<!-- LEGAL-REVISION:BEGIN id=7eb260fcc5be70dc038b generator=2026-07-17.4 source_sha256=af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360 -->
-#### Revizní doplnění k § 381
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2013/240-2013 Zákon o investičních společnostech a investičních fondech.md`; identifikátor verze: `SB-2013-00240_2026-01-01`; SHA-256: `af2fa3f1047c09b71c1a449ce543b1be3d41dd5b54451f103e5b04e01a4ef360`.
-
-##### Znění ustanovení
-
-> (1) Přeměnou podílového fondu se pro účely tohoto zákona rozumí
->
->   - a) splynutí podílových fondů,
->
->   - b) sloučení podílových fondů,
->
->   - c) přeměna podílového fondu na akciovou společnost,
->
->   - d) přeměna fondu kvalifikovaných investorů na speciální fond,
->
->   - e) přeměna uzavřeného podílového fondu na otevřený podílový fond,
->
->   - f) přeměna speciálního fondu na standardní fond, nebo
->
->   - g) převod jmění společnosti s ručením omezeným nebo akciové společnosti (dále jen „kapitálová společnost“) do podílového fondu.
->
-> (2) Jiné přeměny podílového fondu než ty, které jsou uvedeny v odstavci 1, nejsou přípustné.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7eb260fcc5be70dc038b -->
